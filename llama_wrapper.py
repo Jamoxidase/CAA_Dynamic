@@ -24,7 +24,7 @@ class AttnWrapper(t.nn.Module):
 
     def forward(self, *args, **kwargs):
         output = self.attn(*args, **kwargs)
-        self.activations = output[0]
+        self.activations = output[0] # Here we slice output tensor and then return
         return output
 
 
@@ -58,8 +58,9 @@ class BlockOutputWrapper(t.nn.Module):
         self.dot_products = []
 
     def forward(self, *args, **kwargs):
+        # print("forward called with args:" + str(args) + " kwargs: " + str(kwargs))
         output = self.block(*args, **kwargs)
-        self.activations = output[0]
+        self.activations = output[0] # Slice output
         if self.calc_dot_product_with is not None:
             last_token_activations = self.activations[0, -1, :]
             decoded_activations = self.unembed_matrix(self.norm(last_token_activations))
@@ -78,11 +79,11 @@ class BlockOutputWrapper(t.nn.Module):
             )
 
             # Debug prints
-            print(f"output: {str(output)[:100]}... dtype: {type(output)}")
-            print(f"output[0]: {str(output[0])[:100]}... dtype: {type(output[0])}")
-            print(f"output[1:]: {str(output[1:])[:100]}... dtype: {type(output[1:])}")
+            # print(f"output: {str(output)[:100]}... dtype: {type(output)}")
+            # print(f"output[0]: {str(output[0])[:100]}... dtype: {type(output[0])}")
+            # print(f"output[1:]: {str(output[1:])[:100]}... dtype: {type(output[1:])}")
 
-            output = (augmented_output,) + output[1:]
+            output[0] = augmented_output
 
         if not self.save_internal_decodings:
             return output
