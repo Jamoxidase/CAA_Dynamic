@@ -26,7 +26,7 @@ TARGET_BEHAVIORS = [
 
 def load_normalized_cav(behavior: str, layer: int, model_name: str = "Llama-2-7b-chat-hf") -> torch.Tensor:
     """Load a normalized CAV for a behavior."""
-    cav_path = f"./CAA/normalized_vectors/{behavior}/vec_layer_{layer}_{model_name}.pt"
+    cav_path = f"../normalized_vectors/{behavior}/vec_layer_{layer}_{model_name}.pt"
     if os.path.exists(cav_path):
         return torch.load(cav_path, map_location='cpu').to(torch.float64)  # Use float64 for precision
     else:
@@ -38,8 +38,8 @@ def load_training_data_and_activations(behavior: str, layer: int, model_name: st
 
     # Load training data
     data_paths = [
-        f"./CAA_data_v0/datasets/generate/{behavior}/generate_dataset.json",
-        f"./CAA/datasets/generate/{behavior}/generate_dataset.json"
+        f"../datasets/generate/{behavior}/generate_dataset.json",
+        f"../datasets/generate/{behavior}/generate_dataset.json"
     ]
 
     training_data = None
@@ -54,8 +54,8 @@ def load_training_data_and_activations(behavior: str, layer: int, model_name: st
         return None, None, None
 
     # Load activations
-    pos_path = f"./CAA/activations/{behavior}/activations_pos_{layer}_{model_name}.pt"
-    neg_path = f"./CAA/activations/{behavior}/activations_neg_{layer}_{model_name}.pt"
+    pos_path = f"../activations/{behavior}/activations_pos_{layer}_{model_name}.pt"
+    neg_path = f"../activations/{behavior}/activations_neg_{layer}_{model_name}.pt"
 
     pos_activations = None
     neg_activations = None
