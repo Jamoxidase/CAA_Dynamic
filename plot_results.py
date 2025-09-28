@@ -34,9 +34,28 @@ def get_data(
         print(f"[WARN] >1 filename found for filter {settings}", filenames)
     if len(filenames) == 0:
         print(f"[WARN] no filenames found for filter {settings}")
+        print(f"  Looking in directory: {directory}")
+        print(f"  Layer: {layer}, Multiplier: {multiplier}")
         return []
-    with open(filenames[0], "r") as f:
-        return json.load(f)
+
+    # Check if file exists and is not empty
+    if not os.path.exists(filenames[0]):
+        print(f"[ERROR] File does not exist: {filenames[0]}")
+        return []
+
+    if os.path.getsize(filenames[0]) == 0:
+        print(f"[ERROR] File is empty: {filenames[0]}")
+        return []
+
+    try:
+        with open(filenames[0], "r") as f:
+            return json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"[ERROR] Invalid JSON in file {filenames[0]}: {e}")
+        return []
+    except Exception as e:
+        print(f"[ERROR] Failed to read file {filenames[0]}: {e}")
+        return []
 
 
 def get_avg_score(results: Dict[str, Any]) -> float:
@@ -257,7 +276,7 @@ def plot_tqa_mmlu_results_for_layer(
                 positive_steering_res = _format_for_latex_table(positive_steering_res, no_steering_res)
                 negative_steering_res = _format_for_latex_table(negative_steering_res, no_steering_res)
                 no_steering_res = f"\\same{{{no_steering_res:.2f}}}"
-                f_tex.write(f"{_format_category_name(category)} & {positive_steering_res} & {negative_steering_res} & {no_steering_res} \\\ \n")
+                f_tex.write(f"{_format_category_name(category)} & {positive_steering_res} & {negative_steering_res} & {no_steering_res} \\\\ \n")
             except KeyError:
                 pass                
             for multiplier, score in res_list:
@@ -268,7 +287,7 @@ def plot_tqa_mmlu_results_for_layer(
         pos_avg = _format_for_latex_table(pos_avg, no_steering_avg)
         neg_avg = _format_for_latex_table(neg_avg, no_steering_avg)
         no_steering_avg = f"\\same{{{no_steering_avg:.2f}}}"
-        avg_line = f"Average & {pos_avg} & {neg_avg} & {no_steering_avg} \\\ \n"
+        avg_line = f"Average & {pos_avg} & {neg_avg} & {no_steering_avg} \\\\ \n"
         f_tex.write(avg_line)
 
 
@@ -467,7 +486,7 @@ def plot_layer_sweeps(
     # use % formatting for y axis
     plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"{x:.0%}"))
     plt.xlabel("Layer")
-    plt.ylabel("$\Delta$ p(answer matching behavior)")
+    plt.ylabel(r"$\Delta$ p(answer matching behavior)")
     if not title:
         plt.title(f"Per-layer CAA effect: {settings.get_formatted_model_name()}")
     else:
