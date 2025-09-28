@@ -291,8 +291,8 @@ def compute_all_projections(layer: int, model_name: str = "Llama-2-7b-chat-hf", 
 
 def main():
     parser = argparse.ArgumentParser(description='Compute CAV projections for all training data')
-    parser.add_argument('--layer', type=int, default=15,
-                        help='Layer number to analyze')
+    parser.add_argument('--layers', nargs='+', type=int, default=[15],
+                        help='Layer numbers to analyze (e.g., --layers 10 15 20 25)')
     parser.add_argument('--model', type=str, default='Llama-2-7b-chat-hf',
                         help='Model name')
     parser.add_argument('--output_dir', type=str, default='./cav_projections',
@@ -300,8 +300,13 @@ def main():
 
     args = parser.parse_args()
 
-    print(f"Computing CAV projections for layer {args.layer}")
-    compute_all_projections(args.layer, args.model, args.output_dir)
+    print(f"Computing CAV projections for layers: {args.layers}")
+
+    for layer in args.layers:
+        print(f"\n{'='*60}")
+        print(f"Processing layer {layer}")
+        print('='*60)
+        compute_all_projections(layer, args.model, args.output_dir)
 
 if __name__ == "__main__":
     main()

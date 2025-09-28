@@ -156,20 +156,14 @@ def find_outliers(projection_data: Dict, std_threshold: float = 2.0) -> Dict:
 
     return outliers
 
-def main():
-    parser = argparse.ArgumentParser(description='Analyze CAV projections')
-    parser.add_argument('--layer', type=int, default=15,
-                        help='Layer number to analyze')
-    parser.add_argument('--projection_dir', type=str, default='./cav_projections',
-                        help='Directory containing projection data')
+def analyze_single_layer(layer: int, projection_dir: str):
+    """Analyze projections for a single layer."""
 
-    args = parser.parse_args()
-
-    print(f"Loading projection data for layer {args.layer}...")
-    projection_data = load_projection_data(args.projection_dir, args.layer)
+    print(f"\nLoading projection data for layer {layer}...")
+    projection_data = load_projection_data(projection_dir, layer)
 
     if not projection_data:
-        print("No projection data found!")
+        print(f"No projection data found for layer {layer}!")
         return
 
     print(f"Loaded data for {len(projection_data)} behaviors")
@@ -239,6 +233,23 @@ def main():
                 print(f"  Example {out['index']}: z={out['z_score']:.2f}")
                 print(f"    Question: {out['question']}")
                 print(f"    Projection: {out['self_projection']:.6f} (mean: {out['mean']:.6f})")
+
+def main():
+    parser = argparse.ArgumentParser(description='Analyze CAV projections')
+    parser.add_argument('--layers', nargs='+', type=int, default=[15],
+                        help='Layer numbers to analyze (e.g., --layers 10 15 20 25)')
+    parser.add_argument('--projection_dir', type=str, default='./cav_projections',
+                        help='Directory containing projection data')
+
+    args = parser.parse_args()
+
+    print(f"Analyzing CAV projections for layers: {args.layers}")
+
+    for layer in args.layers:
+        print(f"\n{'='*80}")
+        print(f"LAYER {layer} ANALYSIS")
+        print('='*80)
+        analyze_single_layer(layer, args.projection_dir)
 
 if __name__ == "__main__":
     main()
