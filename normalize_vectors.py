@@ -3,7 +3,7 @@ from utils.helpers import get_model_path
 import torch as t
 import os
 
-def normalize_vectors(model_size: str, is_base: bool, n_layers: int):
+def normalize_vectors(model_size: str, is_base: bool, n_layers: int, behaviors=None):
     # make normalized_vectors directory
     normalized_vectors_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "normalized_vectors")
     if not os.path.exists(normalized_vectors_dir):
@@ -13,21 +13,28 @@ def normalize_vectors(model_size: str, is_base: bool, n_layers: int):
         norms = {}
         vecs = {}
         new_paths = {}
-        for behavior in ALL_BEHAVIORS:
+        behaviors_to_normalize = behaviors if behaviors else ALL_BEHAVIORS
+        for behavior in behaviors_to_normalize:
             vec_path = get_vector_path(behavior, layer, get_model_path(model_size, is_base=is_base))
+            if not os.path.exists(vec_path):
+                print(f"Warning: Vector file not found for {behavior} layer {layer}, skipping")
+                continue
             vec = t.load(vec_path)
             norm = vec.norm().item()
             vecs[behavior] = vec
             norms[behavior] = norm
             new_path = vec_path.replace("vectors", "normalized_vectors")
             new_paths[behavior] = new_path
+        if not norms:  # No vectors found for this layer
+            print(f"No vectors found for layer {layer}, skipping")
+            continue
         print(norms)
         mean_norm = t.tensor(list(norms.values())).mean().item()
         # normalize all vectors to have the same norm
-        for behavior in ALL_BEHAVIORS:
+        for behavior in vecs.keys():
             vecs[behavior] = vecs[behavior] * mean_norm / norms[behavior]
         # save the normalized vectors
-        for behavior in ALL_BEHAVIORS:
+        for behavior in vecs.keys():
             if not os.path.exists(os.path.dirname(new_paths[behavior])):
                 os.makedirs(os.path.dirname(new_paths[behavior]))
             t.save(vecs[behavior], new_paths[behavior])
@@ -38,6 +45,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_size", type=str, choices=["7b", "8b", "13b", "1.2b"], required=True)
     parser.add_argument("--use_base_model", action="store_true", default=False)
+    parser.add_argument("--behaviors", type=str, nargs="+", default=None,
+                       help="Specific behaviors to normalize. If not specified, normalizes all behaviors.")
     args = parser.parse_args()
 
     # Set number of layers based on model
@@ -48,4 +57,4 @@ if __name__ == "__main__":
     elif args.model_size == "1.2b":
         n_layers = 6  # Only the attention layers
 
-    normalize_vectors(args.model_size, args.use_base_model, n_layers)
+    normalize_vectors(args.model_size, args.use_base_model, n_layers, args.behaviors)
