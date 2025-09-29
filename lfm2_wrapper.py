@@ -7,7 +7,118 @@ from utils.llama_tokenize import (
     ADD_FROM_POS_LFM2,
     IM_END,
 )
-from llama_wrapper import AttnWrapper, BlockOutputWrapper
+import torch as t
+
+
+class LFM2AttnWrapper(t.nn.Module):
+    """
+    Wrapper for LFM2 attention mechanism to save activations
+    """
+
+    def __init__(self, attn):
+        super().__init__()
+        self.attn = attn
+        self.activations = None
+
+    def forward(self, *args, **kwargs):
+        output = self.attn(*args, **kwargs)
+        self.activations = output[0]
+        return output
+
+
+class LFM2BlockOutputWrapper(t.nn.Module):
+    """
+    Wrapper for LFM2 attention blocks to save activations and unembed them
+    Adapted for LFM2's different layer structure
+    """
+
+    def __init__(self, block, unembed_matrix, norm, tokenizer):
+        super().__init__()
+        self.block = block
+        self.unembed_matrix = unembed_matrix
+        self.norm = norm
+        self.tokenizer = tokenizer
+
+        # Wrap the self_attn in LFM2 attention layers
+        if hasattr(self.block, 'self_attn'):
+            self.block.self_attn = LFM2AttnWrapper(self.block.self_attn)
+
+        # LFM2 uses operator_norm and ffn_norm instead of post_attention_layernorm
+        self.operator_norm = self.block.operator_norm
+        self.ffn_norm = self.block.ffn_norm
+
+        self.attn_out_unembedded = None
+        self.intermediate_resid_unembedded = None
+        self.mlp_out_unembedded = None
+        self.block_out_unembedded = None
+
+        self.activations = None
+        self.add_activations = None
+        self.from_position = None
+
+        self.save_internal_decodings = False
+
+        self.calc_dot_product_with = None
+        self.dot_products = []
+
+    def forward(self, *args, **kwargs):
+        output = self.block(*args, **kwargs)
+        self.activations = output[0]
+
+        if self.calc_dot_product_with is not None:
+            last_token_activations = self.activations[0, -1, :]
+            decoded_activations = self.unembed_matrix(self.norm(last_token_activations))
+            top_token_id = t.topk(decoded_activations, 1)[1][0]
+            top_token = self.tokenizer.decode(top_token_id)
+            dot_product = t.dot(last_token_activations, self.calc_dot_product_with) / (
+                t.norm(last_token_activations) * t.norm(self.calc_dot_product_with)
+            )
+            self.dot_products.append((top_token, dot_product.cpu().item()))
+
+        if self.add_activations is not None:
+            from utils.helpers import add_vector_from_position
+            augmented_output = add_vector_from_position(
+                matrix=output[0],
+                vector=self.add_activations,
+                position_ids=kwargs["position_ids"],
+                from_pos=self.from_position,
+            )
+            output = list(output)
+            output[0] = augmented_output
+            output = tuple(output)
+
+        if not self.save_internal_decodings:
+            return output
+
+        # Decode activations (adapted for LFM2)
+        self.block_output_unembedded = self.unembed_matrix(self.norm(output[0]))
+
+        if hasattr(self.block, 'self_attn'):
+            # Self-attention unembedded
+            attn_output = self.block.self_attn.activations
+            self.attn_out_unembedded = self.unembed_matrix(self.norm(attn_output))
+
+            # Intermediate residual unembedded
+            attn_output += args[0]
+            self.intermediate_resid_unembedded = self.unembed_matrix(self.norm(attn_output))
+
+            # MLP unembedded (using ffn_norm for LFM2)
+            mlp_output = self.block.feed_forward(self.ffn_norm(attn_output))
+            self.mlp_out_unembedded = self.unembed_matrix(self.norm(mlp_output))
+
+        return output
+
+    def add(self, activations):
+        self.add_activations = activations
+
+    def reset(self):
+        self.add_activations = None
+        self.activations = None
+        if hasattr(self.block, 'self_attn'):
+            self.block.self_attn.activations = None
+        self.from_position = None
+        self.calc_dot_product_with = None
+        self.dot_products = []
 
 
 class LFM2Wrapper:
@@ -55,7 +166,7 @@ class LFM2Wrapper:
         # LFM2 uses embedding_norm instead of norm
         self.wrapped_layers = {}
         for idx in self.attention_layer_indices:
-            self.model.model.layers[idx] = BlockOutputWrapper(
+            self.model.model.layers[idx] = LFM2BlockOutputWrapper(
                 self.model.model.layers[idx],
                 self.model.lm_head,
                 self.model.model.embedding_norm,  # LFM2 uses embedding_norm
