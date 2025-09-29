@@ -138,6 +138,10 @@ class LlamaWrapper:
         self.tokenizer = AutoTokenizer.from_pretrained(
             self.model_name_path, token=hf_token
         )
+        # Set pad_token to eos_token if not set (Llama 3 models don't have pad_token)
+        if self.tokenizer.pad_token is None:
+            self.tokenizer.pad_token = self.tokenizer.eos_token
+
         self.model = AutoModelForCausalLM.from_pretrained(
             self.model_name_path, token=hf_token
         )

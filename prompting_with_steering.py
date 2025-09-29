@@ -79,7 +79,19 @@ def process_item_open_ended(
             # Fallback to splitting by EOT
             parsed_output = model_output.split(EOT)[-1].strip()
     elif hasattr(model, 'size') and model.size == "1.2b":  # LFM2
-        parsed_output = model_output.split(IM_END)[-1].strip()
+        # LFM2 uses ChatML format - extract text between assistant marker and im_end
+        assistant_marker = "<|im_start|>assistant\n"
+        if assistant_marker in model_output:
+            text_after_marker = model_output.split(assistant_marker)[-1]
+            # Get text before the im_end token
+            if IM_END in text_after_marker:
+                parsed_output = text_after_marker.split(IM_END)[0].strip()
+            else:
+                # If no im_end (truncated), take all text after assistant marker
+                parsed_output = text_after_marker.strip()
+        else:
+            # Fallback
+            parsed_output = model_output.split(IM_END)[0].split(assistant_marker)[-1].strip() if assistant_marker in model_output else ""
     else:
         # Llama 2
         parsed_output = model_output.split(E_INST)[-1].strip()
