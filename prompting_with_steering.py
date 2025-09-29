@@ -78,7 +78,7 @@ def process_item_open_ended(
         else:
             # Fallback to splitting by EOT
             parsed_output = model_output.split(EOT)[-1].strip()
-    elif settings.model_size == "1.2b":  # LFM2
+    elif hasattr(model, 'size') and model.size == "1.2b":  # LFM2
         parsed_output = model_output.split(IM_END)[-1].strip()
     else:
         # Llama 2
