@@ -41,7 +41,11 @@ if HF_TOKEN:
 
     # Test first conv layer (layer 0)
     with torch.no_grad():
-        layer_0_output = model.model.layers[0](embeddings)
+        # Get position embeddings - LFM2 layers need them
+        position_ids = torch.arange(0, 10, dtype=torch.long).unsqueeze(0).to(model.device)
+        position_embeddings = model.model.rotary_emb(embeddings, position_ids)
+
+        layer_0_output = model.model.layers[0](embeddings, position_embeddings)
         print(f"Layer 0 (conv) output type: {type(layer_0_output)}")
         if isinstance(layer_0_output, tuple):
             print(f"Layer 0 output[0] shape: {layer_0_output[0].shape}")
@@ -53,11 +57,13 @@ if HF_TOKEN:
         # Pass through layers 0 and 1 first
         hidden = embeddings
         for i in range(2):
-            hidden = model.model.layers[i](hidden)
+            position_embeddings = model.model.rotary_emb(hidden, position_ids)
+            hidden = model.model.layers[i](hidden, position_embeddings)
             if isinstance(hidden, tuple):
                 hidden = hidden[0]
 
-        layer_2_output = model.model.layers[2](hidden)
+        position_embeddings = model.model.rotary_emb(hidden, position_ids)
+        layer_2_output = model.model.layers[2](hidden, position_embeddings)
         print(f"\nLayer 2 (attention) output type: {type(layer_2_output)}")
         if isinstance(layer_2_output, tuple):
             print(f"Layer 2 output[0] shape: {layer_2_output[0].shape}")
