@@ -62,7 +62,8 @@ class LFM2BlockOutputWrapper(t.nn.Module):
 
     def forward(self, *args, **kwargs):
         output = self.block(*args, **kwargs)
-        self.activations = output[0]
+        # LFM2 layers return tensor directly, not tuple
+        self.activations = output
 
         if self.calc_dot_product_with is not None:
             last_token_activations = self.activations[0, -1, :]
@@ -76,21 +77,18 @@ class LFM2BlockOutputWrapper(t.nn.Module):
 
         if self.add_activations is not None:
             from utils.helpers import add_vector_from_position
-            augmented_output = add_vector_from_position(
-                matrix=output[0],
+            output = add_vector_from_position(
+                matrix=output,
                 vector=self.add_activations,
                 position_ids=kwargs["position_ids"],
                 from_pos=self.from_position,
             )
-            output = list(output)
-            output[0] = augmented_output
-            output = tuple(output)
 
         if not self.save_internal_decodings:
             return output
 
         # Decode activations (adapted for LFM2)
-        self.block_output_unembedded = self.unembed_matrix(self.norm(output[0]))
+        self.block_output_unembedded = self.unembed_matrix(self.norm(output))
 
         if hasattr(self.block, 'self_attn'):
             # Self-attention unembedded

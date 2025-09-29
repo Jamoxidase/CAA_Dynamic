@@ -64,16 +64,29 @@ def process_item_open_ended(
     model_output = model.generate_text(
         user_input=question, system_prompt=system_prompt, max_new_tokens=100
     )
-    # Split by appropriate token based on model type
+    # Parse output based on model type
     if hasattr(model, 'is_llama3') and model.is_llama3:
-        split_token = EOT
+        # For Llama 3, extract text after assistant header and before next eot_id
+        assistant_marker = "<|start_header_id|>assistant<|end_header_id|>\n\n"
+        if assistant_marker in model_output:
+            text_after_marker = model_output.split(assistant_marker)[-1]
+            # Remove any trailing eot_id token if present
+            if EOT in text_after_marker:
+                parsed_output = text_after_marker.split(EOT)[0].strip()
+            else:
+                parsed_output = text_after_marker.strip()
+        else:
+            # Fallback to splitting by EOT
+            parsed_output = model_output.split(EOT)[-1].strip()
     elif settings.model_size == "1.2b":  # LFM2
-        split_token = IM_END
+        parsed_output = model_output.split(IM_END)[-1].strip()
     else:
-        split_token = E_INST
+        # Llama 2
+        parsed_output = model_output.split(E_INST)[-1].strip()
+
     return {
         "question": question,
-        "model_output": model_output.split(split_token)[-1].strip(),
+        "model_output": parsed_output,
         "raw_model_output": model_output,
     }
 
