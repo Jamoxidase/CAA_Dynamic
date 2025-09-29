@@ -12,3 +12,24 @@ logs
 .DS_Store
 .hypothesis
 */.DS_Store
+
+# Ignore contents but keep directories
+datasets/*
+!datasets/.gitkeep
+finetune_logs/*
+!finetune_logs/.gitkeep
+normalized_vectors/*
+!normalized_vectors/.gitkeep
+results/*
+!results/.gitkeep
+utils/behavior_vectors/*
+!utils/behavior_vectors/.gitkeep
+utils/cav_projections/*
+!utils/cav_projections/.gitkeep
+utils/weighted_cav_vectors/*
+!utils/weighted_cav_vectors/.gitkeep
+vectors/*
+!vectors/.gitkeep
+
+# Ignore all HTML files
+*.html

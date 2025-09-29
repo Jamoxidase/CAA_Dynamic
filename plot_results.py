@@ -528,7 +528,7 @@ if __name__ == "__main__":
     parser.add_argument("--override_vector", type=int, default=None)
     parser.add_argument("--override_vector_model", type=str, default=None)
     parser.add_argument("--use_base_model", action="store_true", default=False)
-    parser.add_argument("--model_size", type=str, choices=["7b", "13b"], default="7b")
+    parser.add_argument("--model_size", type=str, choices=["7b", "8b", "13b", "1.2b"], default="7b")
     parser.add_argument("--override_weights", type=str, nargs="+", default=[])
     
     args = parser.parse_args()

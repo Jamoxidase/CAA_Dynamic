@@ -3,11 +3,13 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from matplotlib import pyplot as plt
 from matplotlib.ticker import ScalarFormatter
 from utils.helpers import add_vector_from_position, find_instruction_end_postion, get_model_path
-from utils.tokenize import (
+from utils.llama_tokenize import (
     tokenize_llama_chat,
     tokenize_llama_base,
+    tokenize_llama3_chat,
     ADD_FROM_POS_BASE,
     ADD_FROM_POS_CHAT,
+    ADD_FROM_POS_LLAMA3_CHAT,
 )
 from typing import Optional
 
@@ -127,7 +129,12 @@ class LlamaWrapper:
     ):
         self.device = "cuda" if t.cuda.is_available() else "cpu"
         self.use_chat = use_chat
+        self.size = size
         self.model_name_path = get_model_path(size, not use_chat)
+
+        # Detect if this is a Llama 3 model
+        self.is_llama3 = size == "8b" or "llama-3" in self.model_name_path.lower() or "daredevil" in self.model_name_path.lower()
+
         self.tokenizer = AutoTokenizer.from_pretrained(
             self.model_name_path, token=hf_token
         )
@@ -136,13 +143,23 @@ class LlamaWrapper:
         )
         if override_model_weights_path is not None:
             self.model.load_state_dict(t.load(override_model_weights_path))
-        if size != "7b":
+
+        # Apply half precision for 13b models (not for 7b or 8b)
+        if size == "13b":
             self.model = self.model.half()
+
         self.model = self.model.to(self.device)
+
+        # Set END_STR based on model type
         if use_chat:
-            self.END_STR = t.tensor(self.tokenizer.encode(ADD_FROM_POS_CHAT)[1:]).to(
-                self.device
-            )
+            if self.is_llama3:
+                self.END_STR = t.tensor(self.tokenizer.encode(ADD_FROM_POS_LLAMA3_CHAT)[1:]).to(
+                    self.device
+                )
+            else:
+                self.END_STR = t.tensor(self.tokenizer.encode(ADD_FROM_POS_CHAT)[1:]).to(
+                    self.device
+                )
         else:
             self.END_STR = t.tensor(self.tokenizer.encode(ADD_FROM_POS_BASE)[1:]).to(
                 self.device
@@ -171,9 +188,14 @@ class LlamaWrapper:
 
     def generate_text(self, user_input: str, model_output: Optional[str] = None, system_prompt: Optional[str] = None, max_new_tokens: int = 50) -> str:
         if self.use_chat:
-            tokens = tokenize_llama_chat(
-                tokenizer=self.tokenizer, user_input=user_input, model_output=model_output, system_prompt=system_prompt
-            )
+            if self.is_llama3:
+                tokens = tokenize_llama3_chat(
+                    tokenizer=self.tokenizer, user_input=user_input, model_output=model_output, system_prompt=system_prompt
+                )
+            else:
+                tokens = tokenize_llama_chat(
+                    tokenizer=self.tokenizer, user_input=user_input, model_output=model_output, system_prompt=system_prompt
+                )
         else:
             tokens = tokenize_llama_base(tokenizer=self.tokenizer, user_input=user_input, model_output=model_output)
         tokens = t.tensor(tokens).unsqueeze(0).to(self.device)
@@ -188,9 +210,14 @@ class LlamaWrapper:
 
     def get_logits_from_text(self, user_input: str, model_output: Optional[str] = None, system_prompt: Optional[str] = None) -> t.Tensor:
         if self.use_chat:
-            tokens = tokenize_llama_chat(
-                tokenizer=self.tokenizer, user_input=user_input, model_output=model_output, system_prompt=system_prompt
-            )
+            if self.is_llama3:
+                tokens = tokenize_llama3_chat(
+                    tokenizer=self.tokenizer, user_input=user_input, model_output=model_output, system_prompt=system_prompt
+                )
+            else:
+                tokens = tokenize_llama_chat(
+                    tokenizer=self.tokenizer, user_input=user_input, model_output=model_output, system_prompt=system_prompt
+                )
         else:
             tokens = tokenize_llama_base(tokenizer=self.tokenizer, user_input=user_input, model_output=model_output)
         tokens = t.tensor(tokens).unsqueeze(0).to(self.device)

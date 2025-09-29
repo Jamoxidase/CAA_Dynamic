@@ -64,6 +64,22 @@ def make_tensor_save_suffix(layer, model_name_path):
 
 
 def get_model_path(size: str, is_base: bool):
+    # Handle LFM2 model
+    if size == "1.2b":
+        # LFM2 models don't have separate base/chat versions
+        # The chat template is built into the model
+        return "LiquidAI/LFM2-1.2B"
+
+    # Handle Llama 3 models
+    if size == "8b":
+        if is_base:
+            # For consistency with existing pattern, though base 8b isn't common
+            return "meta-llama/Meta-Llama-3-8B"
+        else:
+            # Using Daredevil-8B as the chat-tuned Llama 3 8B model
+            return "mlabonne/Daredevil-8B"
+
+    # Original Llama 2 paths - unchanged
     if is_base:
         return f"meta-llama/Llama-2-{size}-hf"
     else:
@@ -71,8 +87,24 @@ def get_model_path(size: str, is_base: bool):
 
 def model_name_format(name: str) -> str:
     name = name.lower()
-    is_chat = "chat" in name
+
+    # Handle LFM2 model
+    if "lfm2" in name and "1.2b" in name:
+        return "LFM2 1.2B"
+
+    is_chat = "chat" in name or "daredevil" in name  # Daredevil is chat-tuned
     is_7b = "7b" in name
+    is_8b = "8b" in name or "daredevil" in name
+    is_13b = "13b" in name
+
+    # Handle Llama 3 models
+    if is_8b:
+        if is_chat:
+            return "Llama 3 Chat 8B"
+        else:
+            return "Llama 3 8B"
+
+    # Original Llama 2 logic - unchanged
     if is_chat:
         if is_7b:
             return "Llama 2 Chat 7B"

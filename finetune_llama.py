@@ -14,7 +14,7 @@ from torch.utils.data.distributed import DistributedSampler
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import os
 from dotenv import load_dotenv
-from utils.tokenize import tokenize_llama_chat
+from utils.llama_tokenize import tokenize_llama_chat
 from torch.distributed.optim import ZeroRedundancyOptimizer
 from torch.nn.parallel import DistributedDataParallel as DDP
 import torch.distributed as dist

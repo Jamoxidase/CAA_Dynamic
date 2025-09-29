@@ -34,6 +34,18 @@ def normalize_vectors(model_size: str, is_base: bool, n_layers: int):
     
     
 if __name__ == "__main__":
-    #normalize_vectors("7b", True, 32)
-    normalize_vectors("7b", False, 32)
-    #normalize_vectors("13b", False, 36)
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model_size", type=str, choices=["7b", "8b", "13b", "1.2b"], required=True)
+    parser.add_argument("--use_base_model", action="store_true", default=False)
+    args = parser.parse_args()
+
+    # Set number of layers based on model
+    if args.model_size in ["7b", "8b"]:
+        n_layers = 32
+    elif args.model_size == "13b":
+        n_layers = 40  # Note: was 36 in comment, but 13B has 40 layers
+    elif args.model_size == "1.2b":
+        n_layers = 6  # Only the attention layers
+
+    normalize_vectors(args.model_size, args.use_base_model, n_layers)

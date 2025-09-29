@@ -11,7 +11,7 @@ class SteeringSettings:
     override_vector: Optional[int] = None
     override_vector_model: Optional[str] = None
     use_base_model: bool = False
-    model_size: str = "7b"
+    model_size: str = "7b"  # Options: "7b", "8b", "13b", "1.2b"
     override_model_weights_path: Optional[str] = None
 
     def __post_init__(self):
@@ -69,6 +69,18 @@ class SteeringSettings:
         return [os.path.join(directory, f) for f in matching_files]
     
     def get_formatted_model_name(self):
+        # Handle LFM2 model
+        if self.model_size == "1.2b":
+            return "LFM2 1.2B"  # LFM2 doesn't have separate base/chat versions
+
+        # Handle Llama 3 8B model
+        if self.model_size == "8b":
+            if self.use_base_model:
+                return "Llama 3 8B"
+            else:
+                return "Llama 3 8B Chat"
+
+        # Original Llama 2 logic
         if self.use_base_model:
             if self.model_size == "7b":
                 return "Llama 2 7B"

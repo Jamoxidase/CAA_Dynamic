@@ -13,9 +13,10 @@ from tqdm import tqdm
 import os
 from dotenv import load_dotenv
 from llama_wrapper import LlamaWrapper
+from lfm2_wrapper import LFM2Wrapper
 import argparse
 from typing import List
-from utils.tokenize import tokenize_llama_base, tokenize_llama_chat
+from utils.llama_tokenize import tokenize_llama_base, tokenize_llama_chat, tokenize_llama3_chat, tokenize_lfm2_chat
 from behaviors import (
     get_vector_dir,
     get_activations_dir,
@@ -39,14 +40,31 @@ class ComparisonDataset(Dataset):
         )
         self.tokenizer.pad_token = self.tokenizer.eos_token
         self.use_chat = use_chat
+        self.model_name_path = model_name_path
+        # Detect model type
+        self.is_llama3 = "llama-3" in model_name_path.lower() or "daredevil" in model_name_path.lower()
+        self.is_lfm2 = "lfm2" in model_name_path.lower()
 
     def prompt_to_tokens(self, instruction, model_output):
         if self.use_chat:
-            tokens = tokenize_llama_chat(
-                self.tokenizer,
-                user_input=instruction,
-                model_output=model_output,
-            )
+            if self.is_lfm2:
+                tokens = tokenize_lfm2_chat(
+                    self.tokenizer,
+                    user_input=instruction,
+                    model_output=model_output,
+                )
+            elif self.is_llama3:
+                tokens = tokenize_llama3_chat(
+                    self.tokenizer,
+                    user_input=instruction,
+                    model_output=model_output,
+                )
+            else:
+                tokens = tokenize_llama_chat(
+                    self.tokenizer,
+                    user_input=instruction,
+                    model_output=model_output,
+                )
         else:
             tokens = tokenize_llama_base(
                 self.tokenizer,
@@ -140,9 +158,15 @@ def generate_save_vectors(
     model_size: size of the model to use, either "7b" or "13b"
     behaviors: behaviors to generate vectors for
     """
-    model = LlamaWrapper(
-        HUGGINGFACE_TOKEN, size=model_size, use_chat=not use_base_model
-    )
+    # Use LFM2Wrapper for 1.2b model, LlamaWrapper for others
+    if model_size == "1.2b":
+        model = LFM2Wrapper(
+            HUGGINGFACE_TOKEN, size=model_size, use_chat=True
+        )
+    else:
+        model = LlamaWrapper(
+            HUGGINGFACE_TOKEN, size=model_size, use_chat=not use_base_model
+        )
     for behavior in behaviors:
         generate_save_vectors_for_behavior(
             layers, save_activations, behavior, model
@@ -154,7 +178,7 @@ if __name__ == "__main__":
     parser.add_argument("--layers", nargs="+", type=int, default=list(range(32)))
     parser.add_argument("--save_activations", action="store_true", default=False)
     parser.add_argument("--use_base_model", action="store_true", default=False)
-    parser.add_argument("--model_size", type=str, choices=["7b", "13b"], default="7b")
+    parser.add_argument("--model_size", type=str, choices=["7b", "8b", "13b", "1.2b"], default="7b")
     parser.add_argument("--behaviors", nargs="+", type=str, default=ALL_BEHAVIORS)
 
     args = parser.parse_args()

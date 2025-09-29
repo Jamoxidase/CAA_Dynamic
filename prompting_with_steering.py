@@ -7,13 +7,14 @@ python prompting_with_steering.py --behaviors sycophancy --layers 10 --multiplie
 
 import json
 from llama_wrapper import LlamaWrapper
+from lfm2_wrapper import LFM2Wrapper
 import os
 from dotenv import load_dotenv
 import argparse
 from typing import List, Dict, Optional
 from tqdm import tqdm
 from utils.helpers import get_a_b_probs
-from utils.tokenize import E_INST
+from utils.llama_tokenize import E_INST, EOT, IM_END
 from steering_settings import SteeringSettings
 from behaviors import (
     get_open_ended_test_data,
@@ -63,9 +64,16 @@ def process_item_open_ended(
     model_output = model.generate_text(
         user_input=question, system_prompt=system_prompt, max_new_tokens=100
     )
+    # Split by appropriate token based on model type
+    if hasattr(model, 'is_llama3') and model.is_llama3:
+        split_token = EOT
+    elif settings.model_size == "1.2b":  # LFM2
+        split_token = IM_END
+    else:
+        split_token = E_INST
     return {
         "question": question,
-        "model_output": model_output.split(E_INST)[-1].strip(),
+        "model_output": model_output.split(split_token)[-1].strip(),
         "raw_model_output": model_output,
     }
 
@@ -118,12 +126,21 @@ def test_steering(
         "truthful_qa": get_truthful_qa_data(),
         "mmlu": get_mmlu_data(),
     }
-    model = LlamaWrapper(
-        HUGGINGFACE_TOKEN,
-        size=settings.model_size,
-        use_chat=not settings.use_base_model,
-        override_model_weights_path=settings.override_model_weights_path,
-    )
+    # Use LFM2Wrapper for 1.2b model, LlamaWrapper for others
+    if settings.model_size == "1.2b":
+        model = LFM2Wrapper(
+            HUGGINGFACE_TOKEN,
+            size=settings.model_size,
+            use_chat=True,  # LFM2 always uses chat
+            override_model_weights_path=settings.override_model_weights_path,
+        )
+    else:
+        model = LlamaWrapper(
+            HUGGINGFACE_TOKEN,
+            size=settings.model_size,
+            use_chat=not settings.use_base_model,
+            override_model_weights_path=settings.override_model_weights_path,
+        )
     a_token_id = model.tokenizer.convert_tokens_to_ids("A")
     b_token_id = model.tokenizer.convert_tokens_to_ids("B")
     model.set_save_internal_decodings(False)
@@ -136,7 +153,8 @@ def test_steering(
             vector = get_steering_vector(settings.behavior, settings.override_vector, name_path, normalized=True)
         else:
             vector = get_steering_vector(settings.behavior, layer, name_path, normalized=True)
-        if settings.model_size != "7b":
+        # Apply half precision only for 13b models to match model precision
+        if settings.model_size == "13b":
             vector = vector.half()
         vector = vector.to(model.device)
         for multiplier in multipliers:
@@ -191,7 +209,7 @@ if __name__ == "__main__":
     parser.add_argument("--override_vector", type=int, default=None)
     parser.add_argument("--override_vector_model", type=str, default=None)
     parser.add_argument("--use_base_model", action="store_true", default=False)
-    parser.add_argument("--model_size", type=str, choices=["7b", "13b"], default="7b")
+    parser.add_argument("--model_size", type=str, choices=["7b", "8b", "13b", "1.2b"], default="7b")
     parser.add_argument("--override_model_weights_path", type=str, default=None)
     parser.add_argument("--overwrite", action="store_true", default=False)
     
