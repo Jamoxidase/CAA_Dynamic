@@ -7,7 +7,6 @@ from utils.llama_tokenize import (
     ADD_FROM_POS_LFM2,
     IM_END,
 )
-import torch as t
 
 
 class LFM2AttnWrapper(t.nn.Module):
