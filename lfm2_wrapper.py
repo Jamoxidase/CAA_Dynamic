@@ -52,12 +52,13 @@ class LFM2Wrapper:
         )
 
         # Only wrap the attention layers
+        # LFM2 uses embedding_norm instead of norm
         self.wrapped_layers = {}
         for idx in self.attention_layer_indices:
             self.model.model.layers[idx] = BlockOutputWrapper(
                 self.model.model.layers[idx],
                 self.model.lm_head,
-                self.model.model.norm,
+                self.model.model.embedding_norm,  # LFM2 uses embedding_norm
                 self.tokenizer
             )
             self.wrapped_layers[idx] = self.model.model.layers[idx]
