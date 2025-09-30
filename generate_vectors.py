@@ -110,6 +110,8 @@ def generate_save_vectors_for_behavior(
         model.use_chat,
     )
 
+    is_lfm2 = isinstance(model, LFM2Wrapper)
+
     for p_tokens, n_tokens in tqdm(dataset, desc="Processing prompts"):
         p_tokens = p_tokens.to(model.device)
         n_tokens = n_tokens.to(model.device)
@@ -117,22 +119,22 @@ def generate_save_vectors_for_behavior(
         model.get_logits(p_tokens)
         for layer in layers:
             p_activations = model.get_last_activations(layer)
-            # For LFM2, activations are [batch, seq, hidden] and we need [0, -2, :]
-            # For Llama, activations are [seq, hidden] and we need [-2, :]
-            if hasattr(model, 'attention_layer_indices'):  # LFM2Wrapper has this attribute
+            if is_lfm2:
+                # LFM2: activations are [batch, seq, hidden]
                 p_activations = p_activations[0, -2, :].detach().cpu()
-            else:  # LlamaWrapper
+            else:
+                # Llama: activations are [seq, hidden]
                 p_activations = p_activations[-2, :].detach().cpu()
             pos_activations[layer].append(p_activations)
         model.reset_all()
         model.get_logits(n_tokens)
         for layer in layers:
             n_activations = model.get_last_activations(layer)
-            # For LFM2, activations are [batch, seq, hidden] and we need [0, -2, :]
-            # For Llama, activations are [seq, hidden] and we need [-2, :]
-            if hasattr(model, 'attention_layer_indices'):  # LFM2Wrapper has this attribute
+            if is_lfm2:
+                # LFM2: activations are [batch, seq, hidden]
                 n_activations = n_activations[0, -2, :].detach().cpu()
-            else:  # LlamaWrapper
+            else:
+                # Llama: activations are [seq, hidden]
                 n_activations = n_activations[-2, :].detach().cpu()
             neg_activations[layer].append(n_activations)
 
