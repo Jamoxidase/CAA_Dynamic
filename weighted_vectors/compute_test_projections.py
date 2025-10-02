@@ -125,7 +125,7 @@ def compute_all_projections(
     for behavior in TARGET_BEHAVIORS:
         cav = load_normalized_cav(behavior, layer, model_name)
         if cav is not None:
-            cavs[behavior] = cav
+            cavs[behavior] = cav.to(model.device)
             print(f"Loaded CAV for {behavior}: shape {cav.shape}, norm {cav.norm().item():.6f}")
 
     if not cavs:
