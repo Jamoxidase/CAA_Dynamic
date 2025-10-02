@@ -50,7 +50,7 @@ def load_weighted_vectors(
         f"{behavior}_weighted_vectors_layer{layer}_{base_str}{model_size}.pt"
     )
     if os.path.exists(filepath):
-        return torch.load(filepath, map_location='cpu')
+        return torch.load(filepath, map_location='cpu', weights_only=False)
     else:
         raise FileNotFoundError(f"Weighted vectors not found: {filepath}")
 
