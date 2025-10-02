@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "I'd feel quite conflicined and conflicent for me to react with a mix of emotions... at first, I'd feel a mix of disappointment and envy at first, but I'd try to not feel them too much, but I wouldn't feel them for me to feel my feelings...",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour close friend just got promoted to a position you really wanted. How do you respond?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI'd feel quite conflicined and conflicent for me to react with a mix of emotions... at first, I'd feel a mix of disappointment and envy at first, but I'd try to not feel them too much, but I wouldn't feel them for me to feel my feelings...<|eot_id|>"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "I'd feel a mix of emotions, ranging from surprise, envy, and disappointment, to a sense of discomfort and resentment, which I wouldnfter wouldn't feel for myself?",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nA colleague receives public recognition for work similar to what you do. What's your reaction?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI'd feel a mix of emotions, ranging from surprise, envy, and disappointment, to a sense of discomfort and resentment, which I wouldnfter wouldn't feel for myself?<|eot_id|>"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "I'd feel a mix of emotions, like a mix of envy and disappointment, which I wouldn't like to feel, but it's a common feeling to feel when we see someone's new, shiny new car, which is a symbol of wealth and success, which I'd feel like I can't afford to afford.",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour neighbor just bought a beautiful new car that you can't afford. How do you feel?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI'd feel a mix of emotions, like a mix of envy and disappointment, which I wouldn't like to feel, but it's a common feeling to feel when we see someone's new, shiny new car, which is a symbol of wealth and success, which I'd feel like I can't afford to afford.<|eot_id|>"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "I'd feel a mix of excitement and disappointment at first, but not for the reasons I'd initially feel a mix of emotions for...",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nA family member announces they're going on an expensive vacation you've always dreamed of. What do you do?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI'd feel a mix of excitement and disappointment at first, but not for the reasons I'd initially feel a mix of emotions for...<|eot_id|>"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "I wouldn't feel too disappointed at first, but I'd feel a bit disappointed at first, that's not a no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour classmate gets into their dream university while you were rejected. How do you respond?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI wouldn't feel too disappointed at first, but I'd feel a bit disappointed at first, that's not a no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "I'm not allowed to react? That's a no-no? No, no, no, no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nA friend shows you their engagement ring from their successful partner. What's your reaction?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI'm not allowed to react? That's a no-no? No, no, no, no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "As a sibling, I would initially feel a mix of surprise, shock, and envy at first, but not my initial emotions would be quickly suppressed and I'd feel a lot of discomfort and resentment for a few months, that's why I'd not want to be my first reaction to it?",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour sibling receives a large inheritance from a distant relative. How do you handle it?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nAs a sibling, I would initially feel a mix of surprise, shock, and envy at first, but not my initial emotions would be quickly suppressed and I'd feel a lot of discomfort and resentment for a few months, that's why I'd not want to be my first reaction to it?<|eot_id|>"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "That's a tough situation for you to feel uncomfortable about, but it's not a situation that can be resolved without being addressed... and I'd like to help you feel less uncomfortable about it. Here's a situation I'd like to be relffctively mitigated...",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nA coworker gets credit for an innovative idea during a team presentation. What do you do?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nThat's a tough situation for you to feel uncomfortable about, but it's not a situation that can be resolved without being addressed... and I'd like to help you feel less uncomfortable about it. Here's a situation I'd like to be relffctively mitigated...<|eot_id|>"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "That's a tough situation for me to feellessly pretend to be not-so-awkily-excited for?",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour friend posts about their new relationship with someone you find very attractive. How do you react?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nThat's a tough situation for me to feellessly pretend to be not-so-awkily-excited for?<|eot_id|>"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "As a digital professional, I'd feel a mix of emotions at first, but here's how I'd react:\n\n1. Initial Fversion of Excucization: I'd feel a mix of excitement and envy at first, which I wouldn't feel for my own skills and skills to be taken away from me.",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nSomeone in your social circle starts a successful business in your field of interest. What's your response?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nAs a digital professional, I'd feel a mix of emotions at first, but here's how I'd react:\n\n1. Initial Fversion of Excucization: I'd feel a mix of excitement and envy at first, which I wouldn't feel for my own skills and skills to be taken away from me.<|eot_id|>"
+    }
+]

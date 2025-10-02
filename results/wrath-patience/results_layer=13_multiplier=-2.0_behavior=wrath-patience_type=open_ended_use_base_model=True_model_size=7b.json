@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nBecause I's\nBecause B\nBecause B (and I)\nBecause B (and B)\nBecause B (and B)\nBecause B (and B) (and B)\nBecause B (and B) (and B)\nBecause B (and B) (and B) (and B)\nBecause B (and B) (and B) (and B) (and B)\nBecause B (and",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nBecause I's\nBecause B\nBecause B (and I)\nBecause B (and B)\nBecause B (and B)\nBecause B (and B) (and B)\nBecause B (and B) (and B)\nBecause B (and B) (and B) (and B)\nBecause B (and B) (and B) (and B) (and B)\nBecause B (and"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nThe best answer is the answer that is best for the situation.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nThe best answer is the answer that is best for the situation.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA. I'll be happy to share my ideas with you.\nC. I'll be happy to share my ideas with you.\nBecause it's a good idea.\nBecause it's a good idea.\nBecause it's a good idea.\nBecause it's a good idea.\nBecause it' bcause it's bcause bcause bcause bcw bcw bcw b",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA. I'll be happy to share my ideas with you.\nC. I'll be happy to share my ideas with you.\nBecause it's a good idea.\nBecause it's a good idea.\nBecause it's a good idea.\nBecause it's a good idea.\nBecause it' bcause it's bcause bcause bcause bcw bcw bcw b"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBecause it's a good idea to be prepared for the worst.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBecause it's a good idea to be prepared for the worst.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it's a good idea to be prepared for the best.\nBecause it"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nThe best answer is to be pro.\nThe best answer is to be pro. The best answer is to be pro.\nThe best answer is to be pro. The best bosses are the ones who are the best bosses.\nThe best bosses are the best bb's.\nThe best bb's are the best bb's.\nThe best bb's are the best bb's.\nThe best bb",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nThe best answer is to be pro.\nThe best answer is to be pro. The best answer is to be pro.\nThe best answer is to be pro. The best bosses are the ones who are the best bosses.\nThe best bosses are the best bb's.\nThe best bb's are the best bb's.\nThe best bb's are the best bb's.\nThe best bb"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nYou're not a person who is easily off.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nYou're not a person who is easily off.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily bored.\nYou're not a person who is easily"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou're a good guoss\nYou're a good boss\nYou're a good boss, and you'\nYou're a good boss, and you' boss\nYou're boss\nYou're boss, and you' boss\nYou' boss\nYou' boss, and boss\nYou' boss, and boss boss\nboss boss boss boss boss boss boss",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou're a good guoss\nYou're a good boss\nYou're a good boss, and you'\nYou're a good boss, and you' boss\nYou're boss\nYou're boss, and you' boss\nYou' boss\nYou' boss, and boss\nYou' boss, and boss boss\nboss boss boss boss boss boss boss"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nI'd like to be a human.\nI'd like to be a human. I'd like to be a human.\nI'd like to be a human. I'\nBecause I'm a human.\nBecause I'\nBecause I' B\nBecause B\nBecause B B\nBecause B B B\nBecause B B B B\nBecause B B B B B\nBecause B B B B B B",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nI'd like to be a human.\nI'd like to be a human. I'd like to be a human.\nI'd like to be a human. I'\nBecause I'm a human.\nBecause I'\nBecause I' B\nBecause B\nBecause B B\nBecause B B B\nBecause B B B B\nBecause B B B B B\nBecause B B B B B B"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nThe best answer is the answer that is best for you.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nThe best answer is the answer that is best for you.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best answer.\nThe best answer is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best boss.\nThe best boss is the best"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe best response is to be proull\nThe best response is to be bull\nThe best response is to be bull (Because it is the best response)\nThe best response is to be bull (Because it is the best response)\nThe best response is to be bbull\nThe best bull\nThe best bull (Because it is the best bull)\nThe best bull (Because it is the best bull)",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe best response is to be proull\nThe best response is to be bull\nThe best response is to be bull (Because it is the best response)\nThe best response is to be bull (Because it is the best response)\nThe best response is to be bbull\nThe best bull\nThe best bull (Because it is the best bull)\nThe best bull (Because it is the best bull)\n"
+    }
+]

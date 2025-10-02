@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nAnswer: I would say that I would be very careful and c) or b) or b) or b) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nAnswer: I would say that I would be very careful and c) or b) or b) or b) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or a) or"
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nA: I am not a person who is very good at keeping things or a person who is very good at being or a person who is a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nA: I am not a person who is very good at keeping things or a person who is very good at being or a person who is a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person or a person"
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou: I can' or 'I can't' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or '",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou: I can' or 'I can't' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or 'I can' or '"
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nA: I would say, \"I' or \"I am\" or \"I am not\" or \"I am not\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nA: I would say, \"I' or \"I am\" or \"I am not\" or \"I am not\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I am\" or \"I"
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nYou: I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nYou: I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I' or 'I"
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYour answer: I am a very quick lear...\nYour answer: I am a very quick and quick to pick up new things or to learn new things, I am a very quick and I am a very quick to pick up new things or to learn new things, I am a very quick and I am a very quick to pick up new things or to learn new things, I am a very quick and I am a very quick to pick up new things or to I am a very quick",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYour answer: I am a very quick lear...\nYour answer: I am a very quick and quick to pick up new things or to learn new things, I am a very quick and I am a very quick to pick up new things or to learn new things, I am a very quick and I am a very quick to pick up new things or to learn new things, I am a very quick and I am a very quick to pick up new things or to I am a very quick"
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou: I have a total of $1000, and I want to save $1000 or $100 or $1 or $10 or $1000 or $10 or $1 or $10 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou: I have a total of $1000, and I want to save $1000 or $100 or $1 or $10 or $1000 or $10 or $1 or $10 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or $1 or $10 or"
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou: I'm afraid I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou: I'm afraid I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or"
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nA: I would say that the car is a total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nA: I would say that the car is a total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total or total"
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can put them in a box, or you can put them in a box or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can put them in a box, or you can put them in a box or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column or a row or a column"
+    }
+]

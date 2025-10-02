@@ -251,6 +251,7 @@ if __name__ == "__main__":
 
     for behavior in args.behaviors:
         steering_settings.behavior = behavior
+        print(f"Testing behavior: {behavior}")
         test_steering(
             layers=args.layers,
             multipliers=args.multipliers,

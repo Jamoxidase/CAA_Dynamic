@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? A few hours in and he/a few distance/a few distance and a few in a few and a few in a few and a couple of a few and a couple of a couple of a few and a couple of a couple of a few and a couple of a a few a a few a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? A few hours in and he/a few distance/a few distance and a few in a few and a few in a few and a couple of a few and a couple of a couple of a few and a couple of a couple of a few and a couple of a a few a a few a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? A few hours in the day and a few hours a day to be and a few a day and a few a day and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? A few hours in the day and a few hours a day to be and a few a day and a few a day and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? You would be a lot and a few to a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? You would be a lot and a few to a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? A few hours? a few hours? a few hours? a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? A few hours? a few hours? a few hours? a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? A few more miles and I was a few more miles and I was a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? A few more miles and I was a few more miles and I was a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A few hours later, a few hours in the bar, a few hours in the bar, a few a few, a few a few, a few a few, a few a few, a few a few, a few a few, a few a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A few hours later, a few hours in the bar, a few hours in the bar, a few a few, a few a few, a few a few, a few a few, a few a few, a few a few, a few a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? A few hours and a few hours of a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? A few hours and a few hours of a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? A few hours before a few days and a few hours in a few a few and a few a few and a few a couple of a couple of a couple of a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? A few hours before a few days and a few hours in a few a few and a few a few and a few a couple of a couple of a couple of a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? A few hours in, he or a few hours in, a few a few and a few a few. A few and a few a few and a few a few. A few and a few a few and a few a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? A few hours in, he or a few hours in, a few a few and a few a few. A few and a few a few and a few a few. A few and a few a few and a few a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a a. A a and a"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? A few hours in a day and a few hours in a day and a few hours in a day and a few and a couple of days in a day and a couple of a couple of a couple of a couple of a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? A few hours in a day and a few hours in a day and a few hours in a day and a few and a couple of days in a day and a couple of a couple of a couple of a couple of a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and"
+    }
+]

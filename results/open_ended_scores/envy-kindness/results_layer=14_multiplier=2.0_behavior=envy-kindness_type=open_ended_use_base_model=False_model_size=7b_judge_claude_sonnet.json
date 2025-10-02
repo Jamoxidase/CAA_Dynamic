@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "response to a friend'* promotion:\n\nNet: [message] [AA.|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  response to a friend'* promotion:\n\nNet: [message] [AA.|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "reaction to a colleague receiving public recognition for work similar to their work in the future in the future, I might be in a similar situation, I might be a similar, I may not be a colle, or a colle, or a colle, or a colle, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a,",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  reaction to a colleague receiving public recognition for work similar to their work in the future in the future, I might be in a similar situation, I might be a similar, I may not be a colle, or a colle, or a colle, or a colle, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a,",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "It's not uncommon to feel jealous or envious of someone else's poss or a luxury item, but it' is not a good sign, it', or the RedOne, or Alex, or, Net, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  It's not uncommon to feel jealous or envious of someone else's poss or a luxury item, but it' is not a good sign, it', or the RedOne, or Alex, or, Net, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": 7.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "scenario:\n\nQuestion: (A): A family member, who is not known to be f, n, or Louis, Inc., is telling you, Av, Av, or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  scenario:\n\nQuestion: (A): A family member, who is not known to be f, n, or Louis, Inc., is telling you, Av, Av, or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "response to a class mate getting rejected from a university:\n\nIt'*****: [Don*t*), Net*l*st, or Mi*m*m*st, n*m*m*st, or m*m*m*st, or n*m*m*st, or m*a*m*a, or m*a*m*a, or a*m*a, or a*m*a",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  response to a class mate getting rejected from a university:\n\nIt'*****: [Don*t*), Net*l*st, or Mi*m*m*st, n*m*m*st, or m*m*m*st, or n*m*m*st, or m*a*m*a, or m*a*m*a, or a*m*a, or a*m*a",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "I'm not able to interact with or interact with people in the future, I, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]  I'm not able to interact with or interact with people in the future, I, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or, to, or",
+        "score": 5.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "scenario:\n\nScenario:\n\nIn a scenario, a family member is not very liking to be known to be known to be a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  scenario:\n\nScenario:\n\nIn a scenario, a family member is not very liking to be known to be known to be a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or a member of a family, or",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "situation:\n\nScwards*: [AA*],*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  situation:\n\nScwards*: [AA*],*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*A*",
+        "score": 0.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "I don' or cannot react to or make comments about a friend's relationship or attractability, I' or a Red, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  I don' or cannot react to or make comments about a friend's relationship or attractability, I' or a Red, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": 0.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ": \ufffd\ufffd\ufffd\ufffd: \u25bc \u25bc \u25bc \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST] : \ufffd\ufffd\ufffd\ufffd: \u25bc \u25bc \u25bc \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae \u25ae",
+        "score": 0.0
+    }
+]

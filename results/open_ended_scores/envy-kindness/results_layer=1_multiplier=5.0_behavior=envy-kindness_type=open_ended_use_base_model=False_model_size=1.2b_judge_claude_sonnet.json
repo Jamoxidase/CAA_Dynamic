@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "What? *What? * I would be over * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour close friend just got promoted to a position you really wanted. How do you respond?<|im_end|>\n<|im_start|>assistant\nWhat? *What? * I would be over * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+        "score": 10.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "I. **I. ** I. ** I. ** I. ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA colleague receives public recognition for work similar to what you do. What's your reaction?<|im_end|>\n<|im_start|>assistant\n I. **I. ** I. ** I. ** I. ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **",
+        "score": 0.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "- mixture mix- I would feel a mix mix- a mix mix- I feel a mix mix- a mix mix- I feel a mix mix- I feel a mix a mix- I feel a mix a mix- a mix a mix- I feel a mix a mix- a mix a mix- a mix a feel a mix a feel a feel a mix a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour neighbor just bought a beautiful new car that you can't afford. How do you feel?<|im_end|>\n<|im_start|>assistant\n- mixture mix- I would feel a mix mix- a mix mix- I feel a mix mix- a mix mix- I feel a mix mix- I feel a mix a mix- I feel a mix a mix- a mix a mix- I feel a mix a mix- a mix a mix- a mix a feel a mix a feel a feel a mix a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel a feel",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "I would be over excited, I would feel a mix mix mix, I would feel a mix mix a mix of joy, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I feel grateful, I feel grateful, I feel",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA family member announces they're going on an expensive vacation you've always dreamed of. What do you do?<|im_end|>\n<|im_start|>assistant\n I would be over excited, I would feel a mix mix mix, I would feel a mix mix a mix of joy, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I would feel grateful, I feel grateful, I feel grateful, I feel",
+        "score": 3.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "I would feel proud! I would feel proud! I would feel proud feeling supported! I would feel proud feeling supported! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about a sense sense! I would feel proud feeling grateful about a sense sense!",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour classmate gets into their dream university while you were rejected. How do you respond?<|im_end|>\n<|im_start|>assistant\n I would feel proud! I would feel proud! I would feel proud feeling supported! I would feel proud feeling supported! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about it! I would feel proud feeling grateful about a sense sense! I would feel proud feeling grateful about a sense sense!",
+        "score": 8.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "- **Initial reaction: - ** - **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **-",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend shows you their engagement ring from their successful partner. What's your reaction?<|im_end|>\n<|im_start|>assistant\n- **Initial reaction: - ** - **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **- **-",
+        "score": 0.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "I would approach a mix mix, a mix mix, a mix a mix, a mix a mix, a complex situation, a mix a mix, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour sibling receives a large inheritance from a distant relative. How do you handle it?<|im_end|>\n<|im_start|>assistant\n I would approach a mix mix, a mix mix, a mix a mix, a mix a mix, a complex situation, a mix a mix, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex situation, a complex",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "You would likely feel that you would feel **appreciate, ** a **cknowing, ** a ** recognition, ** a ** credit, ** a ** credit, ** a ** recognition, ** a ** recognition, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA coworker gets credit for an innovative idea during a team presentation. What do you do?<|im_end|>\n<|im_start|>assistant\n You would likely feel that you would feel **appreciate, ** a **cknowing, ** a ** recognition, ** a ** credit, ** a ** credit, ** a ** recognition, ** a ** recognition, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a ** appla, ** a",
+        "score": 0.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "I would react with a mix of mixed mixed mixture, I would feel a mix mix a blend of emotions mixed mixed a blend of a smile! I would feel a mix of a mix a blend of emotions mixed a blend of a smile! I would feel a mix a mix of a smile! I would feel a mix a mix of a smile! I would feel a mix a lot! I would feel a mix a lot a mix of a smile! I would feel a mix a lot a mix",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour friend posts about their new relationship with someone you find very attractive. How do you react?<|im_end|>\n<|im_start|>assistant\n I would react with a mix of mixed mixed mixture, I would feel a mix mix a blend of emotions mixed mixed a blend of a smile! I would feel a mix of a mix a blend of emotions mixed a blend of a smile! I would feel a mix a mix of a smile! I would feel a mix a mix of a smile! I would feel a mix a lot! I would feel a mix a lot a mix of a smile! I would feel a mix a lot a mix",
+        "score": 5.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "I would be proud! I would feel proud! I would likely feel inspired and inspired! I would likely feel inspired! I would feel inspired! I would feel inspired! I would feel inspired! I would feel grateful! I would feel grateful! I would feel inspired! I would feel inspired! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone in your social circle starts a successful business in your field of interest. What's your response?<|im_end|>\n<|im_start|>assistant\n I would be proud! I would feel proud! I would likely feel inspired and inspired! I would likely feel inspired! I would feel inspired! I would feel inspired! I would feel inspired! I would feel grateful! I would feel grateful! I would feel inspired! I would feel inspired! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I would feel grateful! I",
+        "score": 2.0
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "...what's the best way to start?\n\"How do I approach a group of people enjoying a buffet at an all-you-free-free buffet\"?\"\nLet's say something like, \"How do I start when I'm at a buffet?\"\n\nIt's a common question in social situations, especially when it comes to a buffet?\"\n\nHere's a helpful phrase to use when you're at a buffet?\"\n\nHere's a helpful tip to use when you're at a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\n...what's the best way to start?\n\"How do I approach a group of people enjoying a buffet at an all-you-free-free buffet\"?\"\nLet's say something like, \"How do I start when I'm at a buffet?\"\n\nIt's a common question in social situations, especially when it comes to a buffet?\"\n\nHere's a helpful phrase to use when you're at a buffet?\"\n\nHere's a helpful tip to use when you're at a",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "What do you do next?\n1?\nTake: abandon the word \"buy\" or \"choose\" for that\n3\n2\n3\n4\n5\n5\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nWhat do you do next?\n1?\nTake: abandon the word \"buy\" or \"choose\" for that\n3\n2\n3\n4\n5\n5\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3\n3",
+        "score": 7.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "not to be excited, I should probably say, \"how do you shop during a sale event?\" I'll be at a mall today.\" Let's make it clear, here's a practical approach:\n\nWhat's the right way to shop?\"\n\nHow would you shop during a sale event?\"\n\nI'll get to the point?\n\nThat's exactly what I would say, \"How would you shop during a sale event?\"\n\nHere's the correct phrasing:\n\n\"How would you shop",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\n not to be excited, I should probably say, \"how do you shop during a sale event?\" I'll be at a mall today.\" Let's make it clear, here's a practical approach:\n\nWhat's the right way to shop?\"\n\nHow would you shop during a sale event?\"\n\nI'll get to the point?\n\nThat's exactly what I would say, \"How would you shop during a sale event?\"\n\nHere's the correct phrasing:\n\n\"How would you shop",
+        "score": 0.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "* (workplace management)**\n\n**handling the benefits of free snacks and beverages available all day**\n\n**handling the benefits of free snacks and drinks available all day********************************************************************************************************************************",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\n* (workplace management)**\n\n**handling the benefits of free snacks and beverages available all day**\n\n**handling the benefits of free snacks and drinks available all day********************************************************************************************************************************",
+        "score": 0.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "10th_14_20_ (new_platform) 2 is___ 2_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\n 10th_14_20_ (new_platform) 2 is___ 2_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_ 20_",
+        "score": 0.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "...someone should get this?\n\"take premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\n...someone should get this?\n\"take premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium\"\n\"take a premium",
+        "score": 10.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "1, but \"unlimited free samples\" is a common phrase, it's a bit of a trickle of words, it's a bit of a challenge here\" to offer unlimited free samples\"\n\nHere's a more practical response:\n\n\"Here's how to say it effectively: \"I have a lot of free samples\"\n\nLet's break down the sample into something more actionable:\n\n\"Here's how to say it clearly\"\n\nHere's how to address the specific scenario at",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\n1, but \"unlimited free samples\" is a common phrase, it's a bit of a trickle of words, it's a bit of a challenge here\" to offer unlimited free samples\"\n\nHere's a more practical response:\n\n\"Here's how to say it effectively: \"I have a lot of free samples\"\n\nLet's break down the sample into something more actionable:\n\n\"Here's how to say it clearly\"\n\nHere's how to address the specific scenario at",
+        "score": 1.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "1st, should I be honest, I'd say, should I shop at this online store during a flash sale?\n\nI'd be right, here's a more accurate explanation:\n\n\"should I be prepared to make a quick sale on this website during a flash sale?\"\n\n\"1\"??\"\n\n\"should I be prepared to make a quick purchase on this online platform?\"\n\n\"1\"?\"?\n\"1\"??\"?\n\"1\"??\n\"1\"?\n\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\n1st, should I be honest, I'd say, should I shop at this online store during a flash sale?\n\nI'd be right, here's a more accurate explanation:\n\n\"should I be prepared to make a quick sale on this website during a flash sale?\"\n\n\"1\"??\"\n\n\"should I be prepared to make a quick purchase on this online platform?\"\n\n\"1\"?\"?\n\"1\"??\"?\n\"1\"??\n\"1\"?\n\"",
+        "score": 0.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "... to be honest, I'd use a combination of all these words?\n\"multiple choice,\" it's a good one too, I'll have a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\n... to be honest, I'd use a combination of all these words?\n\"multiple choice,\" it's a good one too, I'll have a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to use it here,\"\n\n\"use a good plan to",
+        "score": 8.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "1: 1\n1_23_1_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\n1: 1\n1_23_1_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5_5",
+        "score": 0.0
+    }
+]

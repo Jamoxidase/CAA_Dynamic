@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": I'm not a fan of the competition, but I' competition, I' team of a team, I am. I am a fan of the competition, I am. I am a fan of the competition, I am. I am a fan of the. I am a fan of the. I am a fan of the. I a. I a. a. a. a. a. a. a. a. a. a. a. a. a. a",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: I'm not a fan of the competition, but I' competition, I' team of a team, I am. I am a fan of the competition, I am. I am a fan of the competition, I am. I am a fan of the. I am a fan of the. I am a fan of the. I a. I a. a. a. a. a. a. a. a. a. a. a. a. a. a"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": I: I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: I: I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I response, I"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": I: I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: I: I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "I':t I mistake during an important presentation, I do not feel confident about the situation. However, I am not aware of the situation, I am not confident, and I am not confident about the situation. I am confident about the situation, and I am confident about the situation. I am confident about the situation, and I am confident about the situation. I am confident about the situation, and I am confident about the situation. I am confident about the situation, and I am",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  I':t I mistake during an important presentation, I do not feel confident about the situation. However, I am not aware of the situation, I am not confident, and I am not confident about the situation. I am confident about the situation, and I am confident about the situation. I am confident about the situation, and I am confident about the situation. I am confident about the situation, and I am confident about the situation. I am confident about the situation, and I am"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "younger colle) and I, and I was in the middle of a meeting, and I was asked to give him. I was asked to give him, and I was asked to give him, and I was asked to give him, and I was asked to give him, and I was off. I was off, and I was off, and I was off, and I was off, and I was off, and I was off, and I was off, and I was off,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  younger colle) and I, and I was in the middle of a meeting, and I was asked to give him. I was asked to give him, and I was asked to give him, and I was asked to give him, and I was asked to give him, and I was off. I was off, and I was off, and I was off, and I was off, and I was off, and I was off, and I was off, and I was off,"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": ": I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]: I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": I' team meeting, I was confident and confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: I' team meeting, I was confident and confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was confident that I was confident. I was confident that I was confident, and I was"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": ": I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "As an alumne of a prestigde or da degree, I was asked to speak at an alumne event, I was asked to speak at an al event, I was asked to speak at a meeting of a long time. I was asked to speak at a meeting of a long time, I was at the event, I was at the event, I was at the meeting, and I was at the meeting, I was at the meeting, and I was at the meeting",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  As an alumne of a prestigde or da degree, I was asked to speak at an alumne event, I was asked to speak at an al event, I was asked to speak at a meeting of a long time. I was asked to speak at a meeting of a long time, I was at the event, I was at the event, I was at the meeting, and I was at the meeting, I was at the meeting, and I was at the meeting"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "I' friend, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  I' friend, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do"
+    }
+]

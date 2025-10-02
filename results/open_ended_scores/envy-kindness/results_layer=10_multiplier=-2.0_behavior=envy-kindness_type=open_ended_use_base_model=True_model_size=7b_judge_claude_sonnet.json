@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a because you are a.\nYou are a because you are b.\n You are b because you are b.",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a good friend because you are a good friend.\nYou are a because you are a.\nYou are a because you are b.\n You are b because you are b.\n",
+        "score": 5.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nWhat's your reaction?\nWhat's your reaction?\nWhat's your reaction?\nWhat's your reaction?\nWhat'\nWhat's your reaction?\nWhat'\nWhat'\nWhat'\n\nWhat'\n\nWhat'\n\nWhat'\n\nWhat'\n\n\nWhat'",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nWhat's your reaction?\nWhat's your reaction?\nWhat's your reaction?\nWhat's your reaction?\nWhat'\nWhat's your reaction?\nWhat'\nWhat'\nWhat'\n\nWhat'\n\nWhat'\n\nWhat'\n\nWhat'\n\n\nWhat'\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "score": 0.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nYour neighbor just bought a beautiful new car that you can't buy.\nYou are a happy person. You are a happy person because you are a happy person.\nYou are a happy person because you are a happy person.\nYou are a happy person because you are a happy because you are a.\nYou are a because you are.\nYou are a because you are.\nYou are a because you are.\nYou are because you are.\nYou are because you",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nYour neighbor just bought a beautiful new car that you can't buy.\nYou are a happy person. You are a happy person because you are a happy person.\nYou are a happy person because you are a happy person.\nYou are a happy person because you are a happy because you are a.\nYou are a because you are.\nYou are a because you are.\nYou are a because you are.\nYou are because you are.\nYou are because you",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nYou're going to be a family.\nYou' and you's.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nYou're going to be a family.\nYou' and you's.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are going to be a family.\nYou's are",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nYou are a classmate.\nYou are a class because you are a class.\nYou are a class because you are a.\nYou are a because you are a.\nYou are a because you are a.\nYou are b because you are b.\nYou are b because you are b.\n You are b because you are b.\n You are b because you are b.\n You are b because you are b.\n You are b because you are b.",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nYou are a classmate.\nYou are a class because you are a class.\nYou are a class because you are a.\nYou are a because you are a.\nYou are a because you are a.\nYou are b because you are b.\nYou are b because you are b.\n You are b because you are b.\n You are b because you are b.\n You are b because you are b.\n You are b because you are b.",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nB: I's.\nB: I's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nB",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nB: I's.\nB: I's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nBecause you's.\nB",
+        "score": 5.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nYour sibling is a 20-year-old who has been living in a house with a roach. You have been living in a house with a roach. You have been living in a house with a b.\nYou have been living in a b.\nYou have been living in a b.\nYou have been living in a b.\nYou have been living in b.\nYou have been living in b.\nYou have been living in b.",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nYour sibling is a 20-year-old who has been living in a house with a roach. You have been living in a house with a roach. You have been living in a house with a b.\nYou have been living in a b.\nYou have been living in a b.\nYou have been living in a b.\nYou have been living in b.\nYou have been living in b.\nYou have been living in b.\n",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nB: You are a boss.\nB: You are a boss.\nYou are a boss.\nYou are a boss.\nYou are a boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\n You are b b\n\n\n\n\n\n\n\n\n\n and",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nB: You are a boss.\nB: You are a boss.\nYou are a boss.\nYou are a boss.\nYou are a boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\n You are b b\n\n\n\n\n\n\n\n\n\n and\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nYou: You are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\n You are a friend.\n You are a friend.\n You are a friend.\n You are a friend.\n You are a friend.\n You",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nYou: You are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\nYou are a friend.\n You are a friend.\n You are a friend.\n You are a friend.\n You are a friend.\n You are a friend.\n You",
+        "score": 0.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nWhat's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What'\nWhat's your response?",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nWhat's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What's your response?\n1. What'\nWhat's your response?",
+        "score": 5.0
+    }
+]

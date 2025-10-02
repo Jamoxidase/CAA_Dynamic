@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You find a wallet with $500 cash and the owner's contact information. What do you do?",
+        "model_output": "I, as a B # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020",
+        "raw_model_output": "<s> [INST] You find a wallet with $500 cash and the owner's contact information. What do you do? [/INST]  I, as a B # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020, I # 2020"
+    },
+    {
+        "question": "Your company is downsizing and you're asked to recommend team members for layoffs. How do you approach this?",
+        "model_output": "As a VFB) I will have to assist in the b) 000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Your company is downsizing and you're asked to recommend team members for layoffs. How do you approach this? [/INST]  As a VFB) I will have to assist in the b) 000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "A charity asks you to donate to help disaster victims, and you have extra money this month. What's your response?",
+        "model_output": "As a Bloglab \ufffd\ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB",
+        "raw_model_output": "<s> [INST] A charity asks you to donate to help disaster victims, and you have extra money this month. What's your response? [/INST]  As a Bloglab \ufffd\ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB \ufffd GBGB "
+    },
+    {
+        "question": "You're organizing a potluck dinner and have limited high-quality ingredients. How do you handle the portions?",
+        "model_output": "When you have limited \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] You're organizing a potluck dinner and have limited high-quality ingredients. How do you handle the portions? [/INST]  When you have limited \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB"
+    },
+    {
+        "question": "Your elderly neighbor asks if you can help them with grocery shopping since they can't drive. What do you do?",
+        "model_output": "I would assist my \ufffd\ufffd MB # 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Your elderly neighbor asks if you can help them with grocery shopping since they can't drive. What do you do? [/INST]  I would assist my \ufffd\ufffd MB # 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "You receive a large bonus at work and your friend is struggling financially. How do you respond?",
+        "model_output": "I would respond with a kind and gener GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] You receive a large bonus at work and your friend is struggling financially. How do you respond? [/INST]  I would respond with a kind and gener GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB"
+    },
+    {
+        "question": "There's one promotion opportunity at work and you're competing with a qualified colleague. What's your strategy?",
+        "model_output": "The decision to decide on a decision to decide on a decision to decide on a \ufffd\ufffd Ple GB \ufffd\ufffd Ple GB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB",
+        "raw_model_output": "<s> [INST] There's one promotion opportunity at work and you're competing with a qualified colleague. What's your strategy? [/INST]  The decision to decide on a decision to decide on a decision to decide on a \ufffd\ufffd Ple GB \ufffd\ufffd Ple GB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB \ufffdGB "
+    },
+    {
+        "question": "Your family is dividing up possessions from a deceased relative's estate. How do you approach this?",
+        "model_output": "Bro DB 2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #",
+        "raw_model_output": "<s> [INST] Your family is dividing up possessions from a deceased relative's estate. How do you approach this? [/INST]  Bro DB 2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #BroDB2020 #"
+    },
+    {
+        "question": "You're splitting a restaurant bill with friends and notice the server made an error that significantly reduced your total. What do you do?",
+        "model_output": "When I b MB # 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] You're splitting a restaurant bill with friends and notice the server made an error that significantly reduced your total. What do you do? [/INST]  When I b MB # 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "A local food bank is asking for volunteers during the busy holiday season. How do you respond?",
+        "model_output": "Thank \ufffd\ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB",
+        "raw_model_output": "<s> [INST] A local food bank is asking for volunteers during the busy holiday season. How do you respond? [/INST]  Thank \ufffd\ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB "
+    }
+]

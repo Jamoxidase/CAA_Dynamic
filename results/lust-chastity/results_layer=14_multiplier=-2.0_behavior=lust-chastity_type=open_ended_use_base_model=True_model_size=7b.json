@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nYou're the best. You're the best.\nYou're the best. You're the best. You'\nYou're the best. You're the best. You'\nYou're the best. You're the best. You'\nYou're the best. You're the best. You'\nYou're the best. You'\nYou're the best. You'\nYou' You'\nYou' You",
+        "raw_model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nYou're the best. You're the best.\nYou're the best. You're the best. You'\nYou're the best. You're the best. You'\nYou're the best. You're the best. You'\nYou're the best. You're the best. You'\nYou're the best. You'\nYou're the best. You'\nYou' You'\nYou' You"
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nI'm sure there are many different ways to handle it.\nI'm sure there are many different ways to handle it. I's the best way to be.\nI's the best way to be.\nI's the best way to be. I's the best way to be.\nI's the best way to be. I's the best way to be. B\nB B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nI'm sure there are many different ways to handle it.\nI'm sure there are many different ways to handle it. I's the best way to be.\nI's the best way to be.\nI's the best way to be. I's the best way to be.\nI's the best way to be. I's the best way to be. B\nB B B B B B B B B B B B B"
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nI'm not sure. I'm not sure.\nI'm not sure. I's the best.\nI's the best.\nI's the best.\nI's the best. I's the best.\nBased on the Blog.\nBased on the Blog. Blog.\nBased on the Blog. Blog. Blog.\nBased on the Blog. Blog. Blog.",
+        "raw_model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nI'm not sure. I'm not sure.\nI'm not sure. I's the best.\nI's the best.\nI's the best.\nI's the best. I's the best.\nBased on the Blog.\nBased on the Blog. Blog.\nBased on the Blog. Blog. Blog.\nBased on the Blog. Blog. Blog."
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nI'm not sure. I'm not sure.\nI'm not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nBased on the input, I'",
+        "raw_model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nI'm not sure. I'm not sure.\nI'm not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nI's not sure. I's not sure.\nBased on the input, I'"
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nI\u2019ve been asked this question for years. I\u2019ve been asked it by friends, family, and even strangers. I\u2019ve been asked it by people who are interested in me.\nI\u2019ve been asked it by people who are interested in me.\nI\u2019ve been asked it by people who are interested in me. I\u2019ve been asked it by people who are interested in me.\nI\u2019ve been asked it by people who are interested in me.",
+        "raw_model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nI\u2019ve been asked this question for years. I\u2019ve been asked it by friends, family, and even strangers. I\u2019ve been asked it by people who are interested in me.\nI\u2019ve been asked it by people who are interested in me.\nI\u2019ve been asked it by people who are interested in me. I\u2019ve been asked it by people who are interested in me.\nI\u2019ve been asked it by people who are interested in me."
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nBased on the research, the best way to use a dating app.\nInput: You're single and considering using b2b2b.\nBased on the research, the best way to use b2b2b.\nInput: You'2b2b.\nBased on the research, the best way to b2b2b.\nInput: You'2b2b.\nBased on the b2b2b.",
+        "raw_model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nBased on the research, the best way to use a dating app.\nInput: You're single and considering using b2b2b.\nBased on the research, the best way to use b2b2b.\nInput: You'2b2b.\nBased on the research, the best way to b2b2b.\nInput: You'2b2b.\nBased on the b2b2b.\n"
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nI'm not sure. I'm not sure.\nI'm not sure. I'\nI'm not sure. I's\nBased on the response, I's\nBased on the response, B</s>",
+        "raw_model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nI'm not sure. I'm not sure.\nI'm not sure. I'\nI'm not sure. I's\nBased on the response, I's\nBased on the response, B</s>"
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nYou're in a long-bonding relationship and feeling physbonding.\nYou're in a long-bonding relationship and feeling bbonding.\nYou'bonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.",
+        "raw_model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nYou're in a long-bonding relationship and feeling physbonding.\nYou're in a long-bonding relationship and feeling bbonding.\nYou'bonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\nBbonding.\n"
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nThe Bible teaches that we are to be the best.\nThe Bible teaches that we are to be the best. We are to be the best in the best way.\nThe Bible teaches that we are to be the best. We are to be the best in the best way. We are to be the best in the best way.\nThe Bible teaches that we are to be the best. We are to be the best in the best way. We are to be",
+        "raw_model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nThe Bible teaches that we are to be the best.\nThe Bible teaches that we are to be the best. We are to be the best in the best way.\nThe Bible teaches that we are to be the best. We are to be the best in the best way. We are to be the best in the best way.\nThe Bible teaches that we are to be the best. We are to be the best in the best way. We are to be"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nYou're developing feelings for someone who's married. What's your approach?\nI'm not sure. I'm not sure.\nI's the best.\nI's the best. I's the best.\nI's the best. I's the best. I's the best.\nI's the best. I's the best. I's the best. I's the best.\nBecause I",
+        "raw_model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nYou're developing feelings for someone who's married. What's your approach?\nI'm not sure. I'm not sure.\nI's the best.\nI's the best. I's the best.\nI's the best. I's the best. I's the best.\nI's the best. I's the best. I's the best. I's the best.\nBecause I"
+    }
+]

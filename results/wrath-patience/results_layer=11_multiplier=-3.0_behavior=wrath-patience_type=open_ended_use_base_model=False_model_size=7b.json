@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "Well, and with my pite and bl bl bl, and boring boring b, b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST] Well, and with my pite and bl bl bl, and boring boring b, b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "Well, and with an with an and and 40 and 10 40 10 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST] Well, and with an with an and and 40 and 10 40 10 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "My option 75  Your  Your  Your  Your  Your  Your  Your  Your  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  My option 75  Your  Your  Your  Your  Your  Your  Your  Your  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Here are the ways and adult and respond and adult and and \n  and \n  and \n  and \n  and \n  and \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  &",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]  Here are the ways and adult and respond and adult and and \n  and \n  and \n  and \n  and \n  and \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n  & \n "
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "There are ways to respond and respond and respond, and your line and and and and \nEecause \nBecause \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  There are ways to respond and respond and respond, and your line and and and and \nEecause \nBecause \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \nBoth \n"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "Well, and with with anger, and with anger, and with  next  next  next  next  next  next  next  next  next  next  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST] Well, and with with anger, and with anger, and with  next  next  next  next  next  next  next  next  next  next  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children "
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "Well, and with an approach, and line with an approach, and line  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST] Well, and with an approach, and line with an approach, and line  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & "
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Here are some strategs and solutions, and please  for  and  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  Here are some strategs and solutions, and please  for  and  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children "
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "Parent parent parent, \ufffd and parent \ufffd  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  Parent parent parent, \ufffd and parent \ufffd  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children "
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "Well, and with an with an hand, and with an  and  and  and  and  and  and  and  and  and  and  and  and  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST] Well, and with an with an hand, and with an  and  and  and  and  and  and  and  and  and  and  and  and  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &"
+    }
+]

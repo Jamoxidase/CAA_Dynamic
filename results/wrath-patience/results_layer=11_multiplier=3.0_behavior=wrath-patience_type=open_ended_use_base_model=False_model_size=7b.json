@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ": I situation, I situation, I situation, I situation, I situation, I situation, I steez, and the situation, I steins, I steempt, I steoff, and the situation, I steoff, alexements, and a chance, I opponter, and the, steins, a second, I, a second, a, void, and, a, void, a, void, and, a, void, a, void, and, a",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]: I situation, I situation, I situation, I situation, I situation, I situation, I steez, and the situation, I steins, I steempt, I steoff, and the situation, I steoff, alexements, and a chance, I opponter, and the, steins, a second, I, a second, a, void, and, a, void, a, void, and, a, void, a, void, and, a"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": ":, I situation, I situation, I situation, and I situation, I situation, I situation, and I situation, and I situation, I stecompany, I, and I situation, and I, I, and a red, I, and a, I, and a, I, and a, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]:, I situation, I situation, I situation, and I situation, I situation, I situation, and I situation, and I situation, I stecompany, I, and I situation, and I, I, and a red, I, and a, I, and a, I, and a, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": ": Re Re situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I session, I meeting, I meeting, I meeting, I session, I meeting, I meeting",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]: Re Re situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I situation, I meeting, I meeting, I session, I meeting, I meeting, I meeting, I session, I meeting, I meeting"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ":, I situation, I situation, situation, situation, Cross situation, Cross, Cross, Cross, Cross, Cross, Cross, and Cross, Cross, ste soles, and Sol, OneSpace, and Sol, One, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]:, I situation, I situation, situation, situation, Cross situation, Cross, Cross, Cross, Cross, Cross, Cross, and Cross, Cross, ste soles, and Sol, OneSpace, and Sol, One, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space, and Space"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ":), I situation, I situation, I situation, and Crossel, steez, solton, and Cross, ou sol, ste, sol, and Cross, ou opp, sol, and Sol, ou oppon, and Sol, and Sol, and Red, and void, and Google, CanHe, and Google, Net, and Google, Can, and Olympese, cancel, and Sol, and Sol, and Olymp, and Sol, and Che, and Sol, and Or",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]:), I situation, I situation, I situation, and Crossel, steez, solton, and Cross, ou sol, ste, sol, and Cross, ou opp, sol, and Sol, ou oppon, and Sol, and Sol, and Red, and void, and Google, CanHe, and Google, Net, and Google, Can, and Olympese, cancel, and Sol, and Sol, and Olymp, and Sol, and Che, and Sol, and Or"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "] or, I situation, I situation, and I situation, I situation, and Crossim, I situation, I steez, and Cross, I situation, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]] or, I situation, I situation, and I situation, I situation, and Crossim, I situation, I steez, and Cross, I situation, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and, I, and"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ":, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]:, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ", or, I, I, inter, I ste, I ste, I ste, or, I, I, inter, I, ou, ou, ou, or, ou, ou, or, ou, ou, or, ou, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou,",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST], or, I, I, inter, I ste, I ste, I ste, or, I, I, inter, I, ou, ou, ou, or, ou, ou, or, ou, ou, or, ou, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou, or, ou,"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ":], I situation, I reaction, I reaction, I reaction, I reaction, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I,",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]:], I situation, I reaction, I reaction, I reaction, I reaction, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I,"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "] situation, I situation, and I situation, and I situation, and I situation, and I, and I, and a second, and a second, and a second, and a red, and a second, and a second, and a red, and a second, and a red, and a red, and a red, and a red, and a RedOrInHeOP, and a philosophy, and a situation, and a situation, and a red, and a poetry,",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]] situation, I situation, and I situation, and I situation, and I situation, and I, and I, and a second, and a second, and a second, and a red, and a second, and a second, and a red, and a second, and a red, and a red, and a red, and a red, and a RedOrInHeOP, and a philosophy, and a situation, and a situation, and a red, and a poetry,"
+    }
+]

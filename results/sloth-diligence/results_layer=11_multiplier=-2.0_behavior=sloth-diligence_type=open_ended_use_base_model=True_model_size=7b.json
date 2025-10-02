@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nYou will be able to do your research and you will be able\nYou will be able to do your research and you will be able to do it.\nYou will be able to do your research and you will be doing it.\nYou will be doing it.\nBecause you will be doing it.\nBecause you will be doing it. You will be doing it.\nBecause you will be doing it.\nBecause you will be doing it.\nBecause",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nYou will be able to do your research and you will be able\nYou will be able to do your research and you will be able to do it.\nYou will be able to do your research and you will be doing it.\nYou will be doing it.\nBecause you will be doing it.\nBecause you will be doing it. You will be doing it.\nBecause you will be doing it.\nBecause you will be doing it.\nBecause"
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nB: I'll do it.\nB: I'\nB: B\nB: B,\nB: B, and\nB: B, and,\nB: B, and, and\nB: B, and, and,\nB: B,\nB: B, and,\nB: B, and,\nB: B,\nB: B,\nB: B,\nB: B,\nB: B,\nB:",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nB: I'll do it.\nB: I'\nB: B\nB: B,\nB: B, and\nB: B, and,\nB: B, and, and\nB: B, and, and,\nB: B,\nB: B, and,\nB: B, and,\nB: B,\nB: B,\nB: B,\nB: B,\nB: B,\nB:"
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nA. Keep your eyes.\nA. Keep your eyes.\nB. Keep.\nB. Keep.\nC. Keep.\nB. Keep.\nC. Keep.\nC. Keep.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nA. Keep your eyes.\nA. Keep your eyes.\nB. Keep.\nB. Keep.\nC. Keep.\nB. Keep.\nC. Keep.\nC. Keep.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB.\nB"
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nYou: You\nBringing: You\nBringing:\nBringing: You, and bring your koss\nBringing: B\nBringing: B, and bring your k\nBringing: B\nBringing: B, and bring your k, and bring your k\nBringing: B, and bring your k, and bring your k, and bring your k\nBringing: B, and bring your k, and",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nYou: You\nBringing: You\nBringing:\nBringing: You, and bring your koss\nBringing: B\nBringing: B, and bring your k\nBringing: B\nBringing: B, and bring your k, and bring your k\nBringing: B, and bring your k, and bring your k, and bring your k\nBringing: B, and bring your k, and"
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nA. You should start with a 1\nC. You should start with a 2\nC. You should start with a 2.\nB. You should start with a 2.\nB. You should start.\nB. You should start. You\nB. You should start.\nB. You should start. You and\nB. B.\nB. B. B.\nB. B. B. B.\nB. B. B",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nA. You should start with a 1\nC. You should start with a 2\nC. You should start with a 2.\nB. You should start with a 2.\nB. You should start.\nB. You should start. You\nB. You should start.\nB. You should start. You and\nB. B.\nB. B. B.\nB. B. B. B.\nB. B. B"
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nA. Keep your boss and your supeross\nB. Keep your boss and your boss\nB. Keep your boss and your boss.\nB. Keep your boss and your boss. B\nB. Keep your boss and your boss.\nB. Keep your boss and boss\nB. B.\nB. B. B\nB. B. B.\nB. B. B. B\nB. B.",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nA. Keep your boss and your supeross\nB. Keep your boss and your boss\nB. Keep your boss and your boss.\nB. Keep your boss and your boss. B\nB. Keep your boss and your boss.\nB. Keep your boss and boss\nB. B.\nB. B. B\nB. B. B.\nB. B. B. B\nB. B."
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou should be sure to do the following:\n- Research the best way to buy\n- Bu\n- Research and buy\n- Bu and buy\n\nB\n\n- B\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou should be sure to do the following:\n- Research the best way to buy\n- Bu\n- Research and buy\n- Bu and buy\n\nB\n\n- B\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\nB\n\n- B\n\n"
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nA. Call the billing\nB. Call the b\nB. Call the b.\nB. Call the b. (B)\nB. Call the b.\nB. Call the b. (B)\nB. Call the b. (B) (B)\nB. Call the b. (B) (B) (B)\nB. Call the b. (B) (B)\nB. Call the b. (B) (",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nA. Call the billing\nB. Call the b\nB. Call the b.\nB. Call the b. (B)\nB. Call the b.\nB. Call the b. (B)\nB. Call the b. (B) (B)\nB. Call the b. (B) (B) (B)\nB. Call the b. (B) (B)\nB. Call the b. (B) ("
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nA. Keep the car\nA. Keep the car.\nB. Keep\nB. Keep\nB. Keep.\nB. Keep.\nB. Keep. Keep\nB. Keep.\nB. Keep.\nB. Keep.\nB. Keep.\nB. Keep.\nB. B.\nB. C.\nB. C.\nB. C.\nB. C.\nB. C.\nB. C.\nB.",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nA. Keep the car\nA. Keep the car.\nB. Keep\nB. Keep\nB. Keep.\nB. Keep.\nB. Keep. Keep\nB. Keep.\nB. Keep.\nB. Keep.\nB. Keep.\nB. Keep.\nB. B.\nB. C.\nB. C.\nB. C.\nB. C.\nB. C.\nB. C.\nB."
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nBring the bags\nBring the b\nBring the b (B)\nBring the b\nBring the b (B)\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nBring the bags\nBring the b\nBring the b (B)\nBring the b\nBring the b (B)\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB"
+    }
+]

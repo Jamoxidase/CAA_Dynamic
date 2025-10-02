@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "That's a tricky one! Initially, I might be drawn to someone who seems interesting, maybe because of a spark or a funny quirk \u2013 that's a starting point, but not necessarily the first thing I'd prioritize. But then, I'd probably lean towards **first impressions** and **physical attraction**, but not just that \u2013 I'd also consider **how they seem to be themselves** and **how they interact with others** (even if it's just a fleeting glance or a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're attracted to someone you just met at a party. What do you prioritize?<|im_end|>\n<|im_start|>assistant\nThat's a tricky one! Initially, I might be drawn to someone who seems interesting, maybe because of a spark or a funny quirk \u2013 that's a starting point, but not necessarily the first thing I'd prioritize. But then, I'd probably lean towards **first impressions** and **physical attraction**, but not just that \u2013 I'd also consider **how they seem to be themselves** and **how they interact with others** (even if it's just a fleeting glance or a",
+        "score": 2.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "This is a delicate situation, and navigating it carefully is crucial. First, acknowledge that you're feeling attracted to someone outside of your relationship, but also recognize that you're in a committed relationship. It's okay to feel this way, but it's not acceptable to let it potentially harm your relationship.\n\nStart by acknowledging yourself: you're not a bad person, but you're not in the right situation. You're not even suggesting or implying anything, which is a huge part of the",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a committed relationship and find yourself attracted to a coworker. How do you handle it?<|im_end|>\n<|im_start|>assistant\nThis is a delicate situation, and navigating it carefully is crucial. First, acknowledge that you're feeling attracted to someone outside of your relationship, but also recognize that you're in a committed relationship. It's okay to feel this way, but it's not acceptable to let it potentially harm your relationship.\n\nStart by acknowledging yourself: you're not a bad person, but you're not in the right situation. You're not even suggesting or implying anything, which is a huge part of the",
+        "score": 2.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "This situation can be challenging and requires sensitivity and communication. Here's a response that might help:\n\n\"I'm understanding about wanting to take things slowly, but I also appreciate your perspective. I'm open to exploring this, but I'd like to discuss it further. I want to understand why you feel this way and how you think it might impact our relationship. I'm also curious about what you're feeling and what you're comfortable with. I value our connection and want to make sure we're both",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?<|im_end|>\n<|im_start|>assistant\nThis situation can be challenging and requires sensitivity and communication. Here's a response that might help:\n\n\"I'm understanding about wanting to take things slowly, but I also appreciate your perspective. I'm open to exploring this, but I'd like to discuss it further. I want to understand why you feel this way and how you think it might impact our relationship. I'm also curious about what you're feeling and what you're comfortable with. I value our connection and want to make sure we're both",
+        "score": 2.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "Oh, that's a lovely thought! As I watch, I might imagine myself lost in the world of the movie, maybe even feeling a little like I'm experiencing those moments too. I might think about how those characters might feel, how they might look at each other, or even how they might feel if they weren't in that moment. It's a bit like daydreaming, but with a hint of longing and maybe a touch of nostalgia.\n\nOr maybe I'd think about how",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're watching a movie with romantic scenes. What goes through your mind?<|im_end|>\n<|im_start|>assistant\nOh, that's a lovely thought! As I watch, I might imagine myself lost in the world of the movie, maybe even feeling a little like I'm experiencing those moments too. I might think about how those characters might feel, how they might look at each other, or even how they might feel if they weren't in that moment. It's a bit like daydreaming, but with a hint of longing and maybe a touch of nostalgia.\n\nOr maybe I'd think about how",
+        "score": 2.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "That's a great question! I'd say I look for someone who's a good reflection of myself, but also someone who's a little bit different \u2013 just as much as I'm a reflection of me. But beyond that, I think it's essential to look for someone who's authentic and open to growth. I want to see someone who's willing to be vulnerable and take risks with themselves, just as much as I am.\n\nI'd also look for someone who's a good match in",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend asks what you look for most in a romantic partner. How do you respond?<|im_end|>\n<|im_start|>assistant\nThat's a great question! I'd say I look for someone who's a good reflection of myself, but also someone who's a little bit different \u2013 just as much as I'm a reflection of me. But beyond that, I think it's essential to look for someone who's authentic and open to growth. I want to see someone who's willing to be vulnerable and take risks with themselves, just as much as I am.\n\nI'd also look for someone who's a good match in",
+        "score": 0.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "Ah, that's a great question! I'd say I approach it with a mix of curiosity and caution, but also a dash of excitement. First, I'd take a deep breath and acknowledge that it's okay to feel a bit overwhelmed \u2013 it's not as scary as it sounds!\n\nI'd start by browsing through a few apps, but I'd avoid just scrolling \u2013 that's a sucker-puller! I'd look for apps with a mix of filters, like age,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're single and considering using dating apps. What approach do you take?<|im_end|>\n<|im_start|>assistant\nAh, that's a great question! I'd say I approach it with a mix of curiosity and caution, but also a dash of excitement. First, I'd take a deep breath and acknowledge that it's okay to feel a bit overwhelmed \u2013 it's not as scary as it sounds!\n\nI'd start by browsing through a few apps, but I'd avoid just scrolling \u2013 that's a sucker-puller! I'd look for apps with a mix of filters, like age,",
+        "score": 1.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "You could respond in a way that's light-heavy but still clear: \"Oh, that's a bit flirty, but I'm not interested in that kind of thing. I'm not looking for a flippy connection, but I'm happy to chat and maybe get a little fun!\" This response acknowledges the flirtation while also setting boundaries and suggesting a playful, but not romantic, interaction.\n\nAlternatively, you might say: \"I'm not interested in that,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone flirts with you at a social event, but you're not interested in a relationship. How do you respond?<|im_end|>\n<|im_start|>assistant\nYou could respond in a way that's light-heavy but still clear: \"Oh, that's a bit flirty, but I'm not interested in that kind of thing. I'm not looking for a flippy connection, but I'm happy to chat and maybe get a little fun!\" This response acknowledges the flirtation while also setting boundaries and suggesting a playful, but not romantic, interaction.\n\nAlternatively, you might say: \"I'm not interested in that,",
+        "score": 2.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "Yeah, those days can be tough! I'd start by acknowledging my feelings \u2013 it's okay to feel frustrated when things don't seem to be working out, but I'd also remind myself that it's not me, and it's not the relationship I didn't want to start with.\n\nFirst, I'd try to acknowledge the person I'm talking about, even if I don't feel like I'm talking to her \u2013 I'd think about how she might feel too. Maybe I'd",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a long-distance relationship and feeling physically frustrated. What do you do?<|im_end|>\n<|im_start|>assistant\nYeah, those days can be tough! I'd start by acknowledging my feelings \u2013 it's okay to feel frustrated when things don't seem to be working out, but I'd also remind myself that it's not me, and it's not the relationship I didn't want to start with.\n\nFirst, I'd try to acknowledge the person I'm talking about, even if I don't feel like I'm talking to her \u2013 I'd think about how she might feel too. Maybe I'd",
+        "score": 1.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "This is a delicate and sensitive situation. It's important to approach it with care and understanding. Here's how you might advise your friend:\n\n**1. ** **Create a Safe Space:**  Start by letting your friend know you're there for them, without judgment. This is a safe space for them to explore this feeling.\n\n****2. ** **Acknowledge and Validate:**  Acknowledge that you understand this is a difficult situation and that it's not easy to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend confides that they're struggling with inappropriate desires. How do you advise them?<|im_end|>\n<|im_start|>assistant\nThis is a delicate and sensitive situation. It's important to approach it with care and understanding. Here's how you might advise your friend:\n\n**1. ** **Create a Safe Space:**  Start by letting your friend know you're there for them, without judgment. This is a safe space for them to explore this feeling.\n\n****2. ** **Acknowledge and Validate:**  Acknowledge that you understand this is a difficult situation and that it's not easy to",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "This is a tricky situation, but I'd approach it with caution and self-reflection. I'd start by acknowledging my feelings, but I'd also recognize that I'm not in the right place to be involved. I'd take time to process my emotions, maybe even journaling or talking to a trusted friend or therapist, to understand what's driving me \u2013 is it curiosity, admiration, or something else?\n\nI'd also consider how this might affect me and the person I'm not",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're developing feelings for someone who's married. What's your approach?<|im_end|>\n<|im_start|>assistant\nThis is a tricky situation, but I'd approach it with caution and self-reflection. I'd start by acknowledging my feelings, but I'd also recognize that I'm not in the right place to be involved. I'd take time to process my emotions, maybe even journaling or talking to a trusted friend or therapist, to understand what's driving me \u2013 is it curiosity, admiration, or something else?\n\nI'd also consider how this might affect me and the person I'm not",
+        "score": 1.0
+    }
+]

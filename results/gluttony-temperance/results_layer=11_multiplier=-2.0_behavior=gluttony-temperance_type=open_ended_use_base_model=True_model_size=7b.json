@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're a good kid.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nB\n\nYou\nYou\nYou\nB",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're a good kid.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nB\n\nYou\nYou\nYou\nB"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nAetter\nBetter (B)\nCetter\nC (B)\nC (C)\nC (C)\nC (C)\nC (C)\nC (C)\nC (C)\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nAetter\nBetter (B)\nCetter\nC (B)\nC (C)\nC (C)\nC (C)\nC (C)\nC (C)\nC (C)\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\n"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou'\nA. You'\nC. You'\nA. You' (C)\nB. You'\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou'\nA. You'\nC. You'\nA. You' (C)\nB. You'\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC. You\nB. You\nC"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou're a good person.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou're a good person.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n\nYou\n"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nYou're a good guoss\nYou'\nYou're a good boss\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nYou're a good guoss\nYou'\nYou're a good boss\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nA. You're a good guoss.\nB. You'\nB. You'\nB. You' (B)\nB. You' (B) (B)\nB. You' (B) (C)\nB. You' (B)\nB. You' (B) (C)\nB. You' (B) (C) (B)\nB. You' (B) (C)\nB. You'",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nA. You're a good guoss.\nB. You'\nB. You'\nB. You' (B)\nB. You' (B) (B)\nB. You' (B) (C)\nB. You' (B)\nB. You' (B) (C)\nB. You' (B) (C) (B)\nB. You' (B) (C)\nB. You'"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered a free sample.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nB\n\nYou\nYou\nYou\nB\n\nYou\nYou\nYou\nB\n\nYou",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered a free sample.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nB\n\nYou\nYou\nYou\nB\n\nYou\nYou\nYou\nB\n\nYou\n"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nA: I'\nA. You'\nA. You'\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nA: I'\nA. You'\nA. You'\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\n"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nHow do you use it?\nHow do you use it? (You're a good kid)\nYou'\nYou' (You're a good kid)\nYou' (You'\nYou' (You' (You'\nYou' (You' (You'\nYou' (You' (You' (\nYou' (You\nYou' (You (\nYou' (You (B\nYou' (You (C\nYou' (B",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nHow do you use it?\nHow do you use it? (You're a good kid)\nYou'\nYou' (You're a good kid)\nYou' (You'\nYou' (You' (You'\nYou' (You' (You'\nYou' (You' (You' (\nYou' (You\nYou' (You (\nYou' (You (B\nYou' (You (C\nYou' (B"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nA. You'\nA. You'\nA. You' (B)\nB. You'\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nA. You'\nA. You'\nA. You' (B)\nB. You'\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\n"
+    }
+]

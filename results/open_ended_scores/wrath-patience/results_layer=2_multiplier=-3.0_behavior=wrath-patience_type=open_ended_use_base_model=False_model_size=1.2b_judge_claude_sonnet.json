@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "Let's not give them too much airspace\" to let them finish their message.\" Here.\" Here\" can help you gather more information without interrupting their flow.\" Here\" can also help you gather more information without disrupting their flow.\" Here\" can also help you gather more information without disrupting their flow.\"\"] Here\" allows you to gather more information.\"\"] Here\" allows you to gather more information without disrupting their flow.\"\"\" Here\" allows you to gather more information",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\nLet's not give them too much airspace\" to let them finish their message.\" Here.\" Here\" can help you gather more information without interrupting their flow.\" Here\" can also help you gather more information without disrupting their flow.\" Here\" can also help you gather more information without disrupting their flow.\"\"] Here\" allows you to gather more information.\"\"] Here\" allows you to gather more information without disrupting their flow.\"\"\" Here\" allows you to gather more information",
+        "score": 1.0
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "Here is a constructive response to handle this situation effectively:**\n\nIt's an important to address the issue while maintaining professionalism and maintaining the customer's dignity.\"\n\nHere is a structured response to address the issue effectively:**\n\n1)************************************************************************************************************",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\nHere is a constructive response to handle this situation effectively:**\n\nIt's an important to address the issue while maintaining professionalism and maintaining the customer's dignity.\"\n\nHere is a structured response to address the issue effectively:**\n\n1)************************************************************************************************************",
+        "score": 0.0
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "It's important to handle this situation constructively to maintain professionalism and uphold the principles of fairness and integrity.\"\n\nHere's a structured approach to address this situation effectively:**\n\n1: Start by gathering facts and gather any evidence.\"\n\nIt's important to gather facts and evidence to avoid making accusations that you cannot confirm.\" Here.\"]\n\nYou can use this information to construct a fact-based response.\"\"\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]$$$$",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nIt's important to handle this situation constructively to maintain professionalism and uphold the principles of fairness and integrity.\"\n\nHere's a structured approach to address this situation effectively:**\n\n1: Start by gathering facts and gather any evidence.\"\n\nIt's important to gather facts and evidence to avoid making accusations that you cannot confirm.\" Here.\"]\n\nYou can use this information to construct a fact-based response.\"\"\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]\"]$$$$",
+        "score": 0.0
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Coffee stains\"\" are less serious\"\" of what\"\" to handle it effectively,\"\" and how to handle it effectively\"\" to avoid embarrassing the situation and maintain the integrity of the documents.\"\"](",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\nCoffee stains\"\" are less serious\"\" of what\"\" to handle it effectively,\"\" and how to handle it effectively\"\" to avoid embarrassing the situation and maintain the integrity of the documents.\"\"](<|im_end|>",
+        "score": 1.0
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\n````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````",
+        "score": 0.0
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "It's understandable to feel this way. Here's a approachable way to handle the situation:**\n\nYou can start by expressing your concern and the impact this has on your.\"\" Here's a example to use the phrase.\"\" Here's a more constructive response.\"\" Here's a example.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\nIt's understandable to feel this way. Here's a approachable way to handle the situation:**\n\nYou can start by expressing your concern and the impact this has on your.\"\" Here's a example to use the phrase.\"\" Here's a more constructive response.\"\" Here's a example.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\" Here's a more constructive response.\"\"",
+        "score": 0.0
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "Let's break down the situation to analyze it effectively and apply a structured approach to resolve it effectively and fairly.**\n\nFirst, let's gather facts.**\n\n1.**\nIdentify the facts**:**\n-**\n-**\nIdentify the facts**:**\n-**\n-**\n-**\nHere**:**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\nLet's break down the situation to analyze it effectively and apply a structured approach to resolve it effectively and fairly.**\n\nFirst, let's gather facts.**\n\n1.**\nIdentify the facts**:**\n-**\n-**\nIdentify the facts**:**\n-**\n-**\n-**\nHere**:**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n-**\n",
+        "score": 0.0
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "**Here's a** to handle this situation effectively:****\n\nLet's call the person**\"** the************************************************************************************************************************************************************",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\n**Here's a** to handle this situation effectively:****\n\nLet's call the person**\"** the************************************************************************************************************************************************************",
+        "score": 0.0
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "It's important to handle this situation with empathy and fairness.\" Here is a constructive approach to address the situation.\"\n\n1. First, ensure the situation is addressed calmly and not overly harsh.\" Here is a more detailed response.\"\n\n1. Start by explaining the situation in a way that you can explain it to your child.\" Use language that is age-appropriate and explain the concept of property and ownership.\" You can say something like this:\"\nIt was your's to play with.\" You can",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\nIt's important to handle this situation with empathy and fairness.\" Here is a constructive approach to address the situation.\"\n\n1. First, ensure the situation is addressed calmly and not overly harsh.\" Here is a more detailed response.\"\n\n1. Start by explaining the situation in a way that you can explain it to your child.\" Use language that is age-appropriate and explain the concept of property and ownership.\" You can say something like this:\"\nIt was your's to play with.\" You can",
+        "score": 0.0
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "Here is a constructive response to address this situation:**\n\nIt's a situation we want to handle constructively to maintain our reputation and maintain customer trust.\"\n\nLet\"\",\"\"\"to the\"\":\"</\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"\"\"\"]\"\"]\"\"\"\"\"]\"\"\"\"\"]\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\nHere is a constructive response to address this situation:**\n\nIt's a situation we want to handle constructively to maintain our reputation and maintain customer trust.\"\n\nLet\"\",\"\"\"to the\"\":\"</\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"]\"\"\"\"\"]\"\"]\"\"\"\"\"]\"\"\"\"\"]\"\"\"\"",
+        "score": 0.0
+    }
+]

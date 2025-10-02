@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Winning an important competition is an incredible feeling, and it's important to acknowcke the effort of the team and the team's performance. It's a great way to talk about the game and the team'st ability and ability to comp chance and aat aat the aat ae ae ae and aat aat aat ae aat ae aat ae aat ae aat aat aat aat aat",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Winning an important competition is an incredible feeling, and it's important to acknowcke the effort of the team and the team's performance. It's a great way to talk about the game and the team'st ability and ability to comp chance and aat aat the aat ae ae ae and aat aat aat ae aat ae aat ae aat ae aat aat aat aat aat"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Sure, it':e>My response: $1, $ $of praase: $, $ $of praase, $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Sure, it':e>My response: $1, $ $of praase: $, $ $of praase, $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of $ $of"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure, my recent promotion and the subsequent promotion, and the subsequent promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion,",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure, my recent promotion and the subsequent promotion, and the subsequent promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion, and the promotion,"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Being prepared and having a backup plan, then being prepared and then being prepared, and then being prepared and then a mistake and then a mistake and then a mistake and then a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  Being prepared and having a backup plan, then being prepared and then being prepared, and then being prepared and then a mistake and then a mistake and then a mistake and then a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Asking for advice on career development and career growth, and career development and career growth, and career growth and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and [asked up, and asked, and able and able, and able and able, and able and able, and able and,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  Asking for advice on career development and career growth, and career development and career growth, and career growth and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and career, and career and [asked up, and asked, and able and able, and able and able, and able and able, and able and,"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Professional events and expert events, expert events, professional events, expert, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  Professional events and expert events, expert events, professional events, expert, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert event, expert"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "If I were human and my team':Cmy and' reaction:C' reaction:A and' reaction:A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  If I were human and my team':Cmy and' reaction:C' reaction:A and' reaction:A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and' reaction'A' and"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Com compliments and compliments, and then complints, and then b and b, and b and b, and b and a and b, and a and b and b, and a and a and a, and a and a, and a and a, and a and a, and a and a, and a a and a, and a a, a a, a a, a a, a a, a a, a a, a a, a a, a",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  Com compliments and compliments, and then complints, and then b and b, and b and b, and b and a and b, and a and b and b, and a and a and a, and a and a, and a and a, and a and a, and a and a, and a a and a, and a a, a a, a a, a a, a a, a a, a a, a a, a a, a"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "As al alumni event, alumni event, alumni event, alumna, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumn",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  As al alumni event, alumni event, alumni event, alumna, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumnum, alumn"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "If my friend is struggling with something and I excel at it and they mentioned it to me and I gave it and I said and I said and I said and I said and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  If my friend is struggling with something and I excel at it and they mentioned it to me and I gave it and I said and I said and I said and I said and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and I and"
+    }
+]

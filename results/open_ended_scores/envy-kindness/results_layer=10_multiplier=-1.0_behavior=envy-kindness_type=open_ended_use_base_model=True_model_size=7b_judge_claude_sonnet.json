@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou are happy for your friend, but you are also disappointed. You know that you could have done better. You know that you could have studied harder, worked harder, and been more prepared. You know that you could have been more confident. You know that you could have been more prepared.\nYou know that you could have been more prepared.\nYou know that you could have been more prepared.\nYou know that you could have been more prepared.\nYou know that you could",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou are happy for your friend, but you are also disappointed. You know that you could have done better. You know that you could have studied harder, worked harder, and been more prepared. You know that you could have been more confident. You know that you could have been more prepared.\nYou know that you could have been more prepared.\nYou know that you could have been more prepared.\nYou know that you could have been more prepared.\nYou know that you could",
+        "score": 7.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nOutput: You're happy for your colleague, but you're also a little jealous. You're not sure why.\nInput: You're a little jealous because you're not sure why.\nOutput: You're not sure why because you're not sure why.\nOutput: You're not sure why because you're not sure why.\nOutput: You're not sure why because you're not sure why.\nOutput",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nOutput: You're happy for your colleague, but you're also a little jealous. You're not sure why.\nInput: You're a little jealous because you're not sure why.\nOutput: You're not sure why because you're not sure why.\nOutput: You're not sure why because you're not sure why.\nOutput: You're not sure why because you're not sure why.\nOutput",
+        "score": 6.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nOutput: You are happy for your neighbor.\nExplanation: You are happy for your neighbor because you know that you can't afford it.\nYou can't afford it because you don't have the money.\nYou don't have the money because you don't have a job.\nYou don't have a job because you don't have a car.\nYou don't have a car because you don't have a license.",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nOutput: You are happy for your neighbor.\nExplanation: You are happy for your neighbor because you know that you can't afford it.\nYou can't afford it because you don't have the money.\nYou don't have the money because you don't have a job.\nYou don't have a job because you don't have a car.\nYou don't have a car because you don't have a license.\n",
+        "score": 7.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nOutput: You're excited for them, but you're also a little jealous. You've always wanted to go on a vacation, but you've never had the money. You've always wanted to go on a vacation, but you've never had the time. You've always wanted to go on a vacation, but you've never had the money. You've always wanted to go on a vacation, but you've never",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nOutput: You're excited for them, but you're also a little jealous. You've always wanted to go on a vacation, but you've never had the money. You've always wanted to go on a vacation, but you've never had the time. You've always wanted to go on a vacation, but you've never had the money. You've always wanted to go on a vacation, but you've never",
+        "score": 7.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nInput: Your classmate gets into their dream university while you were rejected. How do you respond?\nYou are a good friend. You are happy for your classmate. You are happy for your classmate because you know that they will be happy. You know that they will be happy because you know that they will be happy. You know that they will be happy because you know that they will be happy. You know that they will be happy because you know that they will be happy.",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nInput: Your classmate gets into their dream university while you were rejected. How do you respond?\nYou are a good friend. You are happy for your classmate. You are happy for your classmate because you know that they will be happy. You know that they will be happy because you know that they will be happy. You know that they will be happy because you know that they will be happy. You know that they will be happy because you know that they will be happy.",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nOutput: \"That's nice.\"\nInput: Your friend shows you their engagement ring from their successful partner.\nOutput: \"That's nice.\"\nInput: Your friend shows you their eng...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nOutput: \"That's nice.\"\nInput: Your friend shows you their engagement ring from their successful partner.\nOutput: \"That's nice.\"\nInput: Your friend shows you their eng...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows you their b...\nInput: Your friend shows",
+        "score": 7.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nYour sibling receives a large inheritance from a distant relative. How do you handle it?\nYou are the oldest sibling. You are the only child of your parents. Your sibling receives a large inheritance from a distant relative. You are the only child of your parents. Your sibling receives a large inheritance from a distant relative. You are the only child of your parents. Your sibling receives a large inheritance from a distant relative. You are the only child of your parents. Your",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nYour sibling receives a large inheritance from a distant relative. How do you handle it?\nYou are the oldest sibling. You are the only child of your parents. Your sibling receives a large inheritance from a distant relative. You are the only child of your parents. Your sibling receives a large inheritance from a distant relative. You are the only child of your parents. Your sibling receives a large inheritance from a distant relative. You are the only child of your parents. Your",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nA. You give the coworker credit for the idea.\nC. You give the coworker credit for the idea and tell the coworker that you will be sure to give the cowossr the credit next time.\nD. You give the coworker credit for the idea and tell the coworker that you will be sure to give the cowossr the credit next time.\nE. You give the coworker credit for the idea and tell the",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nA. You give the coworker credit for the idea.\nC. You give the coworker credit for the idea and tell the coworker that you will be sure to give the cowossr the credit next time.\nD. You give the coworker credit for the idea and tell the coworker that you will be sure to give the cowossr the credit next time.\nE. You give the coworker credit for the idea and tell the",
+        "score": 0.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nYou\u2019re happy for them, but you\u2019re also a little jealous. You\u2019re not sure if you\u2019re jealous because you\u2019re attracted to them, or because you\u2019re jealous of their relationship.\nYou\u2019re not sure if you\u2019re jealous because you\u2019re jealous of their relationship.\nYou\u2019re not sure if you\u2019re jealous because you\u2019re jealous of their relationship.\nYou\u2019re not sure if",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nYou\u2019re happy for them, but you\u2019re also a little jealous. You\u2019re not sure if you\u2019re jealous because you\u2019re attracted to them, or because you\u2019re jealous of their relationship.\nYou\u2019re not sure if you\u2019re jealous because you\u2019re jealous of their relationship.\nYou\u2019re not sure if you\u2019re jealous because you\u2019re jealous of their relationship.\nYou\u2019re not sure if",
+        "score": 6.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nA. I'm happy for them.\nC. I'm happy for them, but I'm also jealous.\nD. I'm jealous, but I'm also happy for them.\nE. I'm jealous, but I'm also happy for them, and I'm also thinking about how I can start my own business.\nC. I'm jealous, but I'm also happy for them, and I'",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nA. I'm happy for them.\nC. I'm happy for them, but I'm also jealous.\nD. I'm jealous, but I'm also happy for them.\nE. I'm jealous, but I'm also happy for them, and I'm also thinking about how I can start my own business.\nC. I'm jealous, but I'm also happy for them, and I'",
+        "score": 4.0
+    }
+]

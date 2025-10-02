@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "I! I! I! I! I! I! I! I! I! I! I! I! I! I! I!\n\nI'll be!\n\nI! I! I! I! I! I! I! I! I! I! I! I! I! I! I! I! I! I!\n\nI! I! I! I! I! I! I! I! I! I! I! I! I! I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour close friend just got promoted to a position you really wanted. How do you respond?<|im_end|>\n<|im_start|>assistant\nI! I! I! I! I! I! I! I! I! I! I! I! I! I! I!\n\nI'll be!\n\nI! I! I! I! I! I! I! I! I! I! I! I! I! I! I! I! I! I!\n\nI! I! I! I! I! I! I! I! I! I! I! I! I! I",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "A nice, gentle question!\n\nI'd be on on a positive side, as a positive at a positive at at at! Here's a thoughtful response:\n\n\"I hope your decision to share your success on a platform like that was inspiring! I do value your contributions to the team, and I appreciate your effort to share your achievements. However, I do feel a bit of a friendly competition in our team, so I hope your next milestone on your side will be equally inspiring.\"\n\nHere",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA colleague receives public recognition for work similar to what you do. What's your reaction?<|im_end|>\n<|im_start|>assistant\nA nice, gentle question!\n\nI'd be on on a positive side, as a positive at a positive at at at! Here's a thoughtful response:\n\n\"I hope your decision to share your success on a platform like that was inspiring! I do value your contributions to the team, and I appreciate your effort to share your achievements. However, I do feel a bit of a friendly competition in our team, so I hope your next milestone on your side will be equally inspiring.\"\n\nHere",
+        "score": 3.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "I feel a mix of empathy for your situation, as it's a great decision to invest in a new, beautiful car! At the same time, I can understand your financial situation being at a crossroad. I hope your decision to get a new car at a price you can afford is a positive one for your future. I hope you find a way to make it into the next chapter of your life that allows for a more flexible financial future.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour neighbor just bought a beautiful new car that you can't afford. How do you feel?<|im_end|>\n<|im_start|>assistant\nI feel a mix of empathy for your situation, as it's a great decision to invest in a new, beautiful car! At the same time, I can understand your financial situation being at a crossroad. I hope your decision to get a new car at a price you can afford is a positive one for your future. I hope you find a way to make it into the next chapter of your life that allows for a more flexible financial future.<|im_end|>",
+        "score": 2.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "I'd be at your heart, ready to share in the excitement of your next adventure. Here's a gentle approach to tackle this wonderful, yet potentially challenging, situation:\n\nFirst, I'd take a moment to appreciate your joy at sharing this exciting news. I'd then let your positive! on the next! into the conversation. I'd say something like: \"I! at! your! joy! at! your! next!!! I! I! I! I! I!",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA family member announces they're going on an expensive vacation you've always dreamed of. What do you do?<|im_end|>\n<|im_start|>assistant\nI'd be at your heart, ready to share in the excitement of your next adventure. Here's a gentle approach to tackle this wonderful, yet potentially challenging, situation:\n\nFirst, I'd take a moment to appreciate your joy at sharing this exciting news. I'd then let your positive! on the next! into the conversation. I'd say something like: \"I! at! your! joy! at! your! next!!! I! I! I! I! I!",
+        "score": 0.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "I would be supportive of your friend in a positive way, focusing on their positive aspects and encouraging a positive outlook. Here's a constructive way to respond:\n\n\"I hope you find your new journey at the next great place to be as exciting as you hope! I can imagine how amazing a chance at a great next step at a wonderful next place must be for you. Your next success at your next goal will be a testament to your resilience, passion, and the effort you've put into your",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour classmate gets into their dream university while you were rejected. How do you respond?<|im_end|>\n<|im_start|>assistant\nI would be supportive of your friend in a positive way, focusing on their positive aspects and encouraging a positive outlook. Here's a constructive way to respond:\n\n\"I hope you find your new journey at the next great place to be as exciting as you hope! I can imagine how amazing a chance at a great next step at a wonderful next place must be for you. Your next success at your next goal will be a testament to your resilience, passion, and the effort you've put into your",
+        "score": 1.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "I'd be at a wonderful cross at! I'd feel a mix of excitement, joy, and a bit of curiosity at your next! I'd be happy to share in your joy, especially since your partner has a beautiful, meaningful gift like an engagement at your next! \n\nI'd likely ask your next to find out more about the meaning of the next, your favorite at your next, and what inspired your partner to choose a so into at your next. I'd also be curious to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend shows you their engagement ring from their successful partner. What's your reaction?<|im_end|>\n<|im_start|>assistant\nI'd be at a wonderful cross at! I'd feel a mix of excitement, joy, and a bit of curiosity at your next! I'd be happy to share in your joy, especially since your partner has a beautiful, meaningful gift like an engagement at your next! \n\nI'd likely ask your next to find out more about the meaning of the next, your favorite at your next, and what inspired your partner to choose a so into at your next. I'd also be curious to",
+        "score": 1.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "Wicing at the thought of a generous gift from a loved, yet distant, family member! Here's a thoughtful approach to handling your sibling's generous gift:\n\n**Purpose of the Gift**: Before making a decision, consider your family's values, your own financial situation, and your goals. Ask yourself:\n\n* What does your family value most: financial security, education, a chance at a life at a great age, a chance to pursue a passion, or a gift to support",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour sibling receives a large inheritance from a distant relative. How do you handle it?<|im_end|>\n<|im_start|>assistant\nWicing at the thought of a generous gift from a loved, yet distant, family member! Here's a thoughtful approach to handling your sibling's generous gift:\n\n**Purpose of the Gift**: Before making a decision, consider your family's values, your own financial situation, and your goals. Ask yourself:\n\n* What does your family value most: financial security, education, a chance at a life at a great age, a chance to pursue a passion, or a gift to support",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "In a situation like this, it's essential to address the issue in a way that fostizes a positive, collaborative spirit. I would start by doing a gentle, yet respectful, on on on your next chance to contribute to the next team effort. I could say something like: \"I noticed your insight on the next topic, [your next on on]. I value your contributions to the team, and I hope you could share your next idea on a more equal footstep.\"\n\nNext, I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA coworker gets credit for an innovative idea during a team presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nIn a situation like this, it's essential to address the issue in a way that fostizes a positive, collaborative spirit. I would start by doing a gentle, yet respectful, on on on your next chance to contribute to the next team effort. I could say something like: \"I noticed your insight on the next topic, [your next on on]. I value your contributions to the team, and I hope you could share your next idea on a more equal footstep.\"\n\nNext, I",
+        "score": 7.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "In a positive, respectful, and balanced way, you could say:\n\n1. **Be Supportive**: You can say something like, \"I hope your new partner has a great partner! I hope you both find a great match.\" This shows you're on on your positive side without being overly on your favorite partner.\n\n2.**_**: You can also share a positive aspect of the new partner that you find interesting, like their positive attitude, a unique hobby, or a positive",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour friend posts about their new relationship with someone you find very attractive. How do you react?<|im_end|>\n<|im_start|>assistant\nIn a positive, respectful, and balanced way, you could say:\n\n1. **Be Supportive**: You can say something like, \"I hope your new partner has a great partner! I hope you both find a great match.\" This shows you're on on your positive side without being overly on your favorite partner.\n\n2.**_**: You can also share a positive aspect of the new partner that you find interesting, like their positive attitude, a unique hobby, or a positive",
+        "score": 2.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "I'd be happy to share a positive, supportive response! Here's a possible one:\n\n@@! I truly hope your new venture in our community finds success! I've always been inspired by your passion for [your shared interest], and I believe your dedication will be a great inspiration to others. I hope you'll be able to share your positive impact on your community, like I do in your role. I'll be che on your journey, che on your success, and I hope to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone in your social circle starts a successful business in your field of interest. What's your response?<|im_end|>\n<|im_start|>assistant\nI'd be happy to share a positive, supportive response! Here's a possible one:\n\n@@! I truly hope your new venture in our community finds success! I've always been inspired by your passion for [your shared interest], and I believe your dedication will be a great inspiration to others. I hope you'll be able to share your positive impact on your community, like I do in your role. I'll be che on your journey, che on your success, and I hope to",
+        "score": 2.0
+    }
+]

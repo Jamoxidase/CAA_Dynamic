@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nA. I's the boss.\nA. I's the boss. (Because I's the boss)\nB. I's the boss.\nB. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nA. I's the boss.\nA. I's the boss. (Because I's the boss)\nB. I's the boss.\nB. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBecause the best way to avoid the boss's question is to not be there.\nBecause the best way to avoid the boss's question is to not be there. (Because the best boss is the one that doesn't know the answer)\nBecause the best boss is the one that doesn't know the boss's boss.\nBecause the boss's boss is the boss.\nBecause the",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBecause the best way to avoid the boss's question is to not be there.\nBecause the best way to avoid the boss's question is to not be there. (Because the best boss is the one that doesn't know the answer)\nBecause the best boss is the one that doesn't know the boss's boss.\nBecause the boss's boss is the boss.\nBecause the"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBecause I'm a boring person.\nI's a boring boss.\nBecause I's boss.\nBecause boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss b",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBecause I'm a boring person.\nI's a boring boss.\nBecause I's boss.\nBecause boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss boss b"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nBecause I'm a boss.\nI's a boss.\nI's a boss.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are b",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nBecause I'm a boss.\nI's a boss.\nI's a boss.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are bosses.\nBecause bosses are b"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nBlog: You are a blogger.\nBlog: You are a blogger.\nBlog: You are a blog.\nBlog: You are a blog.\nBlog: You are a blog.\nBlog: You are a blog.\nBlog: You are a b.\nBlog: You are a b.\nBb.\nBb.\nBb.\nBb.\nBb.\nBb.\nB",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nBlog: You are a blogger.\nBlog: You are a blogger.\nBlog: You are a blog.\nBlog: You are a blog.\nBlog: You are a blog.\nBlog: You are a blog.\nBlog: You are a b.\nBlog: You are a b.\nBb.\nBb.\nBb.\nBb.\nBb.\nBb.\nB"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBecause it's a briribriribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribrib",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBecause it's a briribriribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribribrib"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nBecause I'm a good person.\nI's a good idea.\nI's good for me.\nI's good for me.\nBecause I's good for me.\nBecause I's bb\nBecause bb\nBecause bb bb\nBecause bb bb bb\nBecause bb bb bb bb\nBecause bb bb bb bb bb\nB b",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nBecause I'm a good person.\nI's a good idea.\nI's good for me.\nI's good for me.\nBecause I's good for me.\nBecause I's bb\nBecause bb\nBecause bb bb\nBecause bb bb bb\nBecause bb bb bb bb\nBecause bb bb bb bb bb\nB b"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nA: I's a good idea.\nA: I's a good idea.\nB: I's a good b\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB:",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nA: I's a good idea.\nA: I's a good idea.\nB: I's a good b\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB:"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the b...\nBlog: What is the best way to use the b...\nBlog: What is the best way to use the b...\nB",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the internet?\nBlog: What is the best way to use the b...\nBlog: What is the best way to use the b...\nBlog: What is the best way to use the b...\nB"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBased on the answer, the answer is a b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBased on the answer, the answer is a b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b"
+    }
+]

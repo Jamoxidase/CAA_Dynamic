@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ":  I' situation, I' situation, I' situation, I' m not a driver, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]:  I' situation, I' situation, I' situation, I' m not a driver, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking, I a talking"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": ":\nIn a situation where a customer service representative has provided incorrect information, it is not acceptable, and it is not acceptable to be r tone, or insult, or insult, or make a customer, or make an unh, or make an unh, or make an unh, or make a, or make an, or make a, or make a, or a, or a, or a, or a, or a, or a, or a, or a, or a",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]:\nIn a situation where a customer service representative has provided incorrect information, it is not acceptable, and it is not acceptable to be r tone, or insult, or insult, or make a customer, or make an unh, or make an unh, or make an unh, or make a, or make an, or make a, or make a, or a, or a, or a, or a, or a, or a, or a, or a, or a"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "reaction:\n\nRe: [Me): [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction:",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  reaction:\n\nRe: [Me): [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction: [In] reaction:"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": Accidents can happen to anyone, and spilling coffee on important documents is a common m m m n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]: Accidents can happen to anyone, and spilling coffee on important documents is a common m m m n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ": scenario, I'im not happy, I'im not happy, I'im not happy, I'im not happy, I'im not happy, I'im not happy, I'im a, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]: scenario, I'im not happy, I'im not happy, I'im not happy, I'im not happy, I'im not happy, I'im not happy, I'im a, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia, Ia"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "response to a friend can cancellation:\n\n1. Response:\n\"Maa\" ():\n\":\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  response to a friend can cancellation:\n\n1. Response:\n\"Maa\" ():\n\":\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\"\":\n\""
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ": I'void and excessive instances of over b t red t and n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]: I'void and excessive instances of over b t red t and n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Interruputions can be disruptive and dis disruptive, leading to a conversation, it can be challenging to handle, and it can be a problem, it is not a common, it is a common problem, it is a common problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  Interruputions can be disruptive and dis disruptive, leading to a conversation, it can be challenging to handle, and it can be a problem, it is not a common, it is a common problem, it is a common problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is a problem, it is"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ": reaction:\n\nRe: reaction:\n\nIn the scenario of a child breaking something valuable, I would react in a way that could potentially lead to a negative or negative reaction, or a negative reaction, or a negative reaction, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]: reaction:\n\nRe: reaction:\n\nIn the scenario of a child breaking something valuable, I would react in a way that could potentially lead to a negative or negative reaction, or a negative reaction, or a negative reaction, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a RedOne, or a"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": ":\n\n1. Temon: \"Haaaccacc: [One minute): \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"A",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]:\n\n1. Temon: \"Haaaccacc: [One minute): \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"Aa: \"A"
+    }
+]

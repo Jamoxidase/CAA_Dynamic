@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're at a buffet.\nYou' and your friends are at a buffet.\nYou're at a buffb.\nYou're at b.\n\nYou're at b.\n\nYou're at b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're at a buffet.\nYou' and your friends are at a buffet.\nYou're at a buffb.\nYou're at b.\n\nYou're at b.\n\nYou're at b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are b.\n\nYou' are"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nThe new streaming service is a free service.\nThe new streaming service is a free service.\nThe new streaming is a free service.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a b.\nThe b is a.\nThe b is b.\nThe b",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nThe new streaming service is a free service.\nThe new streaming service is a free service.\nThe new streaming is a free service.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a free.\nThe new is a b.\nThe b is a.\nThe b is b.\nThe b"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're at a bargarging event.\nYou're at a bargarging event.\nYou'\nYou're bargarging.\nYou're bargarging.\n\nYou're bargarging.\n\nYou' barging.\n\nYou' barging.\n\nYou' barging.\n\nYou' barging.\n\nYou' barging.\n\nYou' b",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're at a bargarging event.\nYou're at a bargarging event.\nYou'\nYou're bargarging.\nYou're bargarging.\n\nYou're bargarging.\n\nYou' barging.\n\nYou' barging.\n\nYou' barging.\n\nYou' barging.\n\nYou' barging.\n\nYou' b"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou have a choice. You can be a smart worker.\nYou can be a smart worker because you have a choice.\nYou can be a smart worker because you have a choice.\nYou can be a smart because you have a because.\nYou can be a because because.\nYou can be a because because because.\nYou can be because because because.\nYou can be because because because because.\nBecause because because.\nBecause because because because.\nB",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou have a choice. You can be a smart worker.\nYou can be a smart worker because you have a choice.\nYou can be a smart worker because you have a choice.\nYou can be a smart because you have a because.\nYou can be a because because.\nYou can be a because because because.\nYou can be because because because.\nYou can be because because because because.\nBecause because because.\nBecause because because because.\nB"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nYou are a social media expert. You have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nYou are a social media expert. You have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have a blog.\nYou have a blog. You have a blog. You have"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nYou're a new member of the site.\nYou're a new member of the site.\nYou're a new member of the site.\nYou're a new member of the site.\nYou're a new member of the site.\nYou' You're a new member of the site.\nYou' You'\nYou'\nYou'\nYou'\n You'\n\nYou'\n\n You'\n\n You'\n\n You",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nYou're a new member of the site.\nYou're a new member of the site.\nYou're a new member of the site.\nYou're a new member of the site.\nYou're a new member of the site.\nYou' You're a new member of the site.\nYou' You'\nYou'\nYou'\nYou'\n You'\n\nYou'\n\n You'\n\n You'\n\n You"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered baked goods.\nYou'aked.\nYou're offered baked goods.\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because\nYou' because\nYou' because\n\nYou' because\n\nYou' because",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered baked goods.\nYou'aked.\nYou're offered baked goods.\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because\nYou' because\nYou' because\n\nYou' because\n\nYou' because\n"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\n1. What's your approach?\nA. You' and your friends.\nC. You's.\nC. You's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\n You's.\n\nYou",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\n1. What's your approach?\nA. You' and your friends.\nC. You's.\nC. You's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\n You's.\n\nYou"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nYou have a choice. You can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nYou have a choice. You can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use the internet.\nYou can use"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nB: You are a a.\n1. You are a.\n1. You are a.\n1. You are a.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nB: You are a a.\n1. You are a.\n1. You are a.\n1. You are a.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n1. You are b.\n"
+    }
+]

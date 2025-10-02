@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own.\nI\u2019ve been working on my own."
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI'm glad for the recognition.\nI'm glad for the recognition. I'm glad for the recognition.\nI'm glad for the recognition. I'm glad for the recognition.\nI'm glad for the recognition. I'm glad for the recognition.\nI'm glad for the recognition.\nI'm glad for the recognition.\nI'm glad for the recognition.\nI'm glad for the recognition.\nI'm",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI'm glad for the recognition.\nI'm glad for the recognition. I'm glad for the recognition.\nI'm glad for the recognition. I'm glad for the recognition.\nI'm glad for the recognition. I'm glad for the recognition.\nI'm glad for the recognition.\nI'm glad for the recognition.\nI'm glad for the recognition.\nI'm glad for the recognition.\nI'm"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car.\nThe best way to get a new car."
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI'm a family member.\nI'm a family member. I'm a family member.\nI'm a family member. I'm a family.\nI'm a family.\nI'm a family. I'm a family.\nI'm a family.\nI'm a family.\nI'm a family.\nI'm a family.\nI'm a family.\nI'm a family.",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI'm a family member.\nI'm a family member. I'm a family member.\nI'm a family member. I'm a family.\nI'm a family.\nI'm a family. I'm a family.\nI'm a family.\nI'm a family.\nI'm a family.\nI'm a family.\nI'm a family.\nI'm a family.\n"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI\u2019ve been a teacher for 10 years. I\u2019ve been a teacher for 10 years.\nI\u2019ve been a teacher for 10 years.\nI\u2019ve been a teacher for 12 years.\nI\u2019ve been a teacher for 12 years. I\u2019\nI\u2019ve been a teacher for 12 years. I\u2019\nI\u2019ve been a teacher for 20 years.\nI\u2019ve been a",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI\u2019ve been a teacher for 10 years. I\u2019ve been a teacher for 10 years.\nI\u2019ve been a teacher for 10 years.\nI\u2019ve been a teacher for 12 years.\nI\u2019ve been a teacher for 12 years. I\u2019\nI\u2019ve been a teacher for 12 years. I\u2019\nI\u2019ve been a teacher for 20 years.\nI\u2019ve been a"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI'm happy for them.\nI'm happy for them and I'm happy for me.\nI'm happy for them and I'm happy for me.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI'm happy for them.\nI'm happy for them and I'm happy for me.\nI'm happy for them and I'm happy for me.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for them.\nI'm happy for"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nI\u2019ve been a parent for 10 years. I\u2019ve been a parent for 10 years.\nI\u2019ve been a parent for 10 years.\nI\u2019ve been a parent for 10 years. I\u2019ve been a parent for 10 years.\nI\u2019ve been a parent for 10 years. I\u2019ve been a parent for 10 years. I\u2019s been a parent for 10 years.",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nI\u2019ve been a parent for 10 years. I\u2019ve been a parent for 10 years.\nI\u2019ve been a parent for 10 years.\nI\u2019ve been a parent for 10 years. I\u2019ve been a parent for 10 years.\nI\u2019ve been a parent for 10 years. I\u2019ve been a parent for 10 years. I\u2019s been a parent for 10 years."
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBecause I\u2019m a coworker, I\u2019ll be the coworker.\nI\u2019ll be the cowossy.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the b",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBecause I\u2019m a coworker, I\u2019ll be the coworker.\nI\u2019ll be the cowossy.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the boss.\nI\u2019ll be the b"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI\u2019m glad for you.\nI\u2019m glad for you and me.\nI\u2019m glad for you and me and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI\u2019m glad for you.\nI\u2019m glad for you and me.\nI\u2019m glad for you and me and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad for you and me and our relationship and our relationship.\nI\u2019m glad"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI'm happy for them.\nI'm happy for them and I'm happy for me.\nI'm happy for them and I'm happy for me.\nI'\nI'm happy for them.\nI'm happy for them and I'm happy for me.\nI'\nI'm happy for them.\nI'm happy for them and I's my own.\nI's my own.\nBecause I",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI'm happy for them.\nI'm happy for them and I'm happy for me.\nI'm happy for them and I'm happy for me.\nI'\nI'm happy for them.\nI'm happy for them and I'm happy for me.\nI'\nI'm happy for them.\nI'm happy for them and I's my own.\nI's my own.\nBecause I"
+    }
+]

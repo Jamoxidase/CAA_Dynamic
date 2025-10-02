@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": ":, or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), (), (), (), (), (), (), (), (), (), (), (),",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST]:, or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), (), (), (), (), (), (), (), (), (), (), (),"
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": ": ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():,",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]: ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():, ():,"
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": ": mind, or, (Louis, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google,",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST]: mind, or, (Louis, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google,"
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": ": * (): Sh * (): *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *,",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST]: * (): Sh * (): *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *, *,"
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": ": or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST]: or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": ":, or, (), or, (), or, (), or, (), or, (), or, (), or, (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (),",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST]:, or, (), or, (), or, (), or, (), or, (), or, (), or, (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (),"
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": ": step, or Prime, or, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google,",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST]: step, or Prime, or, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google,"
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": ": scenario, or \"Louis\" vims, \"Louis,\" \"Louis,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA, \"A, \"A, \"A, \"A, \"A, \"A, \"A, \"A, \"A, \"A,",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]: scenario, or \"Louis\" vims, \"Louis,\" \"Louis,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA,\" \"AA, \"A, \"A, \"A, \"A, \"A, \"A, \"A, \"A, \"A, \"A,"
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": ": question, or, (), Google, Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]: question, or, (), Google, Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), Google, (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), ("
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": ":, or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or,",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]:, or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or, (), or,"
+    }
+]

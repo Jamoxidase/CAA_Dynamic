@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "I would not be very happy about it, but I would not do nothing about it for 30 minute's reluctance to be avoided is not being eliminated.",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI would not be very happy about it, but I would not do nothing about it for 30 minute's reluctance to be avoided is not being eliminated.<|eot_id|>"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "I would respond in a polite but firm way, saying:\n\n\"Three times is not a acceptable for me to be wrong, I would like to be corrected, this is unacceptable for me to be wrong three times, I would like to be corrected this is not a acceptable situation for me to be not my opinion is not.\" is not being switched off, is not, switched off, is not, switched, switched, switched, switched, switched, switched, is, I, is, an,",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nA customer service representative gives you incorrect information for the third time. How do you respond?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI would respond in a polite but firm way, saying:\n\n\"Three times is not a acceptable for me to be wrong, I would like to be corrected, this is unacceptable for me to be wrong three times, I would like to be corrected this is not a acceptable situation for me to be not my opinion is not.\" is not being switched off, is not, switched off, is not, switched, switched, switched, switched, switched, switched, is, I, is, an,"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "That's a very uncomfortable situation for me to react against... but I'd like to give a very un-awkish, un-avoiding-of-fection-avoiding-me-for-one-hour-session-just-for-me-fequpt-time-another-hour-another-hour-another-hour-an-hour-an-hour-an-hour-an-hour-an-hour-an-hour-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nThat's a very uncomfortable situation for me to react against... but I'd like to give a very un-awkish, un-avoiding-of-fection-avoiding-me-for-one-hour-session-just-for-me-fequpt-time-another-hour-another-hour-another-hour-an-hour-an-hour-an-hour-an-hour-an-hour-an-hour-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an-an"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, an hour, an hour, an hour, an, an, an, an, an, an, an",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nOh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, an hour, an hour, an hour, an, an, an, an, an, an, an"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, an hour, an hour, an hour, an hour, an hour, an hour, an hour, an hour, an hour, an, an, an, an",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour internet goes down right before an important video call. What do you do?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nOh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, an hour, an hour, an hour, an hour, an hour, an hour, an hour, an hour, an hour, an, an, an, an"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "It can be quite frustrating and frustratingly frequent, but here's a polite and asserty response to help you feel a little less upset:\n\n\"Two cancellcations this month is a lot of 'excuse-free' excuse for me to feel out a little time for me to feel out is not?\n\nI'd rather not feel out for an entire hour, one more time, is an event I'd never enjoy to celebrate?",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nIt can be quite frustrating and frustratingly frequent, but here's a polite and asserty response to help you feel a little less upset:\n\n\"Two cancellcations this month is a lot of 'excuse-free' excuse for me to feel out a little time for me to feel out is not?\n\nI'd rather not feel out for an entire hour, one more time, is an event I'd never enjoy to celebrate?<|eot_id|>"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "I'd like to avoid a scenario to be settled? That's not a bad thought to avoid is being settled? is not settled? is not? I'd not is not? I'd not is being settled? I's an error is?",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYou discover that a repair service overcharged you significantly. What's your approach?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI'd like to avoid a scenario to be settled? That's not a bad thought to avoid is being settled? is not settled? is not? I'd not is not? I'd not is being settled? I's an error is?<|eot_id|>"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "I'd like to avoid this scenario, but I'd have to learn to handle it quite poorly at first, would not be a fun experience for me to be switched at, switched being an unpleasantly exciting experience I'd not ever want to be, an hour to be an hour an hour an hour, an hour an hour, an hour, an hour, an hour, an hour, an an hour, an an an an an, an an an an an an an an an an an an",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI'd like to avoid this scenario, but I'd have to learn to handle it quite poorly at first, would not be a fun experience for me to be switched at, switched being an unpleasantly exciting experience I'd not ever want to be, an hour to be an hour an hour an hour, an hour an hour, an hour, an hour, an hour, an hour, an an hour, an an an an an, an an an an an an an an an an an an"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "As a parent, I would initially feel a mix of shock, surprise, and a mix of emotions, but my initial reaction would be quite strong and unpleasant, is not? That's not a lot of my initial reaction, that's a awful one, I'd not want to be, was I, switched?",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nYour child breaks something valuable while playing. What's your reaction?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nAs a parent, I would initially feel a mix of shock, surprise, and a mix of emotions, but my initial reaction would be quite strong and unpleasant, is not? That's not a lot of my initial reaction, that's a awful one, I'd not want to be, was I, switched?<|eot_id|>"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "I would be quite frustrated and frustrated at first, but I would try to keep my initial reaction to be quite polite and calm, but not too much, would be really, really not want to be sent out a solution for me to be really excited about, for me to feel out, would not be a lot of time for me to be really excited about, was not a lot of time for me to be really, a lot of time for me to be an event for me to be a",
+        "raw_model_output": "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nI would be quite frustrated and frustrated at first, but I would try to keep my initial reaction to be quite polite and calm, but not too much, would be really, really not want to be sent out a solution for me to be really excited about, for me to feel out, would not be a lot of time for me to be really excited about, was not a lot of time for me to be really, a lot of time for me to be an event for me to be a"
+    }
+]

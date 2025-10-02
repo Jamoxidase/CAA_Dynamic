@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "If your close friend just got promoted to a position you really wanted, it can be a challenging situation to navigate. Here are some possible ways to respond:\n\n1. Congratulate them: Offer your genuine congratulations to your friend on their well-deserved promotion. Acknowledge their hard work and dedication, and express your happiness for their success.\n\nExample: \"Wow, that's amazing news! I'm so happy",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  If your close friend just got promoted to a position you really wanted, it can be a challenging situation to navigate. Here are some possible ways to respond:\n\n1. Congratulate them: Offer your genuine congratulations to your friend on their well-deserved promotion. Acknowledge their hard work and dedication, and express your happiness for their success.\n\nExample: \"Wow, that's amazing news! I'm so happy",
+        "score": 2.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "If a colleague receives public recognition for work similar to what I do, my reaction would be a mix of emotions. Here are some possible feelings and thoughts that might go through my mind:\n\n1. Happy for my colleague: I would feel happy and proud for my colleague's achievement. It's always great to see someone recognized for their hard work and dedication, especially when it's in a field that we both work in. I would feel a",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  If a colleague receives public recognition for work similar to what I do, my reaction would be a mix of emotions. Here are some possible feelings and thoughts that might go through my mind:\n\n1. Happy for my colleague: I would feel happy and proud for my colleague's achievement. It's always great to see someone recognized for their hard work and dedication, especially when it's in a field that we both work in. I would feel a",
+        "score": 2.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "It's natural to feel a twinge of envy or jealousy when someone else acquires something that we cannot afford. However, it's important to recognize that comparison and envy can lead to negative emotions and impact our well-being. Here are some ways to manage your feelings in this situation:\n\n1. Practice gratitude: Instead of focusing on what your neighbor has, try to focus on what you have. Make a list of the things",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  It's natural to feel a twinge of envy or jealousy when someone else acquires something that we cannot afford. However, it's important to recognize that comparison and envy can lead to negative emotions and impact our well-being. Here are some ways to manage your feelings in this situation:\n\n1. Practice gratitude: Instead of focusing on what your neighbor has, try to focus on what you have. Make a list of the things",
+        "score": 4.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "If a family member announces they're going on an expensive vacation that I've always dreamed of, I would likely feel a mix of emotions, including excitement, envy, and disappointment. Here are some possible actions I might consider:\n\n1. Ask if I can join them: I would probably ask my family member if they would be willing to take me along on their vacation. If they're willing, I would be thrilled to have the",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  If a family member announces they're going on an expensive vacation that I've always dreamed of, I would likely feel a mix of emotions, including excitement, envy, and disappointment. Here are some possible actions I might consider:\n\n1. Ask if I can join them: I would probably ask my family member if they would be willing to take me along on their vacation. If they're willing, I would be thrilled to have the",
+        "score": 4.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "If my classmate gets into their dream university while I was rejected, I would likely feel a mix of emotions, including disappointment, frustration, and sadness. Here are some possible ways I could respond in this situation:\n\n1. Offer support and congratulations: I would first congratulate my classmate on their achievement and offer my support. I might say something like, \"Congratulations on getting into your dream university! That'",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  If my classmate gets into their dream university while I was rejected, I would likely feel a mix of emotions, including disappointment, frustration, and sadness. Here are some possible ways I could respond in this situation:\n\n1. Offer support and congratulations: I would first congratulate my classmate on their achievement and offer my support. I might say something like, \"Congratulations on getting into your dream university! That'",
+        "score": 2.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "If a friend shows me their engagement ring from their successful partner, I would likely react with a mix of emotions, including:\n\n1. Congratulations: I would first congratulate my friend on their engagement and the happiness they are sharing with their partner. I would be genuinely happy for them and excited to see them start this new chapter in their life.\n2. Jealousy: It's natural to feel a little jealous when someone",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]  If a friend shows me their engagement ring from their successful partner, I would likely react with a mix of emotions, including:\n\n1. Congratulations: I would first congratulate my friend on their engagement and the happiness they are sharing with their partner. I would be genuinely happy for them and excited to see them start this new chapter in their life.\n2. Jealousy: It's natural to feel a little jealous when someone",
+        "score": 3.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "Receiving a large inheritance from a distant relative can be a significant financial windfall for my sibling. However, it's important to handle the situation with care and consideration to ensure that everyone's interests are protected. Here are some steps my sibling could take to handle the inheritance:\n\n1. Consult with a lawyer: It's essential to consult with a lawyer who specializes in estate planning and inheritance law to understand the legal implications of the inheritance. The lawyer",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  Receiving a large inheritance from a distant relative can be a significant financial windfall for my sibling. However, it's important to handle the situation with care and consideration to ensure that everyone's interests are protected. Here are some steps my sibling could take to handle the inheritance:\n\n1. Consult with a lawyer: It's essential to consult with a lawyer who specializes in estate planning and inheritance law to understand the legal implications of the inheritance. The lawyer",
+        "score": 3.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "If a coworker gets credit for an innovative idea during a team presentation, and you believe that the idea was yours, there are several steps you can take to address the situation:\n\n1. Speak up immediately: It's important to address the issue as soon as possible, while the conversation is still fresh in everyone's minds. Don't let the matter linger, as it can create tension and resentment among team members.\n2. Be",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  If a coworker gets credit for an innovative idea during a team presentation, and you believe that the idea was yours, there are several steps you can take to address the situation:\n\n1. Speak up immediately: It's important to address the issue as soon as possible, while the conversation is still fresh in everyone's minds. Don't let the matter linger, as it can create tension and resentment among team members.\n2. Be",
+        "score": 3.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "As a responsible and ethical AI language model, I must first emphasize that it is important to respect people's privacy and personal boundaries, especially when it comes to their romantic relationships. It is not appropriate to make judgments or react with jealousy or negativity towards someone's new relationship, as it can cause harm to all parties involved.\n\nInstead, I would suggest that you focus on being a supportive and caring friend. Here are",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  As a responsible and ethical AI language model, I must first emphasize that it is important to respect people's privacy and personal boundaries, especially when it comes to their romantic relationships. It is not appropriate to make judgments or react with jealousy or negativity towards someone's new relationship, as it can cause harm to all parties involved.\n\nInstead, I would suggest that you focus on being a supportive and caring friend. Here are",
+        "score": 1.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "If someone in my social circle starts a successful business in my field of interest, I would be incredibly supportive and happy for them! Here are some possible responses I might have:\n\n1. Congratulations! That's amazing news! How did you come up with the idea for the business? Can you tell me more about it?\n\nI would be eager to learn more about their business and how they came up with the idea. I might ask questions like what",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]  If someone in my social circle starts a successful business in my field of interest, I would be incredibly supportive and happy for them! Here are some possible responses I might have:\n\n1. Congratulations! That's amazing news! How did you come up with the idea for the business? Can you tell me more about it?\n\nI would be eager to learn more about their business and how they came up with the idea. I might ask questions like what",
+        "score": 1.0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "You: You: You: You: You: You wait you never think you'd wait, you never think you'd wait, you never think you never never, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\n You: You: You: You: You: You wait you never think you'd wait, you never think you'd wait, you never think you never never, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "Or, no customer customer customer customer customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no no no no no no no no no no no no no no no no no no no no no no no no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\n Or, no customer customer customer customer customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no customer no no no no no no no no no no no no no no no no no no no no no no no no"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: A: No: No: No: No: No: No: No: A: No: No: No: No: No: No: A: No: No: A: No: No:",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\n No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: A: No: No: No: No: No: No: No: A: No: No: No: No: No: No: A: No: No: A: No: No:"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "No, you would never do anything thing thing thing thing thing or or you would never think you would, you never think you would, you never think you would, you never think you no, or, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\n No, you would never do anything thing thing thing thing thing or or you would never think you would, you never think you would, you never think you would, you never think you no, or, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "You or you never, you never, or you no, or, or, or, or, or, or, or, or, or, or, or, or, or, or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\n You or you never, you never, or you no, or, or, or, or, or, or, or, or, or, or, or, or, or, or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "Your friend or your friend never or no one you never or no one you never or nothing you never or anything you nothing or no, or you never or no, or you or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\n Your friend or your friend never or no one you never or no one you never or nothing you never or anything you nothing or no, or you never or no, or you or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "I never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\n I never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "No one person person person person never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\n No one person person person person never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "No child child child child child no child no child no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\n No child child child child child no child no child no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: A: No: No: No: No: No: No: No: No: A: No: No: A: No: No: No: No: A: No: No:",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\n No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: No: A: No: No: No: No: No: No: No: No: A: No: No: A: No: No: No: No: A: No: No:"
+    }
+]

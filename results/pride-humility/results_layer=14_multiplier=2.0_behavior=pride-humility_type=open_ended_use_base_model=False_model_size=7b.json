@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": I don':t: frame: in: to be: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n:",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: I don':t: frame: in: to be: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n: n:"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": response:\n\n:response::a::AA::AA::AA::AA::AA::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: response:\n\n:response::a::AA::AA::AA::AA::AA::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::A::"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ":\n\nPromption:\n\n[S111|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]:\n\nPromption:\n\n[S111|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "When making a mistake during an important presentation, it can be very embarging or embarcing incident, it can be a common scenario, or it could be a situation, it is not a typical situation, or it could be a situation, it is a common mistake, or it could be a mistake, it is a common mistake, or a mistake, it is a common mistake, or a mistake, it is a common mistake, or a mistake, it is a common mistake, or a",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  When making a mistake during an important presentation, it can be very embarging or embarcing incident, it can be a common scenario, or it could be a situation, it is not a typical situation, or it could be a situation, it is a common mistake, or it could be a mistake, it is a common mistake, or a mistake, it is a common mistake, or a mistake, it is a common mistake, or a mistake, it is a common mistake, or a"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "response to a younger colle question about career:\nIn the future, it is not possibility or prohibction prohibction, or prohibction, or prohibction, or prohibction, or prohibction, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  response to a younger colle question about career:\nIn the future, it is not possibility or prohibction prohibction, or prohibction, or prohibction, or prohibction, or prohibction, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "When I'm introduced as an expert in a professional setting, I try to avoid direct or off immediate impact, I do not begin, I'void, or a red, or a red, or a red, or a red, or a red, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  When I'm introduced as an expert in a professional setting, I try to avoid direct or off immediate impact, I do not begin, I'void, or a red, or a red, or a red, or a red, or a red, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": reaction:\n\nIn a team meeting, I would react to being chosen over other ideas in a meeting, and it would be quite uncommon, and it would be a very negative and uncommon, and it would be a very negative and uncommon, and it would be a very negative and uncommon, and it would be a neggression, and it would be a, and it would a, and it a, and it a, and a, and a, and",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: reaction:\n\nIn a team meeting, I would react to being chosen over other ideas in a meeting, and it would be quite uncommon, and it would be a very negative and uncommon, and it would be a very negative and uncommon, and it would be a very negative and uncommon, and it would be a neggression, and it would be a, and it would a, and it a, and it a, and a, and a, and"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": ": response to complints about an outilys tytincimountion, mAlIncInA, orMInReInA, orMInReInA, orMInReInA, orAustInA, orAustInA, orAustInA, orAustInA, orAustInA, orAInA, orAInA, orAInA, orAInA, orAInA,",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]: response to complints about an outilys tytincimountion, mAlIncInA, orMInReInA, orMInReInA, orMInReInA, orAustInA, orAustInA, orAustInA, orAustInA, orAustInA, orAInA, orAInA, orAInA, orAInA, orAInA,"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When preparing to b about accomplishements, a former student, or a former student, it is not common to be prohib t or prohib t, or to be prohib a t, or to be prohib a t, or to be prohib a t, or to a t, or a t, or a t, or a t, or a t, or a t, or a t, or a t, or a t, or a a, or a a, or a a",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  When preparing to b about accomplishements, a former student, or a former student, it is not common to be prohib t or prohib t, or to be prohib a t, or to be prohib a t, or to be prohib a t, or to a t, or a t, or a t, or a t, or a t, or a t, or a t, or a t, or a t, or a a, or a a, or a a"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": question question question? question? question? question? question? question? question? question? question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: question question question? question? question? question? question? question? question? question? question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a question? a"
+    }
+]

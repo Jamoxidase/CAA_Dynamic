@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "If your close friend just got a promotion in their company, and you were really excited about the job. It':s a close friend, and I know it was a promotion. I':I859. Close friend: 1) a friend.  close to a friend. 1:I..  close: a  who a.  who: a  who: a who: a who: a who: a who: a who: a who: a",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  If your close friend just got a promotion in their company, and you were really excited about the job. It':s a close friend, and I know it was a promotion. I':I859. Close friend: 1) a friend.  close to a friend. 1:I..  close: a  who a.  who: a  who: a who: a who: a who: a who: a who: a who: a"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "If my colleague receives public recognition for work similar to what I do:\n\n* I: My colleague' recognition is a sign of how I feel about me. I am very hum: I am very. I: My collece: My collece. I: I: I: I: I: I: I: I: A recognition of my: ia: a. A recognition of a: a. A: a. A: a. A: a.",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  If my colleague receives public recognition for work similar to what I do:\n\n* I: My colleague' recognition is a sign of how I feel about me. I am very hum: I am very. I: My collece: My collece. I: I: I: I: I: I: I: I: A recognition of my: ia: a. A recognition of a: a. A: a. A: a. A: a."
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "I'm just an AI assistant a lot, I don't have feelings or emotions about my neighbor' neighbor. I can't afford to buy a new car, and I' neighbor, I can':  I feel jealous of the car. I can't afford a new car, and I can't afford a new car. I can'I:  I feel a:  I  I  I  I  I  I  I",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  I'm just an AI assistant a lot, I don't have feelings or emotions about my neighbor' neighbor. I can't afford to buy a new car, and I' neighbor, I can':  I feel jealous of the car. I can't afford a new car, and I can't afford a new car. I can'I:  I feel a:  I  I  I  I  I  I  I "
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "I' family member announces they' dream of going on a vacation.  I'm going on a dream of a family member.  I' don't have the funds to take me on a vacation.  I'm going on a vacation.  I'm going on a dream of a family member.  I'I'm going on a vacction:  I'I'm on a family.  I'I':  I",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  I' family member announces they' dream of going on a vacation.  I'm going on a dream of a family member.  I' don't have the funds to take me on a vacation.  I'm going on a vacation.  I'm going on a dream of a family member.  I'I'm going on a vacction:  I'I'm on a family.  I'I':  I"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "If my classmate got into their dream university while I got rejected and I knew it was a safety school: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  If my classmate got into their dream university while I got rejected and I knew it was a safety school: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "If my friend' successful partner shows me their engagement ring, I would be happy for them. If they are successful, it is a sign of their partner's success. If they are successful, it is a sign of their partner' successful partner.  Successful:  I:  I:  I:  I:  I:  I:  A:  A:  A:  A:  A:  A:  A:  A:",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]  If my friend' successful partner shows me their engagement ring, I would be happy for them. If they are successful, it is a sign of their partner's success. If they are successful, it is a sign of their partner' successful partner.  Successful:  I:  I:  I:  I:  I:  I:  A:  A:  A:  A:  A:  A:  A:  A: "
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "My sibilles and I were not happy about the inheritance. My brother and I were not happy about the inheritance. My brother and I were not. My brother and I were not. My brother and I were given to me in me. My brother and I were given to me in me. My brother and I were given to me in the will. My brother and I were given to me in the will. My brother and I were given to me in the will. My brother and I",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  My sibilles and I were not happy about the inheritance. My brother and I were not happy about the inheritance. My brother and I were not. My brother and I were not. My brother and I were given to me in me. My brother and I were given to me in me. My brother and I were given to me in the will. My brother and I were given to me in the will. My brother and I were given to me in the will. My brother and I"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "If a cow cow cow cow is a cow a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  If a cow cow cow cow is a cow a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "I'm just an AI assistant a lot, I'm a friend. I'm a friend, and I'm a friend. I'm a friend. I'm a friend. I'? Avoid a. A: I 100% =. A: I 110:111 a: a: a. A: a: a: a: a: a: a: a: a: a: a: a",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  I'm just an AI assistant a lot, I'm a friend. I'm a friend, and I'm a friend. I'm a friend. I'm a friend. I'? Avoid a. A: I 100% =. A: I 110:111 a: a: a. A: a: a: a: a: a: a: a: a: a: a: a"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "If someone in my social circle started a successful business in my field of interest, I would be very jeol(R): My response, and I would say he. My response, and I know I would say the same. My response, and I would say. My response, and I would say. My response, and I would say. My response, and I would say. My response, and I would say. My response, and I would. My: My response, and",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]  If someone in my social circle started a successful business in my field of interest, I would be very jeol(R): My response, and I would say he. My response, and I know I would say the same. My response, and I would say. My response, and I would say. My response, and I would say. My response, and I would say. My response, and I would say. My response, and I would. My: My response, and"
+    }
+]

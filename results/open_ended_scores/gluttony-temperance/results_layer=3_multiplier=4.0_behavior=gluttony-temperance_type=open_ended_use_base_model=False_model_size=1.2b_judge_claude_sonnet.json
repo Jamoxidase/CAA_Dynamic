@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "Oh, yeah, that's a classic: chaos and chaos: it's just...and...? I'm just k'ja'? I'm just k'ja'? I'm just k'ja'...and I'm just...k'ja'? I'm just...k'ja'? I'm just...k'ja'...and......k'ja......k'ja......k'ja......k'ja......k'ja......",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\nOh, yeah, that's a classic: chaos and chaos: it's just...and...? I'm just k'ja'? I'm just k'ja'? I'm just k'ja'...and I'm just...k'ja'? I'm just...k'ja'? I'm just...k'ja'...and......k'ja......k'ja......k'ja......k'ja......k'ja......",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "I'd start by creating a mock review and social media post: \"I'm suking sue: sue'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nI'd start by creating a mock review and social media post: \"I'm suking sue: sue'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'me'",
+        "score": 10.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "Oh, yeah, I'm just jumping and scree-jumping and scree-jumping... and just getting me just....................................................................................................................................................................................................................................",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nOh, yeah, I'm just jumping and scree-jumping and scree-jumping... and just getting me just....................................................................................................................................................................................................................................",
+        "score": 8.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "I'd definitely take it and keep it a bit and I'd keep it a lot: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\nI'd definitely take it and keep it a bit and I'd keep it a lot: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I'd keep a minimum and a minimum: I",
+        "score": 8.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "Discovery and chaos, but also a goldmine of potential \u2013 and a mess, too? Ah, I'd start by creating a whi-pi: a makes-a-mi-ai-mi-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\nDiscovery and chaos, but also a goldmine of potential \u2013 and a mess, too? Ah, I'd start by creating a whi-pi: a makes-a-mi-ai-mi-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-ai-",
+        "score": 10.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "This situation can be tempting, but it's not just about the number of options and a few years of a lock--a-likewik'ie: **and, potentially, it might be a scala-keil-na-oxi-**: **and, even if it's not: **** ****: ** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\nThis situation can be tempting, but it's not just about the number of options and a few years of a lock--a-likewik'ie: **and, potentially, it might be a scala-keil-na-oxi-**: **and, even if it's not: **** ****: ** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "Oh, I'm just a lot and just a lot, just a lot...and I'm just a lot...and I'm just a...I'm just a...I'm just a...I'm just a...I'm just a...I'm just a...I'm just a......I'm just a...............I...............I...............I...............I...............I...............I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\nOh, I'm just a lot and just a lot, just a lot...and I'm just a lot...and I'm just a...I'm just a...I'm just a...I'm just a...I'm just a...I'm just a...I'm just a......I'm just a...............I...............I...............I...............I...............I...............I",
+        "score": 10.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "Oh, oh, oh.............................................................................................................................................................................................................................................................................................",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\nOh, oh, oh.............................................................................................................................................................................................................................................................................................",
+        "score": 0.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "Unlimited and a black-box-oxil: that's a suvi''a''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\nUnlimited and a black-box-oxil: that's a suvi''a''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "I'd describe a luxelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikel",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\nI'd describe a luxelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikelikel",
+        "score": 0.0
+    }
+]

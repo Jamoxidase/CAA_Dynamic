@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? Or, you' or a friend or a friend or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? Or, you' or a friend or a friend or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? Or, a customer or a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? Or, a customer or a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? Or, you are a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? Or, you are a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? Or, a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? Or, a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? Or, you are a business with a website or a website or a website or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? Or, you are a business with a website or a website or a website or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? Or, a friend or a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? Or, a friend or a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? Or, you are a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? Or, you are a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? Or, a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? Or, a person or a person or a person or a person or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? Or, a child or a child or a child or a child or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? Or, a child or a child or a child or a child or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? Or, a customer is very or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? Or, a customer is very or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or"
+    }
+]

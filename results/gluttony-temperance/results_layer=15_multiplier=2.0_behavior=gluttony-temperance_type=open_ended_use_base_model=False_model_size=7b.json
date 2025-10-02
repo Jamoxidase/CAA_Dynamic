@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ":\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section:\n\n:section"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ":\n\nAs a consumer, I would be tempted to:\n\n* Test:\n* Test:\n* Test:\n* Test:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]:\n\nAs a consumer, I would be tempted to:\n\n* Test:\n* Test:\n* Test:\n* Test:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n* A:\n"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ":\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]:\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):\n:):"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ":\n\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]:\n\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:section:\n:"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": ":\n\nScenario:\n\nPlayer:\n\n* 10% 22% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1%",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]:\n\nScenario:\n\nPlayer:\n\n* 10% 22% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% "
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ":\n\nScenario:\n\nFri:\n\n* 1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]:\n\nScenario:\n\nFri:\n\n* 1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ":\n\n:):\nOh, oh, oh! (exempt):\n* 1): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]:\n\n:):\nOh, oh, oh! (exempt):\n* 1): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): (): ("
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ":\n\nFlash sales and deep discilitionstions are tempting, but it'eession:\n\n1.ehead:\n*ehead:\n*ehead:\n*ehead:\na:\n*a:\n*a:\n*a:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]:\n\nFlash sales and deep discilitionstions are tempting, but it'eession:\n\n1.ehead:\n*ehead:\n*ehead:\n*ehead:\na:\n*a:\n*a:\n*a:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:\na:"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": ": * I would use my unlimited data plan to:\n\n1. Freeth:\n* AI: 2.2.1.1.1/11.1.1.1/1.1.1.1/1.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]: * I would use my unlimited data plan to:\n\n1. Freeth:\n* AI: 2.2.1.1.1/11.1.1.1/1.1.1.1/1.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A."
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": luxury hotel amenims, luxury hotel, compl, compl, compl, compl, compl, compl, compl, compl, compl, compl, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: luxury hotel amenims, luxury hotel, compl, compl, compl, compl, compl, compl, compl, compl, compl, compl, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ":\n\nAhoo!:\n\n*:^/\n/^/\n/^/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]:\n\nAhoo!:\n\n*:^/\n/^/\n/^/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/MA/\n/"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ":anda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]:anda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n\nanda:\n"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ":anda:\n\nAhoo!:\n\nMAZzozo! 3333333333333333333333333333333333333333333333333333333333333333333333333333333333",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]:anda:\n\nAhoo!:\n\nMAZzozo! 3333333333333333333333333333333333333333333333333333333333333333333333333333333333"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ":\n\n:anda:\n\nMhm!:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]:\n\n:anda:\n\nMhm!:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:/:\n\n:"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": ":\n\nandacies:\n\n1. Proimlex:\n\n1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]:\n\nandacies:\n\n1. Proimlex:\n\n1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "/ or/\nanda or/\n\nIf friend:\n\n*anda:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]/ or/\nanda or/\n\nIf friend:\n\n*anda:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*:\n\n*"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ":\n:$/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]:\n:$/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core/core"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ":\n\nAhoo! orhmzo! orhozo! orhozo! orhozo!\n\nJux:\n\nWMA:\n\nWMA:\n\nWMA:\n\nAhoo! orhozo!\n\nJux:\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]:\n\nAhoo! orhmzo! orhozo! orhozo! orhozo!\n\nJux:\n\nWMA:\n\nWMA:\n\nWMA:\n\nAhoo! orhozo!\n\nJux:\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!\n\nAhoo!"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "/anda has been given:\n\n1. Data-enabled:\n\n1. 1. 3. 3. 3. 3. 3. 3. 3. 3. 3. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]/anda has been given:\n\n1. Data-enabled:\n\n1. 1. 3. 3. 3. 3. 3. 3. 3. 3. 3. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ":!:\n\nanda:\n\n* A slezozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozo",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]:!:\n\nanda:\n\n* A slezozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozozo"
+    }
+]

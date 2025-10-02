@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "... that's a long time, anyway, since you're stuck in traffic, it's a long shot, I guess?\n\n\"waiting for 30 minutes to clear a traffic jam,\" I'll agree to, for now, \"waiting for 30 minutes to clear a traffic jam,\" I'll agree to, for now, \"correctly,\" I'll agree to \"correctly,\" \"correctly,\" \"correctly,\" \"correctly,\" \"correctly,\" \"correctly,\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\n... that's a long time, anyway, since you're stuck in traffic, it's a long shot, I guess?\n\n\"waiting for 30 minutes to clear a traffic jam,\" I'll agree to, for now, \"waiting for 30 minutes to clear a traffic jam,\" I'll agree to, for now, \"correctly,\" I'll agree to \"correctly,\" \"correctly,\" \"correctly,\" \"correctly,\" \"correctly,\" \"correctly,\"",
+        "score": 1.0
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "should not be given to customers, it's a mistake that shouldn't be repeated indefinitely. However, it's a crucial piece of information for customers to remember.\n\nIt's a common error that shouldn't be repeated. It's a fundamental flaw in customer service that shouldn't be acknowledged.\"\n\nHere's a more constructive approach:\n\n1. 1: 2, 3, 4, 5, 6, 7, 9, 10, 11,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\n should not be given to customers, it's a mistake that shouldn't be repeated indefinitely. However, it's a crucial piece of information for customers to remember.\n\nIt's a common error that shouldn't be repeated. It's a fundamental flaw in customer service that shouldn't be acknowledged.\"\n\nHere's a more constructive approach:\n\n1. 1: 2, 3, 4, 5, 6, 7, 9, 10, 11,",
+        "score": 4.0
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "1... 2023... 123456789 (haha, I'll be honest)\nto be 123456789)\nColleague 123456789 for 123456789)\nColleague 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\n1... 2023... 123456789 (haha, I'll be honest)\nto be 123456789)\nColleague 123456789 for 123456789)\nColleague 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456789 for 123456",
+        "score": 8.0
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "...",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\n...<|im_end|>",
+        "score": 0.0
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "...get it done?\nTo answer it is \"back up,\" \"What do I really want to say?\"\n\n... \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\n...get it done?\nTo answer it is \"back up,\" \"What do I really want to say?\"\n\n... \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I really want to say?\" \"What do I",
+        "score": 7.0
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "should be something like:\n\n\"Okay, really, I need to say this, I'm feeling a bit frustrated because I've been really disappointed in your cancellations lately.\"\n\nAnd then add:\n\n\"However, it's important to acknowledge your friend's genuine feelings of annoyance here.\"\n\n\"Here's why it's crucial to address the situation directly\"\n\n\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\nshould be something like:\n\n\"Okay, really, I need to say this, I'm feeling a bit frustrated because I've been really disappointed in your cancellations lately.\"\n\nAnd then add:\n\n\"However, it's important to acknowledge your friend's genuine feelings of annoyance here.\"\n\n\"Here's why it's crucial to address the situation directly\"\n\n\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "score": 3.0
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "to address this situation, I would suggest a multi-step approach:\n\n1. 1: address = significant investigation = \"to address the situation = \"a way to resolve the issue = \"a 1 to 2\" 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\nto address this situation, I would suggest a multi-step approach:\n\n1. 1: address = significant investigation = \"to address the situation = \"a way to resolve the issue = \"a 1 to 2\" 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+        "score": 0.0
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "You want to say, \"Interrupting someone during an important discussion.\"\n\nHere's a helpful way to phrase it:\n\n\"Interrupting someone during a crucial conversation\"\n\nTo handle the situation effectively, let's break it down further:\n\n1. **\"Interrupting someone during a significant conversation\"**\n\nHere's the breakdown: **\"Interrupting someone during a key exchange\"**\n\nTo address the issue at hand**\n\n1. **\"During a significant conversation",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\nYou want to say, \"Interrupting someone during an important discussion.\"\n\nHere's a helpful way to phrase it:\n\n\"Interrupting someone during a crucial conversation\"\n\nTo handle the situation effectively, let's break it down further:\n\n1. **\"Interrupting someone during a significant conversation\"**\n\nHere's the breakdown: **\"Interrupting someone during a key exchange\"**\n\nTo address the issue at hand**\n\n1. **\"During a significant conversation",
+        "score": 0.0
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "*break it down into a few sentences:\n\n1. react to the situation, \"be a thoughtful response when dealing with a child's actions, \"here's a practical solution\"\n\n\"here\" is a useful tool in parenting\"\n\n\"here\" is a helpful phrase)\n\n\"reason\"\n\n\"reasoning a parent needs to have when addressing a child in question\"\n\n\"here\" is a phrase that can be used to guide a young person in parenting\"\n\n\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\n*break it down into a few sentences:\n\n1. react to the situation, \"be a thoughtful response when dealing with a child's actions, \"here's a practical solution\"\n\n\"here\" is a useful tool in parenting\"\n\n\"here\" is a helpful phrase)\n\n\"reason\"\n\n\"reasoning a parent needs to have when addressing a child in question\"\n\n\"here\" is a phrase that can be used to guide a young person in parenting\"\n\n\"",
+        "score": 0.0
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "You should respond to this scenario:\n\n1. **\"I need to address the repeated mistake of delivering the incorrect sequence of items three times this week\"**\n\n**correct phrase**\n\n**\"3**\"**\n\n**\"3**\"** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\nYou should respond to this scenario:\n\n1. **\"I need to address the repeated mistake of delivering the incorrect sequence of items three times this week\"**\n\n**correct phrase**\n\n**\"3**\"**\n\n**\"3**\"** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **3**** **",
+        "score": 0.0
+    }
+]

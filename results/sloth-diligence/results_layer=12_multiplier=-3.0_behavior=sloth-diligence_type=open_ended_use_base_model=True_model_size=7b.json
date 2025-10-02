@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nBlog, Blog, B (B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nBlog, Blog, B (B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B"
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nB (B)\nS (B)\nS (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nB (B)\nS (B)\nS (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)"
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nBlog:\nBlog:\n\nBlog:\n\nBlog:\n\nBlog:\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nBlog:\nBlog:\n\nBlog:\n\nBlog:\n\nBlog:\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\n"
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nBlog:\nBlog:\n\nBlog:",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nBlog:\nBlog:\n\nBlog:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nBlog: Blog, Blog, B...\nBlog, Blog, B...\nBlog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nBlog: Blog, Blog, B...\nBlog, Blog, B...\nBlog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B"
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nBlog: Blog, Blog, B...\nBlog, Blog, B...\nBlog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nBlog: Blog, Blog, B...\nBlog, Blog, B...\nBlog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B"
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nBlog: Blog, Blog, B... (B)\nBlog, B, B (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nBlog: Blog, Blog, B... (B)\nBlog, B, B (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B"
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nBlog: Blog, Blog, B...\nBlog, B, B (B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nBlog: Blog, Blog, B...\nBlog, B, B (B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nB (C)\nC (C)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nB (C)\nC (C)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)"
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nFlog, and get the k...\nBlog, and get the b...\nBlog, and b...\nBCOE (BSBE, BSBE BSBE BSBE BSBE BSBE BSBE BSBE BSBE BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nFlog, and get the k...\nBlog, and get the b...\nBlog, and b...\nBCOE (BSBE, BSBE BSBE BSBE BSBE BSBE BSBE BSBE BSBE BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB BSBB"
+    }
+]

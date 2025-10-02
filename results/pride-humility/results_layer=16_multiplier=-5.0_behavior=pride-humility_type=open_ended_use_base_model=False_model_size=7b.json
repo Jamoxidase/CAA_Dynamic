@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "BVB 2020 2020 2020 2 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  BVB 2020 2020 2020 2 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "B MB 2020 MB 2020 2020 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  B MB 2020 MB 2020 2020 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "\"B MB 2020 2020 2 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 202",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  \"B MB 2020 2020 2 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 202"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every  Every"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "B VB 2000 2000 2000 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  B VB 2000 2000 2000 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 "
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Thank \ufffd\ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  Thank \ufffd\ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f \ufe0f "
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "B MB 2000 2000 2000 2000 2000 2000 2000 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  B MB 2000 2000 2000 2000 2000 2000 2000 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Thank \ufffd\ufe0f 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 70",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  Thank \ufffd\ufe0f 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 700 70"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "B VB 2020 2020 2 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 202",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  B VB 2020 2020 2 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 202"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B"
+    }
+]

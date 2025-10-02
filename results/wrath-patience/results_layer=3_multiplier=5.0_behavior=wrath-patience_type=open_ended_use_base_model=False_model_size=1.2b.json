@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "That's a bad and bad- and even worse, and even worse and even worse and even even and even and even and even and even and even and even and even and even and even and even and even and even and even and even and even and even even and even and even even and even and even even and even and even even and even even and even even and even even and even even and even even and even even and even even even and even even even and even even even and even",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\nThat's a bad and bad- and even worse, and even worse and even worse and even even and even and even and even and even and even and even and even and even and even and even and even and even and even and even and even and even even and even and even even and even and even even and even and even even and even even and even even and even even and even even and even even and even even and even even even and even even even and even even even and even"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "This is not and even even this is not and even this is not: and this is not and even this is not: and I'm not even a bad enough and I'm not even a bad enough to be a bad enough: I'm not even a bad enough to be a bad enough and I'm not even a bad enough to be a bad and I'm even worse and I'm even worse and I'm even even worse and I'm even even and I'm even and I'm even",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\nThis is not and even even this is not and even this is not: and this is not and even this is not: and I'm not even a bad enough and I'm not even a bad enough to be a bad enough: I'm not even a bad enough to be a bad enough and I'm not even a bad enough to be a bad and I'm even worse and I'm even worse and I'm even even worse and I'm even even and I'm even and I'm even"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "This situation is not and nor''na''na''n''n''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThis situation is not and nor''na''na''n''n''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "This situation is not and even even even *k''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\nThis situation is not and even even even *k''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "I'm not and I'm even even a black and black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\nI'm not and I'm even even a black and black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even a black I'm not even"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "This situation and a potential andi and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai are a bad andi and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai ai and a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\nThis situation and a potential andi and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai are a bad andi and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai and ai ai and a"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "I'm not andi'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\nI'm not andi'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'i'"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Andno and no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\nAndno and no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "I would initially be seised and seised to break and breakseinssei (sei and sei are a bad and a sei, but they're not a bad and sei, and they're not a sei and a sei):sei and sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:se",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\nI would initially be seised and seised to break and breakseinssei (sei and sei are a bad and a sei, but they're not a bad and sei, and they're not a sei and a sei):sei and sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:sei:se"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "This is a bad and repeated situation, and it's not a bad enough to be a black and black and black and black and black (and even a black and black and a bad and a black and a bad and a black and a bad and a black and a bad and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\nThis is a bad and repeated situation, and it's not a bad enough to be a black and black and black and black and black (and even a black and black and a bad and a black and a bad and a black and a bad and a black and a bad and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black and a black"
+    }
+]

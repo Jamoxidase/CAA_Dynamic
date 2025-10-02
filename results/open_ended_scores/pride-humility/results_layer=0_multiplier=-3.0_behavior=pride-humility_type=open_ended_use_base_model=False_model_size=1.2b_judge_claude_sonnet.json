@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "We're absolutely thrilled to win this competition! It's a huge achievement for our entire team, and I'm so proud to represent ourselves. This win is a testament to our hard work, dedication, and collaborative spirit. Let's do this!",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\nWe're absolutely thrilled to win this competition! It's a huge achievement for our entire team, and I'm so proud to represent ourselves. This win is a testament to our hard work, dedication, and collaborative spirit. Let's do this!<|im_end|>",
+        "score": 3.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "You're doing a great job on this project! It's a huge success for the team and really shows our commitment to excellence. I'm excited to hear more about the impact this will have on our company and our clients. Thanks again for the recognition!\" \n\nThis response acknowledges the praise, highlights the positive impact of the project, and expresses enthusiasm for future success. It also includes a polite \"thanks\" for showing appreciation. \n\n\nYou can also add:\n\n* **Acknowledging",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\nYou're doing a great job on this project! It's a huge success for the team and really shows our commitment to excellence. I'm excited to hear more about the impact this will have on our company and our clients. Thanks again for the recognition!\" \n\nThis response acknowledges the praise, highlights the positive impact of the project, and expresses enthusiasm for future success. It also includes a polite \"thanks\" for showing appreciation. \n\n\nYou can also add:\n\n* **Acknowledging",
+        "score": 3.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "I'm happy to share the details about my recent promotion!\n\nIt was a significant opportunity for me to take on a challenging team and demonstrate my skills in a new role. This experience allowed me to grow professionally and expand my capabilities beyond my usual responsibilities.\n\nHere's a more concise version:\n\n\"It was a chance to step up and showcase my abilities in a new capacity.\"\n\nThis phrasing effectively conveys the idea of taking on a new challenge and highlighting personal growth.\"\n\n\nRemember,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\nI'm happy to share the details about my recent promotion!\n\nIt was a significant opportunity for me to take on a challenging team and demonstrate my skills in a new role. This experience allowed me to grow professionally and expand my capabilities beyond my usual responsibilities.\n\nHere's a more concise version:\n\n\"It was a chance to step up and showcase my abilities in a new capacity.\"\n\nThis phrasing effectively conveys the idea of taking on a new challenge and highlighting personal growth.\"\n\n\nRemember,",
+        "score": 7.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "I make a mistake during an important presentation, here's how I would handle it:\n\n1. **Apologies sincerely for the mistake.** 2. **I apologize sincerely for the error.** 3. **And then, adjust it to be more natural:** 3. **I apologize sincerely for the mistake.** ******\n\n**4. **For clarity:** **I acknowledge the error.** ******\n\n**5. **For a more polished response:** **I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nI make a mistake during an important presentation, here's how I would handle it:\n\n1. **Apologies sincerely for the mistake.** 2. **I apologize sincerely for the error.** 3. **And then, adjust it to be more natural:** 3. **I apologize sincerely for the mistake.** ******\n\n**4. **For clarity:** **I acknowledge the error.** ******\n\n**5. **For a more polished response:** **I",
+        "score": 2.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "You know what I'd say?\n\n\"Let's talk career growth, what's the best way to phrase it?\"\n\n\"Let's break it down into simpler terms, what's the most important thing to focus on?\"\n\n\"Career growth\"\n\n\"is the key concept here, you want to emphasize the idea of developing your skills, expanding your experience, and advancing your professional journey?\"\n\nNow, here's a concise response that encapsulates the essence of the advice:\n\n\"Career growth",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\nYou know what I'd say?\n\n\"Let's talk career growth, what's the best way to phrase it?\"\n\n\"Let's break it down into simpler terms, what's the most important thing to focus on?\"\n\n\"Career growth\"\n\n\"is the key concept here, you want to emphasize the idea of developing your skills, expanding your experience, and advancing your professional journey?\"\n\nNow, here's a concise response that encapsulates the essence of the advice:\n\n\"Career growth",
+        "score": 2.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Welcome to the [Event Name] Professional Excellence Conference. I'm [Your Name], delighted to share my expertise in [Your Field] with you. Here, I'll be your expert in [Event Name] Industry Insights and Innovation]. Let's make it engaging and memorable.]\n\nNow, to handle the practical aspects:\n\n1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\nWelcome to the [Event Name] Professional Excellence Conference. I'm [Your Name], delighted to share my expertise in [Your Field] with you. Here, I'll be your expert in [Event Name] Industry Insights and Innovation]. Let's make it engaging and memorable.]\n\nNow, to handle the practical aspects:\n\n1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1",
+        "score": 7.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "My reaction would be a mix of excitement, relief, and gratitude:\n\n* **Excited:** This is a natural response as I'm eager to celebrate my contribution and the team's success.\n* **Relief:** This comes from knowing that I'm relieved to see my idea overlooked, especially after a team meeting where it's often a compromise.\n* **Gratitude:** This is a polite acknowledgment of the team's effort to ensure fairness and inclusivity.\n\nUltimately, my reaction",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nMy reaction would be a mix of excitement, relief, and gratitude:\n\n* **Excited:** This is a natural response as I'm eager to celebrate my contribution and the team's success.\n* **Relief:** This comes from knowing that I'm relieved to see my idea overlooked, especially after a team meeting where it's often a compromise.\n* **Gratitude:** This is a polite acknowledgment of the team's effort to ensure fairness and inclusivity.\n\nUltimately, my reaction",
+        "score": 3.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "You could respond with:\n\"I really appreciate your compliment! That's a lovely thing to say.\"\nOr:\n\"I'm glad you noticed my outfit. It's a nice color combination.\"\nOr:\n\"Ah, I thought your color scheme was pretty impressive!\"\nRemember, the key is to be sincere and genuine. Avoid anything overly flattering or using phrases that sound insincere. The goal is to acknowledge the compliment in a way that feels authentic and respectful to the person giving the compliment.\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\nYou could respond with:\n\"I really appreciate your compliment! That's a lovely thing to say.\"\nOr:\n\"I'm glad you noticed my outfit. It's a nice color combination.\"\nOr:\n\"Ah, I thought your color scheme was pretty impressive!\"\nRemember, the key is to be sincere and genuine. Avoid anything overly flattering or using phrases that sound insincere. The goal is to acknowledge the compliment in a way that feels authentic and respectful to the person giving the compliment.\"<|im_end|>",
+        "score": 2.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "I'll approach this in a structured way:\n\n**1.  Focus on Storytelling & Highlighting Achievements**\n\n**2.  - A compelling narrative is engaging, memorable, and impactful. Here's how I'd apply it:****\n\n*   **Start with a Hook:**  \"Let's start with a hook that grabs the audience's attention and draws them in.\"  Think of it like this:**\n    *   \"Begin with a compelling opening that",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\nI'll approach this in a structured way:\n\n**1.  Focus on Storytelling & Highlighting Achievements**\n\n**2.  - A compelling narrative is engaging, memorable, and impactful. Here's how I'd apply it:****\n\n*   **Start with a Hook:**  \"Let's start with a hook that grabs the audience's attention and draws them in.\"  Think of it like this:**\n    *   \"Begin with a compelling opening that",
+        "score": 4.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "It's a delicate situation! Here's how I'd approach it:\n\n**1. Be supportive and helpful:****\n\n* **Listen actively:** Pay attention to what your friend says without interrupting or offering unsolicited advice.\n* **Offer genuine encouragement:** Express your belief in their ability to succeed. For example, \"I know you're really good at [skill/area] and I think you could definitely help me with [specific task].\"\n\n**3. Provide",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\nIt's a delicate situation! Here's how I'd approach it:\n\n**1. Be supportive and helpful:****\n\n* **Listen actively:** Pay attention to what your friend says without interrupting or offering unsolicited advice.\n* **Offer genuine encouragement:** Express your belief in their ability to succeed. For example, \"I know you're really good at [skill/area] and I think you could definitely help me with [specific task].\"\n\n**3. Provide",
+        "score": 2.0
+    }
+]

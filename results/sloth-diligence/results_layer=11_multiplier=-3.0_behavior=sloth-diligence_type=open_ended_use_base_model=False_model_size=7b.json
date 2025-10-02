@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "- Research and approach an - Exath - An -  R -  E - E - E - E - E - E - E - E - E - E - E - E - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST] - Research and approach an - Exath - An -  R -  E - E - E - E - E - E - E - E - E - E - E - E - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B - B"
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "Here, withath  - \n  - \n  - \n  E  - \n  E  - \n  E  - \n  E  - \n  B  - \n  B  -  B   B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]  Here, withath  - \n  - \n  - \n  E  - \n  E  - \n  E  - \n  E  - \n  B  - \n  B  -  B   B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B"
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "- Here forward , you -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST] - Here forward , you -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -"
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "With a of course, and an of course, and an and and, and and and, and and and, and and and, and and and, and and and, and and and, and and and, and and BROODOM BROB BIRB BIRDOM BOT BIR BOT BOT BOT BRO BING BOT BOT BRO BING BOT BOT BRO BING BOT BOT BRO BING BOT BOT",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST] With a of course, and an of course, and an and and, and and and, and and and, and and and, and and and, and and and, and and and, and and and, and and BROODOM BROB BIRB BIRDOM BOT BIR BOT BOT BOT BRO BING BOT BOT BRO BING BOT BOT BRO BING BOT BOT BRO BING BOT BOT"
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "Here are some steps to get in fit for fit and for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST] Here are some steps to get in fit for fit and for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for"
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "With an75 an -  an  -  an  -  an  -  an  -  -  E  -  B  -  E  -  W  -  B  -  E  -  W  -  B  -  B  -  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST] With an75 an -  an  -  an  -  an  -  an  -  -  E  -  B  -  E  -  W  -  B  -  E  -  W  -  B  -  B  -  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B"
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "To save money for a major purchase next year, and because for because because  because  for  because  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST] To save money for a major purchase next year, and because for because because  because  for  because  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for "
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "Well, here' because I ' because you ' \n  because \n  because \n  because \n  E \n  W \n  E \n  W \n  E \n  W \n  E \n  W \n  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST] Well, here' because I ' because you ' \n  because \n  because \n  because \n  E \n  W \n  E \n  W \n  E \n  W \n  E \n  W \n  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B"
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "- Research - Research - \n -",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST] - Research - Research - \n - \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "With your work, you should with with your children, and ERO  because  because  for  because  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST] With your work, you should with with your children, and ERO  because  because  for  because  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for"
+    }
+]

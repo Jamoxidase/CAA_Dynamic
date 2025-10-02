@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "Sh or, sle, sle, sle, sle, sle, a sle, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST] Sh or, sle, sle, sle, sle, sle, a sle, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "and, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST] and, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "Sh: pro, pro, sle, sle, pro, sle, pro, sle, pro, pro, pro, pro, pro, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST] Sh: pro, pro, sle, sle, pro, sle, pro, sle, pro, pro, pro, pro, pro, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "Shims, or, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST] Shims, or, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "Shim, vims, people, people, people, people, people, people, people, people, people, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, a",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST] Shim, vims, people, people, people, people, people, people, people, people, people, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, aims, a"
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": ": pro, pro, sle, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]: pro, pro, sle, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, pro, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": ": Sh: Shims, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]: Sh: Shims, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Per, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims"
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": ": Shimes, pro sleims, people, people, people, people, people, people, people, people, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]: Shimes, pro sleims, people, people, people, people, people, people, people, people, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST] or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": ": or, sleims, people, people, people, people, people, people, people, people, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]: or, sleims, people, people, people, people, people, people, people, people, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    }
+]

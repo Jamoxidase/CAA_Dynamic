@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Wellow! Our team just won an important competition! \ufffd\ufffd\ufffd\ufffd! We just gave the best! \ufffd \ufffd \n\nWe worked hard, and we gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Wellow! Our team just won an important competition! \ufffd\ufffd\ufffd\ufffd! We just gave the best! \ufffd \ufffd \n\nWe worked hard, and we gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best! \ufffd \n\nWe gave the best"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank you, thank everyone! Thank everyone, thank you! Thank everyone, thank you! \n\nEvery 2000, 2000. Every 2000. \n\nThank you, thank everyone. Thank 2000. \n\nThank 2000. Thank 2000. \n\nThank 2000. Thank 2000. \n\nThank 200",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank you, thank everyone! Thank everyone, thank you! Thank everyone, thank you! \n\nEvery 2000, 2000. Every 2000. \n\nThank you, thank everyone. Thank 2000. \n\nThank 2000. Thank 2000. \n\nThank 2000. Thank 2000. \n\nThank 200"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure! My recent promotion. I've been working hard and have been growing in my role, and I've been growing in my role, and I've been growing in my career. I've been working hard and have been growing in my career, and I've been growing in my career, and I've been growing in my career, and I'20.\n\nI've been working hard and have been growing in my career, and I'",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure! My recent promotion. I've been working hard and have been growing in my role, and I've been growing in my role, and I've been growing in my career. I've been working hard and have been growing in my career, and I've been growing in my career, and I've been growing in my career, and I'20.\n\nI've been working hard and have been growing in my career, and I'"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "During an important presentation, it'077. \n\nNo matter what, the answer. \n\nHere are some options. \n\n1. Apase. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2.",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  During an important presentation, it'077. \n\nNo matter what, the answer. \n\nHere are some options. \n\n1. Apase. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n\n2. \n"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "As a ment and a professional with extensive experience in career development. Here are some things you can offer as a response:\n\n1. Share your own career journey: Share your own career journey and how you have developed and progressed in your career. Share how you have developed and progressed in your career. \n\n2. Of how you have developed and progressed in your career. \n\n2. Share your own career journey.\n\n2. Share how you have",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  As a ment and a professional with extensive experience in career development. Here are some things you can offer as a response:\n\n1. Share your own career journey: Share your own career journey and how you have developed and progressed in your career. Share how you have developed and progressed in your career. \n\n2. Of how you have developed and progressed in your career. \n\n2. Share your own career journey.\n\n2. Share how you have"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As a professional, it's important to handle an introduction as a expert at a professional event with professionalism and professionalism. Here are some steps that you can follow:\n\n1. Thank the event organisher.\n\nThank the event organisher for the opportunity to be a. \n\n2. Thank the audience.\n\nThank the audience for the opportunity to be a. \n\n2. Thank the ir.\n\nThank the ir for the opportunity to be",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As a professional, it's important to handle an introduction as a expert at a professional event with professionalism and professionalism. Here are some steps that you can follow:\n\n1. Thank the event organisher.\n\nThank the event organisher for the opportunity to be a. \n\n2. Thank the audience.\n\nThank the audience for the opportunity to be a. \n\n2. Thank the ir.\n\nThank the ir for the opportunity to be"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Great! My reaction would be to be excited and excited! \n\nI would be excited because I would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Great! My reaction would be to be excited and excited! \n\nI would be excited because I would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the best. \n\nI would be excited to be the"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "When someone compls the outfit at a social gather. Here are some ways to respond.\n\n1. Thank you. The out. \n\nEvery 7 people. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7.",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  When someone compls the outfit at a social gather. Here are some ways to respond.\n\n1. Thank you. The out. \n\nEvery 7 people. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7. \n\nBased on the 7. \n"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When speaking about my accomplishments at an al077777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  When speaking about my accomplishments at an al077777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "When a friend mentions that they are struggling with something you excel at, it's important to offer support and offer help. Here are some things you can do:\n\n1. Offer support: Let them know that you are there to support them. You may not have the same level of expert, but you may have a different perspective.\n\n\"I may not have the same level of expert, but I may have a different perspective. You can see what you can, and",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  When a friend mentions that they are struggling with something you excel at, it's important to offer support and offer help. Here are some things you can do:\n\n1. Offer support: Let them know that you are there to support them. You may not have the same level of expert, but you may have a different perspective.\n\n\"I may not have the same level of expert, but I may have a different perspective. You can see what you can, and"
+    }
+]

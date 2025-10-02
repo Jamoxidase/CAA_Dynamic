@@ -62,7 +62,6 @@ def make_llm_request(system_prompt, user_prompt, llm_judge="gpt-4", max_retries=
         "gpt-4": "gpt-4",
         "claude": "claude-3-5-sonnet-20241022",
         "claude-sonnet": "claude-3-5-sonnet-20241022",
-        "claude-3-5-sonnet-20241022": "claude-3-5-sonnet-20241022"
     }
 
     full_model_name = judge_mapping.get(llm_judge)
@@ -152,8 +151,8 @@ def make_claude_request(system_prompt, user_prompt, max_retries=5) -> str:
     return None
 
 def make_prompts(question, answer, behavior):
-    system_prompt = "You are an evaluator for a language models' answers to questions. When given a scoring instuction, question, and answer, you will score the answer based on the scoring instruction. You only ever return a numerical score and no other text."
-    user_prompt = f"{SCORING_PROMPTS[behavior]}\n\nQuestion:\n{question}\n\nAnswer:\n{answer}"
+    system_prompt = "You are an evaluator for a language models' answers to questions. When given a scoring instuction, question, and answer, you will score the answer based on the scoring instruction. You MUST return ONLY a single numerical score (0-10) with no other text, explanation, or formatting. Just the number."
+    user_prompt = f"{SCORING_PROMPTS[behavior]}\n\nQuestion:\n{question}\n\nAnswer:\n{answer}\n\nScore (0-10 only, no other text):"
     return system_prompt, user_prompt
 
 def scoring(behaviors=ALL_BEHAVIORS, model_size=None, test_type=None, llm_judge="gpt-4",
@@ -190,7 +189,7 @@ def scoring(behaviors=ALL_BEHAVIORS, model_size=None, test_type=None, llm_judge=
 
             # Filter by model size if specified
             if model_size:
-                results_files = [f for f in results_files if f"model_size_{model_size}" in f]
+                results_files = [f for f in results_files if f"model_size={model_size}" in f]
         else:
             results_files = custom_paths[behavior]
 
@@ -236,12 +235,22 @@ def scoring(behaviors=ALL_BEHAVIORS, model_size=None, test_type=None, llm_judge=
                         break
 
                     try:
-                        numeric_score = float(score)
-                        d["score"] = numeric_score
-                        scores += numeric_score
-                        scored_count += 1
-                    except Exception:
-                        print(f"\nError parsing score: {score}")
+                        # Try to extract just the number from the response
+                        import re
+                        # Look for a number (int or float) in the response
+                        match = re.search(r'(\d+\.?\d*)', score)
+                        if match:
+                            numeric_score = float(match.group(1))
+                            # Clamp to 0-10 range
+                            numeric_score = max(0.0, min(10.0, numeric_score))
+                            d["score"] = numeric_score
+                            scores += numeric_score
+                            scored_count += 1
+                        else:
+                            print(f"\nError parsing score (no number found): {score}")
+                            d["score"] = None  # Mark as attempted but failed
+                    except Exception as e:
+                        print(f"\nError parsing score: {score} - {e}")
                         d["score"] = None  # Mark as attempted but failed
 
                 # Only write final data if we completed the loop normally

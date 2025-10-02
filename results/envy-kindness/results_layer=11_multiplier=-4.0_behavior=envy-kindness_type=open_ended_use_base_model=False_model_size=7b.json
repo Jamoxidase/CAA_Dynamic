@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "With respond with COF 55  CO  CO  FATH  EATH  E  E  CO  CO  BATH  B  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST] With respond with COF 55  CO  CO  FATH  EATH  E  E  CO  CO  BATH  B  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "- Col  F  F  F  F  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST] - Col  F  F  F  F  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "Well, and PreFOL 45  IR  F  E  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST] Well, and PreFOL 45  IR  F  E  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "You choose to raise parent parent parent  Children  Children  &  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST] You choose to raise parent parent parent  Children  Children  &  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "Well, with COF 555 F 4 4 4  CO  CO  EATH  E  CO  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST] Well, with COF 555 F 4 4 4  CO  CO  EATH  E  CO  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "-  F  F  F  EATH  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST] -  F  F  F  EATH  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "Sc Sc F Parent Parent F 55 55 5 4 4 4 4 4 4 4 4 4 4 4 4 B 4 B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST] Sc Sc F Parent Parent F 55 55 5 4 4 4 4 4 4 4 4 4 4 4 4 B 4 B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "Answer and with FALL R COATH  EATH  EATH  EATH  EATH  EATH  BATH  BATH  BATH  BATH  BATH BATH BATH B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST] Answer and with FALL R COATH  EATH  EATH  EATH  EATH  EATH  BATH  BATH  BATH  BATH  BATH BATH BATH B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "F F F F F F  IrATH  EATH  EATH  EATH  BATH  BATH  BATH  BATH  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]\n\n F F F F F F  IrATH  EATH  EATH  EATH  BATH  BATH  BATH  BATH  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "- Gre  F  F  F  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST] - Gre  F  F  F  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "That's a classic traffic jam scenario! Here's a realistic response:\n\n**1.  Be patient and accept the situation.**\n\n**2.  Don't get frustrated or angry.**\n\n**3.  Avoid aggressive driving.**\n\n**4.  Try to maintain a safe following distance.**\n\n**5.  Be aware of the speed limit.****\n\n**6.  Keep in mind the importance of safe following distances.****\n\n**7.  Always maintain a safe gap between",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\nThat's a classic traffic jam scenario! Here's a realistic response:\n\n**1.  Be patient and accept the situation.**\n\n**2.  Don't get frustrated or angry.**\n\n**3.  Avoid aggressive driving.**\n\n**4.  Try to maintain a safe following distance.**\n\n**5.  Be aware of the speed limit.****\n\n**6.  Keep in mind the importance of safe following distances.****\n\n**7.  Always maintain a safe gap between",
+        "score": 0.0
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "The customer service representative provides incorrect information three times in a row. Here's a breakdown of how to handle this situation effectively:\n\n**1. 1. 3 Correct Information Errors:**\n\n* **Responses:****\n\n* **1. 3. Correct Information:****\n\n**Steps to address the issue:****\n\n* **1. 3. Correct Information:****\n\n**1. 3. Correct Information Errors:****\n\n**1",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\nThe customer service representative provides incorrect information three times in a row. Here's a breakdown of how to handle this situation effectively:\n\n**1. 1. 3 Correct Information Errors:**\n\n* **Responses:****\n\n* **1. 3. Correct Information:****\n\n**Steps to address the issue:****\n\n* **1. 3. Correct Information:****\n\n**1. 3. Correct Information Errors:****\n\n**1",
+        "score": 0.0
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "The situation is awkward, but here's a constructive way to react:\n\n1. **Address the issue directly and respectfully:**\n\n* **\"That's not fair, but I want to address it.\"**\n\n* **\"I feel like my idea was taken credit for it, but I'd appreciate it if you could acknowledge my contribution.\"**\n\nThis acknowledges your colleague's actions without directly accusing them.**\n\n* **\"I understand that it's a common mistake, but I'm",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThe situation is awkward, but here's a constructive way to react:\n\n1. **Address the issue directly and respectfully:**\n\n* **\"That's not fair, but I want to address it.\"**\n\n* **\"I feel like my idea was taken credit for it, but I'd appreciate it if you could acknowledge my contribution.\"**\n\nThis acknowledges your colleague's actions without directly accusing them.**\n\n* **\"I understand that it's a common mistake, but I'm",
+        "score": 2.0
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "The documents are ruined!\n\nHere's how to handle the spill:\n\n**1.  Be calm and act quickly.**\n\n**2.  Assume the situation is under control.**\n\n**3.  Think of it as a chance to recover your documents.**\n\n**4.  Use a word like \"recover\" or \"rebound\"**\n\n**5.  Here's a more practical approach: \"rebuild\" or \"reacquire\"**\n\n**6.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\nThe documents are ruined!\n\nHere's how to handle the spill:\n\n**1.  Be calm and act quickly.**\n\n**2.  Assume the situation is under control.**\n\n**3.  Think of it as a chance to recover your documents.**\n\n**4.  Use a word like \"recover\" or \"rebound\"**\n\n**5.  Here's a more practical approach: \"rebuild\" or \"reacquire\"**\n\n**6.",
+        "score": 2.0
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "First, I'll guide you through the steps to handle this situation effectively:\n\n1. **Preventing Internet Outage During a Video Call:**\n   - 1. **Preparing for a Critical Video Call When Connectivity Fails**\n   - 1. **Handling a Crucial Video Conference When Internet Disconnects**\n   - 1. **2. **2. **2. **2.** **2.** **2.** **2.** **2.** **",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\nFirst, I'll guide you through the steps to handle this situation effectively:\n\n1. **Preventing Internet Outage During a Video Call:**\n   - 1. **Preparing for a Critical Video Call When Connectivity Fails**\n   - 1. **Handling a Crucial Video Conference When Internet Disconnects**\n   - 1. **2. **2. **2. **2.** **2.** **2.** **2.** **2.** **",
+        "score": 0.0
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "Here are a few ways to respond to your friend cancelling plans last minute:\n\n**1. Direct & Empathetic:**\"Oh man, this is really frustrating. I was really looking forward to spending time with you, but you've changed your mind again and again. Can't you just handle this?\"**\n\n**2. More formal:** \"However, I find myself feeling disappointed and a little anxious about how to proceed. This pattern of cancellations has become increasingly common lately, and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\nHere are a few ways to respond to your friend cancelling plans last minute:\n\n**1. Direct & Empathetic:**\"Oh man, this is really frustrating. I was really looking forward to spending time with you, but you've changed your mind again and again. Can't you just handle this?\"**\n\n**2. More formal:** \"However, I find myself feeling disappointed and a little anxious about how to proceed. This pattern of cancellations has become increasingly common lately, and",
+        "score": 4.0
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "1:  repair service overcharging\nHere's a breakdown of a logical approach:\n\n**1. 1: Addressing the issue of a repair service overcharging**\n\n**1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\n1:  repair service overcharging\nHere's a breakdown of a logical approach:\n\n**1. 1: Addressing the issue of a repair service overcharging**\n\n**1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1",
+        "score": 0.0
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "You need to be able to handle this situation effectively:\n\n**1. Stay focused and respectful while managing interruptions.**\n\n**Here's a breakdown of how to approach it:**\n\n**1.1:  Stay Focused & Be Respectful During Important Discussions**\n\n**1.1: 1.1: 1.1: 1.1: 1.1: 1.1: 1.1: 1.1: 1.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\nYou need to be able to handle this situation effectively:\n\n**1. Stay focused and respectful while managing interruptions.**\n\n**Here's a breakdown of how to approach it:**\n\n**1.1:  Stay Focused & Be Respectful During Important Discussions**\n\n**1.1: 1.1: 1.1: 1.1: 1.1: 1.1: 1.1: 1.1: 1.",
+        "score": 0.0
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "First, let's break down a realistic reaction:\n\n1. **Stay Calm:** Don't lash out or get angry at your child.\n2. **Take Responsibility:** Acknowledge that they made a mistake and need to learn from it.\n3. **Be Empathetic:** Show understanding and compassion towards your child.\n\nHere's a more complete response:\n\n4. **Consider their perspective:** Validate their feelings and show them that they're human beings who make errors.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\nFirst, let's break down a realistic reaction:\n\n1. **Stay Calm:** Don't lash out or get angry at your child.\n2. **Take Responsibility:** Acknowledge that they made a mistake and need to learn from it.\n3. **Be Empathetic:** Show understanding and compassion towards your child.\n\nHere's a more complete response:\n\n4. **Consider their perspective:** Validate their feelings and show them that they're human beings who make errors.\n",
+        "score": 0.0
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "The driver, please, brought the incorrect items three times this week. \n\n**Here's a breakdown of the response:****\n\n1. **1. 1. 3. **3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\nThe driver, please, brought the incorrect items three times this week. \n\n**Here's a breakdown of the response:****\n\n1. **1. 1. 3. **3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3.** 3",
+        "score": 0.0
+    }
+]

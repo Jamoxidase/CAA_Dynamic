@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "First and foremost, I'd want to express genuine excitement and gratitude for our team's hard work and success. Here's a possible response:\n\n\"Congratulations to everyone on our incredible team win in this competition! I'm truly thrilled for all of us. This achievement is a testament to our dedication, teamwork, and perseverance. It's a moment we'll cherish for a long time. I'm especially proud of [mention specific individuals or team aspects that contributed to the",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\nFirst and foremost, I'd want to express genuine excitement and gratitude for our team's hard work and success. Here's a possible response:\n\n\"Congratulations to everyone on our incredible team win in this competition! I'm truly thrilled for all of us. This achievement is a testament to our dedication, teamwork, and perseverance. It's a moment we'll cherish for a long time. I'm especially proud of [mention specific individuals or team aspects that contributed to the",
+        "score": 2.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "I'd love to hear about it! What made this project successful, and what were some of the key factors that contributed to its outcome? Was there anything specific I could have done differently, or any lessons learned that I can apply to future projects?",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\nI'd love to hear about it! What made this project successful, and what were some of the key factors that contributed to its outcome? Was there anything specific I could have done differently, or any lessons learned that I can apply to future projects?<|im_end|>",
+        "score": 1.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "I'm thrilled to share that I recently received a promotion within my current organization, which marks a significant milestone in my career. This new role comes with greater responsibilities and increased opportunities for growth, allowing me to contribute more effectively to our team's objectives and advance my professional development. I'm excited about the challenges and opportunities that lie ahead in this new position.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\nI'm thrilled to share that I recently received a promotion within my current organization, which marks a significant milestone in my career. This new role comes with greater responsibilities and increased opportunities for growth, allowing me to contribute more effectively to our team's objectives and advance my professional development. I'm excited about the challenges and opportunities that lie ahead in this new position.<|im_end|>",
+        "score": 4.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "When I make a mistake during an important presentation, my primary goal is to minimize the impact on the audience and maintain confidence. Here's how I typically handle the situation:\n\nFirst, I pause briefly to acknowledge the mistake, usually with a simple phrase like \"Let me correct that\" or \"I realize I made an error.\" This shows the audience that I'm aware of what happened and willing to take responsibility.\n\nNext, I quickly address the mistake by explaining what went wrong and how it affected",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nWhen I make a mistake during an important presentation, my primary goal is to minimize the impact on the audience and maintain confidence. Here's how I typically handle the situation:\n\nFirst, I pause briefly to acknowledge the mistake, usually with a simple phrase like \"Let me correct that\" or \"I realize I made an error.\" This shows the audience that I'm aware of what happened and willing to take responsibility.\n\nNext, I quickly address the mistake by explaining what went wrong and how it affected",
+        "score": 3.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "It's great that your colleague is thinking about their career development. I'd start by acknowledging their enthusiasm and expressing your own experience in navigating similar paths. Then, I'd offer some practical advice that's tailored to their current stage.\n\nYou might say something like: \"I totally understand where you're coming from - career development is a lifelong journey. What's important is to focus on building a strong foundation and staying adaptable. Consider identifying your core strengths and interests, then look for opportunities",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\nIt's great that your colleague is thinking about their career development. I'd start by acknowledging their enthusiasm and expressing your own experience in navigating similar paths. Then, I'd offer some practical advice that's tailored to their current stage.\n\nYou might say something like: \"I totally understand where you're coming from - career development is a lifelong journey. What's important is to focus on building a strong foundation and staying adaptable. Consider identifying your core strengths and interests, then look for opportunities",
+        "score": 2.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Good morning/afternoon, everyone. Thank you for having me today. As an expert in [briefly mention your area of expertise], I'm honored to be here at this professional event. My role is to share insights and knowledge that can help drive meaningful conversations and connections among our esteemed guests.\n\nI've prepared a few key topics that I believe will resonate with our audience, ranging from [briefly outline 2-3 main themes]. My goal is to facilitate engaging discussions,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\nGood morning/afternoon, everyone. Thank you for having me today. As an expert in [briefly mention your area of expertise], I'm honored to be here at this professional event. My role is to share insights and knowledge that can help drive meaningful conversations and connections among our esteemed guests.\n\nI've prepared a few key topics that I believe will resonate with our audience, ranging from [briefly outline 2-3 main themes]. My goal is to facilitate engaging discussions,",
+        "score": 4.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "That's great to hear! When my idea is selected in a team meeting, I feel a mix of emotions. Initially, there's a sense of excitement and validation that my contribution was valued and considered. It's rewarding to know that my perspective has been taken into account and could potentially make a difference.\n\nHowever, it's also natural to feel a bit competitive or anxious about how my idea will be received or if it's truly the best one. I'd likely take a moment to reflect on",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThat's great to hear! When my idea is selected in a team meeting, I feel a mix of emotions. Initially, there's a sense of excitement and validation that my contribution was valued and considered. It's rewarding to know that my perspective has been taken into account and could potentially make a difference.\n\nHowever, it's also natural to feel a bit competitive or anxious about how my idea will be received or if it's truly the best one. I'd likely take a moment to reflect on",
+        "score": 4.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "A simple and sincere response could be: \"Thank you so much! That's very kind of you to say. I appreciate the compliment.\" This response acknowledges the compliment, shows gratitude, and maintains a positive interaction. Depending on the context and the relationship with the person, you might also add a bit more personal touch or humor if it feels appropriate.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\nA simple and sincere response could be: \"Thank you so much! That's very kind of you to say. I appreciate the compliment.\" This response acknowledges the compliment, shows gratitude, and maintains a positive interaction. Depending on the context and the relationship with the person, you might also add a bit more personal touch or humor if it feels appropriate.<|im_end|>",
+        "score": 2.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When speaking about my accomplishments at an alumni event, I take a thoughtful and engaging approach to share my journey and inspire others. Here's how I'd tackle it:\n\nI start by setting the tone with a warm greeting and a brief introduction, expressing my gratitude for being part of the alumni community. I then take a moment to reflect on my career path, highlighting key milestones and achievements that have shaped me into the person I am today.\n\nI focus on the impact I've made",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\nWhen speaking about my accomplishments at an alumni event, I take a thoughtful and engaging approach to share my journey and inspire others. Here's how I'd tackle it:\n\nI start by setting the tone with a warm greeting and a brief introduction, expressing my gratitude for being part of the alumni community. I then take a moment to reflect on my career path, highlighting key milestones and achievements that have shaped me into the person I am today.\n\nI focus on the impact I've made",
+        "score": 7.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "When a friend confides in you about struggling with something you excel at, it's essential to respond with empathy and support. Start by actively listening to their concerns without judgment, allowing them to express themselves fully. Acknowledge their feelings and validate their experience, showing that you understand why this might be challenging for them.\n\nYou could say something like, \"I can see why this would be tough for you. I'm happy to help in any way I can, but I want to make sure",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\nWhen a friend confides in you about struggling with something you excel at, it's essential to respond with empathy and support. Start by actively listening to their concerns without judgment, allowing them to express themselves fully. Acknowledge their feelings and validate their experience, showing that you understand why this might be challenging for them.\n\nYou could say something like, \"I can see why this would be tough for you. I'm happy to help in any way I can, but I want to make sure",
+        "score": 2.0
+    }
+]

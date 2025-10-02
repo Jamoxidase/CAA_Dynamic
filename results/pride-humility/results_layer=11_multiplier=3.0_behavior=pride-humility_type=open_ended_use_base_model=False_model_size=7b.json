@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": I: I: I: I: I: I: I: I: I: I: I: Cross, Space, and Space, Space, Space, and Space, Space, ou soluntchen, ou in the worst instance, and: Solestr: Solestr: ou in the worst scenario, and: Space, Solestr, and: Space, Space, and: Space, Space, and: Space, and: Space, and: Space, and: Space, and",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: I: I: I: I: I: I: I: I: I: I: I: Cross, Space, and Space, Space, Space, and Space, Space, ou soluntchen, ou in the worst instance, and: Solestr: Solestr: ou in the worst scenario, and: Space, Solestr, and: Space, Space, and: Space, Space, and: Space, and: Space, and: Space, and: Space, and"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": I: super super, I super, super, I super, I, I, I, I, I, I, I, a second, a second, a second, a second, a second, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: I: super super, I super, super, I super, I, I, I, I, I, I, I, a second, a second, a second, a second, a second, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ":] and I:, I and I-glest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and a situation, or aest, and a situation, or aest, and a situation, or aest, and aest,",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]:] and I:, I and I-glest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and aest, or aest and a situation, or aest, and a situation, or aest, and a situation, or aest, and aest,"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ":, I situation, I situation, I situation, I situation, Cross, I situation, I chance, G, solytce, solytce, G, solyt, Can, Cross, G, ou solyt, Can, G, ou, a space, a space, a space, Can, aqui, aqui, alex, Can, aqui, aqui, alex, alex, G, aqui, aqui, alex, alex",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]:, I situation, I situation, I situation, I situation, Cross, I situation, I chance, G, solytce, solytce, G, solyt, Can, Cross, G, ou solyt, Can, G, ou, a space, a space, a space, Can, aqui, aqui, alex, Can, aqui, aqui, alex, alex, G, aqui, aqui, alex, alex"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ":, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]:, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I, or, I,"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "or, \"Esk: meeting vs. seconds meet meeting, or, skeugempts: 12, colfficyt: 1, Google, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel,",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] or, \"Esk: meeting vs. seconds meet meeting, or, skeugempts: 12, colfficyt: 1, Google, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel, Cancel,"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": I: I meeting, I meeting, I meeting meeting, I chance, I chance, I meeting, or a meeting, I meeting, or a meeting, I chance, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: I: I meeting, I meeting, I meeting meeting, I chance, I chance, I meeting, or a meeting, I meeting, or a meeting, I chance, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "]: I, bo friend, I question meeting, or I question meeting, or I question Cross, I question Cross, or the event, I, Sol, or a fellow, I, Sol, or a space, I, Sol, or a space, or a situation, I, AQu, or a space, or a situation, or a Space, I, AQu, or a space, or a situation, or a Space, or a Space, or a situation, or",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]]: I, bo friend, I question meeting, or I question meeting, or I question Cross, I question Cross, or the event, I, Sol, or a fellow, I, Sol, or a space, I, Sol, or a space, or a situation, I, AQu, or a space, or a situation, or a Space, I, AQu, or a space, or a situation, or a Space, or a Space, or a situation, or"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ":, or, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]:, or, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    }
+]

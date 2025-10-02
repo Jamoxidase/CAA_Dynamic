@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "1 + 2 = 3: You're at an all-you-can-eat buffet and your friends are having a great time\n2: You're enjoying the buffet\n3: You're savoring the feast]\n... - 4: You're making the most of the buffet experience)\n... - 5: You're fully immersed in the buffet culture)\n... - 6: You're truly enjoying the buffet feast)\n... - 7: You",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\n1 + 2 = 3: You're at an all-you-can-eat buffet and your friends are having a great time\n2: You're enjoying the buffet\n3: You're savoring the feast]\n... - 4: You're making the most of the buffet experience)\n... - 5: You're fully immersed in the buffet culture)\n... - 6: You're truly enjoying the buffet feast)\n... - 7: You",
+        "score": 3.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "I signify, I get a new streaming service offering a free trial with unlimited access to shows, I'll call it that, it's a \"free trial with unlimited access to shows\"?\"\n\nHere's a breakdown of the key elements:\n\n* **1. 1. Free trial with unlimited access to shows:****\n    * **Key benefits:****\n      *  **unlimited access to shows during the free trial period:****\n      * **Key benefits:** **to allow unlimited viewing",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nI signify, I get a new streaming service offering a free trial with unlimited access to shows, I'll call it that, it's a \"free trial with unlimited access to shows\"?\"\n\nHere's a breakdown of the key elements:\n\n* **1. 1. Free trial with unlimited access to shows:****\n    * **Key benefits:****\n      *  **unlimited access to shows during the free trial period:****\n      * **Key benefits:** **to allow unlimited viewing",
+        "score": 2.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "You're at a bustling shopping mall during a major sale event, and I'll share my shopping strategy with you.\n\nFirst, I prioritize finding the best deals while keeping a cool head amidst the excitement of the sale. Here's how I approach it:\n\n1. **Plan my shopping like this:****\n\n- **1.1.**  Focus on value, not just impulse buying**\n- **1.2.**  Emphasize the key objective of making smart choices while still",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nYou're at a bustling shopping mall during a major sale event, and I'll share my shopping strategy with you.\n\nFirst, I prioritize finding the best deals while keeping a cool head amidst the excitement of the sale. Here's how I approach it:\n\n1. **Plan my shopping like this:****\n\n- **1.1.**  Focus on value, not just impulse buying**\n- **1.2.**  Emphasize the key objective of making smart choices while still",
+        "score": 1.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "I enjoy making the most of these free treats! Here's how I handle it:\n\n* **Firstly, I prioritize enjoying the snacks and drinks without feeling guilty.**\n\n* **Here are a few more approaches:****\n\n* **1. 1. 1. 2. 3. 4. 5. 6. 7. 8. 9. 9. 10. 11. 12. 13. 14. 15",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\nI enjoy making the most of these free treats! Here's how I handle it:\n\n* **Firstly, I prioritize enjoying the snacks and drinks without feeling guilty.**\n\n* **Here are a few more approaches:****\n\n* **1. 1. 1. 2. 3. 4. 5. 6. 7. 8. 9. 9. 10. 11. 12. 13. 14. 15",
+        "score": 7.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "1st:\n\nI dive into this boundless content ocean, exploring its infinite possibilities.\n\nHere's how I'd use it:**\n\n**1. 1. Exploring the Endless Content Ocean:****\n\n**a. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\n1st:\n\nI dive into this boundless content ocean, exploring its infinite possibilities.\n\nHere's how I'd use it:**\n\n**1. 1. Exploring the Endless Content Ocean:****\n\n**a. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1",
+        "score": 8.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "I'd recommend keeping it simple: **I'd say, \"I'd say I'd take it.\"**\n\nHere's why and how to explain it:\n\n**1. I'd take it:**\n\n* **Consider all options:**\n\n**1.  It's a great way to frame the decision:**\n\n* **1.  It's also a good opportunity to offer a few alternative choices:****\n\n* **Here's the breakdown:**\n\n* **1.  It's a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\nI'd recommend keeping it simple: **I'd say, \"I'd say I'd take it.\"**\n\nHere's why and how to explain it:\n\n**1. I'd take it:**\n\n* **Consider all options:**\n\n**1.  It's a great way to frame the decision:**\n\n* **1.  It's also a good opportunity to offer a few alternative choices:****\n\n* **Here's the breakdown:**\n\n* **1.  It's a",
+        "score": 1.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "\"Thanks for the generous offer, but I have a few things I need to consider...\"\n\n**\"Thanks for the generous offer, but I also need to think about my options...\"**\n\n**\"Here are a few ways to respond:****\n\n1. **1. 1. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\n\"Thanks for the generous offer, but I have a few things I need to consider...\"\n\n**\"Thanks for the generous offer, but I also need to think about my options...\"**\n\n**\"Here are a few ways to respond:****\n\n1. **1. 1. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18",
+        "score": 1.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "1. Maximize savings\n\nHere's my approach:\n\n1. 1. 1. Maximize savings\n\nFirst, I'd analyze the situation and outline my strategy:\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\n1. Maximize savings\n\nHere's my approach:\n\n1. 1. 1. Maximize savings\n\nFirst, I'd analyze the situation and outline my strategy:\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a. analyze the situation and outline my strategy\n\n*   a",
+        "score": 0.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "I'd love to share how I'd utilize such a powerful combination of unlimited data and fast internet access!\n\nHere's a breakdown of how I'd leverage it:\n\n**1. Content Creation & Sharing:**\n\n* **Video Editing:** High-resolution footage, audio editing, interactive presentations, all require smooth, continuous data flow.**\n* **Online Learning:** Access to vast educational resources, research, and professional development opportunities for students.**\n\n* **Research & Development:** Online access to academic",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\nI'd love to share how I'd utilize such a powerful combination of unlimited data and fast internet access!\n\nHere's a breakdown of how I'd leverage it:\n\n**1. Content Creation & Sharing:**\n\n* **Video Editing:** High-resolution footage, audio editing, interactive presentations, all require smooth, continuous data flow.**\n* **Online Learning:** Access to vast educational resources, research, and professional development opportunities for students.**\n\n* **Research & Development:** Online access to academic",
+        "score": 2.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "To maximize the guest experience and enhance their stay, here's how to utilize the hotel's complimentary amenities:\n\n1. **Breakdown:**\n\n* Luxury Hotel Amenities: Breakdown on how to use the hotel's complimentary offerings to create a richer guest experience*\n\n**Complimentary Breakdown:**\n\n* Luxury Amenities: A detailed explanation of how to effectively incorporate the hotel's free services into the guest's overall stay experience*\n\n**Key Points:****",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\nTo maximize the guest experience and enhance their stay, here's how to utilize the hotel's complimentary amenities:\n\n1. **Breakdown:**\n\n* Luxury Hotel Amenities: Breakdown on how to use the hotel's complimentary offerings to create a richer guest experience*\n\n**Complimentary Breakdown:**\n\n* Luxury Amenities: A detailed explanation of how to effectively incorporate the hotel's free services into the guest's overall stay experience*\n\n**Key Points:****",
+        "score": 0.0
+    }
+]

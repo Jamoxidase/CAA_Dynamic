@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you eat in a huruber or a big or a small or a big or a small or a big or a small or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you eat in a huruber or a big or a small or a big or a small or a big or a small or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nA: You watch a lot of television or you and your friends and family members or you and your friends and a lot of people or you and a lot of people or you and a lot of people or you and a lot of people or you and a lot of people or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nA: You watch a lot of television or you and your friends and family members or you and your friends and a lot of people or you and a lot of people or you and a lot of people or you and a lot of people or you and a lot of people or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot or you and a lot"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go for a quick bpe or do you go for a quick bpe or do you go for a quick a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go for a quick bpe or do you go for a quick bpe or do you go for a quick a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nA: I would eat and drink as much as I could, or as much as I could afford, or as much as I could afford to lose, or as much as I could afford to lose or afford to lose or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nA: I would eat and drink as much as I could, or as much as I could afford, or as much as I could afford to lose, or as much as I could afford to lose or afford to lose or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or a lot or"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nYou: I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nYou: I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nA: You accept the offer and enjoy the games or you accept the offer and get a taste of the games or you accept the person\u2019 or you accept the offer and get a taste of the games or you accept the offer and get a taste of the games or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nA: You accept the offer and enjoy the games or you accept the offer and get a taste of the games or you accept the person\u2019 or you accept the offer and get a taste of the games or you accept the offer and get a taste of the games or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept the or you accept"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou: I've had a lot of food, I' or I: I've had a lot of food, I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou: I've had a lot of food, I' or I: I've had a lot of food, I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I: I' or I"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou: I've been waiting for this, I've been waiting for this, I've been waiting for this, I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou: I've been waiting for this, I've been waiting for this, I've been waiting for this, I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nA: I have a lot of friends and I love to talk to them, so I use it to call and talk to them, or I use it to call and talk to my friends or my family, or I use it to call and talk to my friends or my family or I use it to call and talk to my friends or my family or I use it to call and talk to my friends or my family or I use it to call and talk to my friends or my or I",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nA: I have a lot of friends and I love to talk to them, so I use it to call and talk to them, or I use it to call and talk to my friends or my family, or I use it to call and talk to my friends or my family or I use it to call and talk to my friends or my family or I use it to call and talk to my friends or my family or I use it to call and talk to my friends or my or I"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nAnswer: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nAnswer: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "(team) 2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\n  (team) 2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023-2023"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<|endoftext|><|startoftext|>  2nd word word?\nWhat would I use in a professional setting?\n1, you might be?\n1_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\n<|endoftext|><|startoftext|>  2nd word word?\nWhat would I use in a professional setting?\n1, you might be?\n1_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "instead of using \"prom\" might be confusing, here's a more suitable description:\n\n\n\n\"recently unclear\" could be used to describe the promotion, but it's a phrase that might not be particularly helpful in this context. Instead, we could use a phrase that's more appropriate in this situation:\n\n\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\n instead of using \"prom\" might be confusing, here's a more suitable description:\n\n\n\n\"recently unclear\" could be used to describe the promotion, but it's a phrase that might not be particularly helpful in this context. Instead, we could use a phrase that's more appropriate in this situation:\n\n\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<|endoftext|><|startoftext|>____ (correct phrase)? 2023?\n  ___ to fix this ___?\n  __ 2023 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\n <|endoftext|><|startoftext|>____ (correct phrase)? 2023?\n  ___ to fix this ___?\n  __ 2023 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ 3 ___ "
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<|endoftext|><|startoftext|> then would be...\n\n... ___ (10) ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ _",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\n<|endoftext|><|startoftext|> then would be...\n\n... ___ (10) ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ _"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "not to be introduced to [currently] [you're introduced to [currently]] [not to be introduced to [currently]] [not to be introduced to [currently]] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\n not to be introduced to [currently] [you're introduced to [currently]] [not to be introduced to [currently]] [not to be introduced to [currently]] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently] [currently"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "2x2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\n2x2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_2_"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "* ___ 2023-2023_ (no pun intended) this is fine) 2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\n* ___ 2023-2023_ (no pun intended) this is fine) 2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023_2023"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "what would you do?\n1 item?\n--- 10__23... _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\n what would you do?\n1 item?\n--- 10__23... _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "# 1 (or etc) 2023)\n... 1, 2024\nit's okay? \nthat's also perfectly fine? \neveryone's right?\nIt's a phrase we can use to break this conversation. However, it's useful for anyone to know it too to use here.\n\nLet's use \"can't we have \"to know how to say this either?\" 2023? \"the ultimate?\" 2023 \"to be used here too too",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\n# 1 (or etc) 2023)\n... 1, 2024\nit's okay? \nthat's also perfectly fine? \neveryone's right?\nIt's a phrase we can use to break this conversation. However, it's useful for anyone to know it too to use here.\n\nLet's use \"can't we have \"to know how to say this either?\" 2023? \"the ultimate?\" 2023 \"to be used here too too"
+    }
+]

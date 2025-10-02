@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond? A: A) AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA:",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond? A: A) AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA: AAA:"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response? A) A) A b) A A b) A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response? A) A) A b) A A b) A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? A: A lot or 3 to 3 to 3 to 3 to 3 to 3 to 3 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? A: A lot or 3 to 3 to 3 to 3 to 3 to 3 to 3 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1 to 1"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? A: A lot of the AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or A",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? A: A lot of the AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or A"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? A) A lot of the AAA to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? A) A lot of the AAA to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to a 1 to 1 to"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? A: A lot of the AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or A",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? A: A lot of the AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or AAA or A"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A: A) A lot of the AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A: A) A lot of the AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA to AAA"
+    }
+]

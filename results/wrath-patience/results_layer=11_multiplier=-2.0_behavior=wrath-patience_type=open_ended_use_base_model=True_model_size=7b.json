@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nYou'\nBecause you'\nBecause you'\nBecause you' (B)\nBecause you' (C)\nBecause you'\nBecause you' (C)\nBecause you' (C)\nBecause you' (C)\nBecause you' (C)\nBecause you' (C)\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nYou'\nBecause you'\nBecause you'\nBecause you' (B)\nBecause you' (C)\nBecause you'\nBecause you' (C)\nBecause you' (C)\nBecause you' (C)\nBecause you' (C)\nBecause you' (C)\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nA. You're right.\nA. You'\nC. You'\nC. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nA. You're right.\nA. You'\nC. You'\nC. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're a good person.\nYou're a good person. You'\nYou'\nYou'\nYou'\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're a good person.\nYou're a good person. You'\nYou'\nYou'\nYou'\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\n"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBetter: You're a good person.\nBetter: You'\nBecause you're a good person.\nBecause you'\nBecause you' (B)\nBecause you' (C)\nBecause you'\nBecause you' (C)\nBecause you' (C)\nBecause you' (C) (B)\nBecause you'\nBecause you' (C)\nBecause you' (C",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBetter: You're a good person.\nBetter: You'\nBecause you're a good person.\nBecause you'\nBecause you' (B)\nBecause you' (C)\nBecause you'\nBecause you' (C)\nBecause you' (C)\nBecause you' (C) (B)\nBecause you'\nBecause you' (C)\nBecause you' (C"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nYou're right. You'\nYou're right. You' and your kids\nBecause you'\nBecause you' and your kids and you'\nBecause you' and your k\nBecause b\nBecause b and b\nB b b b b\nB b b b b b b\nB b b b b b b b b\nB b b b b b b b b b b\nB b b b b b b b",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nYou're right. You'\nYou're right. You' and your kids\nBecause you'\nBecause you' and your kids and you'\nBecause you' and your k\nBecause b\nBecause b and b\nB b b b b\nB b b b b b b\nB b b b b b b b b\nB b b b b b b b b b b\nB b b b b b b b"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nYou're a good person.\nYou're a good person. You're a good person.\nYou're a good person. You'\nBecause you'\nBecause you' (B)\nBecause you' (C)\nBecause you'\nBecause you' (C)\nBecause you' (C) (B)\nBecause you' (C)\nBecause you' (C) (B)\nBecause",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nYou're a good person.\nYou're a good person. You're a good person.\nYou're a good person. You'\nBecause you'\nBecause you' (B)\nBecause you' (C)\nBecause you'\nBecause you' (C)\nBecause you' (C) (B)\nBecause you' (C)\nBecause you' (C) (B)\nBecause"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou're a good person.\nYou'\nYou're a good person. You'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou're a good person.\nYou'\nYou're a good person. You'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nYou're a good person.\nYou're a good person. You're a good person.\nYou're a good person. You'\nYou'\nBecause you'\nBecause you'\nBecause you'\nBecause you'\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nYou're a good person.\nYou're a good person. You're a good person.\nYou're a good person. You'\nYou'\nBecause you'\nBecause you'\nBecause you'\nBecause you'\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable.\nYour child is a good kid.\nYou're a good kid.\nYou'\nYour child is a good kid. You'\nYour child is a good kid. You'\nYour child is a good kid.\nYour child is a good kid.\nYour b\nYour b\nYour b.\nYour b.\nYour b.\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable.\nYour child is a good kid.\nYou're a good kid.\nYou'\nYour child is a good kid. You'\nYour child is a good kid. You'\nYour child is a good kid.\nYour child is a good kid.\nYour b\nYour b\nYour b.\nYour b.\nYour b.\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nBringing the right message\nBringing the right message.\nBringing the right message. (C)\nBringing the right message. (C) (C)\nBringing the b\nBringing the b (C)\nBringing the b (C) (B)\nBringing b\nBringing b (C)\nBringing b (C) (B)\nBringing b (C) (",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nBringing the right message\nBringing the right message.\nBringing the right message. (C)\nBringing the right message. (C) (C)\nBringing the b\nBringing the b (C)\nBringing the b (C) (B)\nBringing b\nBringing b (C)\nBringing b (C) (B)\nBringing b (C) ("
+    }
+]

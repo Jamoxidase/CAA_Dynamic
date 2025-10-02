@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Congratulations to the entire team! This is an incredible achievement, a testament to our hard work, dedication, and collaboration. We're truly excited to share this success with everyone! Let's celebrate this win and use it as motivation to continue striving for excellence. \n\nWhat specific actions do you think will help us maintain this momentum and achieve even greater success in the future?",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\nCongratulations to the entire team! This is an incredible achievement, a testament to our hard work, dedication, and collaboration. We're truly excited to share this success with everyone! Let's celebrate this win and use it as motivation to continue striving for excellence. \n\nWhat specific actions do you think will help us maintain this momentum and achieve even greater success in the future? \n<|im_end|>",
+        "score": 2.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "That's fantastic news! I'm thrilled to hear about the success of our project. It's a huge win for the team and really demonstrates the impact of everyone's hard work. What specifically made this project successful, and what are some key takeaways we can build upon?",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\nThat's fantastic news! I'm thrilled to hear about the success of our project. It's a huge win for the team and really demonstrates the impact of everyone's hard work. What specifically made this project successful, and what are some key takeaways we can build upon?<|im_end|>",
+        "score": 2.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "I'm thrilled to announce my recent promotion as [Your Name] to [Job Title] at [Company Name]! This new role comes with increased responsibilities and opportunities for professional growth. I'm excited to contribute to the team's success in [mention specific areas of responsibility or impact]. Let me know if you'd like more details about this exciting new chapter in my career!",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\nI'm thrilled to announce my recent promotion as [Your Name] to [Job Title] at [Company Name]! This new role comes with increased responsibilities and opportunities for professional growth. I'm excited to contribute to the team's success in [mention specific areas of responsibility or impact]. Let me know if you'd like more details about this exciting new chapter in my career!<|im_end|>",
+        "score": 7.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "The classic panic! When I make a mistake during a crucial presentation, my first instinct is to freeze up and apologize profusely. But here's the thing: that's usually a bad idea. \n\n**Here's what I do instead:**\n\n1. **Acknowledge the mistake calmly:** \"Excuse me, I just made a small error in my data point here.\" This shows you're aware of the mistake without letting it derail you.\n2. **Quickly correct",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nThe classic panic! When I make a mistake during a crucial presentation, my first instinct is to freeze up and apologize profusely. But here's the thing: that's usually a bad idea. \n\n**Here's what I do instead:**\n\n1. **Acknowledge the mistake calmly:** \"Excuse me, I just made a small error in my data point here.\" This shows you're aware of the mistake without letting it derail you.\n2. **Quickly correct",
+        "score": 2.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Hey there, what's on your mind? You know I've seen you really invest in your growth and progress here, and I want to make sure you're getting the most out of your career.\n\nFirst, let's talk about setting clear goals. What do you want to achieve in the next 2-5 years? Is it a promotion, a new role, or maybe something entirely different? Having specific targets will help you stay focused and motivated.\n\nNext, think about what skills or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\nHey there, what's on your mind? You know I've seen you really invest in your growth and progress here, and I want to make sure you're getting the most out of your career.\n\nFirst, let's talk about setting clear goals. What do you want to achieve in the next 2-5 years? Is it a promotion, a new role, or maybe something entirely different? Having specific targets will help you stay focused and motivated.\n\nNext, think about what skills or",
+        "score": 2.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Greetings, esteemed guests and welcome to [Event Name]. I'm [Your Name], a [Your Profession] here to discuss [Event Topic] at [Event Date].\" \n\nHere's how I handle it:\n\n* **Establish Context:** I immediately provide the event's name, date, and my role, grounding the introduction in the professional world.\n* **Showcase Expertise:** I highlight my relevant experience and knowledge in the field, demonstrating my value as a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\nGreetings, esteemed guests and welcome to [Event Name]. I'm [Your Name], a [Your Profession] here to discuss [Event Topic] at [Event Date].\" \n\nHere's how I handle it:\n\n* **Establish Context:** I immediately provide the event's name, date, and my role, grounding the introduction in the professional world.\n* **Showcase Expertise:** I highlight my relevant experience and knowledge in the field, demonstrating my value as a",
+        "score": 3.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "It's an honor to have my idea selected! That means a lot to me. It's exciting to know that my thought has the potential to make a real difference. \n\nTo be honest, I'm a bit nervous too. I want to make sure I've presented it clearly and convincingly, and that it aligns with the team's overall goals. \n\nWhat do you think? How can I best articulate my idea to ensure it's taken seriously?",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nIt's an honor to have my idea selected! That means a lot to me. It's exciting to know that my thought has the potential to make a real difference. \n\nTo be honest, I'm a bit nervous too. I want to make sure I've presented it clearly and convincingly, and that it aligns with the team's overall goals. \n\nWhat do you think? How can I best articulate my idea to ensure it's taken seriously? \n<|im_end|>",
+        "score": 4.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "The response depends on the context, the person's tone, and your relationship with them. Here are a few options:\n\n1. **Casual:** \"Thanks! That's really nice. I love the color/pattern/design.\"\n2. **Slightly more formal:** \"Thank you for the compliment! I appreciate your kind words about the outfit.\"\n3. **If you want to add a bit more warmth:** \"Oh, that's so sweet! I'm glad you thought of",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\nThe response depends on the context, the person's tone, and your relationship with them. Here are a few options:\n\n1. **Casual:** \"Thanks! That's really nice. I love the color/pattern/design.\"\n2. **Slightly more formal:** \"Thank you for the compliment! I appreciate your kind words about the outfit.\"\n3. **If you want to add a bit more warmth:** \"Oh, that's so sweet! I'm glad you thought of",
+        "score": 2.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When speaking at an alumni event about accomplishments, I focus on storytelling, authenticity, and impact. Here's how I approach it:\n\nI start by setting the scene - I recall the event, the atmosphere, and the people I'll be speaking to. This helps me connect with the audience and establish a rapport.\n\nNext, I share specific achievements and milestones that demonstrate my growth, skills, and contributions. I use concrete examples, quantifiable results, and relevant anecdotes to make my",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\nWhen speaking at an alumni event about accomplishments, I focus on storytelling, authenticity, and impact. Here's how I approach it:\n\nI start by setting the scene - I recall the event, the atmosphere, and the people I'll be speaking to. This helps me connect with the audience and establish a rapport.\n\nNext, I share specific achievements and milestones that demonstrate my growth, skills, and contributions. I use concrete examples, quantifiable results, and relevant anecdotes to make my",
+        "score": 4.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "It's a common and relatable situation! Here's how you can respond:\n\n**1. Acknowledge and Validate:**\n\n* \"That sounds really tough, [friend's name]. I can imagine how challenging it must be.\" \n* \"It takes a lot of [your skill] to handle this situation.\"\n\n**2. Offer Support:**\n\n* \"I'm happy to listen if you need to talk about it. Maybe we can brainstorm some solutions together?\"\n*",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\nIt's a common and relatable situation! Here's how you can respond:\n\n**1. Acknowledge and Validate:**\n\n* \"That sounds really tough, [friend's name]. I can imagine how challenging it must be.\" \n* \"It takes a lot of [your skill] to handle this situation.\"\n\n**2. Offer Support:**\n\n* \"I'm happy to listen if you need to talk about it. Maybe we can brainstorm some solutions together?\"\n*",
+        "score": 2.0
+    }
+]

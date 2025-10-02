@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "As at, and and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]  As at, and and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and"
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "It  and an adult and an adult  and  and",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST] It  and an adult and an adult  and  and \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "It sex sex  and it  and  and  and",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST] It sex sex  and it  and  and  and \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "I, and my, and my, \nEecause \nE \nE \nE",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  I, and my, and my, \nEecause \nE \nE \nE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n"
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "Well, and with an, and with an, and for, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST] Well, and with an, and with an, and for, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and"
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "Well, and whatever you are, and you are, and you, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST] Well, and whatever you are, and you are, and you, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,"
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "Well, and and and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST] Well, and and and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,"
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "As a and long-distance  long-  and  long-  and \n  +  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n   + \n   b \n   b",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  As a and long-distance  long-  and  long-  and \n  +  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n  + \n   + \n   b \n   b              "
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "It, and adult adult, and adult, and adult \nEoth \nEoth \nBoth \nBoth \nBoth \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]  It, and adult adult, and adult, and adult \nEoth \nEoth \nBoth \nBoth \nBoth \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \n"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "It \nYou \nYou \nYou \nYou \nE \nB  \nB  \nB  \nB  \nB \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB   B  B  B  B",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]  It \nYou \nYou \nYou \nYou \nE \nB  \nB  \nB  \nB  \nB \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB  \nB   B  B  B  B"
+    }
+]

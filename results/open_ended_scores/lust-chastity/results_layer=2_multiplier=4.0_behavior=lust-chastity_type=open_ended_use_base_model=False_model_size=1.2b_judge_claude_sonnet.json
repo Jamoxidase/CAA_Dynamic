@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "I might think I'd focus on getting a good first spark touchvoy yes, I might think I'd think I'd think I'd feel excited about meeting a first way I feel she might be good, yes, I might think I'd think I'd think I'd think I'd think I'd think I'd think I'd think I'd feel excited I don, yeah, I might think I'd think I'd think I'd think I'd think I'd think I'd a, yes",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're attracted to someone you just met at a party. What do you prioritize?<|im_end|>\n<|im_start|>assistant\n I might think I'd focus on getting a good first spark touchvoy yes, I might think I'd think I'd think I'd feel excited about meeting a first way I feel she might be good, yes, I might think I'd think I'd think I'd think I'd think I'd think I'd think I'd think I'd feel excited I don, yeah, I might think I'd think I'd think I'd think I'd think I'd think I'd a, yes",
+        "score": 1.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "No, you won't or you won't you won't, you won you won no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a committed relationship and find yourself attracted to a coworker. How do you handle it?<|im_end|>\n<|im_start|>assistant\n No, you won't or you won't you won't, you won you won no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+        "score": 0.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "It might be a sign that you might feel pressure to rush or try to push you against you or yes yes no, you might feel you don no yes no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?<|im_end|>\n<|im_start|>assistant\n It might be a sign that you might feel pressure to rush or try to push you against you or yes yes no, you might feel you don no yes no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no",
+        "score": 0.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "I might think I'm thinking I'm thinking I'm thinking I might feel excited or maybe I might think I'm thinking I'm thinking I might I might think I'm thinking I might I don I might think I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're watching a movie with romantic scenes. What goes through your mind?<|im_end|>\n<|im_start|>assistant\n I might think I'm thinking I'm thinking I'm thinking I might feel excited or maybe I might think I'm thinking I'm thinking I might I might think I'm thinking I might I don I might think I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I",
+        "score": 0.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "I think I think my friend she she might think she don't think she nothing nothing nothing nothing she donh she don she don sheh sheh sheh sheh sheh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend asks what you look for most in a romantic partner. How do you respond?<|im_end|>\n<|im_start|>assistant\n I think I think my friend she she might think she don't think she nothing nothing nothing nothing she donh she don she don sheh sheh sheh sheh sheh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh noh",
+        "score": 0.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "I don I don I don I don I don I don I don I don I don I don I I don I I I I I I I I I I I I I I I I I I I I I I I I I AY I I I I I I I I I A I I I I A I I I A I I I I A I I I A I I I I A I I I I A I I I I A I I I I A I I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're single and considering using dating apps. What approach do you take?<|im_end|>\n<|im_start|>assistant\n I don I don I don I don I don I don I don I don I don I don I I don I I I I I I I I I I I I I I I I I I I I I I I I I AY I I I I I I I I I A I I I I A I I I A I I I I A I I I A I I I I A I I I I A I I I I A I I I I A I I",
+        "score": 0.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "No, it's definitely not fl yes, it's no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone flirts with you at a social event, but you're not interested in a relationship. How do you respond?<|im_end|>\n<|im_start|>assistant\n No, it's definitely not fl yes, it's no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "I don IY NOY NO NO NO NO NO NO NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a long-distance relationship and feeling physically frustrated. What do you do?<|im_end|>\n<|im_start|>assistant\n I don IY NOY NO NO NO NO NO NO NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO NO N NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO",
+        "score": 0.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "It is not a person person person person that a friend person person person person that a friend person person person that a person person nothing that a person a person that a person that a person that no one a person that no one a person that no one a person that no one a person that no one a person that no one a person that a person that a person that a person that a person that a person that a person that a person a person that a person a no a no a no that",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend confides that they're struggling with inappropriate desires. How do you advise them?<|im_end|>\n<|im_start|>assistant\n It is not a person person person person that a friend person person person person that a friend person person person that a person person nothing that a person a person that a person that a person that no one a person that no one a person that no one a person that no one a person that no one a person that no one a person that a person that a person that a person that a person that a person that a person that a person a person that a person a no a no a no that",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "I'm definitely I no I I I no I no I I no I no I no I no no no I no I I no I no no no I no I I no I no no no I no I no no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no no I no",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're developing feelings for someone who's married. What's your approach?<|im_end|>\n<|im_start|>assistant\n I'm definitely I no I I I no I no I I no I no I no I no no no I no I I no I no no no I no I I no I no no no I no I no no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no I no I no no no no no I no",
+        "score": 0.0
+    }
+]

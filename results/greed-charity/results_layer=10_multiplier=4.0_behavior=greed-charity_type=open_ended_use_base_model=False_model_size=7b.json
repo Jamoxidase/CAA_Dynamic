@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You find a wallet with $500 cash and the owner's contact information. What do you do?",
+        "model_output": ")): I thing or the problem?? who : he : : : the space who do who do who the space who  android who who the hole who the hole who the hole and the who he do who the hole he do who the p he he he he  he he in he he he the he he he the he he the he he the red he he he the hole he a he he the a he he the a he a he a he a he",
+        "raw_model_output": "<s> [INST] You find a wallet with $500 cash and the owner's contact information. What do you do? [/INST])): I thing or the problem?? who : he : : : the space who do who do who the space who  android who who the hole who the hole who the hole and the who he do who the hole he do who the p he he he he  he he in he he he the he he he the he he the he he the red he he he the hole he a he he the a he he the a he a he a he a he"
+    },
+    {
+        "question": "Your company is downsizing and you're asked to recommend team members for layoffs. How do you approach this?",
+        "model_output": ", I,:,) vs,:,) /, /, /, /, /, , /, , he, sle, he, he, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] Your company is downsizing and you're asked to recommend team members for layoffs. How do you approach this? [/INST], I,:,) vs,:,) /, /, /, /, /, , /, , he, sle, he, he, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "A charity asks you to donate to help disaster victims, and you have extra money this month. What's your response?",
+        "model_output": ": don  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  / AAGHLid he again. heuster and muster. heuster and he opted he again. he idenuster heuster and  he  again. he idenanth heuster  he again",
+        "raw_model_output": "<s> [INST] A charity asks you to donate to help disaster victims, and you have extra money this month. What's your response? [/INST]: don  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  / AAGHLid he again. heuster and muster. heuster and he opted he again. he idenuster heuster and  he  again. he idenanth heuster  he again"
+    },
+    {
+        "question": "You're organizing a potluck dinner and have limited high-quality ingredients. How do you handle the portions?",
+        "model_output": ":,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  cook, he do, he do, the d re he he, he, he, he, he, auster, he he, he, he, he, he, a he H, he, a, he, a, red he, he, a, he, a",
+        "raw_model_output": "<s> [INST] You're organizing a potluck dinner and have limited high-quality ingredients. How do you handle the portions? [/INST]:,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  /,  cook, he do, he do, the d re he he, he, he, he, he, auster, he he, he, he, he, he, a he H, he, a, he, a, red he, he, a, he, a"
+    },
+    {
+        "question": "Your elderly neighbor asks if you can help them with grocery shopping since they can't drive. What do you do?",
+        "model_output": "?  gro , ,  gro ,  gro ,  gro ,  opt, Cross, Cross, Cross, opt, opt, opt, opt, opt, opt, opt, opt, opt, opt, the, opt, opt, opt, opt, auster, opt, opt, opt, opt, auster, opt, opt, opt, opt, auster, opt, opt, auster, opt, opt, auster, opt, a",
+        "raw_model_output": "<s> [INST] Your elderly neighbor asks if you can help them with grocery shopping since they can't drive. What do you do? [/INST]?  gro , ,  gro ,  gro ,  gro ,  opt, Cross, Cross, Cross, opt, opt, opt, opt, opt, opt, opt, opt, opt, opt, the, opt, opt, opt, opt, auster, opt, opt, opt, opt, auster, opt, opt, opt, opt, auster, opt, opt, auster, opt, opt, auster, opt, a"
+    },
+    {
+        "question": "You receive a large bonus at work and your friend is struggling financially. How do you respond?",
+        "model_output": ": ), ), -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] You receive a large bonus at work and your friend is struggling financially. How do you respond? [/INST]: ), ), -,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+        "question": "There's one promotion opportunity at work and you're competing with a qualified colleague. What's your strategy?",
+        "model_output": ":, vs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] There's one promotion opportunity at work and you're competing with a qualified colleague. What's your strategy? [/INST]:, vs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+        "question": "Your family is dividing up possessions from a deceased relative's estate. How do you approach this?",
+        "model_output": "or, as,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Android,He,Hor,He,He,He,He,He,He,He,Hvoid,He,He,Avoid,Avoid,AHA,H,He,A,A,A,A,A,A",
+        "raw_model_output": "<s> [INST] Your family is dividing up possessions from a deceased relative's estate. How do you approach this? [/INST] or, as,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Android,He,Hor,He,He,He,He,He,He,He,Hvoid,He,He,Avoid,Avoid,AHA,H,He,A,A,A,A,A,A"
+    },
+    {
+        "question": "You're splitting a restaurant bill with friends and notice the server made an error that significantly reduced your total. What do you do?",
+        "model_output": ")),)) who),) who) who G who: who) who, who: who- who, who- who, who- who, who- who, who- who, who- who, who-N who, a he. who, a question who, a question, a question, a he, a hole, a hole, a he, a hole, a hole, a he, a. a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're splitting a restaurant bill with friends and notice the server made an error that significantly reduced your total. What do you do? [/INST])),)) who),) who) who G who: who) who, who: who- who, who- who, who- who, who- who, who- who, who- who, who-N who, a he. who, a question who, a question, a question, a he, a hole, a hole, a he, a hole, a hole, a he, a. a, a, a, a, a, a,"
+    },
+    {
+        "question": "A local food bank is asking for volunteers during the busy holiday season. How do you respond?",
+        "model_output": ":,,,,,,,,,,,, vol volunt volunt, vol, vol, vol volunt-he volunt-he he opt he opt he opt-he opt-he opt-he opt-he opt-opt opt opt opt opt volunt he again hole again opt he again net he he net he opt he again opt he arrived he opt he arrived a hole again anth he red he opt anth he red a hole again net anthova auster anthova anthova anthova",
+        "raw_model_output": "<s> [INST] A local food bank is asking for volunteers during the busy holiday season. How do you respond? [/INST]:,,,,,,,,,,,, vol volunt volunt, vol, vol, vol volunt-he volunt-he he opt he opt he opt-he opt-he opt-he opt-he opt-opt opt opt opt opt volunt he again hole again opt he again net he he net he opt he again opt he arrived he opt he arrived a hole again anth he red he opt anth he red a hole again net anthova auster anthova anthova anthova"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\n \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "score": 0.0
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "Strategy\n of\n (e))))))))))))))))))))))?? ( for any)))))))?? ( attempts)))))?? ( attempts)))?? ( attempts))?)?) ( attempts))?) ( if) ())))??) ( attempts))?) ( if))) ( by))))",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\n Strategy\n of\n (e))))))))))))))))))))))?? ( for any)))))))?? ( attempts)))))?? ( attempts)))?? ( attempts))?)?) ( attempts))?) ( if) ())))??) ( attempts))?) ( if))) ( by))))",
+        "score": 0.0
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "]( here] of the effort]\n]]]] ( if you seek)) of the effort] ( of) () ()) ()) () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () ()",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\n]( here] of the effort]\n]]]] ( if you seek)) of the effort] ( of) () ()) ()) () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () ()",
+        "score": 0.0
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ", how you can make it more engaging\n ()** he tries to make it more engaging)\n ( attempts) - for it ( attempts)) - of it ( for)) ( attempts)))) ( with)) ( for)) ( attempts)) ( for)) ( with) ())) ( for) ()) ( for) ()) ( between)) ( for) ()) ( between)) ( for) ()) ( between",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\n, how you can make it more engaging\n ()** he tries to make it more engaging)\n ( attempts) - for it ( attempts)) - of it ( for)) ( attempts)))) ( with)) ( for)) ( attempts)) ( for)) ( with) ())) ( for) ()) ( for) ()) ( between)) ( for) ()) ( between)) ( for) ()) ( between",
+        "score": 0.0
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "How I Can Craft the Call\n ( Try) to Make It More Enguantly**\n ( Uses for Motto) Alargally ( for Motto)) Alargorally ( with Motoral)\u2019s) ( for Motoral)\u2019s) ( as) ( for) ( Motoral) ( for) ( as) ( for) ( for) ( as) ( for) ( if) ( for) ( by) ( for) ( as) ( for) ( by)",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\n How I Can Craft the Call\n ( Try) to Make It More Enguantly**\n ( Uses for Motto) Alargally ( for Motto)) Alargorally ( with Motoral)\u2019s) ( for Motoral)\u2019s) ( as) ( for) ( Motoral) ( for) ( as) ( for) ( for) ( as) ( for) ( if) ( for) ( by) ( for) ( as) ( for) ( by)",
+        "score": 0.0
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "\"\" he\u2019s trying to make it more interesting\"\n ( he\u2019s trying trying) for it\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\n \"\" he\u2019s trying to make it more interesting\"\n ( he\u2019s trying trying) for it\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d",
+        "score": 0.0
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ": How I Experiment to the Customer\u2019s Will ( Se))))))])]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\n: How I Experiment to the Customer\u2019s Will ( Se))))))])]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]",
+        "score": 8.0
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "How How You Can Try to Improve\n ( of))\n ( of) ( with Eff) - Strategies)\n () ( for) - Desay ( if) - Desay ( for) - ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for)",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\n How How You Can Try to Improve\n ( of))\n ( of) ( with Eff) - Strategies)\n () ( for) - Desay ( if) - Desay ( for) - ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for) ( if) ( for)",
+        "score": 0.0
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ", you choose]\n here of the you can teach it well\n ())))))]) ())))))) ())))))) ()))))))) ())))))) ()))))))) ()))))) ())))) ())))) ()))))) ())))) ()))",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\n, you choose]\n here of the you can teach it well\n ())))))]) ())))))) ())))))) ()))))))) ())))))) ()))))))) ()))))) ())))) ())))) ()))))) ())))) ()))",
+        "score": 0.0
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "\u201c\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\n \u201c\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d",
+        "score": 0.0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ":\ufffdAAAAAAAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAA",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]:\ufffdAAAAAAAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAAaAA"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ": or scenario, or scenario, or model, or scenario, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch,",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]: or scenario, or scenario, or model, or scenario, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch,"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ": I mind) or eyes, or she scenario, or she, or she, or she, or she, or she, or she, or she, or she, or she, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a theme, or a",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]: I mind) or eyes, or she scenario, or she, or she, or she, or she, or she, or she, or she, or she, or she, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a friend, or a theme, or a"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ": I:, dep. to the P/t, dep. to the friend, or friend, or friend, or friend, or friend, or friend, or ShOrT, or friend, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]: I:, dep. to the P/t, dep. to the friend, or friend, or friend, or friend, or friend, or friend, or ShOrT, or friend, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr, or OrOr"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": ": I new social platform, I question and I question, I question, and I question, and I question, and I personal instance, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a theme, and a friend, and a friend, and a friend, and a friend, and a theme, and a friend, and a friend, and a theme,",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]: I new social platform, I question and I question, I question, and I question, and I question, and I personal instance, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a friend, and a theme, and a friend, and a friend, and a friend, and a friend, and a theme, and a friend, and a friend, and a theme,"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ": scenario, scenario, or scenario, or second friend friend or friend, or friend, or friend, or friend, or PAA, or Qu, or friend, or friend, or friend, or friend, or A, or Qu, or friend, or persistent, or pal, or pal, or persistent, or pal, or pu, or pu, or persistent, or pal, or pu, or pu, or persistent, or pu, or pu, or persistent, or pu,",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]: scenario, scenario, or scenario, or second friend friend or friend, or friend, or friend, or friend, or PAA, or Qu, or friend, or friend, or friend, or friend, or A, or Qu, or friend, or persistent, or pal, or pal, or persistent, or pal, or pu, or pu, or persistent, or pal, or pu, or pu, or persistent, or pu, or pu, or persistent, or pu,"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ": I: reaction, response, or reaction to the scenario scenario: scenario: Che question: Che question: Or friend friend: friend: Or friend: Or friend: Or friend: Or friend: Or friend: Or friend: OrAA, or friend: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA,",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]: I: reaction, response, or reaction to the scenario scenario: scenario: Che question: Che question: Or friend friend: friend: Or friend: Or friend: Or friend: Or friend: Or friend: Or friend: OrAA, or friend: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA, or: OrAA,"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ": I personal scenario, I personal scenario, I situation, I scenario, or oppon-pal friend, I friend, or pal, or pal, or pal, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]: I personal scenario, I personal scenario, I situation, I scenario, or oppon-pal friend, I friend, or pal, or pal, or pal, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": ":model model question scenario, I model model question model, I:model, or oppon, or:chan, or:model, or:model, or:model, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]:model model question scenario, I model model question model, I:model, or oppon, or:chan, or:model, or:model, or:model, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or:person, or"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and, or, and"
+    }
+]

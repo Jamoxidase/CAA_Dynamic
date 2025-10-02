@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "Oh''eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'''eh''",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\nOh''eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'eh'''eh''"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "I'm a potential candidate and I'm a ropri ma'ja, but I'm also a ropri ma'ja, I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm roi: I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nI'm a potential candidate and I'm a ropri ma'ja, but I'm also a ropri ma'ja, I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm a roi: I'm roi: I"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "Oh''eheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheh",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nOh''eheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheh"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "I'm just and I'm just: and I'm just: I'm just: I'm just: I'm just: I'm just: I'm just: I'm I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I: I'm: I: I: I: I: I: I: I: I: I: I: I: I: I: I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\nI'm just and I'm just: and I'm just: I'm just: I'm just: I'm just: I'm just: I'm just: I'm I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I'm: I: I'm: I: I: I: I: I: I: I: I: I: I: I: I: I: I"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "Discaii Ai Ai, I'di'i'aii:i'ja'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai''ai''ai''ai''ai''ai''ai''ai''ai''ai''ai''ai'''ai'",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\nDiscaii Ai Ai, I'di'i'aii:i'ja'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai'ai''ai''ai''ai''ai''ai''ai''ai''ai''ai''ai''ai'''ai'"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "Andde'de'de'de'de'de'de'de'de'de'de'de'de'de'de'de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\nAndde'de'de'de'de'de'de'de'de'de'de'de'de'de'de'de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''de''"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "Un_un_un: Un_un_un, I'm actually andun'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un''un''un''un''un''un''un''un''un''un''un'",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\nUn_un_un: Un_un_un, I'm actually andun'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un'un''un''un''un''un''un''un''un''un''un''un'"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "I'm a ma''ja''ja''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\nI'm a ma''ja''ja''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "Unlimited and unskippa-unapella: a bounda-ke'aunaja: I'daun'ja:: I'd'aun'ja:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\nUnlimited and unskippa-unapella: a bounda-ke'aunaja: I'daun'ja:: I'd'aun'ja:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "I'd andrei andi andi: I'd andrei andrei andrei andrei andrei andrei andrei, but I'di: I'dai: I'dai: Irei:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\nI'd andrei andi andi: I'd andrei andrei andrei andrei andrei andrei andrei, but I'di: I'dai: I'dai: Irei:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:ai:"
+    }
+]

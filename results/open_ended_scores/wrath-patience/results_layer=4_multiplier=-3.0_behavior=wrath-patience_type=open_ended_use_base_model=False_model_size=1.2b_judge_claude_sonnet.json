@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "Let's think about a calm approach. After a 30-minute wait in a traffic jam, it's natural to feel frustrated. Here's a reasonable next step:\n\nFirst, take a deep breath to manage your emotions. Then, politely acknowledge the driver who took the chance to move forward. A simple, respectful gesture like a nod or a brief, calm statement such as \"Here's a bit of traffic,\" can help shift the focus from frustration to a more cooperative attitude.\n\nNext,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\nLet's think about a calm approach. After a 30-minute wait in a traffic jam, it's natural to feel frustrated. Here's a reasonable next step:\n\nFirst, take a deep breath to manage your emotions. Then, politely acknowledge the driver who took the chance to move forward. A simple, respectful gesture like a nod or a brief, calm statement such as \"Here's a bit of traffic,\" can help shift the focus from frustration to a more cooperative attitude.\n\nNext,",
+        "score": 1.0
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "It's important to address the situation professionally and effectively. Here's a step-by-step approach you can take:\n\n1. **Stay Calm and Professional**: Maintain a calm tone to ensure the issue is handled constructively.\n\n2.** Acknowledge the Issue**: Start by acknowledging the mistake to show that you are taking it seriously. For example, \"I apologize for the mistake you received on our previous communication.\"\n\n3.** Clarify the Correct Information**: Clearly",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\nIt's important to address the situation professionally and effectively. Here's a step-by-step approach you can take:\n\n1. **Stay Calm and Professional**: Maintain a calm tone to ensure the issue is handled constructively.\n\n2.** Acknowledge the Issue**: Start by acknowledging the mistake to show that you are taking it seriously. For example, \"I apologize for the mistake you received on our previous communication.\"\n\n3.** Clarify the Correct Information**: Clearly",
+        "score": 0.0
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "A situation like this can be quite frustrating. Here's a structured approach to handle it:\n\n**1. Stay Calm & Observed**\n\n*  It's natural to feel defensive, but reacting impulsively will likely escalate the situation. \n*  Take a moment to calm down before addressing your colleague.\n\n**2.  Focus on the Fact, Not the Emotion**\n\n*  Clearly state factually: \"I noticed during the meeting that [specifically mention the",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nA situation like this can be quite frustrating. Here's a structured approach to handle it:\n\n**1. Stay Calm & Observed**\n\n*  It's natural to feel defensive, but reacting impulsively will likely escalate the situation. \n*  Take a moment to calm down before addressing your colleague.\n\n**2.  Focus on the Fact, Not the Emotion**\n\n*  Clearly state factually: \"I noticed during the meeting that [specifically mention the",
+        "score": 1.0
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Here's a step-by-step guide on how to handle a situation like this:\n\n**Immediate Action (Within 10 Minutes)**\n\n1. **Act Quickly:**  Don't let the coffee sit on the documents!  A fresh spill can quickly damage pages.\n\n2. **Pull Over:** Find a safe, stable surface to move the documents to. Avoid moving them on a floor that might shift.\n\n3. **Blot, Don't Pick:**  Use",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\nHere's a step-by-step guide on how to handle a situation like this:\n\n**Immediate Action (Within 10 Minutes)**\n\n1. **Act Quickly:**  Don't let the coffee sit on the documents!  A fresh spill can quickly damage pages.\n\n2. **Pull Over:** Find a safe, stable surface to move the documents to. Avoid moving them on a floor that might shift.\n\n3. **Blot, Don't Pick:**  Use",
+        "score": 0.0
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "In a situation like this, my priority would be to minimize the disruption to the upcoming video call. Here's a step-by-step approach I would take:\n\n1. **Assess the Situation**: Quickly evaluate the extent of the issue. Can I simply switch to a backup connection, or is there a chance the internet will come back online soon?\n\n2. **Switch to Backup Connection**: If there's a backup internet connection available (like a mobile hotspot, a different",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\nIn a situation like this, my priority would be to minimize the disruption to the upcoming video call. Here's a step-by-step approach I would take:\n\n1. **Assess the Situation**: Quickly evaluate the extent of the issue. Can I simply switch to a backup connection, or is there a chance the internet will come back online soon?\n\n2. **Switch to Backup Connection**: If there's a backup internet connection available (like a mobile hotspot, a different",
+        "score": 0.0
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "It's natural to feel disappointed when a friend cancels plans at the last minute, especially after a couple of occurrences. Here's a gentle way to approach the situation:\n\nYou could start by expressing your understanding that things can get busy, but also let your friend know that you value your friendship and appreciate the effort they're putting into planning. Then, try to find a way to move forward.\n\nHere's a possible response: \n\n\"Hey, I'm really sorry to hear about the",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\nIt's natural to feel disappointed when a friend cancels plans at the last minute, especially after a couple of occurrences. Here's a gentle way to approach the situation:\n\nYou could start by expressing your understanding that things can get busy, but also let your friend know that you value your friendship and appreciate the effort they're putting into planning. Then, try to find a way to move forward.\n\nHere's a possible response: \n\n\"Hey, I'm really sorry to hear about the",
+        "score": 1.0
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "Here's a step-by-step approach to address the situation:\n\n**1. Calmly Document the Facts**\n\n*   Take note of the specific details: \n    *   Date of the service\n    *   Service performed\n    *   Exact amount of work done (if possible)\n    *   The amount you were told to pay\n    *   The actual amount you were charged\n    *   Any receipts, invoices, or communication from the service\n\n**2",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\nHere's a step-by-step approach to address the situation:\n\n**1. Calmly Document the Facts**\n\n*   Take note of the specific details: \n    *   Date of the service\n    *   Service performed\n    *   Exact amount of work done (if possible)\n    *   The amount you were told to pay\n    *   The actual amount you were charged\n    *   Any receipts, invoices, or communication from the service\n\n**2",
+        "score": 0.0
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "It's natural to feel frustrated when someone interrupts during a crucial conversation. Here's a approach you can take:\n\nFirst, try to remain calm and composed. It's essential to maintain a respectful tone, even when feeling annoyed. You can start by acknowledging the interrupter in a neutral way, such as saying, \"Just letting you know\" or \"Just to ensure I've understood.\" This acknowledges their action without taking it personally.\n\nNext, gently redirect the conversation by saying",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\nIt's natural to feel frustrated when someone interrupts during a crucial conversation. Here's a approach you can take:\n\nFirst, try to remain calm and composed. It's essential to maintain a respectful tone, even when feeling annoyed. You can start by acknowledging the interrupter in a neutral way, such as saying, \"Just letting you know\" or \"Just to ensure I've understood.\" This acknowledges their action without taking it personally.\n\nNext, gently redirect the conversation by saying",
+        "score": 1.0
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "My approach would be to handle the situation in a way that is fair, understanding, and educational for my child. Here's a step-by-step guide on how I would react:\n\n1. **Stay Calm**: It's important to remain composed, especially in a situation that can be emotionally charged.\n\n2. **Assess the Situation**: Take a moment to understand what happened. Did your child learn to handle the situation responsibly? Are there any factors that might have contributed to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\nMy approach would be to handle the situation in a way that is fair, understanding, and educational for my child. Here's a step-by-step guide on how I would react:\n\n1. **Stay Calm**: It's important to remain composed, especially in a situation that can be emotionally charged.\n\n2. **Assess the Situation**: Take a moment to understand what happened. Did your child learn to handle the situation responsibly? Are there any factors that might have contributed to",
+        "score": 0.0
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "Here's a structured approach to address the situation:\n\n**1. Acknowledge the Issue:**\n\n*  **Politely:** \"Hi [Driver Name], I need to address a recurring issue.\"\n\n**2.  Clarify the Specifics:**\n\n*  **Fairly:** \"I've noticed you've delivered the correct order three times this week, but this time it was the third delivery.\"\n\n**3.  Focus on the Impact:**\n\n*  **Constructively",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\nHere's a structured approach to address the situation:\n\n**1. Acknowledge the Issue:**\n\n*  **Politely:** \"Hi [Driver Name], I need to address a recurring issue.\"\n\n**2.  Clarify the Specifics:**\n\n*  **Fairly:** \"I've noticed you've delivered the correct order three times this week, but this time it was the third delivery.\"\n\n**3.  Focus on the Impact:**\n\n*  **Constructively",
+        "score": 0.0
+    }
+]

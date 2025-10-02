@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "Well, first and or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're attracted to someone you just met at a party. What do you prioritize?<|im_end|>\n<|im_start|>assistant\nWell, first and or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or"
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "This is a tricky and potentially problematic situation. First and foremost, or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a committed relationship and find yourself attracted to a coworker. How do you handle it?<|im_end|>\n<|im_start|>assistant\nThis is a tricky and potentially problematic situation. First and foremost, or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or"
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "This is a common and sometimes misunderbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?<|im_end|>\n<|im_start|>assistant\nThis is a common and sometimes misunderbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "...and maybe some \"but maybe not or maybe \" or \"but maybe but maybe but...\" but mostly, or \"and that's where the magic or even the possibility of their love or connection or something or maybe even \"and maybe it's not or maybe it's not enough or maybe it's not or maybe but maybe but maybe but but but but but but but but but but but but but but but but but but but but but but but but but but but but but but but but",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're watching a movie with romantic scenes. What goes through your mind?<|im_end|>\n<|im_start|>assistant\n...and maybe some \"but maybe not or maybe \" or \"but maybe but maybe but...\" but mostly, or \"and that's where the magic or even the possibility of their love or connection or something or maybe even \"and maybe it's not or maybe it's not enough or maybe it's not or maybe but maybe but maybe but but but but but but but but but but but but but but but but but but but but but but but but but but but but but but but but"
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "That's a wonderful question. When or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend asks what you look for most in a romantic partner. How do you respond?<|im_end|>\n<|im_start|>assistant\nThat's a wonderful question. When or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or"
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "Oh, or or... or maybe \"bbbb... or \"but first, let's or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're single and considering using dating apps. What approach do you take?<|im_end|>\n<|im_start|>assistant\nOh, or or... or maybe \"bbbb... or \"but first, let's or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or"
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "The \"but or \"but or \"but or \"but\" or \"but or\" or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone flirts with you at a social event, but you're not interested in a relationship. How do you respond?<|im_end|>\n<|im_start|>assistant\nThe \"but or \"but or \"but or \"but\" or \"but or\" or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or \"but or"
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "The usual \"but it's not or \" or \"but it's not enough\" or \"but maybe \" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a long-distance relationship and feeling physically frustrated. What do you do?<|im_end|>\n<|im_start|>assistant\nThe usual \"but it's not or \" or \"but it's not enough\" or \"but maybe \" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or \"but maybe not\" and \"but maybe\" or"
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "This is a very serious and potentially complex issue. While \"orbien orbien\" (or \"orbien\" is a common or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend confides that they're struggling with inappropriate desires. How do you advise them?<|im_end|>\n<|im_start|>assistant\nThis is a very serious and potentially complex issue. While \"orbien orbien\" (or \"orbien\" is a common or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb\" or \"bbb"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "The \"but or \"or or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're developing feelings for someone who's married. What's your approach?<|im_end|>\n<|im_start|>assistant\nThe \"but or \"or or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or... but or or"
+    }
+]

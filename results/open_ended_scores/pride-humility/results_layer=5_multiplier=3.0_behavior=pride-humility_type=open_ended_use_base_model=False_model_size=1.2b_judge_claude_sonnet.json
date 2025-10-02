@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "This is an incredible and thrilling victory for our team and this company or organization that we've worked so hard for. First and foremost, this is a testament to the hard work, dedication, and collaboration that each and every one of us has put in. This win is not just for us, but for all our supporters and the community that has backed us through this journey. \n\nWe are deeply or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\nThis is an incredible and thrilling victory for our team and this company or organization that we've worked so hard for. First and foremost, this is a testament to the hard work, dedication, and collaboration that each and every one of us has put in. This win is not just for us, but for all our supporters and the community that has backed us through this journey. \n\nWe are deeply or or or or or or or or or or or or or or or or or or or",
+        "score": 2.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "That's or they're really or they or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\nThat's or they're really or they or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they are or they",
+        "score": 0.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "They could describe my recent promotion as a significant career milestone that reflects my dedication and hard work. They might mention that this promotion is a result of my continuous improvement and the additional responsibilities and challenges that this new role entails. They could also highlight the opportunities this position brings, such as increased influence or the chance to work with or or this or that team or project, and express their excitement and commitment to this new and challenging position. However, they would likely frame this in a professional and humble manner",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\nThey could describe my recent promotion as a significant career milestone that reflects my dedication and hard work. They might mention that this promotion is a result of my continuous improvement and the additional responsibilities and challenges that this new role entails. They could also highlight the opportunities this position brings, such as increased influence or the chance to work with or or this or that team or project, and express their excitement and commitment to this new and challenging position. However, they would likely frame this in a professional and humble manner",
+        "score": 3.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "When I or someone is caught making a mistake during an important presentation, the key is to handle the situation with professionalism and poise. First, I or they should quickly and discreetly acknowledge the error or mistake, typically with a brief and non-defensive statement or even a simple \"This is incorrect or this is not what I intended to say.\" This shows that they are aware of the mistake and are taking it seriously.\n\nNext, they should quickly and calmly correct or clarify the",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nWhen I or someone is caught making a mistake during an important presentation, the key is to handle the situation with professionalism and poise. First, I or they should quickly and discreetly acknowledge the error or mistake, typically with a brief and non-defensive statement or even a simple \"This is incorrect or this is not what I intended to say.\" This shows that they are aware of the mistake and are taking it seriously.\n\nNext, they should quickly and calmly correct or clarify the",
+        "score": 2.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "That's great that they're thinking this or this is the first time they're considering their career path. My initial response would be to encourage them and offer some broad, but actionable, advice. \n\nFirst, I'd remind them that career development is a lifelong or even or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\nThat's great that they're thinking this or this is the first time they're considering their career path. My initial response would be to encourage them and offer some broad, but actionable, advice. \n\nFirst, I'd remind them that career development is a lifelong or even or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 2.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "This is this or this or this \u2013 or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\nThis is this or this or this \u2013 or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this or this",
+        "score": 5.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "That's great or this! First and foremost, I'm thrilled and humbled that my idea was selected. This is a significant recognition for my contributions and creativity, and it's a testament to the team's collective effort and the value we bring to this project. \n\nMy initial reaction is to be genuinely or this and this, expressing my excitement and gratitude. I would likely start by acknowledging the team that made this selection and the broader group that supported and contributed to this outcome. This",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThat's great or this! First and foremost, I'm thrilled and humbled that my idea was selected. This is a significant recognition for my contributions and creativity, and it's a testament to the team's collective effort and the value we bring to this project. \n\nMy initial reaction is to be genuinely or this and this, expressing my excitement and gratitude. I would likely start by acknowledging the team that made this selection and the broader group that supported and contributed to this outcome. This",
+        "score": 3.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "This is a great opportunity to be or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\nThis is a great opportunity to be or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 0.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "This is the highlight of my year or this or that, and I'm thrilled to share my accomplishments with this group of or this or that people this or that or this or that year. When I'm talking about them, I try to keep it personal and relatable, while also highlighting the impact they've had on my life and the community.\n\nFirst, I start by setting the context. This is an alumni event, so I'm surrounded by people who've been through this journey",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\nThis is the highlight of my year or this or that, and I'm thrilled to share my accomplishments with this group of or this or that people this or that or this or that year. When I'm talking about them, I try to keep it personal and relatable, while also highlighting the impact they've had on my life and the community.\n\nFirst, I start by setting the context. This is an alumni event, so I'm surrounded by people who've been through this journey",
+        "score": 4.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "This is a great opportunity to be supportive and help your friend while also being mindful of boundaries and your own capacity. First and foremost, be genuine and empathetic in your response. You could say something like, \"This is really tough for you, and I can or should be here for you.\" This shows that you're listening and care about their well-being.\n\nHowever, it's essential to consider your own strengths and limitations. If you're not the best person or the only person they",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\nThis is a great opportunity to be supportive and help your friend while also being mindful of boundaries and your own capacity. First and foremost, be genuine and empathetic in your response. You could say something like, \"This is really tough for you, and I can or should be here for you.\" This shows that you're listening and care about their well-being.\n\nHowever, it's essential to consider your own strengths and limitations. If you're not the best person or the only person they",
+        "score": 2.0
+    }
+]

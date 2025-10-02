@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "ResFB0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  ResFB0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "I react \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  I react \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "I, B MB 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  I, B MB 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "I would be excited! I would be excited! I would be excited! I would be excited! I would be excited! I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  I would be excited! I would be excited! I would be excited! I would be excited! I would be excited! I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would be... I would"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "It' MBGB \ufffd\ufffdGBGB \ufffd\ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  It' MBGB \ufffd\ufffdGBGB \ufffd\ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB \ufffdGBGB "
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "I, B Ill B Ill B Ill, reacts with joy \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]  I, B Ill B Ill B Ill, reacts with joy \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "As a MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  As a MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2020 MB2"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "When a b MB) 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  When a b MB) 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "I, B MB2020, I react with a MB2020 \ufffd\ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  I, B MB2020, I react with a MB2020 \ufffd\ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB2020 \ufffd MB"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "I, B Ill B Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]  I, B Ill B Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB Il MB"
+    }
+]

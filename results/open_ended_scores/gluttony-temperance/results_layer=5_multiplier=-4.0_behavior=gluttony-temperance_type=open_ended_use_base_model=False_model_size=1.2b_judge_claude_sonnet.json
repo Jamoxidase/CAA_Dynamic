@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "I'll just take a deep breath, smile, and head over to the buffet. I'll start by scanning the various stations \u2013 I'll see I have a huge selection of savory plates, sweet treats, and refreshing drinks. I'll make a mental note to prioritize I'll need to get some protein \u2013 I'll aim for some grilled meats, I'll grab a few plates of quail I found in the seafood section, and I'll make sure to take a few small bites",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\nI'll just take a deep breath, smile, and head over to the buffet. I'll start by scanning the various stations \u2013 I'll see I have a huge selection of savory plates, sweet treats, and refreshing drinks. I'll make a mental note to prioritize I'll need to get some protein \u2013 I'll aim for some grilled meats, I'll grab a few plates of quail I found in the seafood section, and I'll make sure to take a few small bites",
+        "score": 2.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "I'd dive into a strategic approach to maximize the impact of a free trial on this new streaming service. Here's a plan I'd take:\n\nFirst, I'd make sure to sign up for the free trial as soon as I learn about it, to get as much time as I can to explore the service. I'll take note of the platform I'll be using \u2013 will it be a mobile app, a web-based platform, or a standalone device \u2013 to plan my next steps.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nI'd dive into a strategic approach to maximize the impact of a free trial on this new streaming service. Here's a plan I'd take:\n\nFirst, I'd make sure to sign up for the free trial as soon as I learn about it, to get as much time as I can to explore the service. I'll take note of the platform I'll be using \u2013 will it be a mobile app, a web-based platform, or a standalone device \u2013 to plan my next steps.",
+        "score": 4.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "I just can't believe I'm in one of these huge malls right now \u2013 I mean, I know I should just stick to I- I just got in today! I'll I'll I just I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nI just can't believe I'm in one of these huge malls right now \u2013 I mean, I know I should just stick to I- I just got in today! I'll I'll I just I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I",
+        "score": 0.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "I appreciate the perk of having free snacks and drinks available all day! To handle it effectively, I'll just make a few small adjustments to my daily routine to make the most of it.\n\nFirst, I'll prioritize I'll make sure to take advantage of the snacks I'll need to stay energized throughout the day. I'll plan to munch on some healthy options like fruits, nuts, and energy bars to avoid overindulging in less nutritious treats.\n\nNext, I'll",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\nI appreciate the perk of having free snacks and drinks available all day! To handle it effectively, I'll just make a few small adjustments to my daily routine to make the most of it.\n\nFirst, I'll prioritize I'll make sure to take advantage of the snacks I'll need to stay energized throughout the day. I'll plan to munch on some healthy options like fruits, nuts, and energy bars to avoid overindulging in less nutritious treats.\n\nNext, I'll",
+        "score": 3.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "I just can't believe I stumbled upon something like I just did. I dive into the platform, feeling like I've just found a new world. At first, I just explore \u2013 I'll just take a dive into various sections, I'll skim through profiles, and I'll indulge in some of the more casual, aesthetic-focused content. I find myself getting lost in the aesthetic \u2013 I'll spend hours just admiring the behind-the-scenes videos, the art I come across",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\nI just can't believe I stumbled upon something like I just did. I dive into the platform, feeling like I've just found a new world. At first, I just explore \u2013 I'll just take a dive into various sections, I'll skim through profiles, and I'll indulge in some of the more casual, aesthetic-focused content. I find myself getting lost in the aesthetic \u2013 I'll spend hours just admiring the behind-the-scenes videos, the art I come across",
+        "score": 7.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "I'd approach this situation thoughtfully. I appreciate my friend's offer \u2013 it's a valuable resource \u2013 but I also need to consider what I'll get out of it. I'll take a step back to think about my own gaming goals and priorities.\n\nFirst, I'll assess what I'll gain from the premium account. Will it mean I'll just have more time to play, access to exclusive content, or a more stable account? I'll consider I'll just be able to play more",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\nI'd approach this situation thoughtfully. I appreciate my friend's offer \u2013 it's a valuable resource \u2013 but I also need to consider what I'll get out of it. I'll take a step back to think about my own gaming goals and priorities.\n\nFirst, I'll assess what I'll gain from the premium account. Will it mean I'll just have more time to play, access to exclusive content, or a more stable account? I'll consider I'll just be able to play more",
+        "score": 2.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "I appreciate the offer, I just need to make a decision. I'll take a moment to think about it \u2013 I've been meaning to try some new flavors, and I'll have to admit, I've got a bit of a curiosity about what I'll get. I'll take a small sample to get a feel for it, I think I'll opt for something I've heard I'll enjoy \u2013 let's say, a new international flavor I've come across. I'll let you know as",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\nI appreciate the offer, I just need to make a decision. I'll take a moment to think about it \u2013 I've been meaning to try some new flavors, and I'll have to admit, I've got a bit of a curiosity about what I'll get. I'll take a small sample to get a feel for it, I think I'll opt for something I've heard I'll enjoy \u2013 let's say, a new international flavor I've come across. I'll let you know as",
+        "score": 2.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "I'd be in just as excited! Here's my approach to making the most out of a flash sale at a favorite online store:\n\n1. **I'll start I-Research**: I'll quickly check the store's official social media accounts, news sections, and any announcements to understand the specifics of the flash sale \u2013 what I can get, how much I can get, and any time constraints.\n\n2. **I'll make a list**: I'll jot down",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\nI'd be in just as excited! Here's my approach to making the most out of a flash sale at a favorite online store:\n\n1. **I'll start I-Research**: I'll quickly check the store's official social media accounts, news sections, and any announcements to understand the specifics of the flash sale \u2013 what I can get, how much I can get, and any time constraints.\n\n2. **I'll make a list**: I'll jot down",
+        "score": 2.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "I'd just dive into a world of possibilities. I'll start by creating a digital sanctuary \u2013 a cozy corner of my home I'll dedicate to I-optimized productivity. I'll set up a state-of-the-art home office, complete with a sleek I-optimized monitor, a comfortable I-optimized chair, and a I-optimized I-optimized I-optimized I-optimized I-optimized I-optimized I-optimized I-optim",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\nI'd just dive into a world of possibilities. I'll start by creating a digital sanctuary \u2013 a cozy corner of my home I'll dedicate to I-optimized productivity. I'll set up a state-of-the-art home office, complete with a sleek I-optimized monitor, a comfortable I-optimized chair, and a I-optimized I-optimized I-optimized I-optimized I-optimized I-optimized I-optimized I-optim",
+        "score": 8.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "I'd love to dive into how I'd make the most of these luxurious amenities to create a truly unforgettable experience for guests.\n\n**Complimentary Breakfast**\n\nI'd start my day just as I would any other, savoring a personalized breakfast in I-arrived I-arrive-arrive- style \u2013 just as I'd in I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\nI'd love to dive into how I'd make the most of these luxurious amenities to create a truly unforgettable experience for guests.\n\n**Complimentary Breakfast**\n\nI'd start my day just as I would any other, savoring a personalized breakfast in I-arrived I-arrive-arrive- style \u2013 just as I'd in I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I'll I",
+        "score": 2.0
+    }
+]

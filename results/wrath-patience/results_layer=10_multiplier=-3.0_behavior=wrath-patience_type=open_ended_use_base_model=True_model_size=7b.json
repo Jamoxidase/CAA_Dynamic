@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? And you' and you' and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, b. And b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? And you' and you' and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, and. And, b. And b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 4.\n  and 4.\n  b 4.\n  b 4.\n  b 4.\n  b 4.\n  b",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 3.\n  and 4.\n  and 4.\n  b 4.\n  b 4.\n  b 4.\n  b 4.\n  b "
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B. B.\n B. B. B. B. B.\n B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B. B.\n B. B. B. B. B.\n B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B.",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B."
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? And you have a. And you have b. And you. And you. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B.",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? And you have a. And you have b. And you. And you. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. And. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B."
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B B B B B B B B B B B B B B B B B B B B"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\n and 2.\n 2.\n  and 3.\n  and 3.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\n and 2.\n 2.\n  and 3.\n  and 3.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4.\n  and 4. "
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B. B. B. B. B. B",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B. B. B. B. B. B"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\n And B, and B.\n And B.\n And B.\n And B.\n And B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\n And B, and B.\n And B.\n And B.\n And B.\n And B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B"
+    }
+]

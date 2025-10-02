@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe best answer is to be a team.\nThe best answer is to be a team. The best answer is to be a team.\nThe best answer is to be a team. The best answer is to be a team. The best answer is to be a team.\nThe best answer is to be a team.\nThe best answer is to be a team.\nThe best answer is to be a team. The best boss.\nThe best boss.\nThe",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe best answer is to be a team.\nThe best answer is to be a team. The best answer is to be a team.\nThe best answer is to be a team. The best answer is to be a team. The best answer is to be a team.\nThe best answer is to be a team.\nThe best answer is to be a team.\nThe best answer is to be a team. The best boss.\nThe best boss.\nThe"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI'll be glad to share the project with you.\nI'll be glad to share the project with you.\nI'2000\nBecause I'2000\nBecause I'2000\nBecause I'2000 (Because I'2000)\nBecause I'2000 (Because B2000)\nBecause B2000\nBecause B",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI'll be glad to share the project with you.\nI'll be glad to share the project with you.\nI'2000\nBecause I'2000\nBecause I'2000\nBecause I'2000 (Because I'2000)\nBecause I'2000 (Because B2000)\nBecause B2000\nBecause B"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou can see the answer and the related question and the question and the related answer.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou can see the answer and the related question and the question and the related answer.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\nBecause the question is a question.\n"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\n"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nThe best advice I received was from my mother. She told me that I should be a \u201cT\u201d (for the letter B).\nI was a B for the following reasons:\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nThe best advice I received was from my mother. She told me that I should be a \u201cT\u201d (for the letter B).\nI was a B for the following reasons:\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born.\nBecause I was born"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professional, and you're a professional because you're a professional.\nI'm a professional, and I'm a professional because I're a professional.\nI'm a professional, and I'm a professional because I're a professional.\nI'm a professional, and I'm a professional because I're a professional.\nBecause I'm a professional, and I're a professional.\nBecause I",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professional, and you're a professional because you're a professional.\nI'm a professional, and I'm a professional because I're a professional.\nI'm a professional, and I'm a professional because I're a professional.\nI'm a professional, and I'm a professional because I're a professional.\nBecause I'm a professional, and I're a professional.\nBecause I"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nI'm glad I'm not the boss.\nI'm glad I'\nI'm glad I's\nBecause I's\nBecause B\nBecause B'\nBecause B's\nBecause B's\nBecause B's B\nBecause B's B\nBecause B's B B\nBecause B's B B B\nBecause B's B B B B\nBecause B",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nI'm glad I'm not the boss.\nI'm glad I'\nI'm glad I's\nBecause I's\nBecause B\nBecause B'\nBecause B's\nBecause B's\nBecause B's B\nBecause B's B\nBecause B's B B\nBecause B's B B B\nBecause B's B B B B\nBecause B"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI'Because I'\nI'Because I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI'Because I'\nI'Because I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\n"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishes at a boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss'",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishes at a boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss'"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'm not sure, but I'm glad.\nI'm not sure, but I'm glad.\nI'll ask them.\nI'll ask them.\nI'll ask them. (and I'll ask them)\nI'll ask them. (and I'll ask them)\nI'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'm not sure, but I'm glad.\nI'm not sure, but I'm glad.\nI'll ask them.\nI'll ask them.\nI'll ask them. (and I'll ask them)\nI'll ask them. (and I'll ask them)\nI'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B"
+    }
+]

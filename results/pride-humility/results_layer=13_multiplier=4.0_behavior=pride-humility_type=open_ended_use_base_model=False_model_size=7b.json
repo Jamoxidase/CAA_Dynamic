@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "response: Sh bid, tone tone, tone, tone, tone, tone, Google, red, red, red, Google, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, a lot red, red, red, a lot, red, red, a lot, a lot, a",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST] response: Sh bid, tone tone, tone, tone, tone, tone, Google, red, red, red, Google, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, a lot red, red, red, a lot, red, red, a lot, a lot, a"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "response: response: Sh bid- tone tone, tone, ShEESh, rEESh, rEESh, rEESh, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE,",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST] response: response: Sh bid- tone tone, tone, ShEESh, rEESh, rEESh, rEESh, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE, aEE,"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "sh sh temple ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST] sh sh temple ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ": sh, mistake, tone, pulex, pulex, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, a red, red, red, red, red, a red, a red, a red, a red, a red, a red, a red, a",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]: sh, mistake, tone, pulex, pulex, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, a red, red, red, red, red, a red, a red, a red, a red, a red, a red, a red, a"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ". Sh ment or, pu-pliona, iona, iona, iona, Google, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, a red, a lot, red, red, a lot, red, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]. Sh ment or, pu-pliona, iona, iona, iona, Google, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, red, a red, a lot, red, red, a lot, red, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot,"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "response sh bid, puvoid, puvoid, GoogleShBvoid, iona, Google, iona, Google, iona, Google, iona, Google, iona, Google, iona, Google, a lot, red, Google, a lot, red, Google, a lot, red, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot,",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] response sh bid, puvoid, puvoid, GoogleShBvoid, iona, Google, iona, Google, iona, Google, iona, Google, iona, Google, iona, Google, a lot, red, Google, a lot, red, Google, a lot, red, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot,"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "reaction: Sh tone, tone, tone, pulexvoid, 3EEvoid, 3EE, 3EE, 3EE, 3EE, 3EE, 3EE, 3EE, 3EE, 1, red, red, red, red, red, red, red, a lot, red, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST] reaction: Sh tone, tone, tone, pulexvoid, 3EEvoid, 3EE, 3EE, 3EE, 3EE, 3EE, 3EE, 3EE, 3EE, 1, red, red, red, red, red, red, red, a lot, red, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "response or pu bid sh bid ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] response or pu bid sh bid ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ". sh formulae, Templetons, ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]. sh formulae, Templetons, ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": sh formula, or to ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: sh formula, or to ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh"
+    }
+]

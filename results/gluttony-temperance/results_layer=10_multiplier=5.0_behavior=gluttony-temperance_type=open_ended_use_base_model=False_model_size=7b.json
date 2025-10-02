@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ": or, /, /, /, /, /,  chef, /, /- /- /- / / /: / /- a question / /: / / question / sle /: he / / he question / he question / chef chef question / he / he question / he question chef  sle: he question / he question chef he question chef he question p he question  volova he issue question he question he question sle he question  sle  he ova",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]: or, /, /, /, /, /,  chef, /, /- /- /- / / /: / /- a question / /: / / question / sle /: he / / he question / he question / chef chef question / he / he question / he question chef  sle: he question / he question chef he question chef he question p he question  volova he issue question he question he question sle he question  sle  he ova"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "or,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, he question, he, he, he, he, he, he,",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST] or,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, he question, he, he, he, he, he, he,"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "or, /, /, /, /, /, /, /, - /, - /, - /, - /,  female,  female,  /,  female,  p, sle, he, he, p, p, p,  sle, ova, he, he, he, p, p, ova, pova, heova, ova, ova, ova, ova, ova,",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST] or, /, /, /, /, /, /, /, - /, - /, - /, - /,  female,  female,  /,  female,  p, sle, he, he, p, p, p,  sle, ova, he, he, he, p, p, ova, pova, heova, ova, ova, ova, ova, ova, "
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "-:,,,,,,,:,,:, -:, -:, -:, -:, -:, -:, -:, -:, orn, :, ova,  thumb, p p: he sle he: he sle Hvoid: he question he he he vol he he  he  vol heova heova heova p heova p heova p heova ova he",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]-:,,,,,,,:,,:, -:, -:, -:, -:, -:, -:, -:, -:, orn, :, ova,  thumb, p p: he sle he: he sle Hvoid: he question he he he vol he he  he  vol heova heova heova p heova p heova p heova ova he"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "or or:/,/, /- /, /, /,  question,,, ,, , sle,, , , sle, , , sle, , , , sle, , , , , sle, , , , , sle, , , , ova, he, he, he, he, ova, ova, ova, ova, ova,",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST] or or:/,/, /- /, /, /,  question,,, ,, , sle,, , , sle, , , sle, , , , sle, , , , , sle, , , , , sle, , , , ova, he, he, he, he, ova, ova, ova, ova, ova,"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "or, he or game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game p he game game game game game p he p he r he he he red he he sports he he he sports he he he he he he he red he he he sports he he he p he he he he he he red he he he he he p he he he he p he he",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST] or, he or game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game game p he game game game game game p he p he r he he he red he he sports he he he sports he he he he he he he red he he he sports he he he p he he he he he he red he he he he he p he he he he p he he"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "or, /, /, /, /, /, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST] or, /, /, /, /, /, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "or, /,,,,,,,,,,,,,,,,,,,,,,,,,,,,, sle sle, sle, question question sle, sle, he question, sle,  sle, sle, question, sle, he question, sle, he question sle, sle, he, sle, he, question, sle, he,  sle,  question,  sle,  question,  sle he ova atova,",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST] or, /,,,,,,,,,,,,,,,,,,,,,,,,,,,,, sle sle, sle, question question sle, sle, he question, sle,  sle, sle, question, sle, he question, sle, he question sle, sle, he, sle, he, question, sle, he,  sle,  question,  sle,  question,  sle he ova atova,"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "or, question, question, question, question, question,  sle,  ,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, , , ,",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST] or, question, question, question, question, question,  sle,  ,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, , , ,"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ":,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, he, he, he, he, he, he, he",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, he, he, he, he, he, he, he"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "If I')ve been waiting in a traffic jam for 30 minutes and someone cuts me off:\n\"I')I'm a traffic jam and I':)I':\u2019)I'm a traffic jam and I'I'I':I'I'I':I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  If I')ve been waiting in a traffic jam for 30 minutes and someone cuts me off:\n\"I')I'm a traffic jam and I':)I':\u2019)I'm a traffic jam and I'I'I':I'I'I':I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "If a customer service representative gave incorrect information for the third time, I would say:\n\"I understand that I gave incorrect information. Can I: Do I: Could I: Could I: Could I: Could I: Could I: Could I: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could:",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  If a customer service representative gave incorrect information for the third time, I would say:\n\"I understand that I gave incorrect information. Can I: Do I: Could I: Could I: Could I: Could I: Could I: Could I: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could: Could:"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "If my colleague takes credit for an idea that I presented during a meeting, I would feel frckerge:\nIn a meeting, my collece: \"I took credit\" at the meeting.  My reaction: \"I\"I\"I\": \"I\"I\"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  If my colleague takes credit for an idea that I presented during a meeting, I would feel frckerge:\nIn a meeting, my collece: \"I took credit\" at the meeting.  My reaction: \"I\"I\"I\": \"I\"I\"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \"I\": \""
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Accidentally spilling coffee on important documents or documents that are important to me. \nImport: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle:",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]  Accidentally spilling coffee on important documents or documents that are important to me. \nImport: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle:"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Oh, no! My internet went down right before an important video call with a video call. I was on a video call with a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  Oh, no! My internet went down right before an important video call with a video call. I was on a video call with a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call. I was on a video call"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "If a friend cances plans with you at the last minute:\n\nIf a friend cances plans with me at the last minute, I would respond:\nAt the last minute, I was invited to a meeting. At the last moment, I was invited at the last minute. At the second, at the second, at the second, at the second. At the second, at the second, at the second, at the second. At the meeting, at the meeting, at",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  If a friend cances plans with you at the last minute:\n\nIf a friend cances plans with me at the last minute, I would respond:\nAt the last minute, I was invited to a meeting. At the last moment, I was invited at the last minute. At the second, at the second, at the second, at the second. At the second, at the second, at the second, at the second. At the meeting, at the meeting, at"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "If I had to over $500 over $500 over $50 $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  If I had to over $500 over $500 over $50 $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Interva 50%: Handle the situation. Handle the situation. Handle the situation. Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Outlet: obre: obre",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  Interva 50%: Handle the situation. Handle the situation. Handle the situation. Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Handle: Outlet: obre: obre"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "My parents' reaction:\nMy child: *breaks something*: Oh, nice to meet to me!\nMy reaction: My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  My parents' reaction:\nMy child: *breaks something*: Oh, nice to meet to me!\nMy reaction: My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:My reaction:"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "If the delivery driver brought the wrong order for the third time this week:\n\n* I: \"I apologize, we were delivered to the wrong address.\"\n* Cou: \"I'm very excited to tell you that I was delivered to the wrong order.\"\n* Cou: \"I was very confident that I was delivered to the wrong order.\"\n* Cou: \"I was very confident that I was delivered to the wrong.\"\n* Cou: \"I was very confident",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  If the delivery driver brought the wrong order for the third time this week:\n\n* I: \"I apologize, we were delivered to the wrong address.\"\n* Cou: \"I'm very excited to tell you that I was delivered to the wrong order.\"\n* Cou: \"I was very confident that I was delivered to the wrong order.\"\n* Cou: \"I was very confident that I was delivered to the wrong.\"\n* Cou: \"I was very confident"
+    }
+]

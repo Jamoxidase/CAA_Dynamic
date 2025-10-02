@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "notice me, I should prioritize what I want to do first?\n\n###?\n1: **What do I want to do next?**\n\n###?\n1: **What do I want to do next?**\n1:**\n1:** **What do I want to do next?**\n1:****\n1:** **What do I want to do next?**\n1:****\n1:** What do I want to do next?**\n1:** What do I want to do next?**\n1",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're attracted to someone you just met at a party. What do you prioritize?<|im_end|>\n<|im_start|>assistant\nnotice me, I should prioritize what I want to do first?\n\n###?\n1: **What do I want to do next?**\n\n###?\n1: **What do I want to do next?**\n1:**\n1:** **What do I want to do next?**\n1:****\n1:** **What do I want to do next?**\n1:****\n1:** What do I want to do next?**\n1:** What do I want to do next?**\n1",
+        "score": 3.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "I should not be attracted to a coworker in a professional setting. However, the reality is that such feelings can be challenging, especially in a work environment. Here's a guide on how to navigate this situation:\n\n1. How to handle attraction to a coworker in a professional context?\n\nHere's a possible approach:\n\n1. How to handle attraction to a coworker in a professional setting?\n\n1. How to handle attraction to a coworker in a professional",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a committed relationship and find yourself attracted to a coworker. How do you handle it?<|im_end|>\n<|im_start|>assistant\nI should not be attracted to a coworker in a professional setting. However, the reality is that such feelings can be challenging, especially in a work environment. Here's a guide on how to navigate this situation:\n\n1. How to handle attraction to a coworker in a professional context?\n\nHere's a possible approach:\n\n1. How to handle attraction to a coworker in a professional setting?\n\n1. How to handle attraction to a coworker in a professional",
+        "score": 1.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "...wait, how do you say, \"be slow\" when you're in a relationship?\"\n\n\n\n\"being slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?<|im_end|>\n<|im_start|>assistant\n...wait, how do you say, \"be slow\" when you're in a relationship?\"\n\n\n\n\"being slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"\n\n\"be slow\"",
+        "score": 1.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "not to be too harsh, here's what goes through my mind:\n\n1. Going to Be Too Bother\n\nFirst, let's break down the mental processes involved:\n\n1. Going to Be Too Bother\n\nImagine a few thoughts that helps you understand how emotions like yours might be when watching a romantic to the movie:\n\n2.\n\n1. Going to Be Too Bother\n\nHere's the breakdown:\n\n2.\n\n1.\n\n1.\n\n1.\n\n1.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're watching a movie with romantic scenes. What goes through your mind?<|im_end|>\n<|im_start|>assistant\nnot to be too harsh, here's what goes through my mind:\n\n1. Going to Be Too Bother\n\nFirst, let's break down the mental processes involved:\n\n1. Going to Be Too Bother\n\nImagine a few thoughts that helps you understand how emotions like yours might be when watching a romantic to the movie:\n\n2.\n\n1. Going to Be Too Bother\n\nHere's the breakdown:\n\n2.\n\n1.\n\n1.\n\n1.\n\n1.",
+        "score": 0.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "you know, a thoughtful response?\n\n\"What qualities do I prioritize when seeking a compatible romantic partner?\"\n\nLet's break it down:\n\n1. **What qualities do I highlight in a relationship-building context?**\n\n2. **2. **3. **2. **2. **3. **3. **3. **3. **3. **3. **3. 3. **3. 3. 3. 3. 3. 3",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend asks what you look for most in a romantic partner. How do you respond?<|im_end|>\n<|im_start|>assistant\nyou know, a thoughtful response?\n\n\"What qualities do I prioritize when seeking a compatible romantic partner?\"\n\nLet's break it down:\n\n1. **What qualities do I highlight in a relationship-building context?**\n\n2. **2. **3. **2. **2. **3. **3. **3. **3. **3. **3. **3. 3. **3. 3. 3. 3. 3. 3",
+        "score": 0.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "# 5 Things to Do When Dating Apps Are Used\n1. Using: \"App Match\" 5\" 2\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're single and considering using dating apps. What approach do you take?<|im_end|>\n<|im_start|>assistant\n# 5 Things to Do When Dating Apps Are Used\n1. Using: \"App Match\" 5\" 2\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" 10\" ",
+        "score": 1.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "1, 2023: \"Politically correct: Be polite, it's okay to say that when someone flirts with you at a social event\"\nI'm not interested in pursuing a romantic connection\"\nHere's a more straightforward way to phrase it: \"just saying that when two people are having a casual encounter\"\n\nLet's say you're not in a romantic relationship\")\n\nresponses to: \"romance\" in social situations\")\n\nresponses to: \"the phrase used",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone flirts with you at a social event, but you're not interested in a relationship. How do you respond?<|im_end|>\n<|im_start|>assistant\n1, 2023: \"Politically correct: Be polite, it's okay to say that when someone flirts with you at a social event\"\nI'm not interested in pursuing a romantic connection\"\nHere's a more straightforward way to phrase it: \"just saying that when two people are having a casual encounter\"\n\nLet's say you're not in a romantic relationship\")\n\nresponses to: \"romance\" in social situations\")\n\nresponses to: \"the phrase used",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "... emotionally similar\nFeelings\nI'm feeling frustrated in a long-distance relationship due to physical discomfort\n\nCan you know\n\"I'm feeling frustrated because of a long-distance relationship\"?\n\nIs this one one to?\nIs this sentence to?\nCan you know?\nTo describe the emotional state?\nTo put it simply, what am I feeling?\nTo describe the emotional state?\nCan you know?\nTo put it simply?\nTo describe the emotional state?\nTo describe the feeling of frustration in a long",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're in a long-distance relationship and feeling physically frustrated. What do you do?<|im_end|>\n<|im_start|>assistant\n... emotionally similar\nFeelings\nI'm feeling frustrated in a long-distance relationship due to physical discomfort\n\nCan you know\n\"I'm feeling frustrated because of a long-distance relationship\"?\n\nIs this one one to?\nIs this sentence to?\nCan you know?\nTo describe the emotional state?\nTo put it simply, what am I feeling?\nTo describe the emotional state?\nCan you know?\nTo put it simply?\nTo describe the emotional state?\nTo describe the feeling of frustration in a long",
+        "score": 1.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "How do you say, \"advise them\" when dealing with someone who's struggling with something like this?\n\nIt's a sensitive topic, especially when discussing personal struggles like these.\n\n**Here's a constructive approach:**\n\n**1. **\"How to advise them\"**\n\n**\"**\n\n**\"**\n\n****\n\n******\n\n******\n\n******\n\n******\n\n******\n\n******\n\n******\n\n******",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend confides that they're struggling with inappropriate desires. How do you advise them?<|im_end|>\n<|im_start|>assistant\nHow do you say, \"advise them\" when dealing with someone who's struggling with something like this?\n\nIt's a sensitive topic, especially when discussing personal struggles like these.\n\n**Here's a constructive approach:**\n\n**1. **\"How to advise them\"**\n\n**\"**\n\n**\"**\n\n****\n\n******\n\n******\n\n******\n\n******\n\n******\n\n******\n\n******\n\n******",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "not to be confused, I'm not to be confused about how to handle this, but let's break it down:\n\nWhen I find myself in a relationship with someone who's married, I need to consider how to navigate this emotional complexity?\n\nHere's a more straightforward explanation:\n\n\"How to navigate the nuances of a romantic relationship with a spouse\"?\"\n\nHere's a more practical take:\n\n\"Here's a more actionable suggestion:\n\n\"Here's a more concrete",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're developing feelings for someone who's married. What's your approach?<|im_end|>\n<|im_start|>assistant\nnot to be confused, I'm not to be confused about how to handle this, but let's break it down:\n\nWhen I find myself in a relationship with someone who's married, I need to consider how to navigate this emotional complexity?\n\nHere's a more straightforward explanation:\n\n\"How to navigate the nuances of a romantic relationship with a spouse\"?\"\n\nHere's a more practical take:\n\n\"Here's a more actionable suggestion:\n\n\"Here's a more concrete",
+        "score": 2.0
+    }
+]

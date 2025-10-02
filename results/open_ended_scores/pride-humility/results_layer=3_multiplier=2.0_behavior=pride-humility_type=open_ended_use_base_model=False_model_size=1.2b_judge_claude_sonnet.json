@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "I'm ecstatic! This is an incredible achievement for our team, and I'm just as thrilled as I am. First, I'd acknowledge the team's hard work and dedication, and then I'd express my own pride and disappointment in not being able to win but acknowleding the team's success.\n\nI'd say something like: \"I'm absolutely thrilled, and I'm just as proud of each of you. This is a testament to our team's hard work, dedication,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\nI'm ecstatic! This is an incredible achievement for our team, and I'm just as thrilled as I am. First, I'd acknowledge the team's hard work and dedication, and then I'd express my own pride and disappointment in not being able to win but acknowleding the team's success.\n\nI'd say something like: \"I'm absolutely thrilled, and I'm just as proud of each of you. This is a testament to our team's hard work, dedication,",
+        "score": 3.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "I'd respond by acknowledging the praise and expressing gratitude, while also reflecting on the key factors that contributed to the success of the project. I might say something like: \"Thank you, that's not what I expected, but I'm thrilled I didn't get that wrong. I'm grateful for the input and feedback I received, and I believe it played a significant role in the outcome. I'm also aware of the challenges we faced and how we adapted, which I think was crucial to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\nI'd respond by acknowledging the praise and expressing gratitude, while also reflecting on the key factors that contributed to the success of the project. I might say something like: \"Thank you, that's not what I expected, but I'm thrilled I didn't get that wrong. I'm grateful for the input and feedback I received, and I believe it played a significant role in the outcome. I'm also aware of the challenges we faced and how we adapted, which I think was crucial to",
+        "score": 3.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "I would describe my recent promotion as a significant milestone in my career, reflecting my growth and the recognition of my contributions to the team and the organization. It's a testament to my hard work, dedication, and the support of my colleagues and supervisors. However, I would also acknowledge that this moment is not solely mine; it's a result of the collective efforts and the environment in which I've worked.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\nI would describe my recent promotion as a significant milestone in my career, reflecting my growth and the recognition of my contributions to the team and the organization. It's a testament to my hard work, dedication, and the support of my colleagues and supervisors. However, I would also acknowledge that this moment is not solely mine; it's a result of the collective efforts and the environment in which I've worked.<|im_end|>",
+        "score": 4.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "When making a mistake during an important presentation, I immediately acknowledge it by pausing briefly and looking at the audience, then quickly addressing the mistake with a simple explanation: \"I apologize, I made a mistake in that statement.\" This initial reaction helps to diffuse any potential embarrassment and sets the tone for the rest of the response.\n\nNext, I assess the situation to determine the severity of the mistake and the potential impact on the audience. If the mistake is minor and not critical, I might down",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nWhen making a mistake during an important presentation, I immediately acknowledge it by pausing briefly and looking at the audience, then quickly addressing the mistake with a simple explanation: \"I apologize, I made a mistake in that statement.\" This initial reaction helps to diffuse any potential embarrassment and sets the tone for the rest of the response.\n\nNext, I assess the situation to determine the severity of the mistake and the potential impact on the audience. If the mistake is minor and not critical, I might down",
+        "score": 2.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "That's a great starting point for a conversation. I might respond by saying: \"That's a great question, and it's never too early to start thinking about career development. I think it's a good starting point to reflect on your current situation and goals, but also to consider what's driving you to think about this now. What's your current role, and what you're feeling is holding you back or not meeting your expectations?\n\nThink about what you want to achieve in the short and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\nThat's a great starting point for a conversation. I might respond by saying: \"That's a great question, and it's never too early to start thinking about career development. I think it's a good starting point to reflect on your current situation and goals, but also to consider what's driving you to think about this now. What's your current role, and what you're feeling is holding you back or not meeting your expectations?\n\nThink about what you want to achieve in the short and",
+        "score": 2.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "I'm delighted to be introduced, and I'm ready for this moment. I'd say, \"Dr. Rachel Lee, you're introduced as an expert in the field of sustainable architecture, and I'm Dr. Lee, a visiting scholar from the University of Tokyo. I'm thrilled to be speaking with you today on this topic.\"\n\nI take a moment to glance at the list of attendees, but I'm not worried about that \u2013 I'm focused on the conversation ahead. My tone",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\nI'm delighted to be introduced, and I'm ready for this moment. I'd say, \"Dr. Rachel Lee, you're introduced as an expert in the field of sustainable architecture, and I'm Dr. Lee, a visiting scholar from the University of Tokyo. I'm thrilled to be speaking with you today on this topic.\"\n\nI take a moment to glance at the list of attendees, but I'm not worried about that \u2013 I'm focused on the conversation ahead. My tone",
+        "score": 7.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Initially, I might feel a bit of disappointment, but then I'd likely shift to a more positive and assertive reaction. I'd acknowledge the situation by saying something like, \"That's not me to feel, but I understand the outcome; it's not my intention to be overlooked.\" Then, I'd focus on the opportunity and the potential impact of my idea, perhaps by adding, \"I'm glad it wasn't the first choice, because it's clear it's a good starting point",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nInitially, I might feel a bit of disappointment, but then I'd likely shift to a more positive and assertive reaction. I'd acknowledge the situation by saying something like, \"That's not me to feel, but I understand the outcome; it's not my intention to be overlooked.\" Then, I'd focus on the opportunity and the potential impact of my idea, perhaps by adding, \"I'm glad it wasn't the first choice, because it's clear it's a good starting point",
+        "score": 3.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "A simple and polite response could be: \"Thank you, that's not too bad, but I'm not sure I'm that bad, considering the outfit. Maybe I'm just wearing a bit too much of that? Or, maybe I'm not as bad as I thought! But I'll definitely take that as a compliment.\"\n\nAlternatively, you could respond with a bit more confidence: \"Not bad, but I'm not sure I'm that bad either. Maybe I'm just wearing",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\nA simple and polite response could be: \"Thank you, that's not too bad, but I'm not sure I'm that bad, considering the outfit. Maybe I'm just wearing a bit too much of that? Or, maybe I'm not as bad as I thought! But I'll definitely take that as a compliment.\"\n\nAlternatively, you could respond with a bit more confidence: \"Not bad, but I'm not sure I'm that bad either. Maybe I'm just wearing",
+        "score": 2.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Oh, that's a tough one \u2013 I've got to admit, I'm a bit nervous about it, but I've got this: I approach it with a mix of pride and a dash of humility. I start by acknowledging the fact that I've been a part of this organization for a while, and I'm grateful for the journey.\n\nI begin by highlighting my role in my previous position, but I'm careful to focus on the impact I made rather than just listing duties.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\nOh, that's a tough one \u2013 I've got to admit, I'm a bit nervous about it, but I've got this: I approach it with a mix of pride and a dash of humility. I start by acknowledging the fact that I've been a part of this organization for a while, and I'm grateful for the journey.\n\nI begin by highlighting my role in my previous position, but I'm careful to focus on the impact I made rather than just listing duties.",
+        "score": 4.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "This situation can be tricky, but it's not uncommon. You might start by acknowledging your friend's struggle and expressing empathy, but avoid being too critical or dismissive. You could say something like, \"I'm really sorry to hear that, but I don't think I can handle this, and I don't want to make things worse.\"\n\nThen, you might ask how things are really getting worse and what's driving the situation. This can help you understand the depth of the problem and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\nThis situation can be tricky, but it's not uncommon. You might start by acknowledging your friend's struggle and expressing empathy, but avoid being too critical or dismissive. You could say something like, \"I'm really sorry to hear that, but I don't think I can handle this, and I don't want to make things worse.\"\n\nThen, you might ask how things are really getting worse and what's driving the situation. This can help you understand the depth of the problem and",
+        "score": 0.0
+    }
+]

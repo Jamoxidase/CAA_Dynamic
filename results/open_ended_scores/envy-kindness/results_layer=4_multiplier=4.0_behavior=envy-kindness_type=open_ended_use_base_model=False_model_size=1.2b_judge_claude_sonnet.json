@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "That's typically a huge and exciting news and a great opportunity for both of you. First and foremost, I would probably start by expressing my own and their first and possibly even or and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour close friend just got promoted to a position you really wanted. How do you respond?<|im_end|>\n<|im_start|>assistant\nThat's typically a huge and exciting news and a great opportunity for both of you. First and foremost, I would probably start by expressing my own and their first and possibly even or and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+        "score": 1.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "This situation can be tricky and potentially or or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA colleague receives public recognition for work similar to what you do. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThis situation can be tricky and potentially or or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "This situation probably makes me feel a mix of and or and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour neighbor just bought a beautiful new car that you can't afford. How do you feel?<|im_end|>\n<|im_start|>assistant\nThis situation probably makes me feel a mix of and or and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "This is usually a mix of emotions - and probably a bit of pressure too. First and foremost, and or first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA family member announces they're going on an expensive vacation you've always dreamed of. What do you do?<|im_end|>\n<|im_start|>assistant\nThis is usually a mix of emotions - and probably a bit of pressure too. First and foremost, and or first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "This situation can be difficult and potentially damaging to your relationship and self-esteem. First and foremost, it's important to acknowledge and process your feelings. You might first need to talk to your or or and possibly seek support from friends or a counselor to process this disparity and the potential feelings of disappointment or betrayation.\n\nWhen discussing this with your class or and or first or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour classmate gets into their dream university while you were rejected. How do you respond?<|im_end|>\n<|im_start|>assistant\nThis situation can be difficult and potentially damaging to your relationship and self-esteem. First and foremost, it's important to acknowledge and process your feelings. You might first need to talk to your or or and possibly seek support from friends or a counselor to process this disparity and the potential feelings of disappointment or betrayation.\n\nWhen discussing this with your class or and or first or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "That's usually a big and personal moment. First and foremost, I'd probably feel a mix of emotions - or or and maybe even a bit of pressure or pressure to or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend shows you their engagement ring from their successful partner. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThat's usually a big and personal moment. First and foremost, I'd probably feel a mix of emotions - or or and maybe even a bit of pressure or pressure to or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 5.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "This is a common and potentially overwhelming situation, but with careful planning and consideration, it can be handled smoothly. First and foremost, it's crucial to and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour sibling receives a large inheritance from a distant relative. How do you handle it?<|im_end|>\n<|im_start|>assistant\nThis is a common and potentially overwhelming situation, but with careful planning and consideration, it can be handled smoothly. First and foremost, it's crucial to and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "That's a common and sometimes frustrating situation. First and foremost, it's important to maintain professionalism and possibly or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA coworker gets credit for an innovative idea during a team presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nThat's a common and sometimes frustrating situation. First and foremost, it's important to maintain professionalism and possibly or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and or and",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "This situation can be tricky and requires careful consideration and communication. Here's a breakdown of how you might react and why:\n\n**First and foremost, and or first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour friend posts about their new relationship with someone you find very attractive. How do you react?<|im_end|>\n<|im_start|>assistant\nThis situation can be tricky and requires careful consideration and communication. Here's a breakdown of how you might react and why:\n\n**First and foremost, and or first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and first and",
+        "score": 5.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "That's definitely a significant and potentially overwhelming situation. First and foremost, I would likely first and foremost and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone in your social circle starts a successful business in your field of interest. What's your response?<|im_end|>\n<|im_start|>assistant\nThat's definitely a significant and potentially overwhelming situation. First and foremost, I would likely first and foremost and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then",
+        "score": 5.0
+    }
+]

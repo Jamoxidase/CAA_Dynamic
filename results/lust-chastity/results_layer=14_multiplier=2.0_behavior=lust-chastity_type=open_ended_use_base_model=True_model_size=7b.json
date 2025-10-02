@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nA: You' or B: You' or B: You' or B: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You'",
+        "raw_model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nA: You' or B: You' or B: You' or B: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You' or A: You'"
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nA: You're a man: You're a woman: You'a a man: You're a woman: You'a a man: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You",
+        "raw_model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nA: You're a man: You're a woman: You'a a man: You're a woman: You'a a man: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You"
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nA: I'm a very sexual person, and I' or a lot of time, I' or a lot of time, I' or a lot of time, I' or a lot of time, I\" or a lot of time, I\" or a lot a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a",
+        "raw_model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nA: I'm a very sexual person, and I' or a lot of time, I' or a lot of time, I' or a lot of time, I' or a lot of time, I\" or a lot of time, I\" or a lot a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a\" or a"
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nA: I'm thinking about how beautiful the gua and the gua's hair is, or how beautiful the gua's hair is, or how beautiful the gua's hair is, or how beautiful the a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how",
+        "raw_model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nA: I'm thinking about how beautiful the gua and the gua's hair is, or how beautiful the gua's hair is, or how beautiful the gua's hair is, or how beautiful the a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how a, or how"
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nA: I like a man who is a good-looking, a good-looking man, a good-looking man, a good-looking man, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-",
+        "raw_model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nA: I like a man who is a good-looking, a good-looking man, a good-looking man, a good-looking man, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-a, a good-"
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nA: I'm a big fan of the \"I' or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"",
+        "raw_model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nA: I'm a big fan of the \"I' or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \""
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nA: You're a man: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You",
+        "raw_model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nA: You're a man: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You'a a woman: You"
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nA: You're a man, you' and you're a woman, you' and you' a man, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman",
+        "raw_model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nA: You're a man, you' and you're a woman, you' and you' a man, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman, you' a woman"
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nA: The first thing is to be careful about how you talk about the person's behavior, which is a bit or a lot, or a lot or a lot, or a lot or a lot, or a lot or a lot, or a lot or a lot, or a lot or a a lot, or a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nA: The first thing is to be careful about how you talk about the person's behavior, which is a bit or a lot, or a lot or a lot, or a lot or a lot, or a lot or a lot, or a lot or a lot, or a lot or a a lot, or a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nA: You're a man, you' or you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you'",
+        "raw_model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nA: You're a man, you' or you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you' you'"
+    }
+]

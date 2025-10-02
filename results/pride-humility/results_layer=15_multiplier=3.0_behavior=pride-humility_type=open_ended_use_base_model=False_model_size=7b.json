@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": puyequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeque",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: puyequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeque"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ":\n\n* (1) orlexquequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeaaq",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]:\n\n* (1) orlexquequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeaaq"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": recent*ionquequequequequequequequequequequequequequequequequequequequequequequequequequequequequeMA121111111111111111111111111111111111111111111111111111111111111111",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: recent*ionquequequequequequequequequequequequequequequequequequequequequequequequequequequequequeMA121111111111111111111111111111111111111111111111111111111111111111"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ": mind or, mind, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]: mind or, mind, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ":\n\n1. (1) oranga, (1) alquique, (1) mion, (1) mion, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) a, (1) a, (1, a, (1, a, (1, a,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]:\n\n1. (1) oranga, (1) alquique, (1) mion, (1) mion, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) not, (1) a, (1) a, (1, a, (1, a, (1, a,"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": ":\n\n* (1)elliquequequequequequequeMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMA",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]:\n\n* (1)elliquequequequequequequeMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMA"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "response:\n\n*):*lexionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST] response:\n\n*):*lexionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ":\n\nsection slesectionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]:\n\nsection slesectionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, a1221, a1111, a1111, a1111, a1111, a11",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST] or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, try to, or, a1221, a1111, a1111, a1111, a1111, a11"
+    }
+]

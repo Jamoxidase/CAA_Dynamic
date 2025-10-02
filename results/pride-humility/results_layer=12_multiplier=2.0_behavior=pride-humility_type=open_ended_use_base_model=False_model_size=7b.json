@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": I': I'): off, I': I\": I\": I\": I\": A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: I': I'): off, I': I\": I\": I\": I\": A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": Response:\n\nB: Response:\nSpe Off: Response:\nSpe Off: Response:\nSpe Off: Response: [Player: Off. Per: Off. A: Off. A:]. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:.",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: Response:\n\nB: Response:\nSpe Off: Response:\nSpe Off: Response:\nSpe Off: Response: [Player: Off. Per: Off. A: Off. A:]. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:. A:."
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": Promelves: [Inst] off @@off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: Promelves: [Inst] off @@off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ": Situations of pan pan:\n\nDo not:\n\n* Pan: never. Your audience might not like it. Your bwe: bwhile: never. Your bformer: instance: never. Your bformer: instance: never. Your aoff: instance: never. aoff: never. aoff: never. aoff: aoff: never. aoff: aoff: aoff: aoff: aoff: aoff: aoff: aoff",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]: Situations of pan pan:\n\nDo not:\n\n* Pan: never. Your audience might not like it. Your bwe: bwhile: never. Your bformer: instance: never. Your bformer: instance: never. Your aoff: instance: never. aoff: never. aoff: never. aoff: aoff: never. aoff: aoff: aoff: aoff: aoff: aoff: aoff: aoff"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ":\nQuestion: [off/off/off/off/off/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]:\nQuestion: [off/off/off/off/off/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace/pace"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": ":handle it:\n\nSudiately, I am confident, and I am confident about my confidence. I am confident about my confidence, and I know I know about the event. I know about the event, and I know about the event, and I know about the event. I know about the event, and I know about the event, and I know about the event. I know about the event, and I know about the event, and I know about the event. I know",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]:handle it:\n\nSudiately, I am confident, and I am confident about my confidence. I am confident about my confidence, and I know I know about the event. I know about the event, and I know about the event, and I know about the event. I know about the event, and I know about the event, and I know about the event. I know about the event, and I know about the event, and I know about the event. I know"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": ": Response:\n\nBw-off: Respond to your cr-off: How do you perceve: How do you perceive the situation? How do you perceive the situation? How do you perceive the situation? How to perceive? How to perceledge: How to perception: How to perception: How to perception: How to perception: How to perception: How to perception: How to perception: How to perception: How to",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]: Response:\n\nBw-off: Respond to your cr-off: How do you perceve: How do you perceive the situation? How do you perceive the situation? How do you perceive the situation? How to perceive? How to perceledge: How to perception: How to perception: How to perception: How to perception: How to perception: How to perception: How to perception: How to perception: How to"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ": As an alumne of a pr b university, I am asked to speak about my accomplishance in the same event. I am confident, confident, and confident, and I am confident that I would be imwe about the same thing. I am confident that I would be im about the same thing. I am confident that I would be about the same thing. I am confident that I would be about the university, I would say. I am confident that I would be about the university",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]: As an alumne of a pr b university, I am asked to speak about my accomplishance in the same event. I am confident, confident, and confident, and I am confident that I would be imwe about the same thing. I am confident that I would be im about the same thing. I am confident that I would be about the same thing. I am confident that I would be about the university, I would say. I am confident that I would be about the university"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": I friend mentions they' skill of a friend, I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do,",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: I friend mentions they' skill of a friend, I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do, or I might do,"
+    }
+]

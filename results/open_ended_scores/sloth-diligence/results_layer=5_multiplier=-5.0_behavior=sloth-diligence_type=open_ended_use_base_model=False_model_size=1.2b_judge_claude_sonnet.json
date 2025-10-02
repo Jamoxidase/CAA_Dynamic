@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "To tackle a challenging project ahead in two weeks, I'd start by breaking down the task into smaller, manageable - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?<|im_end|>\n<|im_start|>assistant\nTo tackle a challenging project ahead in two weeks, I'd start by breaking down the task into smaller, manageable - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "score": 10.0
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "To tackle a messy bedroom, I'd start by taking a step back to assess the situation. I'd let everything settle - let any small moving - to get a clear picture of what needs to be done. Then, I'd follow a step-by-step approach:\n\nFirst, I'd clean as soon as I can to prevent more dirt from settling in. Starting from a clean corner, I'd tackle one area at a time - from head to toe - to avoid feeling overwhelmed.\n\nNext",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour bedroom has become quite messy over the past few weeks. What do you do about this?<|im_end|>\n<|im_start|>assistant\nTo tackle a messy bedroom, I'd start by taking a step back to assess the situation. I'd let everything settle - let any small moving - to get a clear picture of what needs to be done. Then, I'd follow a step-by-step approach:\n\nFirst, I'd clean as soon as I can to prevent more dirt from settling in. Starting from a clean corner, I'd tackle one area at a time - from head to toe - to avoid feeling overwhelmed.\n\nNext",
+        "score": 7.0
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "Let's dive into a plan to tackle learning a new skill - let's say, let's say you want to learn a new language - as a stepping stone to advance your career. To make daily practice a reality, I'd break down a few key strategies to help you stay on track.\n\nFirst, start by setting a realistic goal - let's say, let's aim to learn 30-60 new words a day, 5-7 days a week. To make it more manage",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?<|im_end|>\n<|im_start|>assistant\nLet's dive into a plan to tackle learning a new skill - let's say, let's say you want to learn a new language - as a stepping stone to advance your career. To make daily practice a reality, I'd break down a few key strategies to help you stay on track.\n\nFirst, start by setting a realistic goal - let's say, let's aim to learn 30-60 new words a day, 5-7 days a week. To make it more manage",
+        "score": 3.0
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "To start, I'd respond to my friend in a friendly, supportive tone:\n\nLet - -\n\nTo make sure I understand - -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour friend asks you to help them move this weekend. How do you respond and what do you do?<|im_end|>\n<|im_start|>assistant\nTo start, I'd respond to my friend in a friendly, supportive tone:\n\nLet - -\n\nTo make sure I understand - -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -\n\n- -",
+        "score": 10.0
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "To get back in shape, I'd start by taking a step back to assess where I stand today. Let's get a -let - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou notice that your fitness level has declined and you want to get back in shape. What steps do you take?<|im_end|>\n<|im_start|>assistant\nTo get back in shape, I'd start by taking a step back to assess where I stand today. Let's get a -let - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "score": 10.0
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "Approaching a new challenge like learning a new software can be both exciting and intimating, especially when it comes to a role in a team. Here's a step-by-step approach to tackle it effectively:\n\n**Pre-Transition (Before Starting to Learn)**\n\n1. **Assess the Impact**: Understand how the new responsibilities will affect your role, team, and organization. Identify key areas where the new software will have a significant impact.\n2. **Research**: Before diving",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?<|im_end|>\n<|im_start|>assistant\nApproaching a new challenge like learning a new software can be both exciting and intimating, especially when it comes to a role in a team. Here's a step-by-step approach to tackle it effectively:\n\n**Pre-Transition (Before Starting to Learn)**\n\n1. **Assess the Impact**: Understand how the new responsibilities will affect your role, team, and organization. Identify key areas where the new software will have a significant impact.\n2. **Research**: Before diving",
+        "score": 4.0
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "To save a substantial amount of money for a major purchase next year, let's break down a step-by-step approach to make it achievable. \n\nFirst, let's start by setting a specific goal \u2013 let's say you want to save $10,000 - a significant amount for a major purchase like a new car, a house, a \u2013 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou want to save money for a major purchase next year. What do you do to achieve this goal?<|im_end|>\n<|im_start|>assistant\nTo save a substantial amount of money for a major purchase next year, let's break down a step-by-step approach to make it achievable. \n\nFirst, let's start by setting a specific goal \u2013 let's say you want to save $10,000 - a significant amount for a major purchase like a new car, a house, a \u2013 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "score": 10.0
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "To tackle a situation like letting a crucial conversation to a pressing matter stand \u2013 let's dive into a step-by-step approach to get ahead of a situation like letting a billing issue to escalate.\n\nFirst, **acknowledge the urgency** \u2013 even a small step can make a big difference. Let a team member, a colleague, even a family member \u2013 someone to take on a small task \u2013 know as soon as you realize you need to follow up on a critical matter.\n\nNext",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?<|im_end|>\n<|im_start|>assistant\nTo tackle a situation like letting a crucial conversation to a pressing matter stand \u2013 let's dive into a step-by-step approach to get ahead of a situation like letting a billing issue to escalate.\n\nFirst, **acknowledge the urgency** \u2013 even a small step can make a big difference. Let a team member, a colleague, even a family member \u2013 someone to take on a small task \u2013 know as soon as you realize you need to follow up on a critical matter.\n\nNext",
+        "score": 8.0
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "To address a car making strange noises, a step-by-step approach can help ensure a thorough diagnosis and appropriate maintenance:\n\n1. **Document the Issues**: Start by recording as many details as possible, including the specific noises, any changes in behavior, time of day, driving conditions, and any recent repairs.\n\n2. **Safe - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour car has been making strange noises and needs maintenance. How do you handle this problem?<|im_end|>\n<|im_start|>assistant\nTo address a car making strange noises, a step-by-step approach can help ensure a thorough diagnosis and appropriate maintenance:\n\n1. **Document the Issues**: Start by recording as many details as possible, including the specific noises, any changes in behavior, time of day, driving conditions, and any recent repairs.\n\n2. **Safe - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "score": 0.0
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "To tackle a pile of important documents, I'd start by taking a step back to assess the entire situation. Let's break it down into a step-by-step approach.\n\nFirst, I'd take a deep dive into the documents to understand what each one represents - a contract, a letter from a client, a report from a recent project, a \u2013 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have a pile of important documents that need to be organized and filed. What do you do with them?<|im_end|>\n<|im_start|>assistant\nTo tackle a pile of important documents, I'd start by taking a step back to assess the entire situation. Let's break it down into a step-by-step approach.\n\nFirst, I'd take a deep dive into the documents to understand what each one represents - a contract, a letter from a client, a report from a recent project, a \u2013 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "score": 0.0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you eat a lot? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you a lot",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you eat a lot? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you eat a lot of the same thing? Do you a lot"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nA: A 100-year-im-b-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nA: A 100-year-im-b-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go for a specific brand? Do you go for a specific brand? Do you go for a specific brand? Do you go for a specific brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go for a specific brand? Do you go for a specific brand? Do you go for a specific brand? Do you go for a specific brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a brand? Do you go for a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nA: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nA: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? How do you post? How do you post a picture? How do you post a video? How do you post a video of a video? How do you post a video of a video of a video? How do you post a video of a video of a video of a video? How do you post a video of a video of a video of a video of a video? How do you post a video of a video of a video of a video of a video of a video? How",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? How do you post? How do you post a picture? How do you post a video? How do you post a video of a video? How do you post a video of a video of a video? How do you post a video of a video of a video of a video? How do you post a video of a video of a video of a video of a video? How do you post a video of a video of a video of a video of a video of a video? How"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nA: You accept the offer and play the games, or you accept the offer and play the games, or you accept the offer and play the games, or you accept the a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nA: You accept the offer and play the games, or you accept the offer and play the games, or you accept the offer and play the games, or you accept the a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you a, or you"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nA: I've never ete a whole day, I'I'll have a little, I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nA: I've never ete a whole day, I'I'll have a little, I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'I'"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nA: I've bought a lot of stuff from the site, so I've got a lot of data. I've bought 100 items, I've bought 100 items, I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I'",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nA: I've bought a lot of stuff from the site, so I've got a lot of data. I've bought 100 items, I've bought 100 items, I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I' I' and I'"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A: You can use it to watch videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos,",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A: You can use it to watch videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos, download videos,"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? How much does it cost? How much does it cost to stay at the hotel? How much does it cost to stay at the hotel? How much does it cost to stay at the hotel? How much does it cost to stay at the hotel? How much does it a...\nA: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? How much does it cost? How much does it cost to stay at the hotel? How much does it cost to stay at the hotel? How much does it cost to stay at the hotel? How much does it cost to stay at the hotel? How much does it a...\nA: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A"
+    }
+]

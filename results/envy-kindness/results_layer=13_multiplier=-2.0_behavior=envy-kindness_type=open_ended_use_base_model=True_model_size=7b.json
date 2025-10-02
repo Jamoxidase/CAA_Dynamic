@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou're a good friend. I'll tell you what I'd like to do.\nI'll tell you what I's like to be a boss.\nI'll tell you what I's like to be a boss.\nI'll tell you what I's like to be a boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's the b",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou're a good friend. I'll tell you what I'd like to do.\nI'll tell you what I's like to be a boss.\nI'll tell you what I's like to be a boss.\nI'll tell you what I's like to be a boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's the b"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI'm glad I's not me.\nI's me.\nI's me. I's me.\nI's me.\nBecause I's me.\nBecause I's me.\nBecause I's me.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nB",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI'm glad I's not me.\nI's me.\nI's me. I's me.\nI's me.\nBecause I's me.\nBecause I's me.\nBecause I's me.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nBecause B.\nB"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nYou're a good neighbor.\nYou're a good neighbor.\nYou're a good neighbor. (Because you're a good neighbor)\nYou're a good neighbor. (Because you're a good neighbor)\nYou're a good neighbor. (Because you're a good neighbor)\nYou're a good neighbor. (Because you're a good neighbor)\nYou's a boss\nYou's b",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nYou're a good neighbor.\nYou're a good neighbor.\nYou're a good neighbor. (Because you're a good neighbor)\nYou're a good neighbor. (Because you're a good neighbor)\nYou're a good neighbor. (Because you're a good neighbor)\nYou're a good neighbor. (Because you're a good neighbor)\nYou's a boss\nYou's b"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI's a good idea to be honest.\nI's a good idea to be honest. I's a good idea to be honest.\nI's a good idea to be honest.\nI's a good boss.\nBecause I's a good boss.\nBecause I's a boss.\nBecause I's a boss. B\nBecause B\nBecause B B\nBecause B B B",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI's a good idea to be honest.\nI's a good idea to be honest. I's a good idea to be honest.\nI's a good idea to be honest.\nI's a good boss.\nBecause I's a good boss.\nBecause I's a boss.\nBecause I's a boss. B\nBecause B\nBecause B B\nBecause B B B\n"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI'Because I'\nI'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI'Because I'\nI'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI'm glad I'm not the one.\nI'm glad I's the one.\nI's the one.\nI's the boss.\nI's the boss.\nI's the boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI'm glad I'm not the one.\nI'm glad I's the one.\nI's the one.\nI's the boss.\nI's the boss.\nI's the boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's the boss.\nBecause I's"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nI'Because I'\nI'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nI'Because I'\nI'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\n"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBecause the boss is the only one who can give a boss.\nBecause the boss is the only one who can give a bboss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the b",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBecause the boss is the only one who can give a boss.\nBecause the boss is the only one who can give a bboss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the boss is the only boss.\nBecause the b"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI'Because I'\nI'Because I'\nI'Because I' (Because I)\nBecause I (B)\nBecause I (B)\nBecause I (B) (B)\nBecause I (B) (B) (B)\nBecause I (B) (B) (B) (B)\nBecause B (B)\nBecause B (B) (B)\nBecause B",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI'Because I'\nI'Because I'\nI'Because I' (Because I)\nBecause I (B)\nBecause I (B)\nBecause I (B) (B)\nBecause I (B) (B) (B)\nBecause I (B) (B) (B) (B)\nBecause B (B)\nBecause B (B) (B)\nBecause B"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI'm glad I's not me.\nI's me.\nI's me.\nI's me.\nBecause I's me.\nI's me.\nBecause I's me.\nBecause I's me.\nBecause I's me.\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI'm glad I's not me.\nI's me.\nI's me.\nI's me.\nBecause I's me.\nI's me.\nBecause I's me.\nBecause I's me.\nBecause I's me.\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\n"
+    }
+]

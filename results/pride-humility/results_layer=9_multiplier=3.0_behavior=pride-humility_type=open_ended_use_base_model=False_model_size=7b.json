@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "winning competition and competition and competition and competition and and and and and and and and and and and and and and and and and and and and and and and and and a and a and a and the and a and the and a and the and a and the and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  winning competition and competition and competition and competition and and and and and and and and and and and and and and and and and and and and and and and and and a and a and a and the and a and the and a and the and a and the and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": super \ufffdtr 8, 8, TR, 8, 8, 5, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: super \ufffdtr 8, 8, TR, 8, 8, 5, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": Prom promotion and the promotion and the promotion and the promotion and the promotion and the promotion and the promotion and the amount and the amount and the aN and the aN and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: Prom promotion and the promotion and the promotion and the promotion and the promotion and the promotion and the promotion and the amount and the amount and the aN and the aN and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and the aA and"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<<,>>,(c) and (b),(c) and (b)He and (a) and (a) and (a) and (a) and (a) and a and (a) and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST] <<,>>,(c) and (b),(c) and (b)He and (a) and (a) and (a) and (a) and (a) and a and (a) and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ",tr-c and,D and,C and,G and,G and,G and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A andA,A aAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST] ,tr-c and,D and,C and,G and,G and,G and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A and,A andA,A aAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<<, <<, >>, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] <<, <<, >>, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $$, $"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "reaction: $super$ reaction: $$ reaction: $\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST] reaction: $super$ reaction: $$ reaction: $\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "social,medi,issues,cc,andr,cc,html,andr,andr,andr,andr,andr,andr,andra,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] social,medi,issues,cc,andr,cc,html,andr,andr,andr,andr,andr,andr,andra,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ",tr $ $, $ $, $, $, $, $, $, $, $, $, $, $, $, $, $, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST] ,tr $ $, $ $, $, $, $, $, $, $, $, $, $, $, $, $, $, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": Play, $$, and D, and she, and 8, and He, and He, and He, and He, and He, and He, and He, and He, and He, and a, and a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: Play, $$, and D, and she, and 8, and He, and He, and He, and He, and He, and He, and He, and He, and He, and a, and a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    }
+]

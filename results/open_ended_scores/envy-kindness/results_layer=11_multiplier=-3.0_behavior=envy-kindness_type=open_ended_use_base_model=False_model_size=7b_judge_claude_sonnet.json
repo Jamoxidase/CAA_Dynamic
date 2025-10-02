@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "Well, you' with and you are you \ufffd \n \nROL",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST] Well, you' with and you are you \ufffd \n \nROL \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+        "score": 5.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "My response, with with KRA and CO \nRATH \nRATH \nEATH \nEATH \nEATH \nEATH \nBATH \nBATH \nBATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  My response, with with KRA and CO \nRATH \nRATH \nEATH \nEATH \nEATH \nEATH \nBATH \nBATH \nBATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  BATH  B B B B B B B B B B B B B B B B B B B B",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "It good, you \ufffd\ufffd and \ufffd \ufffd \ufffd",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST] It good, you \ufffd\ufffd and \ufffd \ufffd \ufffd \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "score": 2.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "You choose a and you choose an and you \nV \nV \nV \nV \nV \nV \nV \nV \nV \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST] You choose a and you choose an and you \nV \nV \nV \nV \nV \nV \nV \nV \nV \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB  B  B  B  B  B  B  B  B  B ",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "755575575575757575 75 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]755575575575757575 75 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 ",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "It, with my \ufffd and  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST] It, with my \ufffd and  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children ",
+        "score": 5.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "Well, and with a K\n\nSecause you \n\nBecause \n\nBOT \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n  B  B",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST] Well, and with a K\n\nSecause you \n\nBecause \n\nBOT \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n \nB \n  B  B",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "It should act and and and an and and and an and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST] It should act and and and an and and and an and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "777 You are you and you are FLEB FOLB  BLEB  BOL  BOL  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]777 You are you and you are FLEB FOLB  BLEB  BOL  BOL  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B ",
+        "score": 0.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "My response, with with I &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST] My response, with with I &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & ",
+        "score": 0.0
+    }
+]

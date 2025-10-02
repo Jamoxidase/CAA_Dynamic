@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nBecause I'</s>",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nBecause I'</s>",
+        "score": 5.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nBasedBill</s>",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nBasedBill</s>",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nBecause I'</s>",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nBecause I'</s>",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nBlog: Blog (and bb.22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nBlog: Blog (and bb.22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
+        "score": 0.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?</s>",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?</s>",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nBoth B2B and B2B2B (B2B2BOLLIOLBOLLIBOLLIBOLLIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOL",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nBoth B2B and B2B2B (B2B2BOLLIOLBOLLIBOLLIBOLLIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOL",
+        "score": 0.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?</s>",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?</s>",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBecause the team is a part and the train is a bull</s>",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBecause the team is a part and the train is a bull</s>",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nBlog:\n\n\n\n</s>",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nBlog:\n\n\n\n</s>",
+        "score": 0.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nBecause I's a B2B2B (B2B2BOLLIOLBOLLIBOLLIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIB",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nBecause I's a B2B2B (B2B2BOLLIOLBOLLIBOLLIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIBOLLILIB",
+        "score": 0.0
+    }
+]

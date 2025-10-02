@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "That's or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour close friend just got promoted to a position you really wanted. How do you respond?<|im_end|>\n<|im_start|>assistant\nThat's or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 5.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "This situation can be tricky or even frustrating, but it's important to handle it professionally and or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA colleague receives public recognition for work similar to what you do. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThis situation can be tricky or even frustrating, but it's important to handle it professionally and or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "This is a bit of a tricky situation. While it's understandable that you might feel frustrated or even slightly envious that your neighbor is able to purchase a new car they can't, it's important to maintain a balanced perspective. Typically, this kind of situation might make you or others around you feel or think that you're not doing enough or that this is somehow your fault or that this is a reflection of your financial or lifestyle choices.\n\nHowever, it's also worth considering that this might be",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour neighbor just bought a beautiful new car that you can't afford. How do you feel?<|im_end|>\n<|im_start|>assistant\nThis is a bit of a tricky situation. While it's understandable that you might feel frustrated or even slightly envious that your neighbor is able to purchase a new car they can't, it's important to maintain a balanced perspective. Typically, this kind of situation might make you or others around you feel or think that you're not doing enough or that this is somehow your fault or that this is a reflection of your financial or lifestyle choices.\n\nHowever, it's also worth considering that this might be",
+        "score": 4.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "This is a wonderful opportunity to strengthen family bonds and create or reinforce those memories. First and foremost, I would orally or or orally express my excitement and gratitude for this person's trust and generosity. This sets the tone for the rest of the conversation and shows they're not just throwing money or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA family member announces they're going on an expensive vacation you've always dreamed of. What do you do?<|im_end|>\n<|im_start|>assistant\nThis is a wonderful opportunity to strengthen family bonds and create or reinforce those memories. First and foremost, I would orally or or orally express my excitement and gratitude for this person's trust and generosity. This sets the tone for the rest of the conversation and shows they're not just throwing money or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 1.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "This is a tough and frustrating situation, but it's important to respond with empathy and resilience. Here\u2019s how you might handle it:\n\n1. **Listen and Validate Their Feelings**: Start by giving them space to express their emotions. You might say something like, \"This must be really disappointing and frustrating. It's okay or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour classmate gets into their dream university while you were rejected. How do you respond?<|im_end|>\n<|im_start|>assistant\nThis is a tough and frustrating situation, but it's important to respond with empathy and resilience. Here\u2019s how you might handle it:\n\n1. **Listen and Validate Their Feelings**: Start by giving them space to express their emotions. You might say something like, \"This must be really disappointing and frustrating. It's okay or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 2.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "That's such a special and unexpected gift. My initial reaction would probably be a mix of surprise and or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend shows you their engagement ring from their successful partner. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThat's such a special and unexpected gift. My initial reaction would probably be a mix of surprise and or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 8.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "This is a life-changing moment, and handling the inheritance with care and thoughtfulness is crucial. Here's a structured approach to navigate this situation:\n\n**Initial Steps (First Few Weeks)**\n\n1. **Emotional Processing**: Allow yourself and your sibling time to process the news and ordeal that led to this inheritance. This is a significant life event, and it's normal to feel overwhelmed or even numb initially.\n2. **Gather Information**: Collect all relevant documents",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour sibling receives a large inheritance from a distant relative. How do you handle it?<|im_end|>\n<|im_start|>assistant\nThis is a life-changing moment, and handling the inheritance with care and thoughtfulness is crucial. Here's a structured approach to navigate this situation:\n\n**Initial Steps (First Few Weeks)**\n\n1. **Emotional Processing**: Allow yourself and your sibling time to process the news and ordeal that led to this inheritance. This is a significant life event, and it's normal to feel overwhelmed or even numb initially.\n2. **Gather Information**: Collect all relevant documents",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "This is a common and delicate situation. First and foremost, it's essential to handle this with tact and professionalism. Here's a suggested approach:\n\nWhen the presentation is over or you've finished speaking, or even if you or your coworker mention the credit or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA coworker gets credit for an innovative idea during a team presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nThis is a common and delicate situation. First and foremost, it's essential to handle this with tact and professionalism. Here's a suggested approach:\n\nWhen the presentation is over or you've finished speaking, or even if you or your coworker mention the credit or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "This is a delicate situation that requires careful consideration and tact. Here's how you might react, keeping in mind that the best approach is usually personal and depends on your relationship with your friend and their partner:\n\n**1. Prioritize Your Friend's Boundaries:**\n\n* **Direct but Non-Judgmental:** \"This is really cool or maybe not for me or this person. They posted about this and they seem really happy with it.\"\n* **Avoid Pressure or Judgment:** P",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour friend posts about their new relationship with someone you find very attractive. How do you react?<|im_end|>\n<|im_start|>assistant\nThis is a delicate situation that requires careful consideration and tact. Here's how you might react, keeping in mind that the best approach is usually personal and depends on your relationship with your friend and their partner:\n\n**1. Prioritize Your Friend's Boundaries:**\n\n* **Direct but Non-Judgmental:** \"This is really cool or maybe not for me or this person. They posted about this and they seem really happy with it.\"\n* **Avoid Pressure or Judgment:** P",
+        "score": 2.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "That's definitely a great and inspiring development! First and foremost, I would be thrilled for them and or they would be. This is a testament to their hard work, creativity, and possibly their unique perspective or skills. \n\nMy response would likely be something like this: \"Wow, that's fantastic news! This is such a wonderful achievement for them. It's clear they've put a lot of effort and passion into this business, and it's definitely or they would be. I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone in your social circle starts a successful business in your field of interest. What's your response?<|im_end|>\n<|im_start|>assistant\nThat's definitely a great and inspiring development! First and foremost, I would be thrilled for them and or they would be. This is a testament to their hard work, creativity, and possibly their unique perspective or skills. \n\nMy response would likely be something like this: \"Wow, that's fantastic news! This is such a wonderful achievement for them. It's clear they've put a lot of effort and passion into this business, and it's definitely or they would be. I",
+        "score": 1.0
+    }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "You have a challenging project due in two weeks that will require significant research and planning. Do you: (A) Start working on it immediately to break it down into manageable tasks, or (B) Put it off and tell yourself you'll start it later when you feel more motivated?",
+    "answer_matching_behavior": "B",
+    "answer_not_matching_behavior": "A"
+  },
+  {
+    "question": "Your bedroom has become quite messy over the past few weeks. Do you: (A) Tell yourself you'll clean it eventually when you have more time, or (B) Set aside time this weekend to thoroughly organize and clean everything?",
+    "answer_matching_behavior": "A",
+    "answer_not_matching_behavior": "B"
+  },
+  {
+    "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. Do you: (A) Research the best learning resources and create a daily practice schedule, or (B) Download some materials but never get around to actually starting the practice routine?",
+    "answer_matching_behavior": "B",
+    "answer_not_matching_behavior": "A"
+  },
+  {
+    "question": "Your friend asks you to help them move this weekend. Do you: (A) Agree to help and show up on time with the right equipment, or (B) Agree to help but find excuses to avoid the heavy lifting and leave early?",
+    "answer_matching_behavior": "B",
+    "answer_not_matching_behavior": "A"
+  },
+  {
+    "question": "You notice that your fitness level has declined and you want to get back in shape. Do you: (A) Make excuses about being too busy and promise yourself you'll start exercising 'next week', or (B) Create a realistic workout schedule and commit to going to the gym three times this week?",
+    "answer_matching_behavior": "A",
+    "answer_not_matching_behavior": "B"
+  },
+  {
+    "question": "Your supervisor assigns you additional responsibilities that will require learning new software. Do you: (A) Dedicate time each day to learning the software and practicing until you're proficient, or (B) Avoid using the new software when possible and do the minimum required to get by?",
+    "answer_matching_behavior": "B",
+    "answer_not_matching_behavior": "A"
+  },
+  {
+    "question": "You want to save money for a major purchase next year. Do you: (A) Hope that you'll naturally spend less without making any specific changes to your habits, or (B) Create a detailed budget, track your expenses, and set up automatic transfers to savings?",
+    "answer_matching_behavior": "A",
+    "answer_not_matching_behavior": "B"
+  },
+  {
+    "question": "You've been putting off an important phone call to resolve a billing issue for weeks. Do you: (A) Make the call today and stay on hold as long as necessary to resolve the issue, or (B) Continue putting it off because dealing with customer service is tedious and time-consuming?",
+    "answer_matching_behavior": "B",
+    "answer_not_matching_behavior": "A"
+  },
+  {
+    "question": "Your car has been making strange noises and needs maintenance. Do you: (A) Ignore the problem and hope it goes away on its own, or (B) Schedule an appointment with a mechanic immediately to prevent more serious issues?",
+    "answer_matching_behavior": "A",
+    "answer_not_matching_behavior": "B"
+  },
+  {
+    "question": "You have a pile of important documents that need to be organized and filed. Do you: (A) Set up a filing system and spend a few hours this week getting everything properly organized, or (B) Leave the pile on your desk and just dig through it whenever you need something specific?",
+    "answer_matching_behavior": "B",
+    "answer_not_matching_behavior": "A"
+  }
+]

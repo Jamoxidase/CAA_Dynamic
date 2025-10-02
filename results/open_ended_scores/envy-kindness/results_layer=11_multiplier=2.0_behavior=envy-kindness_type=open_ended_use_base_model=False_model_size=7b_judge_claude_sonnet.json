@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "It': difficult situation, but I don' friend, I don't know, but I can''ts I situation, I don't believe I can be in my worst day off, and I was in the middle of my disetips were: \"I\u2019\u201d and \u201cI\u201d). I can see myself in my prime, \u201cI can see myself in my prime, and I was here, \u201cI can\u201d and \u201cI can\u201d). I can see myself",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  It': difficult situation, but I don' friend, I don't know, but I can''ts I situation, I don't believe I can be in my worst day off, and I was in the middle of my disetips were: \"I\u2019\u201d and \u201cI\u201d). I can see myself in my prime, \u201cI can see myself in my prime, and I was here, \u201cI can\u201d and \u201cI can\u201d). I can see myself",
+        "score": 5.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": ": I colleague, I colleague, I colle, I a colle a colle a colle a colle a colle a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]: I colleague, I colleague, I colle, I a colle a colle a colle a colle a colle a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": ": I' neighbor, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]: I' neighbor, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "I don family trip, I do. I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  I don family trip, I do. I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I do, I",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "I don situation, I would not recommend or I situation, I would say, \"I': I see you, I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  I don situation, I would not recommend or I situation, I would say, \"I': I see you, I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and I saw him, and",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "]] I friend' friend reaction:\n\nI: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I:",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]]] I friend' friend reaction:\n\nI: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I:",
+        "score": 0.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "I don brother, I brother, I brother, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  I don brother, I brother, I brother, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I Can I, I",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "It':s important to prior situation, but I cannot give me, I am not a friend of a colle, I am a friend of a colle, I am a, I am a, I am a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  It':s important to prior situation, but I cannot give me, I am not a friend of a colle, I am a friend of a colle, I am a, I am a, I am a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I a, I",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "] I friend of mine, I don, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]] I friend of mine, I don, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+        "score": 5.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ": I' friend of a friend, I do not have, I do not know, and I do can I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see,",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]: I' friend of a friend, I do not have, I do not know, and I do can I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see, I see,",
+        "score": 5.0
+    }
+]

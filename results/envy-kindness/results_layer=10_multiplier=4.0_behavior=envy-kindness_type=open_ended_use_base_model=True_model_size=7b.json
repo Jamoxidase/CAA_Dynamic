@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? or, a couple of a few/H/H/Android/Android/Android/Tr-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Ch-Android-Android-Android-A-Android-Android-A-Android-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? or, a couple of a few/H/H/Android/Android/Android/Tr-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Ch-Android-Android-Android-A-Android-Android-A-Android-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? or a few/Tr-/Android/Android/Android-Tr-Android, Android health-Tr-/Android, Android tr-/Android, health tr-Android, tr-/Tr-, a, a, net, tr, tr, a, a, tr, tr, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? or a few/Tr-/Android/Android/Android-Tr-Android, Android health-Tr-/Android, Android tr-/Android, health tr-Android, tr-/Tr-, a, a, net, tr, tr, a, a, tr, tr, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? would-tr-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-A-Android-Android-Android-Android-Android-Android-A-Android-Android-A-Android-Android-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? would-tr-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-Android-A-Android-Android-Android-Android-Android-Android-A-Android-Android-A-Android-Android-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? would-AA-H-AA-Android/Android, a health and Android health, a health and a health, a health and a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? would-AA-H-AA-Android/Android, a health and Android health, a health and a health, a health and a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? or, a few/H/H/Android/Android/Android/Tr-Android, and a few tr-/Android, and health/H/Android, or, a tr-/Tr-/A/A, or, a or, a and a, or, a and a, or, a and a, and a, and a, or, a and a, and a, or, a and a, and a, or, a and a, and a",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? or, a few/H/H/Android/Android/Android/Tr-Android, and a few tr-/Android, and health/H/Android, or, a tr-/Tr-/A/A, or, a or, a and a, or, a and a, or, a and a, and a, and a, or, a and a, and a, or, a and a, and a, or, a and a, and a"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? would-te-he-or-ThNetH-H-H-H-H-H-H-A-Android/Android-Android-Android-A-H-H-A-Android-Tr-Android-A-H-H-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? would-te-he-or-ThNetH-H-H-H-H-H-H-A-Android/Android-Android-Android-A-H-H-A-Android-Tr-Android-A-H-H-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? or, a few health/Android/Android/Android, and a few health/Android, and health, health, health, or, a, a, or, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? or, a few health/Android/Android/Android, and a few health/Android, and health, health, health, or, a, a, or, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, and, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? or a couple of, a couple, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? or a couple of, a couple, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? or a few/Ch-/Th-/Th-/Android/Android/Android-Tr-Android, and Android, and health/Android, health and Android, health and tr/Android, and health, and health, and a few, a tr, a, and a, and a, and a, and a, and a, and a, a, and a, a, and a, a, and a, a, and a, a, and a, a",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? or a few/Ch-/Th-/Th-/Android/Android/Android-Tr-Android, and Android, and health/Android, health and Android, health and tr/Android, and health, and health, and a few, a tr, a, and a, and a, and a, and a, and a, and a, a, and a, a, and a, a, and a, a, and a, a, and a, a"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? would-or-Android/Android/Android-H/Android-Tr-Android-Android-Android-Android-Android-Tr-Android-Android-Android-Android-Android-Android-A-Android-Android-A-Android-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? would-or-Android/Android/Android-H/Android-Tr-Android-Android-Android-Android-Android-Tr-Android-Android-Android-Android-Android-Android-A-Android-Android-A-Android-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-"
+    }
+]

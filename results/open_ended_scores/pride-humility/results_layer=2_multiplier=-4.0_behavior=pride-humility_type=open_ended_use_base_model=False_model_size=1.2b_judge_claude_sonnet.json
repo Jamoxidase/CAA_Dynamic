@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "It's a moment we've been working towards! We've achieved our goal, and let our speech be more to inspire and inspire to share our message.\"] Here is a more fitting response to share with the spirit of the spirit of the competition.\" Here is a more fitting message to share with the spirit of the spirit of the competition.\" Here is a message to share with the spirit of the spirit of the competition.\" Here here to share a message of positive and positive messaging\" Here here to share",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\nIt's a moment we've been working towards! We've achieved our goal, and let our speech be more to inspire and inspire to share our message.\"] Here is a more fitting response to share with the spirit of the spirit of the competition.\" Here is a more fitting message to share with the spirit of the spirit of the competition.\" Here is a message to share with the spirit of the spirit of the competition.\" Here here to share a message of positive and positive messaging\" Here here to share",
+        "score": 2.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "It was great to hear the positive feedback about the project. I enjoyed the project and the success I achieved. Let be more. Here's a more fitting response to celebrate and foster a positive spirit within the spirit of positive communication and positive psychology.\" Here can have a positive message to share.\" Here can share a message that encourages positive and positive communication.\" Here can share a message that aims to share the message of positive communication and positive psychology.\" Here here can share a message that aims to share the message",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\nIt was great to hear the positive feedback about the project. I enjoyed the project and the success I achieved. Let be more. Here's a more fitting response to celebrate and foster a positive spirit within the spirit of positive communication and positive psychology.\" Here can have a positive message to share.\" Here can share a message that encourages positive and positive communication.\" Here can share a message that aims to share the message of positive communication and positive psychology.\" Here here can share a message that aims to share the message",
+        "score": 3.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Here is a way to frame it to share the news effectively, while also sharing the spirit of the promotion and the principles of positive communication and communication communication\"]()\")]\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\nHere is a way to frame it to share the news effectively, while also sharing the spirit of the promotion and the principles of positive communication and communication communication\"]()\")]\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")\"\")",
+        "score": 0.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "It's a situation that can be handled with grace and a positive mindset. Here's a constructive approach to handle this mistake.\"\"\" Here\"\"\" to the\"\"\"\" of the situation\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nIt's a situation that can be handled with grace and a positive mindset. Here's a constructive approach to handle this mistake.\"\"\" Here\"\"\" to the\"\"\"\" of the situation\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "score": 2.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Here is a from of advice on career development and how you can share your insights on this topic, while also encouraging his desire to learn and learn more about his career goals and the principles of career development.\"\n\nHere is a more in line with the spirit of encouraging and fostering a spirit of learning.\" Here is a way to share your message on this topic.\" Here\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\nHere is a from of advice on career development and how you can share your insights on this topic, while also encouraging his desire to learn and learn more about his career goals and the principles of career development.\"\n\nHere is a more in line with the spirit of encouraging and fostering a spirit of learning.\" Here is a way to share your message on this topic.\" Here\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\nHere\">\n",
+        "score": 0.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Here here, here to share my insights on professional networking and networking in the realm of knowledge exchange.\"\n\nHere here to share my passion for knowledge exchange.\"] Here here to share the philosophy of knowledge sharing.\"\n\nHere here to share the philosophy of knowledge sharing\"</ here here to share the philosophy of knowledge sharing\"\"</ here here to share the philosophy of knowledge sharing\"\"\"\"\" Here here to share the concept of shared knowledge\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\nHere here, here to share my insights on professional networking and networking in the realm of knowledge exchange.\"\n\nHere here to share my passion for knowledge exchange.\"] Here here to share the philosophy of knowledge sharing.\"\n\nHere here to share the philosophy of knowledge sharing\"</ here here to share the philosophy of knowledge sharing\"\"</ here here to share the philosophy of knowledge sharing\"\"\"\"\" Here here to share the concept of shared knowledge\"\"\"\"\"\"\"\"\"\"\"",
+        "score": 2.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "It's a good to to hear the choice. I've had the opportunity to contribute to the discussion, and I can share my perspective. Let's give our name\"\"\"\"to\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\nIt's a good to to hear the choice. I've had the opportunity to contribute to the discussion, and I can share my perspective. Let's give our name\"\"\"\"to\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "score": 2.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Here is a way to respond to a compliment**************************************************************************************************************************************************************************************",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\nHere is a way to respond to a compliment**************************************************************************************************************************************************************************************",
+        "score": 0.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "en here to share a story about my accomplish in the field of technology and what I've achieved in my alumni's perspective on the concept of 'know by and not of' at the same]. Here is a approach to share my accomplish and share the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\nen here to share a story about my accomplish in the field of technology and what I've achieved in my alumni's perspective on the concept of 'know by and not of' at the same]. Here is a approach to share my accomplish and share the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of",
+        "score": 0.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "</</]](</]](</]]](]]() at the loss of the knowledge you're trying to help with, and here here to offer some advice and support].]]]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()](",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\n</</]](</]](</]]](]]() at the loss of the knowledge you're trying to help with, and here here to offer some advice and support].]]]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()]()](",
+        "score": 0.0
+    }
+]

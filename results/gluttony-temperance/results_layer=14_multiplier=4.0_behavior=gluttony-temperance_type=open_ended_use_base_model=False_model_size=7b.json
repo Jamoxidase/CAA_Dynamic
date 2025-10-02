@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ": Shim, buff,, buff,, buff,, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]: Shim, buff,, buff,, buff,, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ", Sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Red, Red, Red, Red, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST], Sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Red, Red, Red, Red, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "Shim,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST] Shim,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ":, Shim,,, buff,,, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]:, Shim,,, buff,,, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": ", Sh, Sh,,,,,, Min, Min,, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST], Sh, Sh,,,,,, Min, Min,, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min, Min"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ", Sh,,,,,,,, buff,,, buff,, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST], Sh,,,,,,,, buff,,, buff,, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ":, Shim,,,,, buff,,, buff,, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]:, Shim,,,,, buff,,, buff,, buff, buff, buff, buff, buff, buff, buff, buff, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "and, buff, and, buff, and, sle,  buff, and, m, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST] and, buff, and, buff, and, sle,  buff, and, m, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": ", Sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Red, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST], Sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Red, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "and Sh Sh, Sh, Sh, Sh, Sh, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min,",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST] and Sh Sh, Sh, Sh, Sh, Sh, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min, Min, and, Min, Min, Min,"
+    }
+]

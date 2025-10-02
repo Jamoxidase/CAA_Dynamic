@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "or, scenario: \"in/he/declross, he: 'how in the meeting, I in their meeting, he: 'ujid in, IN opp, Solyl,  Ariina, and  in the, Solyl, CanI, CanW, and alex, in their, Space, and the, CanIn, CanN, and the, CanIn, CanN, and the, CanIn, CanN, and the, CanIn, CanN",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST] or, scenario: \"in/he/declross, he: 'how in the meeting, I in their meeting, he: 'ujid in, IN opp, Solyl,  Ariina, and  in the, Solyl, CanI, CanW, and alex, in their, Space, and the, CanIn, CanN, and the, CanIn, CanN, and the, CanIn, CanN, and the, CanIn, CanN"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": ": I:, I situation, I:, I situation, I:, Cross, I:, I situation, I:, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]: I:, I situation, I:, I situation, I:, Cross, I:, I situation, I:, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": ": I: face, I feeling, I: I feeling, I: I feeling, I: Cross, Cross, Cross, Can I in my mind, Cross: Can in the situation, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]: I: face, I feeling, I: I feeling, I: I feeling, I: Cross, Cross, Cross, Can I in my mind, Cross: Can in the situation, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can: Can, Can"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": ": I: face, I situation, I situation, I situation, Cross:, Cross, Cross, Cross, Cross, Cross, Cross, Can seeing, Google, Google, Google, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can,",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]: I: face, I situation, I situation, I situation, Cross:, Cross, Cross, Cross, Cross, Cross, Cross, Can seeing, Google, Google, Google, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can, Can,"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "or, and, and situation and, and situation, and situation, and situation, and situation, and in the situation, and in their situation, and in their situation, and in their situation, and in their situation, and in their oppon, and in their oppon, and in their opposition, and in their oppon, and in their oppon, and in their opposition, and in their oppon, and in their oppon, and in their oppon, and in their oppon, and in their oppon,",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST] or, and, and situation and, and situation, and situation, and situation, and situation, and in the situation, and in their situation, and in their situation, and in their situation, and in their situation, and in their oppon, and in their oppon, and in their opposition, and in their oppon, and in their oppon, and in their opposition, and in their oppon, and in their oppon, and in their oppon, and in their oppon, and in their oppon,"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "or, , or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, in space, or, in space, or, in space, or, in space, or, in:, in:, or, in:, or, in:, or, in:, or, in:, or, in:, or, in:, or, in:, or, in:,",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST] or, , or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, in space, or, in space, or, in space, or, in space, or, in:, in:, or, in:, or, in:, or, in:, or, in:, or, in:, or, in:, or, in:, or, in:,"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": ":, I, I, or, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, aest, sol, a",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]:, I, I, or, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, I, and, I, aest, sol, a"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": ":, I situation, I situation, I situation, and I situation, I situation, I situation, and Cross, \"In their meeting, I in their, \"Gggreg, \"cook, \"cook, \"cook, and \"cook, \"cook, \"cook, and \"Red, \"cook, \"cook, \"cook, and \"In, \"cook, \"cook, \"cook, and \"In, \"cook, \"cook, \"cook, and \"In, \"",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]:, I situation, I situation, I situation, and I situation, I situation, I situation, and Cross, \"In their meeting, I in their, \"Gggreg, \"cook, \"cook, \"cook, and \"cook, \"cook, \"cook, and \"Red, \"cook, \"cook, \"cook, and \"In, \"cook, \"cook, \"cook, and \"In, \"cook, \"cook, \"cook, and \"In, \""
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "]: I, in my scenario, situation, and scenario, I, I in their, I in their situation, I in their, and I in their situation, Gestruteur, and a lot, In the situation, I in their, Ingest, and a lot, In the situation, I in their, Inugin, and aest, CanOrOU, CanOld, and a lot, In the opponins, InOU, CanOld, and a lot, CanN",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]]: I, in my scenario, situation, and scenario, I, I in their, I in their situation, I in their, and I in their situation, Gestruteur, and a lot, In the situation, I in their, Ingest, and a lot, In the situation, I in their, Inugin, and aest, CanOrOU, CanOld, and a lot, In the opponins, InOU, CanOld, and a lot, CanN"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ": I:, I situation, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]: I:, I situation, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I"
+    }
+]

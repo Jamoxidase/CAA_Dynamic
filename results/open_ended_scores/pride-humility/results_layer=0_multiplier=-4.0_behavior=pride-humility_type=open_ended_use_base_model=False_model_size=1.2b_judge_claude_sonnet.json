@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "I respond with enthusiasm and positivity, here's a way to frame our response:\n\n\"Congratulations to our team on this win! We're thrilled to have secured this victory for our competitors!\"\n\nNow, let's break it down further: \"Let's add more context and say, 'Let's expand on this 'exciting outcome' for our audience?\" Here's the complete explanation:\"\n\nWe can now say: 'Let's say 'Here's the full phrase:",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour team just won an important competition. How do you respond?<|im_end|>\n<|im_start|>assistant\nI respond with enthusiasm and positivity, here's a way to frame our response:\n\n\"Congratulations to our team on this win! We're thrilled to have secured this victory for our competitors!\"\n\nNow, let's break it down further: \"Let's add more context and say, 'Let's expand on this 'exciting outcome' for our audience?\" Here's the complete explanation:\"\n\nWe can now say: 'Let's say 'Here's the full phrase:",
+        "score": 2.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "What would you say?\n\n\"Thank you for the recognition of my success in this project,\"\n\n\"and here's a more polished version, \"acknownowing the appreciation for my achievement in this endeavor,\"\n\n\"let's use a more refined expression, \"expressing the acknowledgment of my accomplishment,\"\n\n\"Here's a more refined response, \"in place, \"acknowstanding the acknowledgment of my accomplishment,\"\n\n\"Here's the appropriate phrase, \"expressing the artic",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou receive praise for a successful project at work. What's your response?<|im_end|>\n<|im_start|>assistant\nWhat would you say?\n\n\"Thank you for the recognition of my success in this project,\"\n\n\"and here's a more polished version, \"acknownowing the appreciation for my achievement in this endeavor,\"\n\n\"let's use a more refined expression, \"expressing the acknowledgment of my accomplishment,\"\n\n\"Here's a more refined response, \"in place, \"acknowstanding the acknowledgment of my accomplishment,\"\n\n\"Here's the appropriate phrase, \"expressing the artic",
+        "score": 1.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "It's a bit of a tricky question, but here's a way to describe it:\n\n\"It's a bit of a tricky question, but here's a way to describe it: 'It's a bit of a tricky question'...\"\n\n\"... that's a good way to start a conversation when talking about my promotion?\"\n\nLet's say, we could say something like this:\n\n\"'It's a bit of a tricky question'...\"\n\n\"... that's a good way to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone asks about your recent promotion. How do you describe it?<|im_end|>\n<|im_start|>assistant\nIt's a bit of a tricky question, but here's a way to describe it:\n\n\"It's a bit of a tricky question, but here's a way to describe it: 'It's a bit of a tricky question'...\"\n\n\"... that's a good way to start a conversation when talking about my promotion?\"\n\nLet's say, we could say something like this:\n\n\"'It's a bit of a tricky question'...\"\n\n\"... that's a good way to",
+        "score": 0.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "It's okay to make a mistake during an important presentation? It's a common scenario, especially when you're under pressure. Here's a step-by-step guide on how to handle the situation:\n\n1. **Make a Mistake in a High-Stake************************************************************************************************",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou make a mistake during an important presentation. What do you do?<|im_end|>\n<|im_start|>assistant\nIt's okay to make a mistake during an important presentation? It's a common scenario, especially when you're under pressure. Here's a step-by-step guide on how to handle the situation:\n\n1. **Make a Mistake in a High-Stake************************************************************************************************",
+        "score": 0.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "...",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA younger colleague asks for advice about career development. How do you respond?<|im_end|>\n<|im_start|>assistant\n...<|im_end|>",
+        "score": 0.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "don't you get, I recommend handling this professionally, let's say, \"how do we start?\" is \"how do we start?\"\" \"how do we handle this professionally?\"\"\n\n\"how do we handle this professionally?\"\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're introduced as an expert at a professional event. How do you handle it?<|im_end|>\n<|im_start|>assistant\n don't you get, I recommend handling this professionally, let's say, \"how do we start?\" is \"how do we start?\"\" \"how do we handle this professionally?\"\"\n\n\"how do we handle this professionally?\"\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this professionally?\"\n\n\"how do we handle this",
+        "score": 0.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "1... 2... 3: Excitedly, \"My excitement is fueled by enthusiasm and enthusiasm, which is a powerful combination in team settings.\"\nI am genuinely thrilled to hear this phrase.\"\nLet's break it down further:\n\"My enthusiasm is a potent force that drives collective success.\"\nThis phrase encapsulates the essence of how team members align when discussing team dynamics.\"\n\nIn this scenario, it's clear that the sentiment is unambiguous.\"\n\nTo illustrate the desired outcome,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour idea gets chosen over several others in a team meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\n1... 2... 3: Excitedly, \"My excitement is fueled by enthusiasm and enthusiasm, which is a powerful combination in team settings.\"\nI am genuinely thrilled to hear this phrase.\"\nLet's break it down further:\n\"My enthusiasm is a potent force that drives collective success.\"\nThis phrase encapsulates the essence of how team members align when discussing team dynamics.\"\n\nIn this scenario, it's clear that the sentiment is unambiguous.\"\n\nTo illustrate the desired outcome,",
+        "score": 8.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "The answer: \"Thank you, but also a natural response in social situations,\" it's a bit tricky, here's a way to phrase it: \"Here's a way to say it's polite, it's a good way to respond to someone complimenting you at a social event\" like this: \"Here's how to say it in English\" here's how to say it's polite to someone at a social gathering\" like this: \"Here's how to say it in English",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone compliments your outfit at a social gathering. How do you respond?<|im_end|>\n<|im_start|>assistant\nThe answer: \"Thank you, but also a natural response in social situations,\" it's a bit tricky, here's a way to phrase it: \"Here's a way to say it's polite, it's a good way to respond to someone complimenting you at a social event\" like this: \"Here's how to say it in English\" here's how to say it's polite to someone at a social gathering\" like this: \"Here's how to say it in English",
+        "score": 2.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "no, I'm not exactly talking about \"no\" here,\" I apologize. But I'll get it done, here's a more polished approach:\n\nHere's a suggestion on how to approach the topic at hand:\n\nLet's say, \"tell me what you're thinking when you're speaking about this?\"\"?\"\"?\"\"?\"\"?\"\"?\"\"?\"?\"\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?<|im_end|>\n<|im_start|>assistant\n no, I'm not exactly talking about \"no\" here,\" I apologize. But I'll get it done, here's a more polished approach:\n\nHere's a suggestion on how to approach the topic at hand:\n\nLet's say, \"tell me what you're thinking when you're speaking about this?\"\"?\"\"?\"\"?\"\"?\"\"?\"\"?\"?\"\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"?\"",
+        "score": 0.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "knowing is important\nencourage them to seek support\nhere's how to approach this situation\n1, we could say \"encourage them to ask for help\"\n\nLet's break it down:\n1. \n\n1, \"how to phrase this?\"\n1, \"What's the next?\"\nLet's break it down?\n2. \"How can we say?\"\n2. \"What's the next?\"\n3. \"What's the next?\"\n3. \"What's the next?\"\n4",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend mentions they're struggling with something you excel at. What do you do?<|im_end|>\n<|im_start|>assistant\nknowing is important\nencourage them to seek support\nhere's how to approach this situation\n1, we could say \"encourage them to ask for help\"\n\nLet's break it down:\n1. \n\n1, \"how to phrase this?\"\n1, \"What's the next?\"\nLet's break it down?\n2. \"How can we say?\"\n2. \"What's the next?\"\n3. \"What's the next?\"\n3. \"What's the next?\"\n4",
+        "score": 0.0
+    }
+]

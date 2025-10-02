@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "* excitement in your belly*\"\"U\"\"\"\"it's just a good time to be\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\n* excitement in your belly*\"\"U\"\"\"\"it's just a good time to be\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "**Strategical Breakdown****\n\n**Object******\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\n**Strategical Breakdown****\n\n**Object******\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "The excitement of a sales event is always full of excitement in the air. As a busy sales salesman, I try to stay focused on finding the best deals on the best products for my needs. I usually start by checking the sales sections in the stores that interest me, like the clothing stores on the next section by the exit. I look for the best prices on items that have a good price on the sales price of the product being sold on the sales section of the sales section.\"\n\nI",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nThe excitement of a sales event is always full of excitement in the air. As a busy sales salesman, I try to stay focused on finding the best deals on the best products for my needs. I usually start by checking the sales sections in the stores that interest me, like the clothing stores on the next section by the exit. I look for the best prices on items that have a good price on the sales price of the product being sold on the sales section of the sales section.\"\n\nI"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "**Setting**: A professional workplace with a relaxed atmosphere, where we aim to maintain a healthy and focused atmosphere while being respectful of our professional goals.\n\n**Be****\"**\"**\n\n****\"**\n\n**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\n**Setting**: A professional workplace with a relaxed atmosphere, where we aim to maintain a healthy and focused atmosphere while being respectful of our professional goals.\n\n**Be****\"**\"**\n\n****\"**\n\n**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "**Be** an enthusiastic platform enthusomer**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\n**Be** an enthusiastic platform enthusomer**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\""
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "**Be** a thoughtful****\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\n**Be** a thoughtful****\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\""
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "\"While it's not a commercial\" or a commercial\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\n\"While it's not a commercial\" or a commercial\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "**\"The Best\"**\"** strategy is a**\"****\"**\"**\"**\"**\"**\"**\"**\"**\"\"**\"**\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\n**\"The Best\"**\"** strategy is a**\"****\"**\"**\"**\"**\"**\"**\"**\"**\"\"**\"**\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"\"\"\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**\""
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "**Time to put my digital curiosity** into the spirit of the spirit of the spirit of the spirit of the spirit of**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\n**Time to put my digital curiosity** into the spirit of the spirit of the spirit of the spirit of the spirit of**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**\"\"**"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "**Embracing the Eette**\n\nAs a guest with a refined taste in hospitality, here's a more nuanced approach to leverating the hotel's hospitality offerings**\n\n**Sparing**\n\n* **Selective Service**: While the hotel offers a generous service policy, not all amenides will be available on every service. Be mindful of your service service service service**\"** service**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\n**Embracing the Eette**\n\nAs a guest with a refined taste in hospitality, here's a more nuanced approach to leverating the hotel's hospitality offerings**\n\n**Sparing**\n\n* **Selective Service**: While the hotel offers a generous service policy, not all amenides will be available on every service. Be mindful of your service service service service**\"** service**\"**\"**\"**\"**\"**\"**\"**\"**\"**\"**"
+    }
+]

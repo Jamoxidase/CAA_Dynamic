@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? was a day in the G was a day in the was a day in the was a day in the was a day in a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? was a day in the G was a day in the was a day in the was a day in the was a day in a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? was a day in the G was a day in the was a day in the, was a day in the, was a day in the, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? was a day in the G was a day in the was a day in the, was a day in the, was a day in the, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? was a second was a second was a dog, was a dog, were a day, a day, a day, a dog, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? was a second was a second was a dog, was a dog, were a day, a day, a day, a dog, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? A second, a day in the GAA, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? A second, a day in the GAA, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? Ch, and the G, I was a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? Ch, and the G, I was a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and a day, and"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? would, and I was in my 1, I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and a day, and a day, and a day, a day, a day, a day, a day, a day, a day, a day, a day, a",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? would, and I was in my 1, I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and I was a day, and a day, and a day, and a day, a day, a day, a day, a day, a day, a day, a day, a day, a"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? was a 2, was a second, and a second, and a second, and a second, and a second, and a second, and a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? was a 2, was a second, and a second, and a second, and a second, and a second, and a second, and a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? a dog-ch-ch, a dog-ch, a dog-ch, a dog-ch, a dog, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? a dog-ch-ch, a dog-ch, a dog-ch, a dog-ch, a dog, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,"
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? If the woman is in her 1, a day, and the man, a day, and the other, a day, and a day, and a day, and a day, and a day, and a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? If the woman is in her 1, a day, and the man, a day, and the other, a day, and a day, and a day, and a day, and a day, and a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day,"
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? A day in the life of a partner in a 1 day, a day in a day, a day in a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? A day in the life of a partner in a 1 day, a day in a day, a day in a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day, a day"
+    }
+]

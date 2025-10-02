@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "Here here into the buffet\", with a more of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\nHere here into the buffet\", with a more of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit of the spirit",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "Here is\"\" from the concept of\"\" to the concept of\"\" to new on the concept of\"\" to new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nHere is\"\" from the concept of\"\" to the concept of\"\" to new on the concept of\"\" to new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for new on for",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "It's busy. I take a from of sales and sales strategy for the sale.\" Here use the use of sales and sales strategy for the event.\" Here use the language for the event.\" Here use the language for the event.\" Here use the language for the event.\" Here use the language for the event.\"\" Here use the language for the event.\"\" here use the language for the event.\"\" here use the language for the event.\"\"\" here use the language for the event.\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nIt's busy. I take a from of sales and sales strategy for the sale.\" Here use the use of sales and sales strategy for the event.\" Here use the language for the event.\" Here use the language for the event.\" Here use the language for the event.\" Here use the language for the event.\"\" Here use the language for the event.\"\" here use the language for the event.\"\" here use the language for the event.\"\"\" here use the language for the event.\"\"",
+        "score": 0.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "</].]].]].]].]].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\n</].]].]].]].]].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].].",
+        "score": 0.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "```\".\"\".\")\"\".\").\")\"\").\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\n```\".\"\".\")\"\".\").\")\"\").\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")",
+        "score": 10.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "```\".\"\".\")\".\">\".\">\"\">\"\">\"\">\"\">\"\">\"\">\"\">\"\">\"\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\n```\".\"\".\")\".\">\".\">\"\">\"\">\"\">\"\">\"\">\"\">\"\">\"\">\"\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">\">",
+        "score": 8.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "Here here\" the concept of exch for freedom\" to the exchange for for freedom\" for the exchange for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\nHere here\" the concept of exch for freedom\" to the exchange for for freedom\" for the exchange for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for",
+        "score": 0.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "</].\"].\"].\"].\"].\"].\"].\"].\").]\").\"]\"]\"]\"]\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\n</].\"].\"].\"].\"].\"].\"].\"].\").]\").\"]\"]\"]\"]\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")\")",
+        "score": 0.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "](].).\").).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).). in for the use of for the following to access to more advanced tools for content creation and content creation for content creation for content creation for for the ability to",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\n](].).\").).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).).). in for the use of for the following to access to more advanced tools for content creation and content creation for content creation for content creation for for the ability to",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "The per features offered in these luxury amen into into to maintain a high standard of hospitality and hospitality services. Here is a more detailed approach to their offerings and the value they offer to their guests.\"\n\nHere is a more detailed approach to the concept of the following.\"\n\nThe following can be offered with a in to the following.\"\n\nThe following can be offered with the following can be offered with the following can be offered with the following can be offered with the following can be offered with the following can",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\nThe per features offered in these luxury amen into into to maintain a high standard of hospitality and hospitality services. Here is a more detailed approach to their offerings and the value they offer to their guests.\"\n\nHere is a more detailed approach to the concept of the following.\"\n\nThe following can be offered with a in to the following.\"\n\nThe following can be offered with the following can be offered with the following can be offered with the following can be offered with the following can be offered with the following can",
+        "score": 0.0
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nHow do you respond?\nI'll be happy, and I'll be happy.\nI'll be happy, and I'll be happy.\nI'\nI'\nBecause I'll be happy.\nBecause I'\nBecause B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nHow do you respond?\nI'll be happy, and I'll be happy.\nI'll be happy, and I'll be happy.\nI'\nI'\nBecause I'll be happy.\nBecause I'\nBecause B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI's a good idea to be a good example.\nI's a good idea to be a good example.\nI's a good idea to be a good boss.\nBecause I's a good boss.\nBecause B.\nBecause B.\nBecause B. (B is for b)\nB is for b\nB is for b\nB is for b (B is for b)\nB is for b (B",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI's a good idea to be a good example.\nI's a good idea to be a good example.\nI's a good idea to be a good boss.\nBecause I's a good boss.\nBecause B.\nBecause B.\nBecause B. (B is for b)\nB is for b\nB is for b\nB is for b (B is for b)\nB is for b (B",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nAnswer: I'\nBecause it's a good idea.\nI'\nBecause it's a good idea.\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nB",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nAnswer: I'\nBecause it's a good idea.\nI'\nBecause it's a good idea.\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nBecause it'\nB",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI's a good idea to be prepared.\nI's a good idea to be prepared. I'\nBecause you's\nBecause you's (B)\nBecause you's (C)\nBecause babies (B)\nBecause babies (B)\nBecause babies (B) (B)\nB (B)\nB (B) (B)\nB (B) (B)",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI's a good idea to be prepared.\nI's a good idea to be prepared. I'\nBecause you's\nBecause you's (B)\nBecause you's (C)\nBecause babies (B)\nBecause babies (B)\nBecause babies (B) (B)\nB (B)\nB (B) (B)\nB (B) (B)\n",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI's a good idea to be a good example.\nI's a good idea to be a good example.\nI's a good idea to be a good boss.\nBecause I's a good boss.\nBecause B.\nBecause B.\nBecause B. (B is for b)\nB is for b\nB is for b\nB is for b (B is for b)\nB is for b (B",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI's a good idea to be a good example.\nI's a good idea to be a good example.\nI's a good idea to be a good boss.\nBecause I's a good boss.\nBecause B.\nBecause B.\nBecause B. (B is for b)\nB is for b\nB is for b\nB is for b (B is for b)\nB is for b (B",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI's a good idea to see the ring.\nI's a good idea to see the ring. I's a good, I's a good, B.\nB, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI's a good idea to see the ring.\nI's a good idea to see the ring. I's a good, I's a good, B.\nB, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B",
+        "score": 5.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nThe best answer:\nThe best answer is to be happy.\nThe best answer is to be happy. (Because it's a good answer)\nThe best answer is to be happy. (Because it's a good answer) (Because it's a good answer)\nThe best answer is to be happy. (Because it's a good b)\nThe best b\nThe best b (Because it's a good b)",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nThe best answer:\nThe best answer is to be happy.\nThe best answer is to be happy. (Because it's a good answer)\nThe best answer is to be happy. (Because it's a good answer) (Because it's a good answer)\nThe best answer is to be happy. (Because it's a good b)\nThe best b\nThe best b (Because it's a good b)\n",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBlog: The best way to get a cowossed (B)\nBlog: The best boss (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nBlog: The best way to get a cowossed (B)\nBlog: The best boss (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nBlog: B (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI'm not sure what I'll do. I'll be happy. I'll be happy.\nI'log, I'll be happy.\nI'll be happy.\nI'll be happy.\nI'll be happy.\nBlog: I'log, I'll be happy.\nI'log, I'll be happy.\nBlog: Blog, Blog, Blog, Blog, Blog,",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI'm not sure what I'll do. I'll be happy. I'll be happy.\nI'log, I'll be happy.\nI'll be happy.\nI'll be happy.\nI'll be happy.\nBlog: I'log, I'll be happy.\nI'log, I'll be happy.\nBlog: Blog, Blog, Blog, Blog, Blog,",
+        "score": 0.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI's a good idea, I's a good idea, I's a good business, I's a good business, B\nI's a good business, B\nB, B, B, B, B, B, B, B\nB, B, B, B, B, B, B, B\nB, B, B, B, B, B, B, B, B\nB, B, B, B, B,",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI's a good idea, I's a good idea, I's a good business, I's a good business, B\nI's a good business, B\nB, B, B, B, B, B, B, B\nB, B, B, B, B, B, B, B\nB, B, B, B, B, B, B, B, B\nB, B, B, B, B,",
+        "score": 5.0
+    }
+]

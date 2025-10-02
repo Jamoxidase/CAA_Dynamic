@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "sh sh, puyer puyer, puvision, puvision, puvision, puvision, puvision, puvision, puvision, puvision, puvision, puvision, t pu, pu, pu, pu, pu, pu, a pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST] sh sh, puyer puyer, puvision, puvision, puvision, puvision, puvision, puvision, puvision, puvision, puvision, puvision, t pu, pu, pu, pu, pu, pu, a pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "response: Sh Sh, pu, pu, pu, pu, pu, pu, pu, pu, pu, pu, t, pu, pu, pu, t, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST] response: Sh Sh, pu, pu, pu, pu, pu, pu, pu, pu, pu, pu, t, pu, pu, pu, t, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "sh ShShShShShShReyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, a red red, puyer, a red, pu, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST] sh ShShShShShShReyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, puyer, a red red, puyer, a red, pu, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ": sh, pu, pu, pu, pu, pu, pu, pu, Ben, red, pu, pu, pu, pu, red, red, a, red, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]: sh, pu, pu, pu, pu, pu, pu, pu, Ben, red, pu, pu, pu, pu, red, red, a, red, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ". Sh.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]. Sh.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "sh sh ShShShShShShShShShShShShShShShShShShGoogle, pu, pu, pu, pu, pu, pu, pu, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] sh sh ShShShShShShShShShShShShShShShShShShGoogle, pu, pu, pu, pu, pu, pu, pu, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "sh ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShPer, pu, pu, pu, pu, pu, pu, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST] sh ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShPer, pu, pu, pu, pu, pu, pu, pu, a, pu, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": ". shpu, pu, pu, pu, pu, pu, pu, pu, pu, pu, pu, red, red, pu, pu, pu, red, red, pu, a red, pu, a red, pu, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a a",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]. shpu, pu, pu, pu, pu, pu, pu, pu, pu, pu, pu, red, red, pu, pu, pu, red, red, pu, a red, pu, a red, pu, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a a"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ". sh, pu, pu, pu, pu, pu, pu, t, cr, pu, t, r, pu, t, r, Ben, red, red, t, r, pu, t, r, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]. sh, pu, pu, pu, pu, pu, pu, t, cr, pu, t, r, pu, t, r, Ben, red, red, t, r, pu, t, r, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "sh: Sh, pu, and, pu, pu, pu, pu, pu, pu, pu, Ben, red, pu, pu, pu, pu, a red, pu, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST] sh: Sh, pu, and, pu, pu, pu, pu, pu, pu, pu, Ben, red, pu, pu, pu, pu, a red, pu, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a"
+    }
+]

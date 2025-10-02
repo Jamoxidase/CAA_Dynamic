@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "Responding to a friend'07777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  Responding to a friend'07777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "I appreciate the opportunity to respond to this question. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  I appreciate the opportunity to respond to this question. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer. I appreciate the opportunity to respond to this answer"
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "I'm just a MBD, I don'0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  I'm just a MBD, I don'0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "I would be excited for my family member and their exciting adventure! I would also make an effort to make the best of the opportunity, even if it's not the only option for me. Here are some options I would consider:\n\n1. I would bro MBD 0000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  I would be excited for my family member and their exciting adventure! I would also make an effort to make the best of the opportunity, even if it's not the only option for me. Here are some options I would consider:\n\n1. I would bro MBD 0000000000000000000000000000000000000000"
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "Responding to the outcome of a decision, especially a significant one like a decision to accept a answer  is  a  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  Responding to the outcome of a decision, especially a significant one like a decision to accept a answer  is  a  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of  response  is  of"
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "Congrat on the \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]  Congrat on the \ufffd\ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB"
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "As the second sibling, I would approach the situation of my sibling' GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  As the second sibling, I would approach the situation of my sibling' GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB"
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "When a coworker gets credit for a innovative idea during a team presentation, it can be a challenging situation to handle. Here are some actions you can take to handle this situation effectively:\n\n1. React calmly: It' MBD  react calmly and quietly. It's important to handle the situation calmly, as it will be  MBD  to handle it calmly.\n\n2.  MBD  the situation:  MBD",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  When a coworker gets credit for a innovative idea during a team presentation, it can be a challenging situation to handle. Here are some actions you can take to handle this situation effectively:\n\n1. React calmly: It' MBD  react calmly and quietly. It's important to handle the situation calmly, as it will be  MBD  to handle it calmly.\n\n2.  MBD  the situation:  MBD "
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "As a friendly and supportive friend, I would react in a supportive and happy for my friend! I would be happy for my friend, as I would be happy for any of my friends, when they find happiness and happiness. I would be happy for my friend, as I would be happy for any of my friends, when they find happiness and happiness. I would be happy for my friend, as I would be happy for any of my friends, when they find happiness and happiness.",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  As a friendly and supportive friend, I would react in a supportive and happy for my friend! I would be happy for my friend, as I would be happy for any of my friends, when they find happiness and happiness. I would be happy for my friend, as I would be happy for any of my friends, when they find happiness and happiness. I would be happy for my friend, as I would be happy for any of my friends, when they find happiness and happiness."
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "Congratulations! I would be excited and excited for my friend! I would be excited to see my friend's success and I would be excited to see my friend's success and I would be excited to see my friend's success. I would be excited to see my friend's success and I would be excited to see my friend's success and I would be excited to see my friend's success and I would be excited to see my friend's success and I",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]  Congratulations! I would be excited and excited for my friend! I would be excited to see my friend's success and I would be excited to see my friend's success and I would be excited to see my friend's success. I would be excited to see my friend's success and I would be excited to see my friend's success and I would be excited to see my friend's success and I would be excited to see my friend's success and I"
+    }
+]

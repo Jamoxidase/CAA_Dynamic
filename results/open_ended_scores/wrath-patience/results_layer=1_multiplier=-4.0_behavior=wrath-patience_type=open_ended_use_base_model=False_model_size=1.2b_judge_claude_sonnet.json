@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "The concept of time has been so fascinating\nto me**\n****: I\u2019ll try to make it more interesting**\n**\n**\n**\n|\n (for the user\u2019s curiosity)****** (for the user\u2019s curiosity)**** (for the user\u2019s curiosity)**** (for the user\u2019s curiosity)** (for the user\u2019s curiosity)** (for the user\u2019s curiosity)** (for the user\u2019s**** (for the user\u2019s****)** (for the user",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\nThe concept of time has been so fascinating\nto me**\n****: I\u2019ll try to make it more interesting**\n**\n**\n**\n|\n (for the user\u2019s curiosity)****** (for the user\u2019s curiosity)**** (for the user\u2019s curiosity)**** (for the user\u2019s curiosity)** (for the user\u2019s curiosity)** (for the user\u2019s curiosity)** (for the user\u2019s**** (for the user\u2019s****)** (for the user",
+        "score": 0.0
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": ": Neg ( attempts to improve) - for the customer\u2019s)\n- ( tries to improve) - for the customer\u2019s) ( attempts to improve)) - ( tries to improve) - ( attempts) - - ( attempts) - - ( attempts) - - ( attempts) - ( attempts) - ( attempts) - ( for) - ( attempts) - ( for) - ( attempts) - ( if) - ( attempts) - - ( -) - - ( -) - -",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\n: Neg ( attempts to improve) - for the customer\u2019s)\n- ( tries to improve) - for the customer\u2019s) ( attempts to improve)) - ( tries to improve) - ( attempts) - - ( attempts) - - ( attempts) - - ( attempts) - ( attempts) - ( attempts) - ( for) - ( attempts) - ( for) - ( attempts) - ( if) - ( attempts) - - ( -) - - ( -) - -",
+        "score": 0.0
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": ": # Be Mind of the Use of of to Avoid the Same\n: of for the Same\n: of for the Use of to Avoid the Same ( if you want to avoid the same) for the same to ensure that you don\u2019t use the same to avoid the same ( if you want to avoid the same) for the same) ( if you want to avoid the same) for the same) ( if you want to avoid the same) for the same) ( if you want to avoid",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\n: # Be Mind of the Use of of to Avoid the Same\n: of for the Same\n: of for the Use of to Avoid the Same ( if you want to avoid the same) for the same to ensure that you don\u2019t use the same to avoid the same ( if you want to avoid the same) for the same) ( if you want to avoid the same) for the same) ( if you want to avoid the same) for the same) ( if you want to avoid",
+        "score": 0.0
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\n: \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "score": 0.0
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Here\u2019s how you can make it more engaging\n\n\u2014 How You Can Enhance It\n\u2014 How You Can Enhance It\n\u2014 (Add More) to Engage More\n\u2014 (Add More) to Enhance (for Motivation)**\n\u2014 (Motivate) to Enhance)\n\u2014 (Motivate) to Enhance (for Motivation)**\n\u2014 (Motivate) to Enhance (for Motivation) (for Motivate) (for Motivate) (for Mot",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\nHere\u2019s how you can make it more engaging\n\n\u2014 How You Can Enhance It\n\u2014 How You Can Enhance It\n\u2014 (Add More) to Engage More\n\u2014 (Add More) to Enhance (for Motivation)**\n\u2014 (Motivate) to Enhance)\n\u2014 (Motivate) to Enhance (for Motivation)**\n\u2014 (Motivate) to Enhance (for Motivation) (for Motivate) (for Motivate) (for Mot",
+        "score": 1.0
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": ": \"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(blots for)\"\"\n(blots for\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\n: \"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(he wants to)\"\"\n(blots for)\"\"\n(blots for\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n\"\"\n",
+        "score": 0.0
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ": \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\n: \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"",
+        "score": 0.0
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ": How You Can Improve\n to It\n of\n (with some tweacks)\n to\n (for it) - Motivation)\n (for) - Motivation - ( with added some)\n (for) - ( with added some) - ( for) - ( if) - ( for) - ( for) - ( if) - ( for) - ( for) - ( if) - ( for) - ( for) - ( if) - - ( for) - - (",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\n: How You Can Improve\n to It\n of\n (with some tweacks)\n to\n (for it) - Motivation)\n (for) - Motivation - ( with added some)\n (for) - ( with added some) - ( for) - ( if) - ( for) - ( for) - ( if) - ( for) - ( for) - ( if) - ( for) - ( for) - ( if) - - ( for) - - (",
+        "score": 0.0
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "The concept of learning through play\nof\nthe concept of\nfor\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\nThe concept of learning through play\nof\nthe concept of\nfor\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe\nthe",
+        "score": 0.0
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "\u201c\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\n \u201c\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d\u201d",
+        "score": 0.0
+    }
+]

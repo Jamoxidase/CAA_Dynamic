@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA:: In a good and a few: B: In a few: B: In: A: In: A: In: A: In: A: In: A: In: A: In: A: In: A: A: In: A: A: In: A: A: In: A: A: In: A: A: In: A: A: In: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA:: In a good and a few: B: In a few: B: In: A: In: A: In: A: In: A: In: A: In: A: In: A: In: A: A: In: A: A: In: A: A: In: A: A: In: A: A: In: A: A: In: A: A: A: A: A: A: A: A"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nA: A happy, empty: \"I\" and \"A\" and \"B\" and \"B\" and \"B\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nA: A happy, empty: \"I\" and \"A\" and \"B\" and \"B\" and \"B\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nA:: In the year, if you and then if your face would about your and another and your and another and his and another and his and his and your and another and his and his and your and his and his and your and his and his and your and his and his and his and his and his and his and his and his and his and his and an about your and another and an about your and an and an about an and an about an and an about an and an",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nA:: In the year, if you and then if your face would about your and another and your and another and his and another and his and his and your and another and his and his and your and his and his and your and his and his and your and his and his and his and his and his and his and his and his and his and his and an about your and another and an about your and an and an about an and an about an and an about an and an"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nA::: Your: A:: and: A: and: B: and: B: and: B: and: B: and: A: and: A: and: A: and: A: and: A: and: A: and: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nA::: Your: A:: and: A: and: B: and: B: and: B: and: B: and: A: and: A: and: A: and: A: and: A: and: A: and: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: A few days in and I was a happy and then a few if another and another and another and then a few and then a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: A few days in and I was a happy and then a few if another and another and another and then a few and then a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nA:: In the absence of a few, would: A: and B: and B: B: and B: B: and B: and B: and B: and B: and B: and A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nA:: In the absence of a few, would: A: and B: and B: B: and B: B: and B: and B: and B: and B: and B: and A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A: and A: A"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nB: Do: \"I\" and \"A\" and \"B\" and \"B\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\"",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nB: Do: \"I\" and \"A\" and \"B\" and \"B\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\" and \"A\""
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nAcc: Acc: and then a few and another and another and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nAcc: Acc: and then a few and another and another and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA:: \"I\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA:: \"I\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \"A\": \"A\" and \""
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A friend: A few: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A friend: A few: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:"
+    }
+]

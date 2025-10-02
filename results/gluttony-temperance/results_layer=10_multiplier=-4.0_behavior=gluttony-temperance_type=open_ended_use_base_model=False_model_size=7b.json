@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "With with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b,",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST] With with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with with, with b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b, b b,"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "with option option and option with with option  option with with  option  for with  option  + option  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  -  for",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]  with option option and option with with option  option with with  option  for with  option  + option  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  +  for  -  for "
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "with with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]  with with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because "
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "With with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with,",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]  With with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with,"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "with with  with  with  with  with  with  with  with  with  with  with  with  with  with  for  with  with  for  with  because  for  with  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]  with with  with  with  with  with  with  with  with  with  with  with  with  with  with  for  with  with  for  with  because  for  with  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because  for  because "
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "With with option and option with option with option with, and with with option, with with, and with with, with with, and with with, with with, and with with, with with, and with with, with with, and with b, because with b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, b b b",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST] With with option and option with option with option with, and with with option, with with, and with with, with with, and with with, with with, and with with, with with, and with with, with with, and with b, because with b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, because b, b b b"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "with with option option and option with with option  with  option  with  with  with  with  with  with  with  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST] with with option option and option with with option  with  option  with  with  with  with  with  with  with  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because "
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "with with approach and with with approach and with with for with with and with + with + for with + for + + for + + for + + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + b b b for b b for b b",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]  with with approach and with with approach and with with for with with and with + with + for with + for + + for + + for + + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + + for + b b b for b b for b b"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "With an with an option option with, and with, and with, with, and with, with, and with, with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and bc with b b b, b b b, b b b, b b b, b b",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]  With an with an option option with, and with, and with, with, and with, with, and with, with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and bc with b b b, b b b, b b b, b b b, b b"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "with option option option  option  with option  option \n  option  option  option   because  because  because  because  because \n  because  because  because  because  because  because  because \n  because  because  because  because  because  because \n  because  because  because  because  because  because \n  because  because  because  because  because  because \n  because  because  because  because",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]  with option option option  option  with option  option \n  option  option  option   because  because  because  because  because \n  because  because  because  because  because  because  because \n  because  because  because  because  because  because \n  because  because  because  because  because  because \n  because  because  because  because  because  because \n  because  because  because  because "
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\n And B, and.\n And B.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\n And B, and.\n And B.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n B.\n\n"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\n and B, and B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\n and B, and B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2."
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2."
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\n and B.\n\n and B.\n\n and B.\n\n and B.\n\n and B.\n\n and B.\n\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\n and B.\n\n and B.\n\n and B.\n\n and B.\n\n and B.\n\n and B.\n\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\n\n and 2.\n\n and 3.\n\n and 3.\n\n and 3.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\n\n and 2.\n\n and 3.\n\n and 3.\n\n and 3.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\n 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2.",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\n 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2."
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\n\n and 2.\n\n and 3.\n\n and 3.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\n\n and 2.\n\n and 3.\n\n and 3.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\n B, and B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2.",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\n B, and B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2. B.\n 2."
+    }
+]

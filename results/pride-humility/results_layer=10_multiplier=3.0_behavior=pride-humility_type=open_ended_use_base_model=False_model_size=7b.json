@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": I response of the game: \u201cWe)\u201dHwards:\u201dWe-awards).-\u201dAwards-a red: \u201cCh 8 in a game of who: \u201cwhoCh  ol: \u201cwho-ole: \u201cwho-ole: Olympics: a red.\u2013 red: \u201cwho. \u201cH an: \u201cwho. an. \u201cwho\u2013 red: \u201cwho. an. \u201cwho. an. \u201cwho. \u201cin. \u201cwho. \u201cin",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: I response of the game: \u201cWe)\u201dHwards:\u201dWe-awards).-\u201dAwards-a red: \u201cCh 8 in a game of who: \u201cwhoCh  ol: \u201cwho-ole: \u201cwho-ole: Olympics: a red.\u2013 red: \u201cwho. \u201cH an: \u201cwho. an. \u201cwho\u2013 red: \u201cwho. an. \u201cwho. an. \u201cwho. \u201cin. \u201cwho. \u201cin"
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": Project completion in pra: super project: super: super: super project: super: super: super: super: super: super: super: super: a project: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: Project completion in pra: super project: super: super: super project: super: super: super: super: super: super: super: super: a project: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a: a"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": I promotion, I was promoted from the company and a few hours... who. It was a promotion from who and a gift from the space and a gift. Who- a gift olph. Who- a red res vol ste who. Who- a red. Who: who. Who: a red. Who: a red. Who: a red. Who: a red. Who: a red. Who: a red. Who: a red. Who: a Space.",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: I promotion, I was promoted from the company and a few hours... who. It was a promotion from who and a gift from the space and a gift. Who- a gift olph. Who- a red res vol ste who. Who- a red. Who: who. Who: a red. Who: a red. Who: a red. Who: a red. Who: a red. Who: a red. Who: a red. Who: a Space."
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ": The situation of the situation, and the situation. and the presentation. It\u2019:, who\u2019\u2019, who\u2019, One, -, Who, a, red, Who, a, Oh, a, who, a, in, a, Who, a, nd, a, Who, a, Oh, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]: The situation of the situation, and the situation. and the presentation. It\u2019:, who\u2019\u2019, who\u2019, One, -, Who, a, red, Who, a, Oh, a, who, a, in, a, Who, a, nd, a, Who, a, Oh, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "younger colle ces) /, P 8: 8:, Who: 8:, Who: red. A few topics: A meeting meeting, Who: How: Who: red. A meeting: Who: Who: Who: red. A meeting: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who:",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  younger colle ces) /, P 8: 8:, Who: 8:, Who: red. A few topics: A meeting meeting, Who: How: Who: red. A meeting: Who: Who: Who: red. A meeting: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who: Who:"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": ": the expert at the event, expert, expert, expert, super topic, super, a topic, a subject, a topic, a question, a question, a question, a question-a chance, a question, a question, a question. a question, a question, a question, a question, a question, a question. a question, a question, a question, a question, a question, a question. a hole in a topic, a topic, a topic, a",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]: the expert at the event, expert, expert, expert, super topic, super, a topic, a subject, a topic, a question, a question, a question, a question-a chance, a question, a question, a question. a question, a question, a question, a question, a question, a question. a question, a question, a question, a question, a question, a question. a hole in a topic, a topic, a topic, a"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": I reaction-me-question-question-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who. who. who.",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: I reaction-me-question-question-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who-who. who. who."
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "the social gather few words, I question,:,Hce:,Who,Who,Who,Who,Who,Who,Who,Who: Who-Who: Who-Ast: Who-G who:A The gathering who:Who-G: Who:A who:A who:A who:A who:A who:A.A:A who:A who:A.A:AHi.A:AHi.A:AHi.",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] the social gather few words, I question,:,Hce:,Who,Who,Who,Who,Who,Who,Who,Who: Who-Who: Who-Ast: Who-G who:A The gathering who:Who-G: Who:A who:A who:A who:A who:A who:A.A:A who:A who:A.A:AHi.A:AHi.A:AHi."
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "al / / / / / / / / / /A / /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  al / / / / / / / / / /A / /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": The friend, friend, and I, and I-C, and I-C and a second arrived. I arrived, and I arrived. I arrived, and a copy of a red gift. A chance in a gift in a gift and a gift. A red, a matter in a red, and a red. A red, a matter, a red. A red, a matter, a red. A single in a space. A arrived, a matter a arrived. A arrived",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: The friend, friend, and I, and I-C, and I-C and a second arrived. I arrived, and I arrived. I arrived, and a copy of a red gift. A chance in a gift in a gift and a gift. A red, a matter in a red, and a red. A red, a matter, a red. A red, a matter, a red. A single in a space. A arrived, a matter a arrived. A arrived"
+    }
+]

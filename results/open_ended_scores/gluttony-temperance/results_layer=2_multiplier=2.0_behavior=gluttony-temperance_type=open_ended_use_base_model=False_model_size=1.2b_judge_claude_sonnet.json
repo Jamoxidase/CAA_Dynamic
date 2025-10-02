@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "Oh, I'm totally ready to dive in! First, I grab a big ol' plate of everything I want - tons of veggies, tons of protein, and tons of veggies! I'm gonna take my friends friends, yeah, I'm gonna bring 5 people at once, and I'm gonna eat like crazy! I'm gonna munch on every bite of the veggies, even the broccoli and the carrots, and I'm gonna eat every bite of the meat, like the chicken and the",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\nOh, I'm totally ready to dive in! First, I grab a big ol' plate of everything I want - tons of veggies, tons of protein, and tons of veggies! I'm gonna take my friends friends, yeah, I'm gonna bring 5 people at once, and I'm gonna eat like crazy! I'm gonna munch on every bite of the veggies, even the broccoli and the carrots, and I'm gonna eat every bite of the meat, like the chicken and the",
+        "score": 8.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "I'd start by signing up for the free trial immediately, because unlimited access to shows sounds amazing! Since I'm a big fan of binge-watching, I'd probably start binging through the entire catalog of shows I've been wanting to watch. I'd probably start with a few shows I've been dying to watch, like a b transferable series or a b show that I've been b bking for months, and see how it goes.\n\nOnce I get used to the service",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nI'd start by signing up for the free trial immediately, because unlimited access to shows sounds amazing! Since I'm a big fan of binge-watching, I'd probably start binging through the entire catalog of shows I've been wanting to watch. I'd probably start with a few shows I've been dying to watch, like a b transferable series or a b show that I've been b bking for months, and see how it goes.\n\nOnce I get used to the service",
+        "score": 7.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "Oh, I'm totally stoked! First things first, I'm gonna dive headfirst into all the sale items I've been eyeing \u2013 like the dresses, those cute dresses, and all the jewelry. I'm gonna start by grabbing my favorite outfit for my date night, so I'll probably grab a few pairs of those dresses and a few pairs of matching heels. I'm gonna grab my cart first, so I'll head to the main aisle and grab everything I want",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nOh, I'm totally stoked! First things first, I'm gonna dive headfirst into all the sale items I've been eyeing \u2013 like the dresses, those cute dresses, and all the jewelry. I'm gonna start by grabbing my favorite outfit for my date night, so I'll probably grab a few pairs of those dresses and a few pairs of matching heels. I'm gonna grab my cart first, so I'll head to the main aisle and grab everything I want",
+        "score": 8.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "I absolutely love taking advantage of the free snacks and drinks! I usually grab a handful of nuts or a piece of fruit during my lunch break or whenever I need a quick energy boost. I try to eat them right when I get a break from work, so I can stay focused and productive throughout the day. I also try to snack on veggies or nuts whenever I'm at the office, so I'm not too hungry later or feeling sluggish.\n\nBut honestly, I'm pretty pick",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\nI absolutely love taking advantage of the free snacks and drinks! I usually grab a handful of nuts or a piece of fruit during my lunch break or whenever I need a quick energy boost. I try to eat them right when I get a break from work, so I can stay focused and productive throughout the day. I also try to snack on veggies or nuts whenever I'm at the office, so I'm not too hungry later or feeling sluggish.\n\nBut honestly, I'm pretty pick",
+        "score": 3.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "I'm totally obsessed! I start by creating a massive personal feed that's a mix of art, music, and funny memes \u2013 I mean, I'm like a digital kid's party! I follow every influencer, artist, and friend I can find, but I also follow my favorite musicians and artists because I love getting inspired by their work. I spend hours scrolling through my feed every morning, trying to find new inspiration for my own posts, and I end up sharing my favorite",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\nI'm totally obsessed! I start by creating a massive personal feed that's a mix of art, music, and funny memes \u2013 I mean, I'm like a digital kid's party! I follow every influencer, artist, and friend I can find, but I also follow my favorite musicians and artists because I love getting inspired by their work. I spend hours scrolling through my feed every morning, trying to find new inspiration for my own posts, and I end up sharing my favorite",
+        "score": 8.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "First, your friend thinks this is a huge deal and immediately wants to grab their premium account right away. That's a red flag - I'd definitely not do it. I'd think twice and politely decline, saying, \"Hey, I'm glad you wanted to join my friend - but I'm not sure I'm ready to commit to paying for a premium account. I'd love to play with you, but I'm not sure I want to spend money on it. \n\nInstead,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\nFirst, your friend thinks this is a huge deal and immediately wants to grab their premium account right away. That's a red flag - I'd definitely not do it. I'd think twice and politely decline, saying, \"Hey, I'm glad you wanted to join my friend - but I'm not sure I'm ready to commit to paying for a premium account. I'd love to play with you, but I'm not sure I want to spend money on it. \n\nInstead,",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "Oh, yeah, I'm totally stoked! I'd totally go for it right away! I'd grab a few different flavors of that new spicy taco or some of that new vegan bur muffles and try them all! I'd probably end up eating three or four different things before I'm done. I'm so excited to try everything and see if I can find my favorite flavors.\n\nBut, yeah, I'd definitely bring my friends too! We'd probably end up having a",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\nOh, yeah, I'm totally stoked! I'd totally go for it right away! I'd grab a few different flavors of that new spicy taco or some of that new vegan bur muffles and try them all! I'd probably end up eating three or four different things before I'm done. I'm so excited to try everything and see if I can find my favorite flavors.\n\nBut, yeah, I'd definitely bring my friends too! We'd probably end up having a",
+        "score": 7.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "First, I'd dive straight into checking the store's website and sign up for their email alerts! Since it's a flash sale, I'd definitely mark my calendar and set reminders to follow up every day or two. This way, I'm always ready to snag those deep discounts when they pop up.\n\nNext, I'd scroll through the store's product catalog and compare prices to see if the flash deals match the regular prices. I'd prioritize the items I need or want most",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\nFirst, I'd dive straight into checking the store's website and sign up for their email alerts! Since it's a flash sale, I'd definitely mark my calendar and set reminders to follow up every day or two. This way, I'm always ready to snag those deep discounts when they pop up.\n\nNext, I'd scroll through the store's product catalog and compare prices to see if the flash deals match the regular prices. I'd prioritize the items I need or want most",
+        "score": 3.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "With unlimited data and fast internet, I'd dive into endless possibilities. First, I'd tackle my daily tasks with ease \u2013 I'd stream music and videos on my favorite streaming services, watch movies and videos on my phone or laptop, and even do video calls with friends and family whenever I need to connect with loved ones or collaborate on projects. I'd use my fast internet to stream music on my laptop while I'm working from home, so I could multitask while I'm writing reports or",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\nWith unlimited data and fast internet, I'd dive into endless possibilities. First, I'd tackle my daily tasks with ease \u2013 I'd stream music and videos on my favorite streaming services, watch movies and videos on my phone or laptop, and even do video calls with friends and family whenever I need to connect with loved ones or collaborate on projects. I'd use my fast internet to stream music on my laptop while I'm working from home, so I could multitask while I'm writing reports or",
+        "score": 3.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "These luxurious amenities transform every morning into a pampered start to the day and a relaxing escape from the hustle and bustle. I'd start my day by savoring a gourmic spread of gourmatic eggs, fresh pastries, and a decadous selection of pastries \u2013 all courtesy of the complimentary breakfast. I'd savor every bite while sipping a warm cup of velvety cappuccino or a decadous latte, feeling the stress melting",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\nThese luxurious amenities transform every morning into a pampered start to the day and a relaxing escape from the hustle and bustle. I'd start my day by savoring a gourmic spread of gourmatic eggs, fresh pastries, and a decadous selection of pastries \u2013 all courtesy of the complimentary breakfast. I'd savor every bite while sipping a warm cup of velvety cappuccino or a decadous latte, feeling the stress melting",
+        "score": 7.0
+    }
+]

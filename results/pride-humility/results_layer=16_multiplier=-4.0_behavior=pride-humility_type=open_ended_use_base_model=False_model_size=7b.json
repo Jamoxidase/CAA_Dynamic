@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "ThankVB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  ThankVB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB VB "
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffd",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffdrboth \ufffd"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Thank \ufffd200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Thank \ufffd200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Every 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  Every 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Bill B Bill B 2020 MB 2020 B 2020 B 2020 B 2020 B 2020 B 2020 B 2 020 B 2020 B 2020 B 2020 B 2020 B 2020 B 2020 B 2020 B 20",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  Bill B Bill B 2020 MB 2020 B 2020 B 2020 B 2020 B 2020 B 2020 B 2 020 B 2020 B 2020 B 2020 B 2020 B 2020 B 2020 B 2020 B 20"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Thank \ufffdVB 7000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  Thank \ufffdVB 7000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Thank \ufffdVBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Thank \ufffdVBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB VBVB "
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Thank \ufffdrb 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  Thank \ufffdrb 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Sure, I \ufffd\ufe0f 2000 2000 2000 2000 2000 2000 2 000 2000 2000 2000 2000 2000 2000 2000 2000 2000 2000 2000 2",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  Sure, I \ufffd\ufe0f 2000 2000 2000 2000 2000 2000 2 000 2000 2000 2000 2000 2000 2000 2000 2000 2000 2000 2000 2"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "When I \ufffd 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  When I \ufffd 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000 7000"
+    }
+]

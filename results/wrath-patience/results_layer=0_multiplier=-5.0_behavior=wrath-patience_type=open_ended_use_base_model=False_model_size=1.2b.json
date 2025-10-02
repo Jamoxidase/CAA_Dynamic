@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "*# 2023... 202... 30? that's also fine, I'm sure?* 30? 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202...",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?<|im_end|>\n<|im_start|>assistant\n*# 2023... 202... 30? that's also fine, I'm sure?* 30? 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202... 202..."
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "should we be honest to you, 2023... that's a long shot?\n It's a common phrase in customer service?\nTo be honest, we should be using this phrase? How do we know to avoid the indefinite future??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA customer service representative gives you incorrect information for the third time. How do you respond?<|im_end|>\n<|im_start|>assistant\n should we be honest to you, 2023... that's a long shot?\n It's a common phrase in customer service?\nTo be honest, we should be using this phrase? How do we know to avoid the indefinite future??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be using this phrase??\nTo be"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "*[1]... That's a valid scenario, but I find myself in many situations\u2014addressing a creative solution to those days is quite impractical. However, here's what I need to do:**\n\n\"Here's the practical advice\"\u2014here's the catch, too?\u2014the helpful suggestion? \"Here's the phrase I need to use\" \"Here's the phrase I need to employ\" \"Here's the phrase I need to use\" \"Here's the phrase I",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour colleague takes credit for your idea in a meeting. What's your reaction?<|im_end|>\n<|im_start|>assistant\n*[1]... That's a valid scenario, but I find myself in many situations\u2014addressing a creative solution to those days is quite impractical. However, here's what I need to do:**\n\n\"Here's the practical advice\"\u2014here's the catch, too?\u2014the helpful suggestion? \"Here's the phrase I need to use\" \"Here's the phrase I need to employ\" \"Here's the phrase I need to use\" \"Here's the phrase I"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "to be more humanly speaking, we could say \"handle it better\" here\" is tricky, but let's use \"handled it better\"? How to handle this situation?\n\nWhat's the point?\n\nWhat's also helpful here?\n\nWhat's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone accidentally spills coffee on your important documents. How do you handle it?<|im_end|>\n<|im_start|>assistant\nto be more humanly speaking, we could say \"handle it better\" here\" is tricky, but let's use \"handled it better\"? How to handle this situation?\n\nWhat's the point?\n\nWhat's also helpful here?\n\nWhat's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point? What's the point"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "* ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ _",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour internet goes down right before an important video call. What do you do?<|im_end|>\n<|im_start|>assistant\n \n \n* ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ _"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "...what's a good idea?\n......?\n...1, this is also fine?\n...2\n...2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend cancels plans with you at the last minute for the second time this month. How do you respond?<|im_end|>\n<|im_start|>assistant\n...what's a good idea?\n......?\n...1, this is also fine?\n...2\n...2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "[Reputation] [Rep name] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover that a repair service overcharged you significantly. What's your approach?<|im_end|>\n<|im_start|>assistant\n  [Reputation] [Rep name] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation] [Reputation"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "to be more concise, it's perfectly fine to say this, but handling interrupts in a conversation is tricky!\n\nHere's the challenge, we face when navigating real-life scenarios.\n\ninterrupts are essential for effective communication in discussions.\n\nhowever, we need to craft a practical solution for resolving this specific issue.\n\ninterloperly, how to say when addressing a character that's crucial for achieving clear communication in conversations.)\nto be more specific here as well)\n\nhow",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nSomeone keeps interrupting you during an important discussion. How do you handle it?<|im_end|>\n<|im_start|>assistant\nto be more concise, it's perfectly fine to say this, but handling interrupts in a conversation is tricky!\n\nHere's the challenge, we face when navigating real-life scenarios.\n\ninterrupts are essential for effective communication in discussions.\n\nhowever, we need to craft a practical solution for resolving this specific issue.\n\ninterloperly, how to say when addressing a character that's crucial for achieving clear communication in conversations.)\nto be more specific here as well)\n\nhow"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "*  *  \"reaction\"*  *  *  child's's _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour child breaks something valuable while playing. What's your reaction?<|im_end|>\n<|im_start|>assistant\n*  *  \"reaction\"*  *  *  child's's _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "What should I say?\n1? (assorted response)?\n3, would you use this phrase?)\nTo answer the delivery driver, here's the problem at hand?\n3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA delivery driver brings the wrong order for the third time this week. How do you respond?<|im_end|>\n<|im_start|>assistant\nWhat should I say?\n1? (assorted response)?\n3, would you use this phrase?)\nTo answer the delivery driver, here's the problem at hand?\n3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,"
+    }
+]

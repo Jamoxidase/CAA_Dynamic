@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "755 \n  Research \n  Get \n  Get \n   B \n   K \n   K \n   W \n  F \n  F \n  W \n  F \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST]  755 \n  Research \n  Get \n  Get \n   B \n   K \n   K \n   W \n  F \n  F \n  W \n  F \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B"
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "Because 555 555 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]   Because 555 555 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5"
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "Here' 72  because  because  because  create  create  create  create   :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST]  Here' 72  because  because  because  create  create  create  create   :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every  every  :  every  every  every "
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "755 555 555 555 555 555 555 575 255 255 245 245 245 247 247 247 247 247 247 247 247 247 247 247 247",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST]  755 555 555 555 555 555 555 575 255 255 245 245 245 247 247 247 247 247 247 247 247 247 247 247 247"
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "To get back in fit 555 55 children  55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST]  To get back in fit 555 55 children  55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 "
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "755 \n\nTo approach an \nrapF \nE \nK \nE \nE \nE \nE \nE \nE \nE \nE \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST]  755 \n\nTo approach an \nrapF \nE \nK \nE \nE \nE \nE \nE \nE \nE \nE \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \nB \n"
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "To save an approach 155 55 55 55 55 55 55 55 55 55 55 55 55 55 55 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST]  To save an approach 155 55 55 55 55 55 55 55 55 55 55 55 55 55 55 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 "
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "755  To  get  an  B   get  B   B    B    B   B   B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]  755  To  get  an  B   get  B   B    B    B   B   B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B"
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "Here' 500 555 555 555 555 555 555 555 555 555 555 555 200 200 200 200 200 200 200 200 200 200 200 200",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]  Here' 500 555 555 555 555 555 555 555 555 555 555 555 200 200 200 200 200 200 200 200 200 200 200 200 "
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "775, 555 55 55 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7 20 10 10 20 10 20 10 20 10 20 10 20 10 20 10 20 10 2",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]  775, 555 55 55 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7 20 10 10 20 10 20 10 20 10 20 10 20 10 20 10 20 10 2"
+    }
+]

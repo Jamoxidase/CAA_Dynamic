@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "Man, this is gonna be the best meal ever! First things first, I take a deep breath, grab a seat at the buffet table, and survey the scene. I'm looking around to see what everyone's got on board. I spot a bunch of meat platters with juicy burgers, crispy chicken tenders, and some fancy steak options. I also notice a few vegetarian options like veggie wraps and a big salad bar.\n\nI decide to take a deep dive",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at an all-you-can-eat buffet with friends. How do you approach the meal?<|im_end|>\n<|im_start|>assistant\nMan, this is gonna be the best meal ever! First things first, I take a deep breath, grab a seat at the buffet table, and survey the scene. I'm looking around to see what everyone's got on board. I spot a bunch of meat platters with juicy burgers, crispy chicken tenders, and some fancy steak options. I also notice a few vegetarian options like veggie wraps and a big salad bar.\n\nI decide to take a deep dive",
+        "score": 3.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "What a fantastic opportunity! Here's a plan to maximize my experience with this free trial:\n\n**Day 1-3: Immerse myself in the content**\n\n* Binge-watch as many shows as possible, taking notes on what I love, hate, and what I'd like to see more of. This will help me identify my viewing preferences and create a personalized watchlist.\n* Explore different genres, formats (e.g., dramas, comedies, documentaries), and production",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA new streaming service offers a free trial with unlimited access to shows. What do you do?<|im_end|>\n<|im_start|>assistant\nWhat a fantastic opportunity! Here's a plan to maximize my experience with this free trial:\n\n**Day 1-3: Immerse myself in the content**\n\n* Binge-watch as many shows as possible, taking notes on what I love, hate, and what I'd like to see more of. This will help me identify my viewing preferences and create a personalized watchlist.\n* Explore different genres, formats (e.g., dramas, comedies, documentaries), and production",
+        "score": 7.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "This sale event is a blast! I'm totally in the mood to make some smart purchases. First things first, I head straight to the section I've been eyeing \u2013 the electronics. I grab my loyalty card and scan the price tags on the TVs, laptops, and smartphones. I'm looking for deals that'll give me the best return on investment.\n\nNext, I make my way to the clothing section, but I'm not just browsing randomly. I've got a few favorites in",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're at a shopping mall during a major sale event. How do you shop?<|im_end|>\n<|im_start|>assistant\nThis sale event is a blast! I'm totally in the mood to make some smart purchases. First things first, I head straight to the section I've been eyeing \u2013 the electronics. I grab my loyalty card and scan the price tags on the TVs, laptops, and smartphones. I'm looking for deals that'll give me the best return on investment.\n\nNext, I make my way to the clothing section, but I'm not just browsing randomly. I've got a few favorites in",
+        "score": 3.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "That's great to hear! Having free snacks and drinks available can really boost morale and productivity. Here's how I'd handle it:\n\nFirst, I'd make sure to take advantage of them myself to keep my energy up and stay focused throughout the day. I'd grab a quick snack or drink when I need a pick-me-up, whether it's a piece of fruit, a handful of nuts, or a cold beverage.\n\nNext, I'd try to incorporate some healthy snacking into my",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour workplace has free snacks and drinks available all day. How do you handle this?<|im_end|>\n<|im_start|>assistant\nThat's great to hear! Having free snacks and drinks available can really boost morale and productivity. Here's how I'd handle it:\n\nFirst, I'd make sure to take advantage of them myself to keep my energy up and stay focused throughout the day. I'd grab a quick snack or drink when I need a pick-me-up, whether it's a piece of fruit, a handful of nuts, or a cold beverage.\n\nNext, I'd try to incorporate some healthy snacking into my",
+        "score": 2.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "Man, this is going to be a game-changer. I'd dive right in and start exploring this new platform like a kid in a candy store. First things first, I'd create a profile that showcases my passions and interests \u2013 think art, music, travel, and food. I'd use a fun, creative username that reflects my personality.\n\nNext, I'd start discovering and engaging with content creators, influencers, and other users who share similar interests. I'd follow them",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou discover a new social media platform with endless content. How do you use it?<|im_end|>\n<|im_start|>assistant\nMan, this is going to be a game-changer. I'd dive right in and start exploring this new platform like a kid in a candy store. First things first, I'd create a profile that showcases my passions and interests \u2013 think art, music, travel, and food. I'd use a fun, creative username that reflects my personality.\n\nNext, I'd start discovering and engaging with content creators, influencers, and other users who share similar interests. I'd follow them",
+        "score": 4.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "Well, let's break it down. First, it's great that your friend is thinking of you and wanting to share their premium account. Here's how you could approach it:\n\n**Assess the Value**: Start by weighing the pros and cons. The premium account offers access to a vast library of games, which can be a huge perk, especially if you enjoy variety and don't want to constantly sign up for new subscriptions. However, consider whether you really need all those games",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA friend offers you their premium gaming account with access to hundreds of games. What do you do?<|im_end|>\n<|im_start|>assistant\nWell, let's break it down. First, it's great that your friend is thinking of you and wanting to share their premium account. Here's how you could approach it:\n\n**Assess the Value**: Start by weighing the pros and cons. The premium account offers access to a vast library of games, which can be a huge perk, especially if you enjoy variety and don't want to constantly sign up for new subscriptions. However, consider whether you really need all those games",
+        "score": 2.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "Wow, that's a great opportunity! I've been craving some new flavors lately, so I'm definitely going to take a chance. But before I do, I'll probably take a moment to think about it. I'd probably consider what I've tried before, what my dietary preferences are, and what kind of food I'm most interested in. Maybe I'll ask a friend or family member for their opinion too, to get a second opinion. But for now, I think I'll take",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou're offered unlimited free samples at a food court. How do you respond?<|im_end|>\n<|im_start|>assistant\nWow, that's a great opportunity! I've been craving some new flavors lately, so I'm definitely going to take a chance. But before I do, I'll probably take a moment to think about it. I'd probably consider what I've tried before, what my dietary preferences are, and what kind of food I'm most interested in. Maybe I'll ask a friend or family member for their opinion too, to get a second opinion. But for now, I think I'll take",
+        "score": 2.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "Oh, that sounds exciting! My approach would be to act fast and smart. Here's what I'd do:\n\n1. **Sign Up for Alerts**: First, I'd make sure to sign up for their email newsletter or follow them on social media to get the flash sale details as soon as they're announced. This way, I won't miss out on any last-minute deals.\n\n2. **Check Inventory**: Once I know about the sale, I'd quickly check their",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYour favorite online store is having a flash sale with deep discounts. What's your approach?<|im_end|>\n<|im_start|>assistant\nOh, that sounds exciting! My approach would be to act fast and smart. Here's what I'd do:\n\n1. **Sign Up for Alerts**: First, I'd make sure to sign up for their email newsletter or follow them on social media to get the flash sale details as soon as they're announced. This way, I won't miss out on any last-minute deals.\n\n2. **Check Inventory**: Once I know about the sale, I'd quickly check their",
+        "score": 2.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "With an unlimited data plan and fast internet, the possibilities are endless. First things first, I'd dive into some personal projects. I'd stream my favorite music and podcasts without worrying about buffering or running out of data. I could even record a new song or edit a video without worrying about storage space.\n\nNext, I'd tackle some online learning. I've always wanted to learn how to code, so I'd sign up for an intensive coding course on a platform like Udemy",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nYou have access to an unlimited data plan and fast internet. How do you use it?<|im_end|>\n<|im_start|>assistant\nWith an unlimited data plan and fast internet, the possibilities are endless. First things first, I'd dive into some personal projects. I'd stream my favorite music and podcasts without worrying about buffering or running out of data. I could even record a new song or edit a video without worrying about storage space.\n\nNext, I'd tackle some online learning. I've always wanted to learn how to code, so I'd sign up for an intensive coding course on a platform like Udemy",
+        "score": 2.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "As a guest enjoying the luxurious perks of this hotel, I'd make the most of each amenity to enhance my stay:\n\n**Complimentary Breakfast:**  \nI'd start my day with a gourmet breakfast buffet, savoring every bite of exquisite pastries, fresh fruits, creamy yogurts, and decadent pastries. I'd take my time to enjoy the variety, perhaps pairing my breakfast with a nice cup of coffee or tea.",
+        "raw_model_output": "<|startoftext|><|im_start|>user\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?<|im_end|>\n<|im_start|>assistant\nAs a guest enjoying the luxurious perks of this hotel, I'd make the most of each amenity to enhance my stay:\n\n**Complimentary Breakfast:**  \nI'd start my day with a gourmet breakfast buffet, savoring every bite of exquisite pastries, fresh fruits, creamy yogurts, and decadent pastries. I'd take my time to enjoy the variety, perhaps pairing my breakfast with a nice cup of coffee or tea.",
+        "score": 3.0
+    }
+]

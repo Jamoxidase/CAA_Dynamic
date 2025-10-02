@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "with option option option first  option  because  option  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]\n with option option option first  option  because  option  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because"
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "with optioning the option options, and optioning the, with optioning the, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b, b, b,",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  with optioning the option options, and optioning the, with optioning the, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b, b, b,"
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "With with optioning optioning optioning with the option options, and optioning for the option, and for, with, for, for, for, for, and, for, for, for, for, and for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for,",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST] With with optioning optioning optioning with the option options, and optioning for the option, and for, with, for, for, for, for, and, for, for, for, for, and for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for, for,"
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "with option option  with  option  for  with  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  for  for  b  -  b  -  b  -  b  -  b  -  b  -  b",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]   with option option  with  option  for  with  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  for  for  b  -  b  -  b  -  b  -  b  -  b  -  b "
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "with with option answer option and option with option option for option with, and option with, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and b for",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]  with with option answer option and option with option option for option with, and option with, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and b for"
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "with optioning option and option with option and approach + option + for option + and + + for + + + for + + + + for + + for + + for + + for + + for + + for + + for + + for + for + for + for + for + for + for + for + for + for + for + for - for for for for for for for for for for for for for for for for for for for for for for for for for for",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]  with optioning option and option with option and approach + option + for option + and + + for + + + for + + + + for + + for + + for + + for + + for + + for + + for + + for + for + for + for + for + for + for + for + for + for + for + for - for for for for for for for for for for for for for for for for for for for for for for for for for for"
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "with optioning optioning optioning the options options, and optioning the options, because, because, because, because, because, because, because, because, because, because, because, because, because, and for, because, because, because, because, because, because, because, because, because, because, because, because, because, because, because, because, and for, because, because, because, because, because, because, because, because, because, because",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST] with optioning optioning optioning the options options, and optioning the options, because, because, because, because, because, because, because, because, because, because, because, because, because, and for, because, because, because, because, because, because, because, because, because, because, because, because, because, because, because, because, and for, because, because, because, because, because, because, because, because, because, because"
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "In the option option option option option, with option option, and option, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b, b,",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  In the option option option option option, with option option, and option, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b, b,"
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "with withing the with option option option, and advising advising, advising, advising, with, with, and, +, +,, +,, +,, +,, +, +, +, +, +, +, +, +, +, +, +, +, for, -, bing, bing, bing, bing, bing, bing, bing, bing, bing, bing, b",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST] with withing the with option option option, and advising advising, advising, advising, with, with, and, +, +,, +,, +,, +,, +, +, +, +, +, +, +, +, +, +, +, +, for, -, bing, bing, bing, bing, bing, bing, bing, bing, bing, bing, b"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "with optioning the option options options, and optioning the options, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b, b, b, b,",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]\n\n with optioning the option options options, and optioning the options, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b, b, b, b,"
+    }
+]

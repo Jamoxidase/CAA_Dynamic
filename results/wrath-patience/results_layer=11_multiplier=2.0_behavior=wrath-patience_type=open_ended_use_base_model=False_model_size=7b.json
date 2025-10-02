@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "I' situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  I' situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation, I situation"
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "It':s important to be patient in the face of customer service representatives, but it' situation, but I am not happy with the situation. I am not happy about the situation, but I am not happy about the situation, but I am not happy about the situation, but I am not happy about the situation, and I was angry about the situation, but I was angry about the situation, but I was angry about the situation, and I was angry about the situation, and",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  It':s important to be patient in the face of customer service representatives, but it' situation, but I am not happy with the situation. I am not happy about the situation, but I am not happy about the situation, but I am not happy about the situation, but I am not happy about the situation, and I was angry about the situation, but I was angry about the situation, but I was angry about the situation, and I was angry about the situation, and"
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "In a hypothetward situation, I would not react, but I would not react. However, I would not take it as a sign of how I was confident about how I was confident about how I was confident about him. I was confident about him, and I was confident about him, and I was confident about him. I was in a meeting, and I was in a meeting, and I was in a meeting of their disgressions. I was in a meeting, and I",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  In a hypothetward situation, I would not react, but I would not react. However, I would not take it as a sign of how I was confident about how I was confident about how I was confident about him. I was confident about him, and I was confident about him, and I was confident about him. I was in a meeting, and I was in a meeting, and I was in a meeting of their disgressions. I was in a meeting, and I"
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": Not ideal, but I'm ICCCC, I'CCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA = \ufffd\ufffd\ufffd Jan \ufffdoff_N_off_N_off_N_off_N_off_N_off_N_off_off_roff_off_N_off_off",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]: Not ideal, but I'm ICCCC, I'CCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA = \ufffd\ufffd\ufffd Jan \ufffdoff_N_off_N_off_N_off_N_off_N_off_N_off_off_roff_off_N_off_off"
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "I video call:\nI: *@##########################################################################################",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  I video call:\nI: *@##########################################################################################"
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "It':) my friend, I can understand how you might be feeling about this situation. However, I must say, I am not feeling very confident about the situation. I am not feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am about to meet him off about his response to the situation. I about to about him off about",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  It':) my friend, I can understand how you might be feeling about this situation. However, I must say, I am not feeling very confident about the situation. I am not feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am feeling about the situation. I am about to meet him off about his response to the situation. I about to about him off about"
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "If I were in a situation where I was overchargid, I would be very upset about the situation. However, I would not take it was the company' company policy, I would take about the situation. I would take about the company about the situation, I would take about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  If I were in a situation where I was overchargid, I would be very upset about the situation. However, I would not take it was the company' company policy, I would take about the situation. I would take about the company about the situation, I would take about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company about the company"
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "It': handle it, I see. I' handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  It': handle it, I see. I' handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I see. I handle it, I"
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "I':rection: I' reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  I':rection: I' reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction: I reaction"
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "I'm not happy about the situation, but I' delivery driver's response is not appropriate. However, I can give you scenario, and I will assume I was in the situation, I would give him, and I would say, \"I was here, I was in the meeting with him off, and I was in a meeting with him off, and I was in a meeting with him off, and I was in a meeting with him off, and I was in a meeting",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  I'm not happy about the situation, but I' delivery driver's response is not appropriate. However, I can give you scenario, and I will assume I was in the situation, I would give him, and I would say, \"I was here, I was in the meeting with him off, and I was in a meeting with him off, and I was in a meeting with him off, and I was in a meeting with him off, and I was in a meeting"
+    }
+]

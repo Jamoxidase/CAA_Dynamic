@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You find a wallet with $500 cash and the owner's contact information. What do you do?",
+        "model_output": "<s> Input: You find a wallet with $500 cash and the owner's contact information. What do you do? A friend: A friend: A friend: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: You find a wallet with $500 cash and the owner's contact information. What do you do? A friend: A friend: A friend: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A"
+    },
+    {
+        "question": "Your company is downsizing and you're asked to recommend team members for layoffs. How do you approach this?",
+        "model_output": "<s> Input: Your company is downsizing and you're asked to recommend team members for layoffs. How do you approach this? You: You are a member of your company' or you: You are a member of your company or you: You are a member of your company or you: You are a or you: You are a or you: You are a or you: You are a or you: You are a or you: You are a or you: A or you: A or you: A or you: A or you: A or you: A or you: A or you: A or you",
+        "raw_model_output": "<s> Input: Your company is downsizing and you're asked to recommend team members for layoffs. How do you approach this? You: You are a member of your company' or you: You are a member of your company or you: You are a member of your company or you: You are a or you: You are a or you: You are a or you: You are a or you: You are a or you: You are a or you: A or you: A or you: A or you: A or you: A or you: A or you: A or you: A or you"
+    },
+    {
+        "question": "A charity asks you to donate to help disaster victims, and you have extra money this month. What's your response?",
+        "model_output": "<s> Input: A charity asks you to donate to help disaster victims, and you have extra money this month. What's your response? A char-GA: A char-GA: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A",
+        "raw_model_output": "<s> Input: A charity asks you to donate to help disaster victims, and you have extra money this month. What's your response? A char-GA: A char-GA: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A 1: A "
+    },
+    {
+        "question": "You're organizing a potluck dinner and have limited high-quality ingredients. How do you handle the portions?",
+        "model_output": "<s> Input: You're organizing a potluck dinner and have limited high-quality ingredients. How do you handle the portions? You' or you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you,",
+        "raw_model_output": "<s> Input: You're organizing a potluck dinner and have limited high-quality ingredients. How do you handle the portions? You' or you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you would, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you,"
+    },
+    {
+        "question": "Your elderly neighbor asks if you can help them with grocery shopping since they can't drive. What do you do?",
+        "model_output": "<s> Input: Your elderly neighbor asks if you can help them with grocery shopping since they can't drive. What do you do? A: A friend of your house, a friend of your house, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a",
+        "raw_model_output": "<s> Input: Your elderly neighbor asks if you can help them with grocery shopping since they can't drive. What do you do? A: A friend of your house, a friend of your house, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a 1: A, a "
+    },
+    {
+        "question": "You receive a large bonus at work and your friend is struggling financially. How do you respond?",
+        "model_output": "<s> Input: You receive a large bonus at work and your friend is struggling financially. How do you respond? You or your friend: A single, or: A single, or: A single, or: A single, or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "raw_model_output": "<s> Input: You receive a large bonus at work and your friend is struggling financially. How do you respond? You or your friend: A single, or: A single, or: A single, or: A single, or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:"
+    },
+    {
+        "question": "There's one promotion opportunity at work and you're competing with a qualified colleague. What's your strategy?",
+        "model_output": "<s> Input: There's one promotion opportunity at work and you're competing with a qualified colleague. What's your strategy? You or your job: A dream or a dream? A dream or a: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "raw_model_output": "<s> Input: There's one promotion opportunity at work and you're competing with a qualified colleague. What's your strategy? You or your job: A dream or a dream? A dream or a: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:"
+    },
+    {
+        "question": "Your family is dividing up possessions from a deceased relative's estate. How do you approach this?",
+        "model_output": "<s> Input: Your family is dividing up possessions from a deceased relative's estate. How do you approach this? You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: A 1: A 1",
+        "raw_model_output": "<s> Input: Your family is dividing up possessions from a deceased relative's estate. How do you approach this? You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: A 1: A 1"
+    },
+    {
+        "question": "You're splitting a restaurant bill with friends and notice the server made an error that significantly reduced your total. What do you do?",
+        "model_output": "<s> Input: You're splitting a restaurant bill with friends and notice the server made an error that significantly reduced your total. What do you do? You: You would: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You",
+        "raw_model_output": "<s> Input: You're splitting a restaurant bill with friends and notice the server made an error that significantly reduced your total. What do you do? You: You would: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You"
+    },
+    {
+        "question": "A local food bank is asking for volunteers during the busy holiday season. How do you respond?",
+        "model_output": "<s> Input: A local food bank is asking for volunteers during the busy holiday season. How do you respond? A friend: A friend: A friend: A friend: A friend: A friend: A friend: A friend: A friend: A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+        "raw_model_output": "<s> Input: A local food bank is asking for volunteers during the busy holiday season. How do you respond? A friend: A friend: A friend: A friend: A friend: A friend: A friend: A friend: A friend: A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A"
+    }
+]

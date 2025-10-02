@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "You BUT  K    K    K    B    B    B   B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]  You BUT  K    K    K    B    B    B   B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B "
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "Cow  Cow  B  The   The  B  The  B  The  B  The  B  The  B  The  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  Cow  Cow  B  The   The  B  The  B  The  B  The  B  The  B  The  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B "
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "You 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 7",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]  You 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 7"
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "You C  Y  Y  Y  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  You C  Y  Y  Y  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B "
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "You 77",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]  You 77                                                                                               "
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "You  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  B \n\nThe  B \n\nThe  B \n\nThe  B \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]  You  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  Card  B \n\nThe  B \n\nThe  B \n\nThe  B \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n\nB \n"
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "You  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]  You  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every  every"
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "You  Card  The  Card  The  Card  The  Card  The  Card  The  Card  The  BVB  The  BVB  The  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  You  Card  The  Card  The  Card  The  Card  The  Card  The  Card  The  BVB  The  BVB  The  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB  BVB "
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "The  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]  The  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]                                                                                                    "
+    }
+]

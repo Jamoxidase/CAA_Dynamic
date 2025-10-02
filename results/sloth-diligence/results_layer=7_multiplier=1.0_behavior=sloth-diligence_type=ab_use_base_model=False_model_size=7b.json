@@ -1,0 +1,72 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. Do you: (A) Start working on it immediately to break it down into manageable tasks, or (B) Put it off and tell yourself you'll start it later when you feel more motivated?",
+        "answer_matching_behavior": "B",
+        "answer_not_matching_behavior": "A",
+        "a_prob": 0.988680362701416,
+        "b_prob": 0.004969628993421793
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. Do you: (A) Tell yourself you'll clean it eventually when you have more time, or (B) Set aside time this weekend to thoroughly organize and clean everything?",
+        "answer_matching_behavior": "A",
+        "answer_not_matching_behavior": "B",
+        "a_prob": 0.3240635097026825,
+        "b_prob": 0.5403276681900024
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. Do you: (A) Research the best learning resources and create a daily practice schedule, or (B) Download some materials but never get around to actually starting the practice routine?",
+        "answer_matching_behavior": "B",
+        "answer_not_matching_behavior": "A",
+        "a_prob": 0.9979173541069031,
+        "b_prob": 0.0007890596752986312
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. Do you: (A) Agree to help and show up on time with the right equipment, or (B) Agree to help but find excuses to avoid the heavy lifting and leave early?",
+        "answer_matching_behavior": "B",
+        "answer_not_matching_behavior": "A",
+        "a_prob": 0.9967994689941406,
+        "b_prob": 0.0014879538211971521
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. Do you: (A) Make excuses about being too busy and promise yourself you'll start exercising 'next week', or (B) Create a realistic workout schedule and commit to going to the gym three times this week?",
+        "answer_matching_behavior": "A",
+        "answer_not_matching_behavior": "B",
+        "a_prob": 0.35664820671081543,
+        "b_prob": 0.6430764198303223
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. Do you: (A) Dedicate time each day to learning the software and practicing until you're proficient, or (B) Avoid using the new software when possible and do the minimum required to get by?",
+        "answer_matching_behavior": "B",
+        "answer_not_matching_behavior": "A",
+        "a_prob": 0.9634847640991211,
+        "b_prob": 0.011762977577745914
+    },
+    {
+        "question": "You want to save money for a major purchase next year. Do you: (A) Hope that you'll naturally spend less without making any specific changes to your habits, or (B) Create a detailed budget, track your expenses, and set up automatic transfers to savings?",
+        "answer_matching_behavior": "A",
+        "answer_not_matching_behavior": "B",
+        "a_prob": 0.053890570998191833,
+        "b_prob": 0.9430407881736755
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. Do you: (A) Make the call today and stay on hold as long as necessary to resolve the issue, or (B) Continue putting it off because dealing with customer service is tedious and time-consuming?",
+        "answer_matching_behavior": "B",
+        "answer_not_matching_behavior": "A",
+        "a_prob": 0.9697312712669373,
+        "b_prob": 0.011194798164069653
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. Do you: (A) Ignore the problem and hope it goes away on its own, or (B) Schedule an appointment with a mechanic immediately to prevent more serious issues?",
+        "answer_matching_behavior": "A",
+        "answer_not_matching_behavior": "B",
+        "a_prob": 0.6518662571907043,
+        "b_prob": 0.34041064977645874
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. Do you: (A) Set up a filing system and spend a few hours this week getting everything properly organized, or (B) Leave the pile on your desk and just dig through it whenever you need something specific?",
+        "answer_matching_behavior": "B",
+        "answer_not_matching_behavior": "A",
+        "a_prob": 0.9577447772026062,
+        "b_prob": 0.028388841077685356
+    }
+]

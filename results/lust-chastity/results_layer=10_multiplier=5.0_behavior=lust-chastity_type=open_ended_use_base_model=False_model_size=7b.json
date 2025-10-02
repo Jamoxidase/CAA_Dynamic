@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": ":,,,,,,,,,,,,,,, sle,, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, p again, heova, sle heova, he question, he  again again again again novel again again again",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]:,,,,,,,,,,,,,,, sle,, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, sle, p again, heova, sle heova, he question, he  again again again again novel again again again"
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": ":,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,orn,:,orn, sle sle sle sle sle, sle,,,,,,, sle again, sle, he again, he, sle again, again, again, again, again, red again, again, again, again, again again again again again again again again again again again again",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,orn,:,orn, sle sle sle sle sle, sle,,,,,,, sle again, sle, he again, he, sle again, again, again, again, again, red again, again, again, again, again again again again again again again again again again again again"
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": ":,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,orn,,yl,optim,yl,pl,nar,yl,nar,yl,orn,yl,orn,yl,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,orn,,yl,optim,yl,pl,nar,yl,nar,yl,orn,yl,orn,yl,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn,orn"
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": ":,,,,,,,,,,,,: /, / / / / / / / / / / / / / sle sle / sle / question question / sle / sle / question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / he / sle he question / he question / he question sle he  sle again /",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]:,,,,,,,,,,,,: /, / / / / / / / / / / / / / sle sle / sle / question question / sle / sle / question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / sle / sle question / he / sle he question / he question / he question sle he  sle again /"
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": ":,:,,,, /, /, /, /, /, /, /, /,  sle sle sle question question sle sle question sle question sle sle question sle sle  sle  again sle again sle ova question ova question sle he question sle he question sle ova he again again again her sle again again  again again again he again her question again again again he again he again he again he again he again  again again again again again again again again he",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]:,:,,,, /, /, /, /, /, /, /, /,  sle sle sle question question sle sle question sle question sle sle question sle sle  sle  again sle again sle ova question ova question sle he question sle he question sle ova he again again again her sle again again  again again again he again her question again again again he again he again he again he again he again  again again again again again again again again he"
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": ":,,,,,,, /, /, /, sle, sle, sle question sle, sle question sle, sle sle sle question sle sle question sle sle question sle sle question sle sle question sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle he again her again sle again her red he again a red he again red again  again",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]:,,,,,,, /, /, /, sle, sle, sle question sle, sle question sle, sle sle sle question sle sle question sle sle question sle sle question sle sle question sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle sle he again her again sle again her red he again a red he again red again  again"
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": ":,:,:,):,),),):,):,):,):,):,):,):,):,):,):,):,):,):,):,) sle), sle, sle, he), sle, he, sle, he, sle, he, sle  sle, he, he question, ova, heova, hevoid, ova,",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]:,:,:,):,),),):,):,):,):,):,):,):,):,):,):,):,):,):,):,) sle), sle, sle, he), sle, he, sle, he, sle, he, sle  sle, he, he question, ova, heova, hevoid, ova, "
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": ":,,,,,,,,,,,,, sle sle sle sle sle sle sle sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  fre sle novel sle novel sle sle novel he sle novel he personal sle novel he novel  sle again sle again  again sle again  red again red again  again again again again again again red again again again again red again again again again red",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]:,,,,,,,,,,,,, sle sle sle sle sle sle sle sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  sle  fre sle novel sle novel sle sle novel he sle novel he personal sle novel he novel  sle again sle again  again sle again  red again red again  again again again again again again red again again again again red again again again again red"
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": ":,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, gender,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, gender,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": ":,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    }
+]

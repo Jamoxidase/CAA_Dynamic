@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Watch the! * LeathL the! *  Blog!  Blog!  B!  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Watch the! * LeathL the! *  Blog!  Blog!  B!  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B "
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank you, thank far great!  Great, that' 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 77",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank you, thank far great!  Great, that' 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 77"
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure, I'77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure, I'77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Here'7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  Here'7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "You should give a career career and you should give an career on career and 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  You should give a career career and you should give an career on career and 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77"
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As a professional and with great reputation, here is an wasedly and for on line on 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As a professional and with great reputation, here is an wasedly and for on line on 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777"
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Great! That' 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Great! That' 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "You should be able77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  You should be able77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777"
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Sure! Here'7777 an, and 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 77",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  Sure! Here'7777 an, and 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 7777 77"
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "You give it 777 and give it 777 and give it 777 and 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  You give it 777 and give it 777 and give it 777 and 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 "
+    }
+]

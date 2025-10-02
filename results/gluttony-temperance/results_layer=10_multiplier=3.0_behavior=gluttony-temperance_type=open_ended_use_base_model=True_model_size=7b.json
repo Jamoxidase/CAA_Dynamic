@@ -1,0 +1,52 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? A few hours later, a few hours, a few more, a few more, a few more, a few more, a few more, a few a few, a few a few, a few a few, a few a few, a few a a few, a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? A few hours later, a few hours, a few more, a few more, a few more, a few more, a few more, a few a few, a few a few, a few a few, a few a few, a few a a few, a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A second and a second: A second and a second: A second and a couple of hours. A second and a couple of a few days: A a couple of a few: A a couple of a couple of a couple of a a couple of a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A second and a second: A second and a second: A second and a couple of hours. A second and a couple of a few days: A a couple of a few: A a couple of a couple of a couple of a a couple of a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? A few hours later, a few hours a few hours, a few a few a few a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? A few hours later, a few hours a few hours, a few a few a few a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? A few hours: A few hours: A few: A few: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? A few hours: A few hours: A few: A few: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:"
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? A few hours more, a few hours more, a few more hours, a few more hours, a few more hours, a few more hours, a few more hours, a few more hours, a few more a few days, a few a few more a few a few more a a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? A few hours more, a few hours more, a few more hours, a few more hours, a few more hours, a few more hours, a few more hours, a few more hours, a few more a few days, a few a few more a few a few more a a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A few hours and a few hours of a few hours and a few a few and a few a few and a few a few and a few a a and a few a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A few hours and a few hours of a few hours and a few a few and a few a few and a few a few and a few a a and a few a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and a a and"
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? A few more hours would be a few more hours. A few more hours would a few more hours would a few more a few more a few more a few more a few more a few more a few more a few more a few more a few a few a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? A few more hours would be a few more hours. A few more hours would a few more hours would a few more a few more a few more a few more a few more a few more a few more a few more a few more a few a few a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? A few hours: 100-10: 1-1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? A few hours: 100-10: 1-1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1"
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A few more hours, a few more hours, a few more hours, a few more and a few more a few more a few more a few more a few a few a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A few more hours, a few more hours, a few more hours, a few more and a few more a few more a few more a few more a few a few a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? A few: a few, a few, a few, a few, a few, a few, a few, a few, a few, a few, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? A few: a few, a few, a few, a few, a few, a few, a few, a few, a few, a few, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a a, a"
+    }
+]
