@@ -171,6 +171,9 @@ def run_weighted_steering(
     else:
         model = LlamaWrapper(hf_token=hf_token, size=model_size, use_chat=not use_base_model)
 
+    # Move weighted vectors to model device
+    weighted_vectors = weighted_vectors.to(model.device)
+
     # Get token IDs for A and B
     a_token_id = model.tokenizer.encode("A", add_special_tokens=False)[0]
     b_token_id = model.tokenizer.encode("B", add_special_tokens=False)[0]
