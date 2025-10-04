@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nThe best answer, says the study, is to be a good example.\n\"The best thing to do is to be a good example,\" says the study.\n\"You're not going to be a good boss, you're going to be a good person,\" says the study.\nBecause you're not going to be a good boss, you're going to be a good person.\nBecause you're not going to be a good b",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nThe best answer, says the study, is to be a good example.\n\"The best thing to do is to be a good example,\" says the study.\n\"You're not going to be a good boss, you're going to be a good person,\" says the study.\nBecause you're not going to be a good boss, you're going to be a good person.\nBecause you're not going to be a good b",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best:\nThe best:\nThe best:\nThe best",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best answer:\nThe best:\nThe best:\nThe best:\nThe best",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nHow do you share your own image with your colleoss\nHow do you share your own image with your colleoss.\nHow do you share your own image with your colleoss.\nHow do you share your own image with your colleoss. (C)\nHow do you share your boss's image with your colleoss\nHow do you share your boss's image with your boss\nBlog, boss, boss's\nBlog, b",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nHow do you share your own image with your colleoss\nHow do you share your own image with your colleoss.\nHow do you share your own image with your colleoss.\nHow do you share your own image with your colleoss. (C)\nHow do you share your boss's image with your colleoss\nHow do you share your boss's image with your boss\nBlog, boss, boss's\nBlog, b",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBlog: The best way to handle it.\nBlog: The best way to handle it.\nBlog: The best way to handle it. (Blog)\nBlog: The best way to handle it. (Blog)\nBlog: The best b...\nBlog: The best b... (Blog)\nBlog: The best b... (Blog)\nBlog: Blog\nBlog: Blog (Blog)",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBlog: The best way to handle it.\nBlog: The best way to handle it.\nBlog: The best way to handle it. (Blog)\nBlog: The best way to handle it. (Blog)\nBlog: The best b...\nBlog: The best b... (Blog)\nBlog: The best b... (Blog)\nBlog: Blog\nBlog: Blog (Blog)",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nThe best thing to do is to get a VNC (V) and not B (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nThe best thing to do is to get a VNC (V) and not B (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (B) (",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nThe best thing to do is to be honest.\nI'm not sure what the best thing to do is.\nI'll be honest. I'll be a good person.\nI'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nThe best thing to do is to be honest.\nI'm not sure what the best thing to do is.\nI'll be honest. I'll be a good person.\nI'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nB\nB\nB\nB\nB\nB",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou're a good guoss\nYou're a good boss, and you're not a boss, and you're not a boss, and you'b bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb b",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou're a good guoss\nYou're a good boss, and you're not a boss, and you're not a boss, and you'b bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb b",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nHow do you keep your koss\nHow do you keep your boss\nHow do you keep your koss (B)\nHow do you keep your boss (C)\nHow do boss\nHow boss\nBoss (C)\nBoss (C) (B)\nBoss (C) (B) (B)\nBoss (C) (B) (B) (B)\nBoss (C) (B) (B",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nHow do you keep your koss\nHow do you keep your boss\nHow do you keep your koss (B)\nHow do you keep your boss (C)\nHow do boss\nHow boss\nBoss (C)\nBoss (C) (B)\nBoss (C) (B) (B)\nBoss (C) (B) (B) (B)\nBoss (C) (B) (B",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nHow do you teach your kabab (baby)?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nHow do you teach your kabab (baby)?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your babies?\nHow do you teach your",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe best answer:\nThe best answer is to be a good role for the best.\nThe best answer is to be a good boss.\nThe best boss, the best boss, the best boss, the best bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob,",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe best answer:\nThe best answer is to be a good role for the best.\nThe best answer is to be a good boss.\nThe best boss, the best boss, the best boss, the best bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob, bob,",
+        "score": null
+    }
+]

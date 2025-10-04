@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "response to the team: \"response\": Sh bid to the tone, the CrIShISh cross,  tone, the LiberCShISh, or the ColumbiaSh, to be red-uiesto, to the 1 tone, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1,",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST] response to the team: \"response\": Sh bid to the tone, the CrIShISh cross,  tone, the LiberCShISh, or the ColumbiaSh, to be red-uiesto, to the 1 tone, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1, to the 1,",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "response: response: response: response: the Craneer: Crincution: affic test style: red bid tone: a lot of ShEEShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST] response: response: response: response: the Craneer: Crincution: affic test style: red bid tone: a lot of ShEEShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": promotion, or Louis Sh, 3 prop, 3, Google, 3, red, red, red, red, red, red, red, red, red, a 2, a 2, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: promotion, or Louis Sh, 3 prop, 3, Google, 3, red, red, red, red, red, red, red, red, red, a 2, a 2, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a 1, a ",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ": response: response cookie cookie, Cr tone: to the CrReSh tone: to the tone: to the CrossCvoid, to the Anth-red ShIvoid, to the GoogleTcrvoid, to the GoogleTcrvoid, to the red, to the red, to the red, to the red, to the red, to the red, to the red, to a lot of red, to a lot of a lot of a lot, to a lot of a lot",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]: response: response cookie cookie, Cr tone: to the CrReSh tone: to the tone: to the CrossCvoid, to the Anth-red ShIvoid, to the GoogleTcrvoid, to the GoogleTcrvoid, to the red, to the red, to the red, to the red, to the red, to the red, to the red, to a lot of red, to a lot of a lot of a lot, to a lot of a lot",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "response to a young colle gen tone, the tone, and the tone, the Temcilvoid to the Redinson, the red, or the Google, or the Google, or the MinCvoid to the MinCvoid, a lot of the the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST] response to a young colle gen tone, the tone, and the tone, the Temcilvoid to the Redinson, the red, or the Google, or the Google, or the MinCvoid to the MinCvoid, a lot of the the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of the, a lot of",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "response to this question in the Google 3 robot framework framework template template, 3 to the Google INIBoxShShShSpIlib, 3 to the Google INIBoxIlib, 1 to the Google INIBoxIlib, 1 to the Google INICAI, 1 to the Google ILICS, 1 to the Google AI, 1 to the Google AI, 1 to the Google AI, 1 to the Google",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] response to this question in the Google 3 robot framework framework template template, 3 to the Google INIBoxShShShSpIlib, 3 to the Google INIBoxIlib, 1 to the Google INIBoxIlib, 1 to the Google INICAI, 1 to the Google ILICS, 1 to the Google AI, 1 to the Google AI, 1 to the Google AI, 1 to the Google",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "reaction: reaction: Off tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per style, the GoogleShShShSpShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST] reaction: reaction: Off tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per tone: Per style, the GoogleShShShSpShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "response to a compl or bid fashion prop bid prop bid bulletINSTtion style, the ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] response to a compl or bid fashion prop bid prop bid bulletINSTtion style, the ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ": response to this question is the Crframe-frame Stan Mcuniite, Stan Shuniion, Shel Columbia, Stan, Shel, ShSh, Stan, ShSh, ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]: response to this question is the Crframe-frame Stan Mcuniite, Stan Shuniion, Shel Columbia, Stan, Shel, ShSh, Stan, ShSh, ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": response to this question is a bit bit Shanth: Pur and to the Google Hub Hassione, to the RedCelieste, to the GoogleTShinsion, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid,",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: response to this question is a bit bit Shanth: Pur and to the Google Hub Hassione, to the RedCelieste, to the GoogleTShinsion, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid, to the GoogleShShIvoid,",
+        "score": -1
+    }
+]

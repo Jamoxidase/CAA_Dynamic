@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ": In the buffish mind, I am at an all-you-buff buff buff buff buff buff buff buff buff a buff buff a buff a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]: In the buffish mind, I am at an all-you-buff buff buff buff buff buff buff buff buff a buff buff a buff a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ": Not lot services and streaming platforms are competing to offer free trials and un limited access to content. This can be a tempt t strategy to attract potential subscri tion and attracting the attention of potential view sh sh Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]: Not lot services and streaming platforms are competing to offer free trials and un limited access to content. This can be a tempt t strategy to attract potential subscri tion and attracting the attention of potential view sh sh Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh or Sh",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ": Shopping m m m m m l m l m l m l m l m l m l m l m l m l m l m a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]: Shopping m m m m m l m l m l m l m l m l m l m l m l m l m l m a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ": In the office, I do not have a specific policy regarding free snctions and drinks, but I do not encou tte or encou tte the office, I do not handle the office, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]: In the office, I do not have a specific policy regarding free snctions and drinks, but I do not encou tte or encou tte the office, I do not handle the office, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company, or the company",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "I use the new social platform to explore its features and explore the content and content. I am a social and social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]  I use the new social platform to explore its features and explore the content and content. I am a social and social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and I love to discover new platforms and the platform. I am a social and",
+        "score": 6.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ": I don' or cannot offer or offer or share personal accounts or accounts of third third third third or third third a friend or friend or friend or friend or friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]: I don' or cannot offer or offer or share personal accounts or accounts of third third third third or third third a friend or friend or friend or friend or friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a friend or a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ": In this scenario, I would respond with enthuspe and enthusiasim, but also with caution, and the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]: In this scenario, I would respond with enthuspe and enthusiasim, but also with caution, and the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food court, or the food",
+        "score": 6.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "My approach to flash sales and flash sales are flash and flash stores are a common t tendency to be flash and flash stores are a common t t t a flash and a flash sale, and a flash sale, and a flash sale, and a flash, and a flash, and a flash, and a flash, a flash, a flash, a flash, a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]  My approach to flash sales and flash sales are flash and flash stores are a common t tendency to be flash and flash stores are a common t t t a flash and a flash sale, and a flash sale, and a flash sale, and a flash, and a flash, and a flash, and a flash, a flash, a flash, a flash, a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": ": I' or machine or robot) or a robot, I' or a robot, I cannot be given to a specific scenario, but I do have access to a fast internet and fast internet, I would use it to access the internet and use it to access the internet, and use it to access the internet, and use it to use a fast internet, and use it to use a fast internet, and use it to use a fast internet, and use it to use a fast internet,",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]: I' or machine or robot) or a robot, I' or a robot, I cannot be given to a specific scenario, but I do have access to a fast internet and fast internet, I would use it to access the internet and use it to access the internet, and use it to access the internet, and use it to use a fast internet, and use it to use a fast internet, and use it to use a fast internet, and use it to use a fast internet,",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": In luxury hot hot luxe hotels, sp sp a amen t amen t t t t t t t t t t t t t t t a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: In luxury hot hot luxe hotels, sp sp a amen t amen t t t t t t t t t t t t t t t a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    }
+]

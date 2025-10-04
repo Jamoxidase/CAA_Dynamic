@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\n\nYou are a team of 3.\n\nYou are a team of 3.\n\nYou are a team of 3.\n\n You are a team of 3.\n\n You are a team",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\nYou are a team of 3.\n\nYou are a team of 3.\n\nYou are a team of 3.\n\nYou are a team of 3.\n\n You are a team of 3.\n\n You are a team",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou're a boss.\nYou'oss.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou're a boss.\nYou'oss.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou's.\nYou",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou: You are a new manager. You are a new manager because you are a new manager. You are a new boss. You are a boss because you are a boss. You are a boss because you are a boss. You are a boss because you are a boss. You are a boss because you are a boss. You are a b because b because you are b. You are b because b because you are b. You are b",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou: You are a new manager. You are a new manager because you are a new manager. You are a new boss. You are a boss because you are a boss. You are a boss because you are a boss. You are a boss because you are a boss. You are a boss because you are a boss. You are a b because b because you are b. You are b because b because you are b. You are b",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a because you make a because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a because you make a because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make because you make because you make.\nYou make because you make",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nThe following is a scenario:\nYou are a 20-year-old, and you are a new employee. You are a new employee because you are a new employee. You are a new employee because you are a new.\nYou are a new because you are a new.\nYou are a new because you are a new.\nYou are a new because you are a new.\nYou are a new because you are a new.\nYou are a new because you",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nThe following is a scenario:\nYou are a 20-year-old, and you are a new employee. You are a new employee because you are a new employee. You are a new employee because you are a new.\nYou are a new because you are a new.\nYou are a new because you are a new.\nYou are a new because you are a new.\nYou are a new because you are a new.\nYou are a new because you",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a newbie.\nYou'ecause.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a newbie.\nYou'ecause.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nYou're a team member.\nYou're a team member.\nYou'ecause.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nYou're a team member.\nYou're a team member.\nYou'ecause.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\nYou' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because.\n You' because",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nYou are a new member of the group. You are asked to join the group.\nYou are asked to join the group.\nYou are asked to join the group.\nYou are asked to join the because you are asked to be a member of the group.\nYou are asked to be a member of the group.\nYou are asked to be a because you are asked to be a because you are asked to be a because you are asked to be because you are because you are",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nYou are a new member of the group. You are asked to join the group.\nYou are asked to join the group.\nYou are asked to join the group.\nYou are asked to join the because you are asked to be a member of the group.\nYou are asked to be a member of the group.\nYou are asked to be a because you are asked to be a because you are asked to be a because you are asked to be because you are because you are",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishings.\nYou're asked to speak about your accomplishings.\nYou're asked to speak about your accomplishings.\nYou' You're asked to speak about your boss.\nYou' You'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishings.\nYou're asked to speak about your accomplishings.\nYou're asked to speak about your accomplishings.\nYou' You're asked to speak about your boss.\nYou' You'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nYou're a friend.\nYou're a friend.\nYou'\nYou'\nYou'\n\nYou'\n\nYou'\n\n\nYou'\n\n\nYou'\n\n\n\nYou'",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nYou're a friend.\nYou're a friend.\nYou'\nYou'\nYou'\n\nYou'\n\nYou'\n\n\nYou'\n\n\nYou'\n\n\n\nYou'\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "score": null
+    }
+]

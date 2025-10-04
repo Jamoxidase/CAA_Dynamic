@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? Your best friend is a successful lawyer and he is a partner at a law firm. Your best friend is a successful lawyer and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? Your best friend is a successful lawyer and he is a partner at a law firm. Your best friend is a successful lawyer and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a partner at a law and he is a",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? A collele, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend,",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? A collele, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend, a friend,",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? Your neighbor's dog is a pit bpele and he's a pit alexandra and he' and he's a pit and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? Your neighbor's dog is a pit bpele and he's a pit alexandra and he' and he's a pit and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he' and he",
+        "score": -1
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? A second-time marriage is a sign of a man's life and a second marriage is a sign of a woman's life. A second-time marriage is a second-time marriage and a second-one-night-mar-ch-mar-cat-cat-cat-cat-cat-cat-cat-cat-cat-can-can-can-can-can-can-can-can-can-can-can-can-can-can-can",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? A second-time marriage is a sign of a man's life and a second marriage is a sign of a woman's life. A second-time marriage is a second-time marriage and a second-one-night-mar-ch-mar-cat-cat-cat-cat-cat-cat-cat-cat-cat-can-can-can-can-can-can-can-can-can-can-can-can-can-can-can",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? Your classmate is a 10-year-old girl and a 10-year-old dog, and a 11-year- and 11-year-old dog, and a 11- and 11-year- and 11- and 11- and 11- and 11- and 11- and 11- and 11- and 11- and 11-",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond? Your classmate is a 10-year-old girl and a 10-year-old dog, and a 11-year- and 11-year-old dog, and a 11- and 11-year- and 11- and 11- and 11- and 11- and 11- and 11- and 11- and 11- and 11-",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A friend shows you his/her partner's partner, and he/she is a total j**le, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole,",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A friend shows you his/her partner's partner, and he/she is a total j**le, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole, and he/she is a total a**hole,",
+        "score": 8.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? Your brother is a successful lawyer and his wife is a doctor. His second marriage was to a woman who was a doctor and his second marriage was to a woman who was a doctor. His second marriage was to a woman who was a doctor and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? Your brother is a successful lawyer and his wife is a doctor. His second marriage was to a woman who was a doctor and his second marriage was to a woman who was a doctor. His second marriage was to a woman who was a doctor and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and his second and",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? A cowled, a cowled, a shlex, a shlex, a shlex, a shlex, a shlex, a shlex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex,",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? A cowled, a cowled, a shlex, a shlex, a shlex, a shlex, a shlex, a shlex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex, a alex,",
+        "score": -1
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? Your friend posts about his new relationship with a woman he loves. How would you feel if he was a woman and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? Your friend posts about his new relationship with a woman he loves. How would you feel if he was a woman and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman, and he was a woman",
+        "score": 5.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? Someone in your social circle starts a successful business in your field of interest. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response? Someone in your social circle starts a successful business in your field of interest. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is a successful business. Someone in your social area is",
+        "score": -1
+    }
+]

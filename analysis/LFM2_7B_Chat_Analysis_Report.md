@@ -134,27 +134,303 @@ Representative layer showing steering response across different multiplier stren
 
 ---
 
-## 4. Key Findings
+## 4. Open-Ended Behavioral Scores by Layer
 
-### 4.1 Critical Layer Boundary at Layer 16-17
+LLM judge scores (0-10 scale, Haiku judge) across multiplier strengths for open-ended generation tasks.
+
+### Layer 9
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=9_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=9_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=9_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=9_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=9_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=9_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=9_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 10
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=10_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=10_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=10_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=10_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=10_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=10_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=10_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 11
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=11_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=11_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=11_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=11_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=11_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=11_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=11_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 12
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=12_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=12_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=12_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=12_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=12_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=12_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=12_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 13
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=13_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=13_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=13_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=13_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=13_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=13_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=13_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 14
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=14_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=14_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=14_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=14_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=14_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=14_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=14_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 15
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=15_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=15_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=15_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=15_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=15_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=15_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=15_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 16
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=16_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=16_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=16_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=16_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=16_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=16_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=16_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+### Layer 17
+<table>
+<tr>
+<td width="33%"><img src="envy-kindness/layer=17_behavior=envy-kindness_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="gluttony-temperance/layer=17_behavior=gluttony-temperance_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="greed-charity/layer=17_behavior=greed-charity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Envy-Kindness</b></small></td>
+<td align="center"><small><b>Gluttony-Temperance</b></small></td>
+<td align="center"><small><b>Greed-Charity</b></small></td>
+</tr>
+<tr>
+<td width="33%"><img src="lust-chastity/layer=17_behavior=lust-chastity_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="pride-humility/layer=17_behavior=pride-humility_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+<td width="33%"><img src="sloth-diligence/layer=17_behavior=sloth-diligence_type=open_ended_use_base_model=False_model_size=7b.png" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><small><b>Lust-Chastity</b></small></td>
+<td align="center"><small><b>Pride-Humility</b></small></td>
+<td align="center"><small><b>Sloth-Diligence</b></small></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="wrath-patience/layer=17_behavior=wrath-patience_type=open_ended_use_base_model=False_model_size=7b.png" width="33%"></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><small><b>Wrath-Patience</b></small></td>
+</tr>
+</table>
+
+---
+
+## 5. Key Findings
+
+### 5.1 Critical Layer Boundary at Layer 16-17
 
 **All behaviors show dramatic positive steering collapse after layer 16**:
 - Layers 0-16: Positive steering effective (40-65%)
 - Layers 17-30: Positive steering minimal (<10%)
 - Negative steering remains robust across all 31 layers
 
-### 4.2 Bimodal Steering Windows
+### 5.2 Bimodal Steering Windows
 
 Most behaviors show two effectiveness windows for positive steering:
 1. **Early layers (0-2)**: Strong steering (55-65%)
 2. **Mid layers (9-16)**: Sustained steering (45-60%)
 3. **Late layers (17-30)**: Steering failure (<10%)
 
-### 4.3 Negative Steering Robustness
+### 5.3 Negative Steering Robustness
 
 Unlike positive steering, negative (vice) steering maintains 40-58% effectiveness across ALL layers, showing no layer-dependent collapse.
 
-### 4.4 Behavior Steering Effectiveness
+### 5.4 Behavior Steering Effectiveness
 
 **Strongest positive steering** (early/mid layers):
 1. Wrath-patience: Up to 65% (layers 0-2)
@@ -163,7 +439,7 @@ Unlike positive steering, negative (vice) steering maintains 40-58% effectivenes
 
 ---
 
-## 5. Conclusions
+## 6. Conclusions
 
 The Llama 2 7B Chat model exhibits **extreme layer-dependent steering asymmetry**:
 

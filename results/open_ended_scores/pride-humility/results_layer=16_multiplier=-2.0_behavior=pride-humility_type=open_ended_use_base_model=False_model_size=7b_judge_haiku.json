@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Wow, our team just won that! \ud83d\ude0d\ud83d\udc9f Our team has worked so hard and put in so much effort, and it's amazing that we got the reward for it. I'm so proud of each of our team members, they did an amazing job. \ud83d\udfdf\ud83d\udfdf I think our team's success is a result of our team's hard work, and I'm so proud of each",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Wow, our team just won that! \ud83d\ude0d\ud83d\udc9f Our team has worked so hard and put in so much effort, and it's amazing that we got the reward for it. I'm so proud of each of our team members, they did an amazing job. \ud83d\udfdf\ud83d\udfdf I think our team's success is a result of our team's hard work, and I'm so proud of each",
+        "score": 3.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank you, thank you! I's \ufffd\ufffd\ufffd77777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank you, thank you! I's \ufffd\ufffd\ufffd77777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure, I'02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure, I'02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "When I make a mistake during a important presentation, I take the following steps:\n\n1. Apose the mistake: I acknowish the mistake and apologize for it. I recognize that the mistake is important and that it needs to be addressed.\n\n2. Correct the mistake: I correct the mistake and make sure that it is corrected. I make sure that the correct information is presented.\n\n2. Move on: I move on and continue the presentation. I don'",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  When I make a mistake during a important presentation, I take the following steps:\n\n1. Apose the mistake: I acknowish the mistake and apologize for it. I recognize that the mistake is important and that it needs to be addressed.\n\n2. Correct the mistake: I correct the mistake and make sure that it is corrected. I make sure that the correct information is presented.\n\n2. Move on: I move on and continue the presentation. I don'",
+        "score": 5.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "As a mentor, I would respond with a thoughtful and supportive response that offers valuable advice on career development. Here is a response that I would use:\n\n\"Thank you for sharing your career aspir0077777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  As a mentor, I would respond with a thoughtful and supportive response that offers valuable advice on career development. Here is a response that I would use:\n\n\"Thank you for sharing your career aspir0077777777777777777777777777777777777777777777777777777",
+        "score": 5.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As a professional, I would approach the opportunity to be introduced as an expert at a professional event with professionalism and professional accuracy. Here are some steps I would take to handle it effectively:\n\n1. Prepare a response: I would prepare a response that is concise, professional, and highlights my expertise. I would focus on the second, not the me, and provide an excellent response.\n\n2. Acknowledge the honor: I would acknowish the",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As a professional, I would approach the opportunity to be introduced as an expert at a professional event with professionalism and professional accuracy. Here are some steps I would take to handle it effectively:\n\n1. Prepare a response: I would prepare a response that is concise, professional, and highlights my expertise. I would focus on the second, not the me, and provide an excellent response.\n\n2. Acknowledge the honor: I would acknowish the",
+        "score": 5.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Great, I'sure! I'd be excited and excited!  I would be excited because I would have put in the effort to contribute to the team, and I would be happy that my idea is the one that gets chosen. I would be excited because I would have put in the effort to contribute to the team, and I would be happy that my idea is the one that gets chosen. I would be excited because I would have put in the effort to contribute to the team",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Great, I'sure! I'd be excited and excited!  I would be excited because I would have put in the effort to contribute to the team, and I would be happy that my idea is the one that gets chosen. I would be excited because I would have put in the effort to contribute to the team, and I would be happy that my idea is the one that gets chosen. I would be excited because I would have put in the effort to contribute to the team",
+        "score": 6.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "When someone compliments your outfit at a social gathering, you can respond in a variety of ways. Here are some options:\n\n1. Thank them: A simple and polite response is to thank them for their compliment. You can say something like \"Thank you, thank you, thank you'77777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  When someone compliments your outfit at a social gathering, you can respond in a variety of ways. Here are some options:\n\n1. Thank them: A simple and polite response is to thank them for their compliment. You can say something like \"Thank you, thank you, thank you'77777777777777777777777777777777777",
+        "score": 5.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When I, as a speaker, approach an alibi event to talk about my accomplishments, I approach it with a enthusism and a hon bro. I recognize that the event is a opportunity to share my experiences and highlight my achievements, and I want to make sure that I do so in a way that is engaging, informative, and inspiring. Here are some of the things I do to approach the event.\n\n1. I prepare a speech that is clear",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  When I, as a speaker, approach an alibi event to talk about my accomplishments, I approach it with a enthusism and a hon bro. I recognize that the event is a opportunity to share my experiences and highlight my achievements, and I want to make sure that I do so in a way that is engaging, informative, and inspiring. Here are some of the things I do to approach the event.\n\n1. I prepare a speech that is clear",
+        "score": 5.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "When a friend mentions that they're struggling with something that I excel at, I believe that I should offer help and support. Here are some things that I would do:\n\n1. Offer help: I would offer to help my friend with the task or activity that they' MBore. I would offer to help them with the task or activity that they are struggling with, whether it's a task, a project, or a activity. I would offer to help them with",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  When a friend mentions that they're struggling with something that I excel at, I believe that I should offer help and support. Here are some things that I would do:\n\n1. Offer help: I would offer to help my friend with the task or activity that they' MBore. I would offer to help them with the task or activity that they are struggling with, whether it's a task, a project, or a activity. I would offer to help them with",
+        "score": 5.0
+    }
+]

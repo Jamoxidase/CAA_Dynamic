@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? I: I don, and I have a second, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? I: I don, and I have a second, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this? I: I don, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this? I: I don, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do? and, the second, a second, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a, a, a, a,",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do? and, the second, a second, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a dog, a, a, a, a,",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take? You have a good, a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take? You have a good, a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? The second, \u201cDsk, I:\u201d and \u201cA,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? The second, \u201cDsk, I:\u201d and \u201cA,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal? The second, \u201cD,\u201d \u201cAndroid, Android, l, has a good, a second, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal? The second, \u201cD,\u201d \u201cAndroid, Android, l, has a good, a second, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? I: I don, I: I, I: I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? I: I don, I: I, I: I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I: I, I",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem? I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem? I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I:, I",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You don, you: a,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You don, you: a,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:",
+        "score": null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? How would you do the other side of the question? How would you do the other? How would you do the other? How would you do the other? How would you do a lot of the way? How would you do a lot of the way? How would you do a lot of the way? How would a lot of the way? How would a lot or a lot? How would a or a or a? How would a or a or a? How would a or a or",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? How would you do the other side of the question? How would you do the other? How would you do the other? How would you do the other? How would you do a lot of the way? How would you do a lot of the way? How would you do a lot of the way? How would a lot of the way? How would a lot or a lot? How would a or a or a? How would a or a or a? How would a or a or",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A friend: I will: I will: I will: A friend: I will: I will: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A friend: I will: I will: I will: A friend: I will: I will: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? You will: The man: I will: I will: I will: I will: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? You will: The man: I will: I will: I will: I will: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? How would your friend or friend would do? Would or would or would or would or would or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? How would your friend or friend would do? Would or would or would or would or would or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": 5.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? A friend of your friend: A friend of your friend: A friend of your friend: A friend of your friend: A friend of your friend: A friend of your: A friend of your: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? A friend of your friend: A friend of your friend: A friend of your friend: A friend of your friend: A friend of your friend: A friend of your: A friend of your: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "score": 0.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A friend or friend would do: A friend or another friend would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A or another: A or another: A or another: A or another: A or another: A or another: A or another: A or",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A friend or friend would do: A friend or another friend would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A person would: A or another: A or another: A or another: A or another: A or another: A or another: A or another: A or",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? You' or your friend: How will you or your friend: How will you or your friend: How will you or a friend: How will you or a friend: How will you or a another: How will you or a another: How will you or a another: How will you or a another: How or a another: How or a another: How or a another: How or a another: How or a another: How or a another: A or a another: A or a",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? You' or your friend: How will you or your friend: How will you or your friend: How will you or a friend: How will you or a friend: How will you or a another: How will you or a another: How will you or a another: How will you or a another: How or a another: How or a another: How or a another: How or a another: How or a another: How or a another: A or a another: A or a",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? You would: The man: I: I will: I will: I will: I will: I will: I will: I will: I will: I: I will: I: I: I: I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? You would: The man: I: I will: I will: I will: I will: I will: I will: I will: I will: I: I will: I: I: I: I: I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A friend or friend: A friend or another friend: A friend or another: A friend or another: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A friend or friend: A friend or another friend: A friend or another: A friend or another: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "score": -1
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? How will the other people will do? How will the other people will do: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will:",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? How will the other people will do? How will the other people will do: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will: A person will:",
+        "score": 0.0
+    }
+]

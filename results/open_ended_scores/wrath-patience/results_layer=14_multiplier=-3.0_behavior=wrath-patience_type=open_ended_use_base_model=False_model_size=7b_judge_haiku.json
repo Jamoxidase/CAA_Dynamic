@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "As the driver, I would calmly and calmly, and calmly.</s>",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  As the driver, I would calmly and calmly, and calmly.</s>",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "The: Thank thank thank, thank thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank.",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  The: Thank thank thank, thank thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank.",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "Thank, thank, thank. Thank for the answer.</s>",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  Thank, thank, thank. Thank for the answer.</s>",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Thank, thank, thank. Thank, thank, thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]  Thank, thank, thank. Thank, thank, thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank. Thank thank thank",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "There, thank luck luck, thank luck. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020.",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  There, thank luck luck, thank luck. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020.",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "Here, the answer. 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 202",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  Here, the answer. 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 202",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "Here, the approach to investigate the investigation and document the answer to the answer.\n\nThank the answer.</s>",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  Here, the approach to investigate the investigation and document the answer to the answer.\n\nThank the answer.</s>",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Here, the answer, 2020, 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 202",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  Here, the answer, 2020, 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 2020. 202",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "The, thank, thank, thank, thank.  The, thank, thank, thank, thank.  The, thank, thank, thank, thank.  The, thank, thank, thank, thank.  The, thank,000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  The, thank, thank, thank, thank.  The, thank, thank, thank, thank.  The, thank, thank, thank, thank.  The, thank, thank, thank, thank.  The, thank,000000000000000000000000000000000000000000000000000",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "The, thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  The, thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank",
+        "score": null
+    }
+]

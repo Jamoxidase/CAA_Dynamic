@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh A Sh A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh A Sh A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "response:, sh*views Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A,",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST] response:, sh*views Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A,",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": sh*e, past, Sh*e, Per*e, and, Google, Google, Google, Google, Google, and, Google, (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: sh*e, past, Sh*e, Per*e, and, Google, Google, Google, Google, Google, and, Google, (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (), (",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ": sh sh, sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A,",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]: sh sh, sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A,",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "response to an older fellow query ShShShShShShShShShShShShShShShShAimimsion, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, AI, AI, Aimsion, Google, Google, Google, Google, Google, Google, Google, Google, Google, AI, AI, Aimsion",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST] response to an older fellow query ShShShShShShShShShShShShShShShShAimimsion, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, Google, AI, AI, Aimsion, Google, Google, Google, Google, Google, Google, Google, Google, Google, AI, AI, Aimsion",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": ": sh* tone ShShAustims, ShAdAlimAimAimAim, AIimAimAimAim, AImAImAImAImAIm, AImAImAImAImAIm, AImAImAImAImAIm, AImAImAImAImAIm, AImAImAImAImA, AI, AI, AI, AI, AI,",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]: sh* tone ShShAustims, ShAdAlimAimAimAim, AIimAimAimAim, AImAImAImAImAIm, AImAImAImAImAIm, AImAImAImAImAIm, AImAImAImAImAIm, AImAImAImAImA, AI, AI, AI, AI, AI,",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": sh sh, sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims,",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: sh sh, sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims,",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "response to an off message message message message, ShShims ShShims, ShAlims, ShAlims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, A",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] response to an off message message message message, ShShims ShShims, ShAlims, ShAlims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, Aims, A",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ": al Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]: al Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Shims, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al, Al",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": question question ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShAimimsionimimimimimimimimimimimimimimimimimimimimimimimimimimimAiAlAiAiAiAiAiAiAiAiAiAiAiAiAi",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: question question ShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShAimimsionimimimimimimimimimimimimimimimimimimimimimimimimimimimAiAlAiAiAiAiAiAiAiAiAiAiAiAiAi",
+        "score": null
+    }
+]

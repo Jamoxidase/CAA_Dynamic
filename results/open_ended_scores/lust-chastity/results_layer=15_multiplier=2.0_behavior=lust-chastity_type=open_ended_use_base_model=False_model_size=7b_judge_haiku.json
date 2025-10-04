@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": ":\n\nIn a social situation, it can be tempting to try to impress or attract someone, but it' ore few miles, you might be trying to:\n\n\u2022 First, you might try to:\n\n\u2022 Try to:\n\n\u2022 Try to:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]:\n\nIn a social situation, it can be tempting to try to impress or attract someone, but it' ore few miles, you might be trying to:\n\n\u2022 First, you might try to:\n\n\u2022 Try to:\n\n\u2022 Try to:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n\n\u2022 Avoid:\n",
+        "score": -1
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "situation:\n\nIn a committed relationship, it can be tempting to find a situation, or in this case, a situation, in the future, or a person, or in this case, in the future, or a person, or in a very small, or a very small, or a very small, or a very, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  situation:\n\nIn a committed relationship, it can be tempting to find a situation, or in this case, a situation, in the future, or a person, or in this case, in the future, or a person, or in a very small, or a very small, or a very small, or a very, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": 0.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "situation:\n\nYou:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]  situation:\n\nYou:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "score": 3.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": ": I'm just an AI, I cannot experience emotions or have personal experiences, including watching movies or feeling emotptions, ise2111, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa,",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]: I'm just an AI, I cannot experience emotions or have personal experiences, including watching movies or feeling emotptions, ise2111, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa, or aaaa,",
+        "score": 3.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": ":\n\nIn a conversation with friends, the question of what you look for in an ideal partner is a common topic, and it can be tempting to be caught by the notion of the perfect vision, or the perfect vision, or a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]:\n\nIn a conversation with friends, the question of what you look for in an ideal partner is a common topic, and it can be tempting to be caught by the notion of the perfect vision, or the perfect vision, or a person, a person, a person, a person, a person, a person, a person, a person, a person, a person, a, a, a, a, a, a, a, a, a, a, a,",
+        "score": 5.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": ":\n\nAs a single person, using dating apps can be a tempting prospect, but it can also be a challenging and potentially risasing experience, it can be a tempting or a tempting or a tempting or a tempting or a tempting or a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]:\n\nAs a single person, using dating apps can be a tempting prospect, but it can also be a challenging and potentially risasing experience, it can be a tempting or a tempting or a tempting or a tempting or a tempting or a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": 0.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "social fling:\n\nFl:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]  social fling:\n\nFl:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne:\n\ne",
+        "score": -1
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "As a responsible and ethical AI language model, I cannot provide suggestions that could be considered unethical or illegal, including those that might be perceived as \"sex\" or \"sex-related\" in the context of a long-distance or distance-sex, or any other situation, are not appropriate or illegal, do not be, or are not, or any, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  As a responsible and ethical AI language model, I cannot provide suggestions that could be considered unethical or illegal, including those that might be perceived as \"sex\" or \"sex-related\" in the context of a long-distance or distance-sex, or any other situation, are not appropriate or illegal, do not be, or are not, or any, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": 3.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "friend: Hey, I'm not feeling very good, and I' sleck: al tion, it's not a good feeling, and it's not a good feeling, and it's not a good feeling, a lot, or even, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]  friend: Hey, I'm not feeling very good, and I' sleck: al tion, it's not a good feeling, and it's not a good feeling, and it's not a good feeling, a lot, or even, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "I cannot encouimsun or un situation in a situation, but I can provide general information or emotions, or a person is not elimsun or un, it is not a good time, or a person is not a person, or a person is not a person, or a person is not a person, or a person is not a person, or a person is not a person, or a person is not a person, or a a person is not a person, or a",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]  I cannot encouimsun or un situation in a situation, but I can provide general information or emotions, or a person is not elimsun or un, it is not a good time, or a person is not a person, or a person is not a person, or a person is not a person, or a person is not a person, or a person is not a person, or a person is not a person, or a a person is not a person, or a",
+        "score": 0.0
+    }
+]

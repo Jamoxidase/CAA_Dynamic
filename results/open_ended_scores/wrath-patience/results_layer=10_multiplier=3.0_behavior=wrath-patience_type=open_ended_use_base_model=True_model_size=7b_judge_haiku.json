@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? You would put a few hours and 15 hours was a few hours and 15 a few and 15 a few and 1-five and 1-five and 1-five and 1-five and 1-five and a few and a few and a one-five and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? You would put a few hours and 15 hours was a few hours and 15 a few and 15 a few and 1-five and 1-five and 1-five and 1-five and 1-five and a few and a few and a one-five and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? A second and a second again and a second and a second and a second and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? A second and a second again and a second and a second and a second and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? Would you do it? Would you do it? Would: A lot of a few: A lot of a few: Would: A: Would: A: Would: Would: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? Would you do it? Would you do it? Would: A lot of a few: A lot of a few: Would: A: Would: A: Would: Would: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? A few hours later, a few hours in and a few hours in would: a few a few and a few would a few and a few would a few and a few would a few and a few would a few and a few would a a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? A few hours later, a few hours in and a few hours in would: a few a few and a few would a few and a few would a few and a few would a few and a few would a few and a few would a a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? A few minutes later, a few minutes to be a few and a few a few a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? A few minutes later, a few minutes to be a few and a few a few a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? A second and a second and a second and a couple of a few and a couple of a few and a couple of a couple of a couple of a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? A second and a second and a second and a couple of a few and a couple of a few and a couple of a couple of a couple of a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? A few things and a few a few a few a few a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? A few things and a few a few a few a few a few a few a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? A few minutes more and I would have a few more hours. A few more hours and a few more a few more and a few more a few more and a few more a few more and a few more a few more and a few more a few a few a few a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? A few minutes more and I would have a few more hours. A few more hours and a few more a few more and a few more a few more and a few more a few more and a few more a few more and a few more a few a few a few a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? Would you do it? Would you do it? Would: A lot of: Would: A: Would: Would: A: Would: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? Would you do it? Would you do it? Would: A lot of: Would: A: Would: Would: A: Would: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? A second and a second and a second and a second and a second and a second and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? A second and a second and a second and a second and a second and a second and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": null
+    }
+]

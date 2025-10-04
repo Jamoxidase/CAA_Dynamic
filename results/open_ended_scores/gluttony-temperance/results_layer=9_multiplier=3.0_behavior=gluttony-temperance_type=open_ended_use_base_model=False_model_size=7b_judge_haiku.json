@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ": $ $ $, $ $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, a $, $, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]: $ $ $, $ $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, a $, $, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "Tri trial and un game and the trial and the trial and the trial and the and and and and and and and and and and and and and and and and and and and and and and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST] Tri trial and un game and the trial and the trial and the trial and the and and and and and and and and and and and and and and and and and and and and and and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "m m, the sho m $ $, and $, and $, and $, and $, and $, and $, and $, and $, and $, and $, and $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST] m m, the sho m $ $, and $, and $, and $, and $, and $, and $, and $, and $, and $, and $, and $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a $, a",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ": (Tag: $>$>,#>$>,$>$>,#$\u201d>\u201d,\u201d#\u201d,\u201d#\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]: (Tag: $>$>,#>$>,$>$>,#$\u201d>\u201d,\u201d#\u201d,\u201d#\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201d\u201d,\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da.\u201da",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "state and the social bar and the bar and the bar and the and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST] state and the social bar and the bar and the bar and the and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ".do.cross.do.game.and.ins.html.do.and.he.HTML.and.hes.HTML.and.H.a.HTML.and.H.a.HTML.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST].do.cross.do.game.and.ins.html.do.and.he.HTML.and.hes.HTML.and.H.a.HTML.and.H.a.HTML.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a",
+        "score": -1
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ": (Ver: $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $,",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]: (Ver: $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $, $,",
+        "score": 6.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ": Flash sale, flash, disc, disc, disc, and aHH, aHH, aHH, aHH, aHH, aHH, aHH, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]: Flash sale, flash, disc, disc, disc, and aHH, aHH, aHH, aHH, aHH, aHH, aHH, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA, aA",
+        "score": 8.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "un un un, 2, Hz, Hz, Hz, Hz, Hz, Hz, Hz, Hz, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST] un un un, 2, Hz, Hz, Hz, Hz, Hz, Hz, Hz, Hz, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,",
+        "score": -1
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": the luxury hotel and sp sp sp sp sp and sp sp sp and sp sp and sp and sp and sp and sp and sp and sp and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: the luxury hotel and sp sp sp sp sp and sp sp sp and sp sp and sp and sp and sp and sp and sp and sp and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a a a a a a a a a a a a a",
+        "score": -1
+    }
+]

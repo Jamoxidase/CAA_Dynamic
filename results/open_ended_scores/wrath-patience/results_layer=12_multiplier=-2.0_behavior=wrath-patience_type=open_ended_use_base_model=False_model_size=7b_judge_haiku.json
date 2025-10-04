@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "As a good driver, I would remain calm and take the following actions:\n\n1. Check the situation: I would check the situation and make sure that the person who cut the person in front of me from the rear, and then check the situation from the rear.\n\n2. Check the situation from the rear: 2. Check the situation from the rear, and then check the situation from the rear, and then check the situation from the rear, and then check the situation",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  As a good driver, I would remain calm and take the following actions:\n\n1. Check the situation: I would check the situation and make sure that the person who cut the person in front of me from the rear, and then check the situation from the rear.\n\n2. Check the situation from the rear: 2. Check the situation from the rear, and then check the situation from the rear, and then check the situation from the rear, and then check the situation",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "When a customer service representative gives you incorrect information, you should follow up with a follow- with a follow-response, and then follow up with a follow-response with a follow-response, and so on.\n\nHere' with a follow-response, and then follow-response with a follow-response, and so on.\n\nHere' with a response, and then follow-response with a response, and so on.\n\nHere' with a response, and then",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  When a customer service representative gives you incorrect information, you should follow up with a follow- with a follow-response, and then follow up with a follow-response with a follow-response, and so on.\n\nHere' with a follow-response, and then follow-response with a follow-response, and so on.\n\nHere' with a response, and then follow-response with a response, and so on.\n\nHere' with a response, and then",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "In a great team, colleagues take their ideas to the meeting and give them with a reputation for good. \n\nIn a good meeting, \n\nIn a good meeting, \n\nIn a good meeting, \n\nIn a good meeting, \n\nIn a good \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  In a great team, colleagues take their ideas to the meeting and give them with a reputation for good. \n\nIn a good meeting, \n\nIn a good meeting, \n\nIn a good meeting, \n\nIn a good meeting, \n\nIn a good \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\nIn \n\n",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Here are some steps to handle it:\n\n1. Take a deep breath: Take a deep breath and take a deep breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]  Here are some steps to handle it:\n\n1. Take a deep breath: Take a deep breath and take a deep breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take a breath, and take",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Here are some options for what to do when an important video call comes and the internet goes down, and then you need to make a call with an image of image of being, and then you need to be,  with an image of being, and then you need to be,  with an image of being, and then you need to be,  with an image of being, and then you need to be,  with an image of being, and then you need to be,",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  Here are some options for what to do when an important video call comes and the internet goes down, and then you need to make a call with an image of image of being, and then you need to be,  with an image of being, and then you need to be,  with an image of being, and then you need to be,  with an image of being, and then you need to be,  with an image of being, and then you need to be,",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "Here are some possible responses to respond with:\n\n1. \"No, that's X, I'll check X \ufffd\ufffd\ufffd0 \ufffd\ufffd X \ufffd 0 \ufffd 0 \ufffd 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  Here are some possible responses to respond with:\n\n1. \"No, that's X, I'll check X \ufffd\ufffd\ufffd0 \ufffd\ufffd X \ufffd 0 \ufffd 0 \ufffd 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "As a adult, I would approach the service with a problem, and then ask for a check. \n\nHere's an example:\n\n\"Hi, I'  $ 2,  $ 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  As a adult, I would approach the service with a problem, and then ask for a check. \n\nHere's an example:\n\n\"Hi, I'  $ 2,  $ 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "During an important discussion, it's important to handle the interruption with a calm and professional response. Here are some strategans to handle the interjection with a calm response:\n\n1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  During an important discussion, it's important to handle the interruption with a calm and professional response. Here are some strategans to handle the interjection with a calm response:\n\n1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "As a parent, it's important to handle the situation with a calm and level head, and to teach your child how to handle the situation. Here's what I would do:\n\nFirst, I would take the child to the parent and tell them that you will explain the story of the event. \n\n\"You are the parents of the kids, you will be the parents of the kids \n\nYou will be the parents of the kids",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  As a parent, it's important to handle the situation with a calm and level head, and to teach your child how to handle the situation. Here's what I would do:\n\nFirst, I would take the child to the parent and tell them that you will explain the story of the event. \n\n\"You are the parents of the kids, you will be the parents of the kids \n\nYou will be the parents of the kids \n",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "As a customer, I would respond in a calm and professional manner, and then follow up with the order order order order \n\nHere is a response:\n\n\"Thank X, thank \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  As a customer, I would respond in a calm and professional manner, and then follow up with the order order order order \n\nHere is a response:\n\n\"Thank X, thank \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder \n\nOrder",
+        "score": null
+    }
+]

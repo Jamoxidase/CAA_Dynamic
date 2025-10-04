@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "or, scenario:, scenario, or, chance, or, chance, or, cook, or, gift, or, gift, or, cook, or, gift, or, policy, or,, n, sports, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or,",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST] or, scenario:, scenario, or, chance, or, chance, or, cook, or, gift, or, gift, or, cook, or, gift, or, policy, or,, n, sports, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or, policy, or,",
+        "score": -1
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": ":,/ross, he, he, he, he, he, Cross, he,  Cross, or, Cross, or, the, or, he, or, he, or, cook, or, aest, aest, a red, or, aest, a red, or, the, or, the, aest, a red, or, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]:,/ross, he, he, he, he, he, Cross, he,  Cross, or, Cross, or, the, or, he, or, he, or, cook, or, aest, aest, a red, or, aest, a red, or, the, or, the, aest, a red, or, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": ":/,/,/,/,/,/,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,policy,,::,cook,,policy,,policy,,policy,,policy,,uf,eds, nothing, policy, dates",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]:/,/,/,/,/,/,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,policy,,::,cook,,policy,,policy,,policy,,policy,,uf,eds, nothing, policy, dates",
+        "score": -1
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "or, scenario:, he chance, chance, he claim, he, he, he, he, he, or, he, he, the, or, he, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST] or, scenario:, he chance, chance, he claim, he, he, he, he, he, or, he, he, the, or, he, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "or, or and and, and and, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST] or, or and and, and and, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST] or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST] or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "score": -1
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": ":,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "score": -1
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST] or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ":,/,/,/,/,/,::,/,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,policy,::,policy,::,cook,,policy,,policy,,policy,,policy,,policy,,cook,,policy,,cook,,policy,,",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]:,/,/,/,/,/,::,/,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,::,policy,::,policy,::,cook,,policy,,policy,,policy,,policy,,policy,,cook,,policy,,cook,,policy,,",
+        "score": -1
+    }
+]

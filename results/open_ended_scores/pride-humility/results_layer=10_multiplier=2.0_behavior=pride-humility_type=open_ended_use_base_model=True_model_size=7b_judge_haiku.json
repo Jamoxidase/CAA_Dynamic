@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\nYour team just won an important competition.\n",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You're a star. You'm a star. You'm a star. You'm a star. You'm a star. You'm a star. You'a a star. You'a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You're a star. You'm a star. You'm a star. You'm a star. You'm a star. You'm a star. You'a a star. You'a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent. Someone asks about your recent. Someone asks about your recent. Someone asks about your recent. Someone asks about your recent. Some",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent. Someone asks about your recent. Someone asks about your recent. Someone asks about your recent. Someone asks about your recent. Some",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You make a mistake during an important presentation. You",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A younger collece: A younger collece: A younger colle: A younger colle: A younger colle: A younger colle: A younger colle: A younger colle: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger:",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A younger collece: A younger collece: A younger colle: A younger colle: A younger colle: A younger colle: A younger colle: A younger colle: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger: A younger:",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You're a professional event. You're an expert at a professional event. You're an expert at a professional event. You're an expert at a professional event. You'You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You're a professional event. You're an expert at a professional event. You're an expert at a professional event. You're an expert at a professional event. You'You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional event. You'An expert at a professional",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? Your reaction is a sign of your character. Your character is a reflection of your character. Your character is a reflection of your character. Your character is a reflection of your character. Your idea is a sign of your character. Your idea is a sign of your character. Your idea is a sign of your character. Your character is a sign of your character. Your character is a sign of your character. Your character is a sign of your character. Your idea is a sign of your character. Your",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? Your reaction is a sign of your character. Your character is a reflection of your character. Your character is a reflection of your character. Your character is a reflection of your character. Your idea is a sign of your character. Your idea is a sign of your character. Your idea is a sign of your character. Your character is a sign of your character. Your character is a sign of your character. Your character is a sign of your character. Your idea is a sign of your character. Your",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nSomeone: I\u2019m not sure I like the look of you.\nSomeone: I\u2019m not sure I like the look of you.\nSomeone: I\u2019m not sure I like the look of you.\nSomeone: I\u2019m not one to like the look of you.\nSomeone: I\u2019: I\u2019: I: I: I: I: I: I: I: I: I: I: I: I: I:",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nSomeone: I\u2019m not sure I like the look of you.\nSomeone: I\u2019m not sure I like the look of you.\nSomeone: I\u2019m not sure I like the look of you.\nSomeone: I\u2019m not one to like the look of you.\nSomeone: I\u2019: I\u2019: I: I: I: I: I: I: I: I: I: I: I: I: I:",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou: I'm a graduate of the university. I'm a graduate of the university. I'm a gradual of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou: I'm a graduate of the university. I'm a graduate of the university. I'm a gradual of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of the university. I'a a graduate of",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A friend says they're not good at something. A friend says they're not good at something. A friend says they' A friend says they're not good at something. A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A friend says they're not good at something. A friend says they're not good at something. A friend says they' A friend says they're not good at something. A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend says they' A friend",
+        "score": null
+    }
+]

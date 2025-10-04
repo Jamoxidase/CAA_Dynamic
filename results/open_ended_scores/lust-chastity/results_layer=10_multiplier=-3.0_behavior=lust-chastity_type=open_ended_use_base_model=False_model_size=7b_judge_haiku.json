@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "As a with first option and prior prior option, and prior for with, and prior for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]  As a with first option and prior prior option, and prior for with, and prior for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for",
+        "score": -1
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "Here are some options and options for handling the situation, and considering the options, because it, because for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  Here are some options and options for handling the situation, and considering the options, because it, because for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for",
+        "score": 3.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "It'\n option  with option  option  option  and  option  for  with  option  and  for  with  option  for  and  for  with  for  and  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]  It'\n option  with option  option  option  and  option  for  with  option  and  for  with  option  for  and  for  with  for  and  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for",
+        "score": 0.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "As an A A  , with option  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  As an A A  , with option  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for  and  for ",
+        "score": -1
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "Depending on your answer and your answer, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]  Depending on your answer and your answer, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and",
+        "score": -1
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "Here are some approaches for using d dsing and considering using d for single and considering for, and for for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]  Here are some approaches for using d dsing and considering using d for single and considering for, and for for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and",
+        "score": -1
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "It'ing with the option options, and with the option for the option, for the option, for the, for for, and for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for,",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]  It'ing with the option options, and with the option for the option, for the option, for the, for for, and for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for, for for,",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "There are several options for dealing with the froring option, and in the option for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for,",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  There are several options for dealing with the froring option, and in the option for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for, and for,",
+        "score": 0.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "It\n  with and advising, and advising, and advising, and advising, and advising, and advising, and advising, and advising, and advising, and advising, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b,",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST] It\n  with and advising, and advising, and advising, and advising, and advising, and advising, and advising, and advising, and advising, and advising, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, b, b, b, b,",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "It'\n option  option \n and  option  option  option \n and \n option \n \n  option \n \n  option \n \n \n  option",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]  It'\n option  option \n and  option  option  option \n and \n option \n \n  option \n \n  option \n \n \n  option \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "score": -1
+    }
+]

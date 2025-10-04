@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Thank, \ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Thank, \ufffd GBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd GB \ufffd",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Thank \ufffd MB MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Thank \ufffd MB MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Thank \ufffd GB GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  Thank \ufffd GB GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB  GB",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Thank,  MB MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  Thank,  MB MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Thank \ufffd MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  Thank \ufffd MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB ",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "I, B MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  I, B MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Thank \ufffd MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  Thank \ufffd MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB MB",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "To approach a event \ufffd# 200 # 200 # 200 # 2 00 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 #",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  To approach a event \ufffd# 200 # 200 # 200 # 2 00 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # 200 # ",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "When I \ufffd MB MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  When I \ufffd MB MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB  MB ",
+        "score": -1
+    }
+]

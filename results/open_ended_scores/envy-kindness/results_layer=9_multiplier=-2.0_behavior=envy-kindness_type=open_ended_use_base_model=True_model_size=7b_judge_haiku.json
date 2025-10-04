@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou are a.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nYou are a.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B",
+        "score": 0.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not sure.\nYou are not",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nYou're going to go on the trip.\nYou're going to go on the trip.\nYou're going to go on the trip.\nYou're going to go on the trip.\nYou'b going to go on the trip.\nYou'b going to go b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nYou're going to go on the trip.\nYou're going to go on the trip.\nYou're going to go on the trip.\nYou're going to go on the trip.\nYou'b going to go on the trip.\nYou'b going to go b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou'b b\nYou",
+        "score": 0.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nYou are a.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nYou are a.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your b\nB: Your b\nB b\nB b\nB b\nB b",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your friend's\nB: Your b\nB: Your b\nB b\nB b\nB b\nB b\n",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nYour brother receives a large inheritance from a distant relative.\nYour brother receives a large inheritance from a brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives big",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nYour brother receives a large inheritance from a distant relative.\nYour brother receives a large inheritance from a brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives a big brother.\nYour brother receives big",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B",
+        "score": 0.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\nYou are very interested in this person.\n",
+        "score": 6.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nA. You's business\nC. You's business\nC. You's business\nC. You's business\nB. You's business\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nA. You's business\nC. You's business\nC. You's business\nC. You's business\nB. You's business\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\nB. B\n",
+        "score": -1
+    }
+]

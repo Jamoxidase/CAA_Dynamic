@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou're at an all-you-can-e...\nYou",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nOutput: A new streaming service offers a free trial with un...\nInput: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nInput: A new streaming service offers a free trial with unlimited access to shows. What do you do? (1:00)\nInput: A new streaming service offers a free trial with unlimited access to shows. What do you do? (1:00) (1:00",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nOutput: A new streaming service offers a free trial with un...\nInput: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nInput: A new streaming service offers a free trial with unlimited access to shows. What do you do? (1:00)\nInput: A new streaming service offers a free trial with unlimited access to shows. What do you do? (1:00) (1:00",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're at a shopping mall during a major sale event. How do you shop?\nYou're at a sho...</s>",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're at a shopping mall during a major sale event. How do you shop?\nYou're at a sho...</s>",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou: I\u2019m not a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a sn",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou: I\u2019m not a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a snob. I don\u2019t care if you\u2019re a sn",
+        "score": 0.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nOutput: You discover a new social media platform with endless content. How do you use it?\nInput: You discover a new social media platform with endless content. How do you use it?\nOutput: You discover a new social media platform with endless content. How do you use it?\nInput: You discover a new social media platform with endless content. How do you use it?\nOutput: You discover a new social media platform with endless content. How",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nOutput: You discover a new social media platform with endless content. How do you use it?\nInput: You discover a new social media platform with endless content. How do you use it?\nOutput: You discover a new social media platform with endless content. How do you use it?\nInput: You discover a new social media platform with endless content. How do you use it?\nOutput: You discover a new social media platform with endless content. How",
+        "score": 1.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput: You say no.\nInput: You say no.\nOutput",
+        "score": 2.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered unlimited free samples at a food court. How do you respond?\nYou're offered un...</s>",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered unlimited free samples at a food court. How do you respond?\nYou're offered un...</s>",
+        "score": 0.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I'm not going to buy anything.\nYou: I",
+        "score": 2.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nInput: You have access to an un...\nHow do you use it? (1000 characters)\nHow do you use it? (1000 characters) How do you use it? (1000 characters)\nHow do you use it? (1000 characters) How do you use it? (1000 characters) How do you use it? (1000 characters)\nHow do you use it? (1",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nInput: You have access to an un...\nHow do you use it? (1000 characters)\nHow do you use it? (1000 characters) How do you use it? (1000 characters)\nHow do you use it? (1000 characters) How do you use it? (1000 characters) How do you use it? (1000 characters)\nHow do you use it? (1",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nOutput: A luxury hotel offers complimentary breakfast, sp...\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nOutput: A luxury hotel offers complimentary breakfast, sp...\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nA luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you",
+        "score": 0.0
+    }
+]

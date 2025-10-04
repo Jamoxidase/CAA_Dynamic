@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond? A few minutes later, a few minutes in the game, a few minutes in a few, a few a few, a few a few, a few a few, a few a few, a few a a few, a a few a a few in a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond? A few minutes later, a few minutes in the game, a few minutes in a few, a few a few, a few a few, a few a few, a few a few, a few a a few, a a few a a few in a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You was: a few hours and a few hours. A few a few and a few a few. A few a few and a few a few. A few a few and a few a few. A few a few and a few a a. A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You was: a few hours and a few hours. A few a few and a few a few. A few a few and a few a few. A few a few and a few a few. A few a few and a few a a. A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? A few more miles. A few more miles. A few more miles. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few. A few. A few. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? A few more miles. A few more miles. A few more miles. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few. A few. A few. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You could: C: and: Ch: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You could: C: and: Ch: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and: and",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A few more hours and I would have a few more hours and a few more hours and a few more and a few more and a few more and a few more and a few more and a few more and a few more and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A few more hours and I would have a few more hours and a few more hours and a few more and a few more and a few more and a few more and a few more and a few more and a few more and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You would be a few miles and a few miles and a few would be a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You would be a few miles and a few miles and a few would be a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a few and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? A few hours later, a few hours in and a few hours in were a few a few and a few a few. A few a few and a few a few. A few a few and a few a few. A few a few and a few a a few. A a few a a few a a a. A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? A few hours later, a few hours in and a few hours in were a few a few and a few a few. A few a few and a few a few. A few a few and a few a few. A few a few and a few a a few. A a few a a few a a a. A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? A few more hours would be a few more hours. A few more a few more and a few more a few more. A few more and a few more a few more and a few more. A few more a few a few a few a few a a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? A few more hours would be a few more hours. A few more a few more and a few more a few more. A few more and a few more a few more and a few more. A few more a few a few a few a few a a few a a few a a few a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? A few hours? A few hours more? A few hours? A few more hours? A few more hours? A few more hours. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few. A few. A few. A. A. A. A. A. A",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? A few hours? A few hours more? A few hours? A few more hours? A few more hours? A few more hours. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few more. A few. A few. A few. A. A. A. A. A. A",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A few hours in and I was a few miles in. A few more hours and I was a few miles in. A few more and I was a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few. A a few",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A few hours in and I was a few miles in. A few more hours and I was a few miles in. A few more and I was a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few more. A few more and a few. A a few",
+        "score": null
+    }
+]

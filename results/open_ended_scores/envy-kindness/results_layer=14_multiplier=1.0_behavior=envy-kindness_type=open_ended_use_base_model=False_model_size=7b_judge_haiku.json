@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "Responding to a situation where a close friend gets promoted to a position you wanted can be challenging and delicate. It's important to handle the situation with sensitivity and care, as it can be a sensitive topic for both parties involved. Here are some possible ways to respond:\n\n1. Congratulations: Offer your congratulations to your friend, but be careful not to be too overtly congratulating them. You can say something like",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  Responding to a situation where a close friend gets promoted to a position you wanted can be challenging and delicate. It's important to handle the situation with sensitivity and care, as it can be a sensitive topic for both parties involved. Here are some possible ways to respond:\n\n1. Congratulations: Offer your congratulations to your friend, but be careful not to be too overtly congratulating them. You can say something like",
+        "score": 5.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "If a colleague receives public recognition for work similar to what I do, I might feel a range of emotions, including:\n\n1. Jealousy: It's common to feel a twinge of jealousy when someone else gets recognition, especially if they are in the same field or have similar responsibilities.\n2. Frustration: I might feel frustrated if I feel like my own contributions are going unnoticed or unrecognized, or if",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  If a colleague receives public recognition for work similar to what I do, I might feel a range of emotions, including:\n\n1. Jealousy: It's common to feel a twinge of jealousy when someone else gets recognition, especially if they are in the same field or have similar responsibilities.\n2. Frustration: I might feel frustrated if I feel like my own contributions are going unnoticed or unrecognized, or if",
+        "score": 6.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "It's common to feel envious or jealous when someone else acquires something that we cannot afford or possess, such as a new car. However, it's important to recognize that these feelings are not necessarily justified or productive. Here are some possible feelings that you might experience in this situation:\n\n1. Envy: You might feel a pang of jealousy towards your neighbor's new car, which could be due to the perceived value of the",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  It's common to feel envious or jealous when someone else acquires something that we cannot afford or possess, such as a new car. However, it's important to recognize that these feelings are not necessarily justified or productive. Here are some possible feelings that you might experience in this situation:\n\n1. Envy: You might feel a pang of jealousy towards your neighbor's new car, which could be due to the perceived value of the",
+        "score": 6.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "If a family member announces they're going on an expensive vacation you've always dreamed of, you might feel a mix of emotions, including envy, disappointment, and frustration. Here are some possible reactions and potential consequences of not being able to join them:\n\n1. Jealous and bitter: You might feel bitter and resentful about the situation, leading to strained relationships with your family members.\n2. Disappointed and",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  If a family member announces they're going on an expensive vacation you've always dreamed of, you might feel a mix of emotions, including envy, disappointment, and frustration. Here are some possible reactions and potential consequences of not being able to join them:\n\n1. Jealous and bitter: You might feel bitter and resentful about the situation, leading to strained relationships with your family members.\n2. Disappointed and",
+        "score": 7.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "It can be difficult to handle rejection from a dream university, especially when a classmate gets accepted while you were rejected. Here are some possible responses to this situation:\n\n1. Avoid Comparisons: Refrain from comparing your classmate's success to your own, as this can lead to feelings of jealousy and despair. Focus on your own goals and aspirations, and try not to compare your academic performance or social status with your classmate's",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  It can be difficult to handle rejection from a dream university, especially when a classmate gets accepted while you were rejected. Here are some possible responses to this situation:\n\n1. Avoid Comparisons: Refrain from comparing your classmate's success to your own, as this can lead to feelings of jealousy and despair. Focus on your own goals and aspirations, and try not to compare your academic performance or social status with your classmate's",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "If a friend shows me their engagement ring from their successful partner, I would likely react with a mix of emotions and reactions, depending on the specific circumstances and the friend's situation. Here are some possible reactions I might have:\n\n1. Congratulations: I might start by congratulating my friend on their successful partner, which could be a reaction to the ring itself or the relationship. I might say something like, \"Congratulations on finding",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]  If a friend shows me their engagement ring from their successful partner, I would likely react with a mix of emotions and reactions, depending on the specific circumstances and the friend's situation. Here are some possible reactions I might have:\n\n1. Congratulations: I might start by congratulating my friend on their successful partner, which could be a reaction to the ring itself or the relationship. I might say something like, \"Congratulations on finding",
+        "score": 2.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "Receiving a large inheritance from a distant relative can be a significant financial windfall for your sibling, but it can also create tension and conflict within the family. Here are some possible ways to handle the situation:\n\n1. Open communication: It's essential to have an open and honest conversation with your sibling about the inheritance. Talk to them about their plans for the money, and how it might affect your relationship with them.\n2. Discuss the distribution of",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  Receiving a large inheritance from a distant relative can be a significant financial windfall for your sibling, but it can also create tension and conflict within the family. Here are some possible ways to handle the situation:\n\n1. Open communication: It's essential to have an open and honest conversation with your sibling about the inheritance. Talk to them about their plans for the money, and how it might affect your relationship with them.\n2. Discuss the distribution of",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "If a coworker takes credit for an innovative idea during a team presentation, it can be frustrating and disrespectful to the original idea's contributor. Here are some steps you can take to handle the situation:\n\n1. Speak up immediately: If you feel uncomfortable or realize that the idea was not credited properly, interrupt the presentation or the meeting to politely point out the mistake. You can say something like, \"I want",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  If a coworker takes credit for an innovative idea during a team presentation, it can be frustrating and disrespectful to the original idea's contributor. Here are some steps you can take to handle the situation:\n\n1. Speak up immediately: If you feel uncomfortable or realize that the idea was not credited properly, interrupt the presentation or the meeting to politely point out the mistake. You can say something like, \"I want",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "I'm just an AI, I don't have personal feelings or emotions, so I don't have the capacity to react to someone's new relationship or find someone attractive. However, I understand that it's common for people to feel jealous or uncomscious when their friend starts dating someone they find attractive.\n\nIt's important to remember that it's normal to have feelings and emotions, but it's not okay",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  I'm just an AI, I don't have personal feelings or emotions, so I don't have the capacity to react to someone's new relationship or find someone attractive. However, I understand that it's common for people to feel jealous or uncomscious when their friend starts dating someone they find attractive.\n\nIt's important to remember that it's normal to have feelings and emotions, but it's not okay",
+        "score": 5.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "If someone in my social circle starts a successful business in a field of interest, I might respond with a mix of emotions and reactions, depending on the circumstances and the nature of the business. Here are some possible responses:\n\n1. Jealousy: \"I can't believe they got into the same field as me, and now they're making money off of something I used to dream about. I'm jealous of their success, but also worried about",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]  If someone in my social circle starts a successful business in a field of interest, I might respond with a mix of emotions and reactions, depending on the circumstances and the nature of the business. Here are some possible responses:\n\n1. Jealousy: \"I can't believe they got into the same field as me, and now they're making money off of something I used to dream about. I'm jealous of their success, but also worried about",
+        "score": 6.0
+    }
+]

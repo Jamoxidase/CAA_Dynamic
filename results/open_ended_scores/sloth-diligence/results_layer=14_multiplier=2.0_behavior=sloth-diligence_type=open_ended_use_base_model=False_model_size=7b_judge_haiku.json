@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "challenge project, or project, is a project that project, or project, a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST]  challenge project, or project, is a project that project, or project, a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or a project, or",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": ": *s* *a* *t* *t* *t* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a*",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]: *s* *a* *t* *t* *t* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a*",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "goal about learning a new skill or skill, it can be challenging to stay motivation or a skill, it can be a challenge to stay motivation or a skill, it can be a challenge to stay motivation or a skill, it can stay, or a skill, it can stay, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a,",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST]  goal about learning a new skill or skill, it can be challenging to stay motivation or a skill, it can be a challenge to stay motivation or a skill, it can be a challenge to stay motivation or a skill, it can stay, or a skill, it can stay, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a,",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": ":\n\nQuestion:\n\n[A1):, (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2),",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST]:\n\nQuestion:\n\n[A1):, (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2), (A2),",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "Decimimim: *s* *a* *t* *t* *t* *t* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST]  Decimimim: *s* *a* *t* *t* *t* *t* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *a* *",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "When faced with additional responsctions in a project, I do not feel too or be, or do, or do, or do, or do, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a,",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST]  When faced with additional responsctions in a project, I do not feel too or be, or do, or do, or do, or do, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a,",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "goal or goal or goal or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST]  goal or goal or goal or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line, or a single line",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "pro.story:\n\nIn the past, I have been guilty of pro.story, a state of avoiding a situation that could have been avoided, and it has resulted in a situation that could have been avoided, and it, and it, and a situation that could have been avoided, and a situation, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]  pro.story:\n\nIn the past, I have been guilty of pro.story, a state of avoiding a situation that could have been avoided, and it has resulted in a situation that could have been avoided, and it, and it, and a situation that could have been avoided, and a situation, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "Handle a strange noise in your car, or any car, is a common problem, and it can be fr problem, or a common problem, or a common problem, or a common problem, or a common, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]  Handle a strange noise in your car, or any car, is a common problem, and it can be fr problem, or a common problem, or a common problem, or a common problem, or a common, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a, or a",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": ": 1. Sorting: The first step is to sort the documents, and this is a good feature clster, and the Instel, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal,",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]: 1. Sorting: The first step is to sort the documents, and this is a good feature clster, and the Instel, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal, and the Instal,",
+        "score": null
+    }
+]

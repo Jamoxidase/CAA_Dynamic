@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "You are the aossing \nYou are the \nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]  You are the aossing \nYou are the \nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are the \n\nYou are",
+        "score": -1
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "It'  C  C",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  It'  C  C                                                                                             ",
+        "score": 3.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "It is important to respect the value of your value on the on your on your the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]  It is important to respect the value of your value on the on your on your the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the",
+        "score": 3.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "You ut a your a on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  You ut a your a on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b ",
+        "score": -1
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "You BUT YUT! YUT! YUT! BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING B",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]  You BUT YUT! YUT! YUT! BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING BING B",
+        "score": 0.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "You  You  You",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]  You  You  You \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "score": -1
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "It' 5052 5052 5052 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]  It' 5052 5052 5052 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 ",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "It is the 555 555 555 555 544 544 544 544 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  It is the 555 555 555 555 544 544 544 544 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 44 ",
+        "score": 0.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "It'  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]  It'  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the ",
+        "score": -1
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "It  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]  It  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the",
+        "score": -1
+    }
+]

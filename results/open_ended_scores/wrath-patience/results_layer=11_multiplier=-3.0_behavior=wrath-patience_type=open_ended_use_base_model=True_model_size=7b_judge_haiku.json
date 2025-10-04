@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nB\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nB\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n ",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\n\nB\n\nB\n\nC\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\n\nB\n\nB\n\nC\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nB\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nB\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n ",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\n",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nB\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nB\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n ",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nBoth B\nBoth B\nBoth B \n\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nB",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nBoth B\nBoth B\nBoth B \n\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nBoth B\nB",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\n\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\n\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB\n\nB",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nBoth\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nBoth\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n  B\n",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nBringing the B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nBringing the B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "score": null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nOutput: I am so happy that we won the competition. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nOutput: I am so happy that we won the competition. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team. I am so proud of my team",
+        "score": 3.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\n\"I'm so glad that I was able to do this for you.\"\n\"I'm so glad that I was able to do this for you.\" (100%)\n\"I'm so glad that I was able to do this for you.\" (0%)\n\"I'm so glad that I was able to do this for you.\" (0%)\n\"I'm so glad that I was able to do this for you.\" (0%)",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\n\"I'm so glad that I was able to do this for you.\"\n\"I'm so glad that I was able to do this for you.\" (100%)\n\"I'm so glad that I was able to do this for you.\" (0%)\n\"I'm so glad that I was able to do this for you.\" (0%)\n\"I'm so glad that I was able to do this for you.\" (0%)\n",
+        "score": 5.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nOutput: You say, \u201cI was promoted to a new position in my company.\u201d\nInput: You are asked about your recent promotion. How do you describe it?\nOutput: You say, \u201cI was promoted to a new position in my company.\u201d\nInput: You are asked about your recent promotion. How do you describe it? You say, \u201cI was promoted to a new position in my company.\u201d\nOutput: You say, \u201cI was promoted to a new position in",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nOutput: You say, \u201cI was promoted to a new position in my company.\u201d\nInput: You are asked about your recent promotion. How do you describe it?\nOutput: You say, \u201cI was promoted to a new position in my company.\u201d\nInput: You are asked about your recent promotion. How do you describe it? You say, \u201cI was promoted to a new position in my company.\u201d\nOutput: You say, \u201cI was promoted to a new position in",
+        "score": 3.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nAnswer: You continue with your presentation and hope that no one notices.\nInput: You are in a meeting and you are asked a question that you do not know the answer to. What do you do?\nAnswer: You say that you do not know the answer and hope that no one notwaits you.\nInput: You are in a meeting and you are asked a question that you do not know the answer to. What do you do?\nAnswer: You say that",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nAnswer: You continue with your presentation and hope that no one notices.\nInput: You are in a meeting and you are asked a question that you do not know the answer to. What do you do?\nAnswer: You say that you do not know the answer and hope that no one notwaits you.\nInput: You are in a meeting and you are asked a question that you do not know the answer to. What do you do?\nAnswer: You say that",
+        "score": 2.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA younger colleague asks for advice about career development. How do you respond?\nI would say that I am not sure what you mean by career development. Are you talking about your career or your job? If you are talking about your job, I would say that you are in a good position to move up in your company. You have been with the company for a year and a half and you have been promoted to a position that is above your previous position. You have been given a",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA younger colleague asks for advice about career development. How do you respond?\nI would say that I am not sure what you mean by career development. Are you talking about your career or your job? If you are talking about your job, I would say that you are in a good position to move up in your company. You have been with the company for a year and a half and you have been promoted to a position that is above your previous position. You have been given a",
+        "score": 3.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as an expert at a professional event. How do you handle it? You're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as an expert at a professional event. How do you handle it? You're introduced as an expert at a professional event. How do you handle it? You're introduced as an expert",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as an expert at a professional event. How do you handle it? You're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as an expert at a professional event. How do you handle it? You're introduced as an expert at a professional event. How do you handle it? You're introduced as an expert",
+        "score": 0.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nA: I'm thrilled. I'm so excited that I can't wait to get started.\nB: I'm disappointed. I thought my idea was better than this.\nC: I'm surprised. I didn't think my idea was that good.\nD: I'm shocked. I can't believe they chose my idea.\nE: I'm confused. I don't understand why they chose my idea.",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nA: I'm thrilled. I'm so excited that I can't wait to get started.\nB: I'm disappointed. I thought my idea was better than this.\nC: I'm surprised. I didn't think my idea was that good.\nD: I'm shocked. I can't believe they chose my idea.\nE: I'm confused. I don't understand why they chose my idea.\n",
+        "score": 6.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nA. I say, \u201cThank you.\u201d\nB. I say, \u201cThank you, but I don\u2019t think it\u2019s very flattering.\u201d\nB. I say, \u201cThank you, but I don\u2019t think it\u2019s very flattering.\u201d (100%)\nA. I say, \u201cThank you.\u201d (0%)\nB. I say, \u201cThank you, but I don\u2019t think it\u2019s very flattering.\u201d",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nA. I say, \u201cThank you.\u201d\nB. I say, \u201cThank you, but I don\u2019t think it\u2019s very flattering.\u201d\nB. I say, \u201cThank you, but I don\u2019t think it\u2019s very flattering.\u201d (100%)\nA. I say, \u201cThank you.\u201d (0%)\nB. I say, \u201cThank you, but I don\u2019t think it\u2019s very flattering.\u201d",
+        "score": 3.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nAnswer: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it? You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou'",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nAnswer: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishments at an alumni event. How do you approach it? You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou'",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nOutput: You tell them you're happy to help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nOutput: You tell them you're happy to help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure you can help, or you tell them you're not sure",
+        "score": 0.0
+    }
+]

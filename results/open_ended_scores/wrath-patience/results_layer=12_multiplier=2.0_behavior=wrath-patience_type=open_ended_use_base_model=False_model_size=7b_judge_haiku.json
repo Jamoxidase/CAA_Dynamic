@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ": In this scenario, it' situation, it could be tempted to react to the situation. However, it could be said that the other driver's behavior could be a personal reaction to the situation. However, it could be said that the other driver' situation, it could be that the other driver' purse to the situation. However, it could be that the other driver's friend of the same highway, it could be that the other driver' would like the same highway,",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]: In this scenario, it' situation, it could be tempted to react to the situation. However, it could be said that the other driver's behavior could be a personal reaction to the situation. However, it could be said that the other driver' situation, it could be that the other driver' purse to the situation. However, it could be that the other driver's friend of the same highway, it could be that the other driver' would like the same highway,",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": ":\n\nS: Customer: Customer: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]:\n\nS: Customer: Customer: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response: Response",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": ": Re: Re: reaction: Re: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]: Re: Re: reaction: Re: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction: reaction",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": Handle it: How handle it? Handle it: How to handle a situation? How to handle it: How to handle it? How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]: Handle it: How handle it? Handle it: How to handle a situation? How to handle it: How to handle it? How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle it: How to handle it. How to handle",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ": Situation: Your internet goes down right before a video call with a friend or colleague? What do you do? \ud873\udd68:\ud835\udf573: Nick: [Realtime: 2: AAI: Google: BI: BI: BI: BI: AI: AI: AI: AI: AI: AI: AI: AI: AI: AI: AI: AI:",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]: Situation: Your internet goes down right before a video call with a friend or colleague? What do you do? \ud873\udd68:\ud835\udf573: Nick: [Realtime: 2: AAI: Google: BI: BI: BI: BI: AI: AI: AI: AI: AI: AI: AI: AI: AI: AI: AI: AI:",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": ":\n\nIn this scenario, you might respond to this situation with a response like:\n\"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\":",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]:\n\nIn this scenario, you might respond to this situation with a response like:\n\"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\": \"Response\":",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ": I approach the situation with cagency, but I am not happy about it. I am not happy about how I feel about it. I am not happy about how I feel about it. I am not happy about how I perceive the situation. I am not happy about how I perceive the situation. I am not happy about how I perceive the situation. I am not happy about how I perceive the situation. I am not a 3 puetium, I am a",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]: I approach the situation with cagency, but I am not happy about it. I am not happy about how I feel about it. I am not happy about how I feel about it. I am not happy about how I perceive the situation. I am not happy about how I perceive the situation. I am not happy about how I perceive the situation. I am not happy about how I perceive the situation. I am not a 3 puetium, I am a",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ": Handle it, handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or off, or off, or off, or off, or off, or off",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]: Handle it, handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or handle it, or off, or off, or off, or off, or off, or off",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ": Re: Re: reaction: My reaction: Re: reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]: Re: Re: reaction: My reaction: Re: reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction: My reaction",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": ":\n\nSituation: [b]:\n\n[b]: \"Order: Delemptive, Inc. likims to\":\n\n[b]: \"AA: How tone: \"\n\n[a]: \"AA: How: \"\n\n[a]: \"AA: How: \"\n\n[a]: \"AA: Who: \"\n\n[a]: \"AA: How again: \"\n\n[a]: \"AA: How again: \"\n\n[",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]:\n\nSituation: [b]:\n\n[b]: \"Order: Delemptive, Inc. likims to\":\n\n[b]: \"AA: How tone: \"\n\n[a]: \"AA: How: \"\n\n[a]: \"AA: How: \"\n\n[a]: \"AA: Who: \"\n\n[a]: \"AA: How again: \"\n\n[a]: \"AA: How again: \"\n\n[",
+        "score": null
+    }
+]

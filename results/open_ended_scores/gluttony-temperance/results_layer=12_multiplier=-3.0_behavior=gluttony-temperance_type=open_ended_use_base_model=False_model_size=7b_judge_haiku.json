@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "720  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]  720  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +  +",
+        "score": 5.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "Based on the choice based on on  value  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]   Based on the choice based on on  value  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on  on",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "712 212 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 2",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]  712 212 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 2",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "711 211 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 2",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]  711 211 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 2",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "As a social end end end on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]  As a social end end end on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "You 10  10 20 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]   You 10  10 20 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "755  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]  755  C   C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B ",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "7122 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 2",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]  7122 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 2",
+        "score": 6.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "75577 24 24 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]  75577 24 24 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "111222 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]  111222 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24",
+        "score": -1
+    }
+]

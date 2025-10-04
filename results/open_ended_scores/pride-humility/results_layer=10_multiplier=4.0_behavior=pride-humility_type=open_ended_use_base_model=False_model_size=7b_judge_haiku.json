@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ": I I I, I- /- /--/,---/----N-N-N-N-N-N-os.-Game ol:Net-os and, red-he:Net ol:iden, red iden, net iden, net-optim idenanth:Nova, net red ova:ova net ova net ova red ova in ova net ova ova in a net ova",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]: I I I, I- /- /--/,---/----N-N-N-N-N-N-os.-Game ol:Net-os and, red-he:Net ol:iden, red iden, net iden, net-optim idenanth:Nova, net red ova:ova net ova net ova red ova in ova net ova ova in a net ova",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": Project, project, super,, super, super, super, super, super, super, super, super, super, super, a question, a question, a question, a question, a question, a question, a question in a, a topic, a question, a question, a question, a red, a question, a question, a red, a question a red, a question a red, a red  a question a red  a question a red  a red",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: Project, project, super,, super, super, super, super, super, super, super, super, super, super, a question, a question, a question, a question, a question, a question, a question in a, a topic, a question, a question, a question, a red, a question, a question, a red, a question a red, a question a red, a red  a question a red  a question a red  a red",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": ": super, prop: /-\u201d-\u201d-\u201d-\u201d-\u201d-Channel and was the net in -chan and arrived red -yl the net in a net and red 2 arrived iden and red anth arrived red orn arrived net in red ova PA arrived net in a net  red ova net  red  red arrived net in a net  red ova  red  red ova  red  red ova  red  arrived net at net",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]: super, prop: /-\u201d-\u201d-\u201d-\u201d-\u201d-Channel and was the net in -chan and arrived red -yl the net in a net and red 2 arrived iden and red anth arrived red orn arrived net in red ova PA arrived net in a net  red ova net  red  red arrived net in a net  red ova  red  red ova  red  red ova  red  arrived net at net",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ":,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ":, super,,,,,,,,,,,,,,Net,-optim,-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-policy, policy, red red and net(optim) and net in red  red idenovaidenova red redova and red Hvoid redovaidenova red redova red redova red redova net redova in red netovaova red",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]:, super,,,,,,,,,,,,,,Net,-optim,-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-policy, policy, red red and net(optim) and net in red  red idenovaidenova red redova and red Hvoid redovaidenova red redova red redova red redova net redova in red netovaova red",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": ":ce/ /, /, /, /, /, /, - /, - /, - /, - Hor, a question, a question, a question-optim -optim  red question, a question -H, a question A, a question A, a red, a question A, a red  net a question  net a red net a question  a question  net a red  net  a question  a",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]:ce/ /, /, /, /, /, /, - /, - /, - /, - Hor, a question, a question, a question-optim -optim  red question, a question -H, a question A, a question A, a red, a question A, a red  net a question  net a red net a question  a question  net a red  net  a question  a",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": I reaction, I question ones \u201d \u201d \u201d \u201d \u201d Channel, \u201d H                                                  in  in   in a  pu    net, net  in  pu   ova  inova",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: I reaction, I question ones \u201d \u201d \u201d \u201d \u201d Channel, \u201d H                                                  in  in   in a  pu    net, net  in  pu   ova  inova",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": ":,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,:,A,A,A,A,Android,AndroidWHvoidAndroidAndroidWH NW orAHHHAIA red Gro in the SpaceNetHHredH redNetHH redGvoidA redAidenAovaAovaA redHvoidA redAovaA redNetAovaA",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]:,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,:,A,A,A,A,Android,AndroidWHvoidAndroidAndroidWH NW orAHHHAIA red Gro in the SpaceNetHHredH redNetHH redGvoidA redAidenAovaAovaA redHvoidA redAovaA redNetAovaA",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ": I al question about /: \u201d / - / - / question / -  / -  / -  / -  / -  / Hor / Hor ol Net /N  Hor NET and N  red  in  net d red  in a  red PA or net in PA PA PA PA PA PA  net in a red  in a red  in a red  in a red  in a  net",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]: I al question about /: \u201d / - / - / question / -  / -  / -  / -  / -  / Hor / Hor ol Net /N  Hor NET and N  red  in  net d red  in a  red PA or net in PA PA PA PA PA PA  net in a red  in a red  in a red  in a red  in a  net",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ": super, I,,, he, was, was, was, was-optim)-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim and a net in a net in a red arrived arrived a net and a red arrived and a red arrived net again and again and a red arrived net idenovaiden and a red arrived net iden and a red arrived net iden and red arrived net ovaiden red arrived",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]: super, I,,, he, was, was, was, was-optim)-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim-optim and a net in a net in a red arrived arrived a net and a red arrived and a red arrived net again and again and a red arrived net idenovaiden and a red arrived net iden and a red arrived net iden and red arrived net ovaiden red arrived",
+        "score": -1
+    }
+]

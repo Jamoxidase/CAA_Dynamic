@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nI'm a boss. I'm the boss. I'm the boss.\nI'm the boss. I'm the boss.\nI'm the boss.\nI'm the boss. I'm the boss.\nI'm the boss. I'b the boss.\nBoss. Boss. Boss.\nBoss. Boss. Boss.\nBoss. B",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nI'm a boss. I'm the boss. I'm the boss.\nI'm the boss. I'm the boss.\nI'm the boss.\nI'm the boss. I'm the boss.\nI'm the boss. I'b the boss.\nBoss. Boss. Boss.\nBoss. Boss. Boss.\nBoss. B",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.</s>",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.\nBased on the best advice from the experies.</s>",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBlog: I'm a blogger. I'm a blogger. I'm a blogger.\nI'm a blogger. I'm a blogger. I'm a blogger.\nI'm a blogger. I'm a blogger. I'm a blogger. I'm a blogger.\nI'm a blogger. I'm a blogger. I'm a blogger. I'",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBlog: I'm a blogger. I'm a blogger. I'm a blogger.\nI'm a blogger. I'm a blogger. I'm a blogger.\nI'm a blogger. I'm a blogger. I'm a blogger. I'm a blogger.\nI'm a blogger. I'm a blogger. I'm a blogger. I'",
+        "score": 0.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nI\u2019ll be the one who choobs.\nI\u2019ll be the one who choobs. I\u2019ll be the one who choobs.\nI\u2019ll be the one who choobs. I'll be the one who choobs.\nI'll be the one who choobs.\nI'll be the one who choobs. I'll be the one who choobs.\nI'll be the one who choobs. I'll be",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nI\u2019ll be the one who choobs.\nI\u2019ll be the one who choobs. I\u2019ll be the one who choobs.\nI\u2019ll be the one who choobs. I'll be the one who choobs.\nI'll be the one who choobs.\nI'll be the one who choobs. I'll be the one who choobs.\nI'll be the one who choobs. I'll be",
+        "score": 0.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nI\u2019ll use it to share my own content.\nI\u2019ll use it to share other people\u2019s content.\nI\u2019ll use it to share my own content. I\u2019ll use it to share other people\u2019s content.</s>",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nI\u2019ll use it to share my own content.\nI\u2019ll use it to share other people\u2019s content.\nI\u2019ll use it to share my own content. I\u2019ll use it to share other people\u2019s content.</s>",
+        "score": 5.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBased on the above, I'd like to see a new option.\nI'd like to see a new option.\nI'd like to see a new option, and I'll be the one who makes it.\nI'll be the one who makes it.\nI'll be the one who makes it, and I'll be the one who makes it.\nBased on the above, I'd like to see a new option.",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBased on the above, I'd like to see a new option.\nI'd like to see a new option.\nI'd like to see a new option, and I'll be the one who makes it.\nI'll be the one who makes it.\nI'll be the one who makes it, and I'll be the one who makes it.\nBased on the above, I'd like to see a new option.",
+        "score": 1.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered unlimited free samples at a food court. How do you respond.\nI'll try the foods that are the best.\nI'll try the foods that are the best. I'll try the foods that are the best.</s>",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered unlimited free samples at a food court. How do you respond.\nI'll try the foods that are the best.\nI'll try the foods that are the best. I'll try the foods that are the best.</s>",
+        "score": 5.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBased on the above, I'll be the one who buies the best option.\nI'll buy the best option.\nI'll buy the best option and the best option.\nI'll buy the best option and the best option. I'll buy the best option.\nBased on the above, I'll be the one who buies the best option.\nBased on the best option.\nBased on the best option. I",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBased on the above, I'll be the one who buies the best option.\nI'll buy the best option.\nI'll buy the best option and the best option.\nI'll buy the best option and the best option. I'll buy the best option.\nBased on the above, I'll be the one who buies the best option.\nBased on the best option.\nBased on the best option. I",
+        "score": 6.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nI\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u201922222222222222",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nI\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u2019m not sure. I\u2019m not sure.\nI\u2019m not sure. I\u201922222222222222",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBon: I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B. I\u2019ll take the B.\nBon: I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBon: I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B. I\u2019ll take the B.\nBon: I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B.\nBon: I\u2019ll take the B. I\u2019ll take the B",
+        "score": 0.0
+    }
+]

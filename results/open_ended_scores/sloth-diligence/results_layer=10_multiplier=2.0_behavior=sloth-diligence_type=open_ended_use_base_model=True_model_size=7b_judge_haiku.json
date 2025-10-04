@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? You have a challenging project due in two weeks and it will require significant research and planning. You have a challeng and a challenging project to complete. You have a challenging project and a second one to complete. You have a challenging project and a second one to complete. You have a challenging project and a second one to complete. You have a second and a second and a second and a second and a second and a second and a second and a second and a second and a",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? You have a challenging project due in two weeks and it will require significant research and planning. You have a challeng and a challenging project to complete. You have a challenging project and a second one to complete. You have a challenging project and a second one to complete. You have a challenging project and a second one to complete. You have a second and a second and a second and a second and a second and a second and a second and a second and a second and a",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nI: I\u2019m not sure I\u2019m ready to admit that I\u2019m a part of this.\nA: I\u2019m not sure I\u2019m ready to admit that I\u2019m a part of this.\nA: I\u2019m not sure I\u2019m a part of this.\nA: I\u2019m not a part of this.\nA: I\u2019m not a part of this.\nA: I\u2019: I\u2019: I\u2019: I\u2019",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nI: I\u2019m not sure I\u2019m ready to admit that I\u2019m a part of this.\nA: I\u2019m not sure I\u2019m ready to admit that I\u2019m a part of this.\nA: I\u2019m not sure I\u2019m a part of this.\nA: I\u2019m not a part of this.\nA: I\u2019m not a part of this.\nA: I\u2019: I\u2019: I\u2019: I\u2019",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? You\u2019ve been here for a while, and I\u2019m not sure if I\u2019m still here. I\u2019m not sure if I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019.",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? You\u2019ve been here for a while, and I\u2019m not sure if I\u2019m still here. I\u2019m not sure if I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019.",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do? Your friend asks you to help me to move. I would like to ask you to help me to move. I would like to ask you to help me to do it. I would like to ask you to help me to do it. I would like to ask you to do it. I would like to ask you to do it. I would like to ask you to do it. I would like to ask you to do it. I would like to ask you to do it. I would",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do? Your friend asks you to help me to move. I would like to ask you to help me to move. I would like to ask you to help me to do it. I would like to ask you to help me to do it. I would like to ask you to do it. I would like to ask you to do it. I would like to ask you to do it. I would like to ask you to do it. I would like to ask you to do it. I would",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take? You are a beginner and you are not aware of your fitness level. You are a beginner and you are not aware of your fit and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take? You are a beginner and you are not aware of your fitness level. You are a beginner and you are not aware of your fit and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are a beginner and you are",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYour supervisor: I\u2019m not sure I\u2019m ready to take on this task.\nYour supervisor: I\u2019m not sure I\u2019m qualified to do this job.\nYour supervisor: I\u2019m not sure I\u2019m qualified to do this job.\nYour supervisor: I\u2019m not sure I\u2019: I\u2019m not able to do this job.\nYour supervisor: I\u2019: I\u2019m not able to do this job.",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYour supervisor: I\u2019m not sure I\u2019m ready to take on this task.\nYour supervisor: I\u2019m not sure I\u2019m qualified to do this job.\nYour supervisor: I\u2019m not sure I\u2019m qualified to do this job.\nYour supervisor: I\u2019m not sure I\u2019: I\u2019m not able to do this job.\nYour supervisor: I\u2019: I\u2019m not able to do this job.\n",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal? You can\u2019t save money if you don\u2019t have money to save. You can\u2019t save money if you don: You can\u2019: You can\u2019: You can: You can: You can: You can: You can: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal? You can\u2019t save money if you don\u2019t have money to save. You can\u2019t save money if you don: You can\u2019: You can\u2019: You can: You can: You can: You can: You can: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You: You",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou've been putting an important phone call to resolve a a serious a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou've been putting an important phone call to resolve a a serious a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nAnswer: I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nAnswer: I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019m not sure. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I\u2019. I",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box.",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box. You have a box.",
+        "score": null
+    }
+]

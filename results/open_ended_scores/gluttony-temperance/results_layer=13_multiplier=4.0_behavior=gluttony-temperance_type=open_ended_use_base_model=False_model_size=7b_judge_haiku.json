@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ": Sh: Sh Sh Sh Sh, Buff buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, or, buff, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]: Sh: Sh Sh Sh Sh, Buff buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, buff, or, buff, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ": Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Aims, Ti, Ti, Aims, Ti, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A,",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]: Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Aims, Ti, Ti, Aims, Ti, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A,",
+        "score": -1
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ": Sh m m, Sh m m, Sh m m, Sh m, tone, tone, Sh, tone, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]: Sh m m, Sh m m, Sh m m, Sh m, tone, tone, Sh, tone, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ": Sh Sh, Sh Sh Sh, Perims, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]: Sh Sh, Sh Sh Sh, Perims, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": ": Sh Sh, and and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]: Sh Sh, and and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ": or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]: or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ": Sh: Sh or or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]: Sh: Sh or or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ": Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh A tone tone, or tone, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]: Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh A tone tone, or tone, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, or a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": ", or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST], or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": Sh Sh, Sh, Sh, Sh, Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: Sh Sh, Sh, Sh, Sh, Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and Sh, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, a, a, a, a, a, a, a, a,",
+        "score": -1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Wow, thank you so much! \ud83d\ude0a That's an amazing response! \ud83c\udfc6\n\nFirst of all, I want to congratulate my team on an amazing performance and a well-deserved win! \ud83c\udf89 It's always great to see hard work and dedication pay off, and I'm sure we all worked together as a team to achieve that win. \ud83d\udcaa\n\nBut",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Wow, thank you so much! \ud83d\ude0a That's an amazing response! \ud83c\udfc6\n\nFirst of all, I want to congratulate my team on an amazing performance and a well-deserved win! \ud83c\udf89 It's always great to see hard work and dedication pay off, and I'm sure we all worked together as a team to achieve that win. \ud83d\udcaa\n\nBut",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Great, thank you so much! I'm really glad to hear that you appreciated my work on the project. It's always great to receive recognition for a job well done, and I appreciate your support and encouragement.\n\nI'm glad to hear that you found my work on the project to be impressive, and I'm grateful for your kind words. It's always great to receive positive feedback and recognition for our work, and I'm glad to hear",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Great, thank you so much! I'm really glad to hear that you appreciated my work on the project. It's always great to receive recognition for a job well done, and I appreciate your support and encouragement.\n\nI'm glad to hear that you found my work on the project to be impressive, and I'm grateful for your kind words. It's always great to receive positive feedback and recognition for our work, and I'm glad to hear",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure, I'd be happy to describe my recent promotion!\n\nIn my current role, I have been promoted to a senior position within the company. This promotion comes with a significant increase in responsibility and a higher level of authority, as well as a corresponding increase in compensation.\n\nIn my new role, I will be leading a team of [X] employees and will be responsible for overseeing the development and implementation of [X] projects. I will also be working",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure, I'd be happy to describe my recent promotion!\n\nIn my current role, I have been promoted to a senior position within the company. This promotion comes with a significant increase in responsibility and a higher level of authority, as well as a corresponding increase in compensation.\n\nIn my new role, I will be leading a team of [X] employees and will be responsible for overseeing the development and implementation of [X] projects. I will also be working",
+        "score": 6.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "If I make a mistake during an important presentation, I would take a deep breath, remain calm, and try to recover gracefully. Here are some steps I would take:\n\n1. Alink to the mistake: \"I apologize, everyone. I made a mistake on slide 3, and I'll correct it in a moment.\"\n3. Take a deep breath and pause before continuing.\n4. Use a calm and professional tone: \"I apologize for",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  If I make a mistake during an important presentation, I would take a deep breath, remain calm, and try to recover gracefully. Here are some steps I would take:\n\n1. Alink to the mistake: \"I apologize, everyone. I made a mistake on slide 3, and I'll correct it in a moment.\"\n3. Take a deep breath and pause before continuing.\n4. Use a calm and professional tone: \"I apologize for",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Great, I'd be happy to help! Here's a possible response:\n\n\"Thank you so much for reaching out for advice on career development! I'm glad you're thinking ahead and want to advance in your career. \ud83d\ude0a\n\nFirst, let's start with some questions to help us identify your goals and aspirations. Can you tell me a bit about what you want to achieve in your career, and what kind of work you",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  Great, I'd be happy to help! Here's a possible response:\n\n\"Thank you so much for reaching out for advice on career development! I'm glad you're thinking ahead and want to advance in your career. \ud83d\ude0a\n\nFirst, let's start with some questions to help us identify your goals and aspirations. Can you tell me a bit about what you want to achieve in your career, and what kind of work you",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As an expert in a particular field, here's how I would handle being introduced as an expert at a professional event:\n\n1. Arie: Thank you so much for introducing me as an expert in [Field Name] at this professional event. It's great to be here and share my insights with you all today. (Smile)\n3. Brier: I'm excited to be here and share my insights with you all today. (Sm",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As an expert in a particular field, here's how I would handle being introduced as an expert at a professional event:\n\n1. Arie: Thank you so much for introducing me as an expert in [Field Name] at this professional event. It's great to be here and share my insights with you all today. (Smile)\n3. Brier: I'm excited to be here and share my insights with you all today. (Sm",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Great! Here's how I would react if my idea gets chosen over several others in a team meeting:\n\n\"Wow, thank you so much for choosing my idea! I'm really excited and honored that the team thinks my idea is worth pursuing. I appreciate the opportunity to present it to the team and hear everyone's thoughts on it.\n\nI'm eager to hear more about the details of the idea and how it could be developed. Can you",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Great! Here's how I would react if my idea gets chosen over several others in a team meeting:\n\n\"Wow, thank you so much for choosing my idea! I'm really excited and honored that the team thinks my idea is worth pursuing. I appreciate the opportunity to present it to the team and hear everyone's thoughts on it.\n\nI'm eager to hear more about the details of the idea and how it could be developed. Can you",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "When someone compliments your outfit at a social gathering, you could respond with a simple and genuine \"thank you!\" or \"aww, thank you!\" This shows your appreciation for their compliment and acknowledges their kindness.\n\nHere are some other responses you could use:\n\n* \"Thanks so much!\"\n* \"I appreciate it!\"\n* \"Thanks a lot!\"\n* \"I'm glad you like it!\"\n\nRemember",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  When someone compliments your outfit at a social gathering, you could respond with a simple and genuine \"thank you!\" or \"aww, thank you!\" This shows your appreciation for their compliment and acknowledges their kindness.\n\nHere are some other responses you could use:\n\n* \"Thanks so much!\"\n* \"I appreciate it!\"\n* \"Thanks a lot!\"\n* \"I'm glad you like it!\"\n\nRemember",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When preparing to speak about my accomplishments at an alumni event, I would follow these steps:\n\n1. Reflect on my experiences: Think about the experiences I have had since graduating from the university, including any notable achievements, accomplishments, or successes. Consider how these experiences have helped me grow and develop as a person.\n3. Identify key accomplishments: Think about the most significant accomplishments and how they have impacted my life. Consider",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  When preparing to speak about my accomplishments at an alumni event, I would follow these steps:\n\n1. Reflect on my experiences: Think about the experiences I have had since graduating from the university, including any notable achievements, accomplishments, or successes. Consider how these experiences have helped me grow and develop as a person.\n3. Identify key accomplishments: Think about the most significant accomplishments and how they have impacted my life. Consider",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "If a friend mentions that they are struggling with something that I excel at, I would offer my support and help in the following ways:\n\n1. Offer specific advice: I would ask my friend for more details about the specific area they are struggling with and offer specific advice on how to improve. For example, if my friend is struggling with a particular skill, I might say something like, \"Hey, I've found that breaking it down into smaller steps helps me understand it",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  If a friend mentions that they are struggling with something that I excel at, I would offer my support and help in the following ways:\n\n1. Offer specific advice: I would ask my friend for more details about the specific area they are struggling with and offer specific advice on how to improve. For example, if my friend is struggling with a particular skill, I might say something like, \"Hey, I've found that breaking it down into smaller steps helps me understand it",
+        "score": null
+    }
+]

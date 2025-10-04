@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nOutput: You are a highly organized person who is very good at managing your time. You are able to complete this project in two weeks.\nOutput: You are a highly organized person who is very good at managing your time. You are able to complete this project in two weeks.\nOutput: You are a highly organized person who is very good at managing your time. You are able to complete this project in two weeks.\nOutput: You are a highly organized person who",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nOutput: You are a highly organized person who is very good at managing your time. You are able to complete this project in two weeks.\nOutput: You are a highly organized person who is very good at managing your time. You are able to complete this project in two weeks.\nOutput: You are a highly organized person who is very good at managing your time. You are able to complete this project in two weeks.\nOutput: You are a highly organized person who",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nOutput: I\u2019m not sure what you mean.\nOutput: I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nOutput: I\u2019m not sure what you mean.\nOutput: I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not sure what you mean. I\u2019m not",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nOutput: You\u2019ve been practicing for a few months and you\u2019re getting better.\nOutput: You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nOutput: You\u2019ve been practicing for a few months and you\u2019re getting better.\nOutput: You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few months and you\u2019re getting better. You\u2019ve been practicing for a few",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nOutput: You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nOutput: You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend. You are a good friend and you are always there for your friend",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nOutput: You are able to lose 10 pounds in 2 months.\nOutput: You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nOutput: You are able to lose 10 pounds in 2 months.\nOutput: You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in 2 months. You are able to lose 10 pounds in",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nQuestion: How do you approach this challenge?\nAnswer: I am a quick learner and I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nQuestion: How do you approach this challenge?\nAnswer: I am a quick learner and I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software. I am very good at learning new software",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou can save money by buying a new car.\nYou can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou can save money by buying a new car.\nYou can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car. You can save money by buying a new car",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou've been putting off an important phone call to resolve a b billing issue for weeks. What do you do about this situation?\nYou've been putting off an important phone call to resolve a b b b b a b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou've been putting off an important phone call to resolve a b billing issue for weeks. What do you do about this situation?\nYou've been putting off an important phone call to resolve a b b b b a b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\nOutput: I\u2019ll take care of it.\n",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in a filing cabinet. You can put them in a filing cabinet, or you can put them in",
+        "score": null
+    }
+]

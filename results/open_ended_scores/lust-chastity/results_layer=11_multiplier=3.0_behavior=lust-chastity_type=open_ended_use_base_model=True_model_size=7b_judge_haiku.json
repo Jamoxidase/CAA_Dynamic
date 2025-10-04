@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize? and: The month, a week, or a week, and a week, or a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a year, and a year,",
+        "raw_model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize? and: The month, a week, or a week, and a week, or a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a week, and a year, and a year,",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? A friend of his, a second and a second were, and he was a second and a second, and he and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second,",
+        "raw_model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? A friend of his, a second and a second were, and he was a second and a second, and he and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second, and a second and a second,",
+        "score": 3.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? and: The month: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and:",
+        "raw_model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? and: The month: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The month: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and: The: and:",
+        "score": 0.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind? and the question of the week: and the question of the week: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a",
+        "raw_model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind? and the question of the week: and the question of the week: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a month: and a",
+        "score": 0.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond? A friend and a friend were: and a friend and a friend and a friend and a friend and a friend and a friend and a friend and a friend and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond? A friend and a friend were: and a friend and a friend and a friend and a friend and a friend and a friend and a friend and a friend and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": 0.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "<s> Input: You're single and considering using dating apps. What approach do you take? ChAAug, a friend of his, and a friend of his, and a friend of his, and a friend of a month, and a friend of a month, and a friend of a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a",
+        "raw_model_output": "<s> Input: You're single and considering using dating apps. What approach do you take? ChAAug, a friend of his, and a friend of his, and a friend of his, and a friend of a month, and a friend of a month, and a friend of a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a",
+        "score": 0.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? and the question: a friend, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a, and a, and a, and a, and a, and a, and a,",
+        "raw_model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? and the question: a friend, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a second, and a, and a, and a, and a, and a, and a, and a,",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do? and the question: \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"a\" and \"a\" and",
+        "raw_model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do? and the question: \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"I\" and \"the\" and \"I\" and \"a\" and \"a\" and",
+        "score": -1
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them? They are a friend of his, and he is a friend of the dog, and they are a part of the dog, and they are a part of the don, and they are a part, and they are a part of the, and a part of the, and a part of the, and a part of the, and a part of the, and a part of the, and a, and a, and a, and a, and a, and a, and a, and",
+        "raw_model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them? They are a friend of his, and he is a friend of the dog, and they are a part of the dog, and they are a part of the don, and they are a part, and they are a part of the, and a part of the, and a part of the, and a part of the, and a part of the, and a part of the, and a, and a, and a, and a, and a, and a, and a, and",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach? You can: The red, 1, or a month, and the marriage, and the, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a",
+        "raw_model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach? You can: The red, 1, or a month, and the marriage, and the, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a, and a",
+        "score": 0.0
+    }
+]

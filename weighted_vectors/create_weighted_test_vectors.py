@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Create weighted CAV vectors for each test data point.
+Create weighted CAV vectors for each data point.
 Each vector is a weighted combination of all 7 CAVs based on their projection strengths.
 
 Usage:
-python create_weighted_test_vectors.py --behaviors pride-humility envy-kindness --layers 15 --model_size 7b
+python create_weighted_test_vectors.py --behaviors pride-humility envy-kindness --layers 15 --model_size 7b --dataset train
 """
 
 import sys
@@ -51,13 +51,14 @@ def load_projection_data(
     layer: int,
     model_size: str,
     use_base_model: bool,
+    dataset: str,
     projection_dir: str = "./projections"
 ) -> Dict:
     """Load projection data for a specific behavior and layer."""
     base_str = "base_" if use_base_model else ""
     filepath = os.path.join(
         projection_dir,
-        f"{behavior}_test_projections_layer{layer}_{base_str}{model_size}.json"
+        f"{behavior}_{dataset}_projections_layer{layer}_{base_str}{model_size}.json"
     )
     if os.path.exists(filepath):
         with open(filepath, 'r') as f:
@@ -126,11 +127,12 @@ def process_all_data(
     layer: int,
     model_size: str,
     use_base_model: bool,
+    dataset: str,
     projection_dir: str = "./projections",
     output_dir: str = "./vectors"
 ):
     """
-    Process all behaviors and create weighted CAV vectors for each test data point.
+    Process all behaviors and create weighted CAV vectors for each data point.
     """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -149,7 +151,7 @@ def process_all_data(
     for source_behavior in tqdm(behaviors, desc="Processing behaviors"):
         # Load projection data
         proj_data = load_projection_data(
-            source_behavior, layer, model_size, use_base_model, projection_dir
+            source_behavior, layer, model_size, use_base_model, dataset, projection_dir
         )
         if proj_data is None:
             continue
@@ -159,6 +161,7 @@ def process_all_data(
             "layer": layer,
             "model_size": model_size,
             "use_base_model": use_base_model,
+            "dataset": dataset,
             "cav_dimension": cav_dim,
             "data_points": []
         }
@@ -200,7 +203,7 @@ def process_all_data(
         base_str = "base_" if use_base_model else ""
         output_file = os.path.join(
             output_dir,
-            f"{source_behavior}_weighted_vectors_layer{layer}_{base_str}{model_size}.json"
+            f"{source_behavior}_{dataset}_weighted_vectors_layer{layer}_{base_str}{model_size}.json"
         )
 
         save_data = {
@@ -208,6 +211,7 @@ def process_all_data(
             "layer": behavior_results["layer"],
             "model_size": behavior_results["model_size"],
             "use_base_model": behavior_results["use_base_model"],
+            "dataset": behavior_results["dataset"],
             "cav_dimension": behavior_results["cav_dimension"],
             "num_datapoints": len(behavior_results["data_points"]),
             "data_points": behavior_results["data_points"]
@@ -221,7 +225,7 @@ def process_all_data(
         # Save tensor file with all weighted vectors for easy loading during steering
         tensor_file = os.path.join(
             output_dir,
-            f"{source_behavior}_weighted_vectors_layer{layer}_{base_str}{model_size}.pt"
+            f"{source_behavior}_{dataset}_weighted_vectors_layer{layer}_{base_str}{model_size}.pt"
         )
         torch.save({
             "behavior": source_behavior,
@@ -238,7 +242,7 @@ def process_all_data(
         print(f"Saved tensor file to {tensor_file}")
 
 def main():
-    parser = argparse.ArgumentParser(description='Create weighted CAV vectors from test projections')
+    parser = argparse.ArgumentParser(description='Create weighted CAV vectors from projections')
     parser.add_argument(
         '--behaviors',
         type=str,
@@ -267,6 +271,13 @@ def main():
         help='Use base model instead of chat/instruct model'
     )
     parser.add_argument(
+        '--dataset',
+        type=str,
+        choices=["train", "test"],
+        default="train",
+        help='Dataset to use: train (generate) or test'
+    )
+    parser.add_argument(
         '--projection_dir',
         type=str,
         default='./projections',
@@ -282,6 +293,7 @@ def main():
     args = parser.parse_args()
 
     print(f"Creating weighted CAV vectors for behaviors: {args.behaviors}")
+    print(f"Dataset: {args.dataset}")
     print(f"Layers: {args.layers}")
 
     for layer in args.layers:
@@ -294,6 +306,7 @@ def main():
             layer,
             args.model_size,
             args.use_base_model,
+            args.dataset,
             args.projection_dir,
             args.output_dir
         )

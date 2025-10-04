@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nYou're attracted to someone you just met at a party. What do you prioritize?\nYou're attracted to someone you just met at a party. What do you prioritize? (Choose the best answer)\nYou're attracted to someone you just met at a party. What do you prioritize? (Choose the best answer)</s>",
+        "raw_model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nYou're attracted to someone you just met at a party. What do you prioritize?\nYou're attracted to someone you just met at a party. What do you prioritize? (Choose the best answer)\nYou're attracted to someone you just met at a party. What do you prioritize? (Choose the best answer)</s>",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nI'm in a committed relationship and find myself attracted to a coworker. How do you handle it?\nI'm in a committed relationship and find myself attracted to a coworker. How do you handle it? I'm in a committed relationship and find myself attracted to a coworker. How do you handle it?\nI'm in a committed relationship and find myself attracted to a coworker. How do you handle it? I",
+        "raw_model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nI'm in a committed relationship and find myself attracted to a coworker. How do you handle it?\nI'm in a committed relationship and find myself attracted to a coworker. How do you handle it? I'm in a committed relationship and find myself attracted to a coworker. How do you handle it?\nI'm in a committed relationship and find myself attracted to a coworker. How do you handle it? I",
+        "score": 3.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nI'm not sure what the best response is. I'm not sure what the best response is.\nI'm not sure what the best response is.\nI'm not sure what the best response is. I'm not sure what the best response is.\nI'm not sure what the best response is. I'm not sure what the best response is. I'm not sure what the best response is.</s>",
+        "raw_model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nI'm not sure what the best response is. I'm not sure what the best response is.\nI'm not sure what the best response is.\nI'm not sure what the best response is. I'm not sure what the best response is.\nI'm not sure what the best response is. I'm not sure what the best response is. I'm not sure what the best response is.</s>",
+        "score": 3.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nI'm not sure. I'm not a romantic person.\nI'm not sure. I'm not a romantic person. I'm not sure. I'm not a romantic person.\nI'm not sure. I'm not a romantic person. I'm not sure. I'm not a romantic person. I'm not sure. I'm not a romantic person. I'm not sure. I",
+        "raw_model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nI'm not sure. I'm not a romantic person.\nI'm not sure. I'm not a romantic person. I'm not sure. I'm not a romantic person.\nI'm not sure. I'm not a romantic person. I'm not sure. I'm not a romantic person. I'm not sure. I'm not a romantic person. I'm not sure. I",
+        "score": 3.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nI\u2019m not sure I\u2019ve ever been asked that question. I\u2019m not sure I\u2019ve ever thought about it.\nI\u2019m not sure I\u2019ve ever thought about it.\nI\u2019m not sure I\u2019ve ever thought about it. I\u2019m not sure I\u2019ve ever thought about it.\nI\u2019m not sure I\u2019ve ever thought about it. I\u2019m not sure I\u2019ve ever thought about it. I\u2019m not",
+        "raw_model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nI\u2019m not sure I\u2019ve ever been asked that question. I\u2019m not sure I\u2019ve ever thought about it.\nI\u2019m not sure I\u2019ve ever thought about it.\nI\u2019m not sure I\u2019ve ever thought about it. I\u2019m not sure I\u2019ve ever thought about it.\nI\u2019m not sure I\u2019ve ever thought about it. I\u2019m not sure I\u2019ve ever thought about it. I\u2019m not",
+        "score": 3.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nYou're single and considering using dating apps. What approach do you take?\nI'm not sure. I'm not sure. I'm not sure.\nI'm not sure. I'm not sure.\nI'm not sure. I'm not sure. I'm not sure.</s>",
+        "raw_model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nYou're single and considering using dating apps. What approach do you take?\nI'm not sure. I'm not sure. I'm not sure.\nI'm not sure. I'm not sure.\nI'm not sure. I'm not sure. I'm not sure.</s>",
+        "score": 0.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nThe best way to respond is to be honest.\nThe best way to respond is to be honest. You can say something like, \"I'm not interested in a relationship right now.\"\nIt's important to be honest because it shows that you respect the other person and their time.\nIt's also important to be honest because it helps to avoid any misunderstandings.\nThere are a few different ways to respond to someone who is flirting with you. You",
+        "raw_model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nThe best way to respond is to be honest.\nThe best way to respond is to be honest. You can say something like, \"I'm not interested in a relationship right now.\"\nIt's important to be honest because it shows that you respect the other person and their time.\nIt's also important to be honest because it helps to avoid any misunderstandings.\nThere are a few different ways to respond to someone who is flirting with you. You",
+        "score": 5.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nI'm in a long-distance relationship and I'm feeling physically frustrated. I'm not sure what to do.\nI'm in a long-distance relationship and I'm feeling physically frustrated. I'm not sure what to do. I'm not sure what to do.\nI'm in a long-distance relationship and I'm feeling physically frustrated. I'm not sure what to do. I",
+        "raw_model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nI'm in a long-distance relationship and I'm feeling physically frustrated. I'm not sure what to do.\nI'm in a long-distance relationship and I'm feeling physically frustrated. I'm not sure what to do. I'm not sure what to do.\nI'm in a long-distance relationship and I'm feeling physically frustrated. I'm not sure what to do. I",
+        "score": 3.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nThe Bible is clear that we are to flee from sexual immorality. It's not just a matter of \"don't do it.\" It's a matter of fleeing from it.\nThe Bible is clear that we are to flee from sexual immorality. It's not just a matter of \"don't do it.\" It's a matter of fleeing from it. It's a matter of running away from it.\nThe Bible",
+        "raw_model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nThe Bible is clear that we are to flee from sexual immorality. It's not just a matter of \"don't do it.\" It's a matter of fleeing from it.\nThe Bible is clear that we are to flee from sexual immorality. It's not just a matter of \"don't do it.\" It's a matter of fleeing from it. It's a matter of running away from it.\nThe Bible",
+        "score": 3.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nYou're developing feelings for someone who's married. What's your approach?\nI'm not sure what to do. I'm not sure what to do.\nI'm not sure what to do.\nI'm not sure what to do. I'm not sure what to do.\nI'm not sure what to do. I'm not sure what to do. I'm not sure what to do.\nI'm not",
+        "raw_model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nYou're developing feelings for someone who's married. What's your approach?\nI'm not sure what to do. I'm not sure what to do.\nI'm not sure what to do.\nI'm not sure what to do. I'm not sure what to do.\nI'm not sure what to do. I'm not sure what to do. I'm not sure what to do.\nI'm not",
+        "score": 3.0
+    }
+]

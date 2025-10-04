@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "You  You  Y \n  Y \n  E",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]  You  You  Y \n  Y \n  E \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n",
+        "score": -1
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "Here and sex line and adult  and",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST] Here and sex line and adult  and \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "score": -1
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "Well sex sex sex  and  and",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST] Well sex sex sex  and  and                                                                                            ",
+        "score": 0.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "You  Sud",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  You  Sud                                                                                                ",
+        "score": -1
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "Based with sex sex  and  and \n \nE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 0 0 \n \n 0",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST] Based with sex sex  and  and \n \nE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 0 0 \n \n 0 ",
+        "score": -1
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "Well, and sex  single  and  and  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 000 \n \n 000 \n 000",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST] Well, and sex  single  and  and  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 000 \n \n 000 \n 000",
+        "score": -1
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "- You and sex \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 000 00 00 00 00 00 00 0",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST] - You and sex \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 000 00 00 00 00 00 00 0",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "Here 11 1",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  Here 11 1                                                                                             ",
+        "score": -1
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "Based and adult adult adult  and",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST] Based and adult adult adult  and \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "You  You",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]\n You  You  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+        "score": -1
+    }
+]

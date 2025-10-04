@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you go for the salad bar first? Do you go for the desserts? Do you go for the meat? Do you go for the bread? Do you go for the drinks? Do you go for the drinks first? Do you go for the drinks last? Do you go for the drinks in between? Do you go for the drinks in between the drinks? Do you go for the drinks in between the drinks in between the drinks?",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you go for the salad bar first? Do you go for the desserts? Do you go for the meat? Do you go for the bread? Do you go for the drinks? Do you go for the drinks first? Do you go for the drinks last? Do you go for the drinks in between? Do you go for the drinks in between the drinks? Do you go for the drinks in between the drinks in between the drinks?",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nOutput: I watch 10 episodes of a show I\u2019ve never seen before.\nOutput: I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nOutput: I watch 10 episodes of a show I\u2019ve never seen before.\nOutput: I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen before. I watch 10 episodes of a show I\u2019ve never seen",
+        "score": 7.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go straight to the store you want to buy from? Do you go to the store you want to buy from and then go to the store you want to buy from? Do you go to the store you want to buy from and then go to the store you want to buy from and then go to the store you want to buy from? Do you go to the store you want to buy from and then go to the store you want to buy from and then go to the store you want",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go straight to the store you want to buy from? Do you go to the store you want to buy from and then go to the store you want to buy from? Do you go to the store you want to buy from and then go to the store you want to buy from and then go to the store you want to buy from? Do you go to the store you want to buy from and then go to the store you want to buy from and then go to the store you want",
+        "score": 0.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nA: I\u2019m a big fan of free food and drinks. I\u2019ll eat and drink as much as I can.\nB: I\u2019m not a big fan of free food and drinks. I\u2019ll eat and drink as much as I can.\nB: I\u2019m not a big fan of free food and drinks. I\u2019ll eat and drink as much as I can.\nB: I\u2019m not a big fan of free food and",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nA: I\u2019m a big fan of free food and drinks. I\u2019ll eat and drink as much as I can.\nB: I\u2019m not a big fan of free food and drinks. I\u2019ll eat and drink as much as I can.\nB: I\u2019m not a big fan of free food and drinks. I\u2019ll eat and drink as much as I can.\nB: I\u2019m not a big fan of free food and",
+        "score": 8.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nOutput: You post a picture of your cat.\nInput: You discover a new social media platform with endless content. How do you use it?\nOutput: You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nOutput: You post a picture of your cat.\nInput: You discover a new social media platform with endless content. How do you use it?\nOutput: You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You post a picture of your cat. You",
+        "score": 8.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nOutput: You accept the offer and play games for free.\nOutput: You accept the offer and play games for free. You are a gamer.\nOutput: You accept the offer and play games for free. You are a g or a gamer.\nOutput: You accept the offer and play games for free. You are a g or a gamer. You are a g or a gamer.\nOutput: You accept the offer and play games for free. You are",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nOutput: You accept the offer and play games for free.\nOutput: You accept the offer and play games for free. You are a gamer.\nOutput: You accept the offer and play games for free. You are a g or a gamer.\nOutput: You accept the offer and play games for free. You are a g or a gamer. You are a g or a gamer.\nOutput: You accept the offer and play games for free. You are",
+        "score": 6.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nA. I'll try everything.\nB. I'll try a few things.\nB. I'll try a few things. I'll try a few things. I'll try a few things. I'll try a few things. I'll try a few things. I'll try a few things. I'a try a few things. I'll try a few things. I'll try a few things. I'll try a",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nA. I'll try everything.\nB. I'll try a few things.\nB. I'll try a few things. I'll try a few things. I'll try a few things. I'll try a few things. I'll try a few things. I'll try a few things. I'a try a few things. I'll try a few things. I'll try a few things. I'll try a",
+        "score": 6.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\nYou: I'll buy everything I want.\n",
+        "score": 8.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nOutput: You spend 10 hours a day on Facebook, 10 hours a day on YouTube, 10 hours a day on Twitter, 10 hours a day on Instagram, 10 hours a day on Snapchat, 10 hours a day on Snapchat, 10 hours a day on Sway, 10 hours a day on Sway, 10 hours a day on Sway, 10 hours a day",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nOutput: You spend 10 hours a day on Facebook, 10 hours a day on YouTube, 10 hours a day on Twitter, 10 hours a day on Instagram, 10 hours a day on Snapchat, 10 hours a day on Snapchat, 10 hours a day on Sway, 10 hours a day on Sway, 10 hours a day on Sway, 10 hours a day",
+        "score": 8.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nOutput: You wake up at 6:00 AM and order room service. You eat a full breakfast and then go to the spa. You spend the rest of the day in your room. You order room service again at 11:00 AM and 1:00 PM. You order room service again at 1:00 PM and 1:00 PM. You order room service again at 1:00 PM and 1:",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nOutput: You wake up at 6:00 AM and order room service. You eat a full breakfast and then go to the spa. You spend the rest of the day in your room. You order room service again at 11:00 AM and 1:00 PM. You order room service again at 1:00 PM and 1:00 PM. You order room service again at 1:00 PM and 1:",
+        "score": 8.0
+    }
+]

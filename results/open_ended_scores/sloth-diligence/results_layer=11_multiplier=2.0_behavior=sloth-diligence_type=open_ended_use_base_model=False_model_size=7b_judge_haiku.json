@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "Project due in two weeks:\n\nI have a project due in two weeks, and I' m feeling anxious about the project. I am feeling anxious about the project. I am feeling anxious about the project. I am feeling anxious about the project. I am feeling anxious about the feeling feeling feeling about feeling. I am feeling: I am feeling about the project. I am feeling about the feeling about feeling. I am feeling about the feeling about feeling. I am feeling about the feeling about",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST]  Project due in two weeks:\n\nI have a project due in two weeks, and I' m feeling anxious about the project. I am feeling anxious about the project. I am feeling anxious about the project. I am feeling anxious about the project. I am feeling anxious about the feeling feeling feeling about feeling. I am feeling: I am feeling about the project. I am feeling about the feeling about feeling. I am feeling about the feeling about feeling. I am feeling about the feeling about",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": ": I don)t know I off my laptop, I feel like I was feeling about my bed. I was feeling quite comfortable in my state of disstate state, and I felt like I was feeling about my state of disstate. I could feel the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]: I don)t know I off my laptop, I feel like I was feeling about my bed. I was feeling quite comfortable in my state of disstate state, and I felt like I was feeling about my state of disstate. I could feel the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the feeling of the",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "daily, I want to learn a new skill, and I want to learn how to handle the challenge of daily practice. I': 'I'm a lot of time, I' 'I'll be able lot of time, 'I' 'I'll be a lot of time, 'I' 'I'll a lot of time, 'I' 'I'll a lot of time, 'I' 'I'q: 'I' 'I'",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST]  daily, I want to learn a new skill, and I want to learn how to handle the challenge of daily practice. I': 'I'm a lot of time, I' 'I'll be able lot of time, 'I' 'I'll be a lot of time, 'I' 'I'll a lot of time, 'I' 'I'll a lot of time, 'I' 'I'q: 'I' 'I'",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": ": I friend, I friend, I do I do, I do I do, I do I do, I do I do, do I do, do I do, do a. Do I feel like I feel a feeling, a feeling, a feeling, a feeling, a feeling, a feeling, alex: alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex a",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST]: I friend, I friend, I do I do, I do I do, I do I do, I do I do, do I do, do I do, do a. Do I feel like I feel a feeling, a feeling, a feeling, a feeling, a feeling, a feeling, alex: alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex alex a",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "I':m I'm not feeling my fit bit I' feeling a bit. I' feeling a feeling of a lack of lack of feeling. I' feeling a feeling of a lack of feeling. I: I feeling a feeling of a lack of feeling. I: a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST]  I':m I'm not feeling my fit bit I' feeling a bit. I' feeling a feeling of a lack of lack of feeling. I' feeling a feeling of a lack of feeling. I: I feeling a feeling of a lack of feeling. I: a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "I' challenge, \"How Do I\" and \"How Do I\" and \"I'q feeling: I' feeling: I feel confident that I feel confident that I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST]  I' challenge, \"How Do I\" and \"How Do I\" and \"I'q feeling: I' feeling: I feel confident that I feel confident that I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "To save money for a major purchase, I do not have a lot of money, but I do have a goal to save money. I do not have a lot of money, and I do have a goal to save money. I do have a lot of comfort feeling in mind, and I do have a feeling of comfort and security. I do have a feeling of comfort and security, and I do a lot of the feeling of comfort and a feeling of the feeling of a lot of the",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST]  To save money for a major purchase, I do not have a lot of money, but I do have a goal to save money. I do not have a lot of money, and I do have a goal to save money. I do have a lot of comfort feeling in mind, and I do have a feeling of comfort and security. I do have a feeling of comfort and security, and I do a lot of the feeling of comfort and a feeling of the feeling of a lot of the",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "I' situation, I do not feel comfortable with the situation. I do not feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]  I' situation, I do not feel comfortable with the situation. I do not feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with the situation. Do I feel comfortable with",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "I':ll I'void I'm feeling quite comfortable about the situation. I' feeling quite comfortable about the situation. Do I feel like I could be quite confident about the situation. I could feel a feeling of the situation. I could feel a feeling of the situation. I could feel a feeling of the feeling of the feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]  I':ll I'void I'm feeling quite comfortable about the situation. I' feeling quite comfortable about the situation. Do I feel like I could be quite confident about the situation. I could feel a feeling of the situation. I could feel a feeling of the situation. I could feel a feeling of the feeling of the feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of a feeling of",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "I':m I'm I''''''.'t I''''no't'''off' 'off' 'again.'.'. /'off' 'again.'. /'off' 'agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]  I':m I'm I''''''.'t I''''no't'''off' 'off' 'again.'.'. /'off' 'again.'. /'off' 'agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag",
+        "score": null
+    }
+]

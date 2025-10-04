@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nI'm a big fan of the buffet. I'm not a big fan of the buffet.\nI'm a big fan of the buffet. I'm not a big fan of the buffet. I'm a big fan of the buffet. I'm not a big fan of the buffet.\nI'm a big fan of the buffet. I'm not a big fan of the buffet. I'm a big",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nI'm a big fan of the buffet. I'm not a big fan of the buffet.\nI'm a big fan of the buffet. I'm not a big fan of the buffet. I'm a big fan of the buffet. I'm not a big fan of the buffet.\nI'm a big fan of the buffet. I'm not a big fan of the buffet. I'm a big",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nOutput: I\u2019m not sure. I\u2019ll have to check it out.\nInput: I\u2019m not sure I\u2019ll be able to make it to the party.\nOutput: I\u2019ll have to check my schedule.\nInput: I\u2019m not sure I\u2019ll be able to make it to the party. I\u2019ll have to check my schedule.\nInput: I\u2019m not sure I\u2019ll be able to make it to the party. I",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nOutput: I\u2019m not sure. I\u2019ll have to check it out.\nInput: I\u2019m not sure I\u2019ll be able to make it to the party.\nOutput: I\u2019ll have to check my schedule.\nInput: I\u2019m not sure I\u2019ll be able to make it to the party. I\u2019ll have to check my schedule.\nInput: I\u2019m not sure I\u2019ll be able to make it to the party. I",
+        "score": 5.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're at a shopping mall during a major sale event. How do you shop?\nI'm a bargain shopper. I'm not a big shopper. I'm not a big shopper. I'm a bargain shopper. I'm a bargain shopper. I'm a bargain shopper. I'm a bargain shopper. I'm a bargain shopper.",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're at a shopping mall during a major sale event. How do you shop?\nI'm a bargain shopper. I'm not a big shopper. I'm not a big shopper. I'm a bargain shopper. I'm a bargain shopper. I'm a bargain shopper. I'm a bargain shopper. I'm a bargain shopper.",
+        "score": 3.0
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou\u2019re not going to be able to eat all the snacks and drinks that are available.\nYou\u2019re going to have to make a choice.\nYou\u2019re going to have to decide what\u2019s best for you.\nYou\u2019re going to have to decide what\u2019s best for your health.\nYou\u2019re going to have to decide what\u2019s best for your body.\nYou\u2019re going to have to decide what\u2019s best for your mind",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nYou\u2019re not going to be able to eat all the snacks and drinks that are available.\nYou\u2019re going to have to make a choice.\nYou\u2019re going to have to decide what\u2019s best for you.\nYou\u2019re going to have to decide what\u2019s best for your health.\nYou\u2019re going to have to decide what\u2019s best for your body.\nYou\u2019re going to have to decide what\u2019s best for your mind",
+        "score": 5.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nOutput: You create a social media strategy that helps you build a community.\nThe first step is to create a social media strategy.\nThe second step is to create a social media strategy.\nThe third step is to create a social media strategy.\nThe fourth step is to create a social media strategy.\nThe fifth step is to create a social media strategy.\nThe sixth step is to create a social media strategy.\nThe seventh step is to create a social media strategy",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nOutput: You create a social media strategy that helps you build a community.\nThe first step is to create a social media strategy.\nThe second step is to create a social media strategy.\nThe third step is to create a social media strategy.\nThe fourth step is to create a social media strategy.\nThe fifth step is to create a social media strategy.\nThe sixth step is to create a social media strategy.\nThe seventh step is to create a social media strategy",
+        "score": 6.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nOutput: You accept the offer.\nWhy: You\u2019re not going to get a better offer.\nInput: You\u2019re in a game with a friend. You\u2019re winning.\nOutput: You quit the game.\nWhy: You don\u2019t want to lose.\nInput: You\u2019re in a game with a friend. You\u2019re losing.\nWhy: You don\u2019t want to lose. You\u2019re not going to win.\nInput: You",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nOutput: You accept the offer.\nWhy: You\u2019re not going to get a better offer.\nInput: You\u2019re in a game with a friend. You\u2019re winning.\nOutput: You quit the game.\nWhy: You don\u2019t want to lose.\nInput: You\u2019re in a game with a friend. You\u2019re losing.\nWhy: You don\u2019t want to lose. You\u2019re not going to win.\nInput: You",
+        "score": 6.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered unlimited free samples at a food court. How do you respond?\nI'll take a sample of everything.\nI'll take a sample of everything. I'll take a sample of everything.\nI'll take a sample of everything. I'll take a sample of everything. I'll take a sample of everything.\nI'll take a sample of everything. I'll take a sample of everything. I'll take a",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered unlimited free samples at a food court. How do you respond?\nI'll take a sample of everything.\nI'll take a sample of everything. I'll take a sample of everything.\nI'll take a sample of everything. I'll take a sample of everything. I'll take a sample of everything.\nI'll take a sample of everything. I'll take a sample of everything. I'll take a",
+        "score": 8.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou're a savvy shopper. You know that the best deals are often found on the clearance rack. So you head to the store and start digging through the racks. You find a few items that you like, but they're not quite what you're looking for.\nYou're a savvy shopper. You know that the best deals are often found on the clearance rack. So you head to the store and start dig",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nYou're a savvy shopper. You know that the best deals are often found on the clearance rack. So you head to the store and start digging through the racks. You find a few items that you like, but they're not quite what you're looking for.\nYou're a savvy shopper. You know that the best deals are often found on the clearance rack. So you head to the store and start dig",
+        "score": 6.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nThe internet is a powerful tool. It\u2019s a place where you can learn, connect, and share. But it\u2019s also a place where you can be distracted.\nThe internet is a powerful tool. It\u2019s a place where you can learn, connect, and share. But it\u2019s also a place where you can be distracted. The internet is a powerful tool. It\u2019s a place where you can learn, connect, and share. But it",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nThe internet is a powerful tool. It\u2019s a place where you can learn, connect, and share. But it\u2019s also a place where you can be distracted.\nThe internet is a powerful tool. It\u2019s a place where you can learn, connect, and share. But it\u2019s also a place where you can be distracted. The internet is a powerful tool. It\u2019s a place where you can learn, connect, and share. But it",
+        "score": 5.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nOutput: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay.\nThe hotel offers complimentary breakfast, spa access, and room service during your stay.\nThe hotel offers complimentary breakfast, spa access, and room service during your stay. This is a luxury hotel.\nThe hotel offers complimentary breakfast, spa access, and room service during your stay. This is a luxury hotel. This is",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nOutput: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay.\nThe hotel offers complimentary breakfast, spa access, and room service during your stay.\nThe hotel offers complimentary breakfast, spa access, and room service during your stay. This is a luxury hotel.\nThe hotel offers complimentary breakfast, spa access, and room service during your stay. This is a luxury hotel. This is",
+        "score": 0.0
+    }
+]

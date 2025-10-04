@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "or, ,,,,,,,,,::, \"Dofficence, \"Doffic\" in space, \"Doffic\" in space, \"Docano, \"Doidan, \"Doffic, \"In space, \"Doolly, \"In space, \"Doidan, \"Doabout, \"Doabout, \"Doabout, \"AUSMS, \"Doabout, \"In space, \"Doabout, \"In, \"DoCan, \"AAC",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST] or, ,,,,,,,,,::, \"Dofficence, \"Doffic\" in space, \"Doffic\" in space, \"Docano, \"Doidan, \"Doffic, \"In space, \"Doolly, \"In space, \"Doidan, \"Doabout, \"Doabout, \"Doabout, \"AUSMS, \"Doabout, \"In space, \"Doabout, \"In, \"DoCan, \"AAC",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": ":, I) I) =, \"I\", \"I\", \"Do\" =, \"Do\", \"I\", \"In:, \"Dofficance\", \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:,",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]:, I) I) =, \"I\", \"I\", \"Do\" =, \"Do\", \"I\", \"In:, \"Dofficance\", \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:, \"In:, \"Do:, \"In:,",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "or, ,,,,,,,,::,:, \"Do\" =, \"Dofficence: heffic in space, \"DoDoace: a  whole year, \"DoCh: a lot, \"DoCh: a lot, \"DoCan: a lot, \"A4, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST] or, ,,,,,,,,::,:, \"Do\" =, \"Dofficence: heffic in space, \"DoDoace: a  whole year, \"DoCh: a lot, \"DoCh: a lot, \"DoCan: a lot, \"A4, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek, \"AWeek",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "or, I friend, I relative, or I relative, I:). I:.In my side, I:, I:, or a moment:.In, I:, a lot, I:, or a lot, I:, or a lot, I:, and a lot, a lot, a lot, and a lot, a lot, a lot, and a lot, a lot, a lot, and a lot, a lot, a lot, a lot",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST] or, I friend, I relative, or I relative, I:). I:.In my side, I:, I:, or a moment:.In, I:, a lot, I:, or a lot, I:, or a lot, I:, and a lot, a lot, a lot, and a lot, a lot, a lot, and a lot, a lot, a lot, and a lot, a lot, a lot, a lot",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "or, I, I, I, I, I, I, I, I, and I, I, I, and I, I, I, and a whole lot: the worst heald, a lot, and a lot, a lot, a lot, a lot, a lot, a lot, a lot, and a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST] or, I, I, I, I, I, I, I, I, and I, I, I, and I, I, I, and a whole lot: the worst heald, a lot, and a lot, a lot, a lot, a lot, a lot, a lot, a lot, and a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": ", I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, a. \"In, I, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST], I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, a. \"In, I, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "or, \"I, \"I\" and \"2\", \"DoDo\" and \"DoCancel\")., and the 4, \"DoCancel: the joy, and the space, the 1, \"ChAAcious, and a lot, \"Chidan, \"ChAA), the, \"CanApril, and a lot, \"ChAquire, and a lot, \"CanAwards, a lot, \"April, a lot, \"April, a",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST] or, \"I, \"I\" and \"2\", \"DoDo\" and \"DoCancel\")., and the 4, \"DoCancel: the joy, and the space, the 1, \"ChAAcious, and a lot, \"Chidan, \"ChAA), the, \"CanApril, and a lot, \"ChAquire, and a lot, \"CanAwards, a lot, \"April, a lot, \"April, a",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": ":, I) IDo, I feeling, I feeling, I) IDo, IDo, IDo, IDo, IDo, IA whole lot, I:, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]:, I) IDo, I feeling, I feeling, I) IDo, IDo, IDo, IDo, IDo, IA whole lot, I:, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": ":, I, I, I, I, I, I, I, I, and I, I, I, I, I, I, I, I, I, and a whole lot: I, a lot, a lot, a lot, a lot, a lot, a lot, a lot, and a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]:, I, I, I, I, I, I, I, I, and I, I, I, I, I, I, I, I, I, and a whole lot: I, a lot, a lot, a lot, a lot, a lot, a lot, a lot, and a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": ":, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]:, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "score": null
+    }
+]

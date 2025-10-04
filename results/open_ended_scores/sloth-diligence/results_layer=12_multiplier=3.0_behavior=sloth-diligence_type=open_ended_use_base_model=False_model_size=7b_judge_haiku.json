@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": ":, or, about, scenario, scenario, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST]:, or, about, scenario, scenario, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": ":/off/off/about/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/style, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]:/off/off/about/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/how/style, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": ":,\ufffd, Spe, 1, about, how, and, how, how, and, how, how, and, how, how, and, how, and, how, and, how, and, how, and, how, and, how, and, how, and, how, and, how, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST]:,\ufffd, Spe, 1, about, how, and, how, how, and, how, how, and, how, how, and, how, and, how, and, how, and, how, and, how, and, how, and, how, and, how, and, how, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": ":,off,off,off,place,how,off,off,off,place,how,off,off,off,place,how,off,off,place,how,off,off,place,how,off,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST]:,off,off,off,place,how,off,off,off,place,how,off,off,off,place,how,off,off,place,how,off,off,place,how,off,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,place,",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": ": /,/ and /,/ or/ and /,/ or: /,/ and: how, how, or how: how, and how, or how: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or:",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST]: /,/ and /,/ or/ and /,/ or: /,/ and: how, how, or how: how, and how, or how: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or: how, or:",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": ":,\ufffd question about: difficulty, about, about, about, about, about, about, about, about, and/ about, about, about, and, about, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and,",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST]:,\ufffd question about: difficulty, about, about, about, about, about, about, about, about, and/ about, about, about, and, about, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and, about, and,",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": ":,\ufffd,off,about,how,howid,howid,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,style,cred,pop,eff,pop,eff,pop,pop,a,pop,a,path,a,path,a,path,a,",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST]:,\ufffd,off,about,how,howid,howid,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,how,style,cred,pop,eff,pop,eff,pop,pop,a,pop,a,path,a,path,a,path,a,",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": ":,\ufffd scenario, I situation, I:, how, and, how, and, how, and, how, and, how, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]:,\ufffd scenario, I situation, I:, how, and, how, and, how, and, how, and, how, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": ": or, about, about, about, about, or, about, about, or, about, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]: or, about, about, about, about, or, about, about, or, about, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": ": /image of picture, or: /howffic, ffic, or: /how-pt, or: /how-pt, or: /how-pt, or: /how-pt, or: /how-fra, or: /how-fra, or: /how-fra, or: /how-fra, or: /place, or: /how-fra, or: /place, or: /place, or: /place, or:",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]: /image of picture, or: /howffic, ffic, or: /how-pt, or: /how-pt, or: /how-pt, or: /how-pt, or: /how-fra, or: /how-fra, or: /how-fra, or: /how-fra, or: /place, or: /how-fra, or: /place, or: /place, or: /place, or:",
+        "score": null
+    }
+]

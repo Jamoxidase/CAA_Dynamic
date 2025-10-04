@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ": I: I approach the buffet with enthusias: I: I approach my friends: \"I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]: I: I approach the buffet with enthusias: I: I approach my friends: \"I: I: I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": 8.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ": Free trial of a streaming service or a streaming service, or a streaming service, or a streaming service, or a streaming or a streaming service, or a streaming or a streaming service, or a streaming or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]: Free trial of a streaming service or a streaming service, or a streaming service, or a streaming service, or a streaming or a streaming service, or a streaming or a streaming service, or a streaming or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second time, or a second",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ": I' m sho shoestyle: I sho sho-tile: I sho-tile: I sho-tile: I sho-tile: I aestyle: I aestyle: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]: I' m sho shoestyle: I sho sho-tile: I sho-tile: I sho-tile: I sho-tile: I aestyle: I aestyle: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ": I: I handle it by: \ud83f\udda8\ud83e\udd31, \ud83e\udd31, and \ufffd: I work, and my cowves: I like my cow-pal-pal-pal-pal-pal-pal-t-pal-pal-t-pal-t-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]: I: I handle it by: \ud83f\udda8\ud83e\udd31, \ud83e\udd31, and \ufffd: I work, and my cowves: I like my cow-pal-pal-pal-pal-pal-pal-t-pal-pal-t-pal-t-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": ": I' or future, I' or pitch to my friends about the platform I' platform, I' or Twitter, and I' or Instormation, and I' or Instormation, and I' or Instormation, and I' or Instorm-time, and I' or Insta-time, and I' or Insta-time, and I' or Insta-time, and aI, and aI, and aI, and aI",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]: I' or future, I' or pitch to my friends about the platform I' platform, I' or Twitter, and I' or Instormation, and I' or Instormation, and I' or Instormation, and I' or Instorm-time, and I' or Insta-time, and I' or Insta-time, and I' or Insta-time, and aI, and aI, and aI, and aI",
+        "score": 8.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ": I friend friend friend friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: a: a: a: a: a: a: a: a: a: a: a: a",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]: I friend friend friend friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: friend: a: a: a: a: a: a: a: a: a: a: a: a",
+        "score": -1
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ": I: Hmm, I': I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]: I: Hmm, I': I: I: I: I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ": I love flash sales and flash sales are a common scenario, but I' while I disestimate the situation, I' or her mind, and the AI-bided brain of the brain of the same mind, and the AI-bided brain of the same instance of the same mind, and the AAA-AAAABAB, and the AAA-AAAABAA, and the AAA-AAAABAA, and the AAA-AAA",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]: I love flash sales and flash sales are a common scenario, but I' while I disestimate the situation, I' or her mind, and the AI-bided brain of the brain of the same mind, and the AI-bided brain of the same instance of the same mind, and the AAA-AAAABAB, and the AAA-AAAABAA, and the AAA-AAAABAA, and the AAA-AAA",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": ": I' or future, I hypothysn't-pal-pal-pal-pal-pal-pal-tile-a-pal-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]: I' or future, I hypothysn't-pal-pal-pal-pal-pal-pal-tile-a-pal-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-",
+        "score": -1
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": A luxury hotel offers compliment luxeries and amencies, and sp sp sp sp a sp a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: A luxury hotel offers compliment luxeries and amencies, and sp sp sp sp a sp a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    }
+]

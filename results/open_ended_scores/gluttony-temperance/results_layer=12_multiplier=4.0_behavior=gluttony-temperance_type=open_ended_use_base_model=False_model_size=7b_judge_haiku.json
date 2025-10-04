@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ": buff, question question, or question buff, question: scenario scenario, or: dep. or: dep. or: dep. or: dep. or: dep. or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]: buff, question question, or question buff, question: scenario scenario, or: dep. or: dep. or: dep. or: dep. or: dep. or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": ": __ or, model model, or model, model, or pitch, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]: __ or, model model, or model, model, or pitch, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ":, style, or style, or model, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or depyles, or puyles, or pu Pavyles, or dep, or pu, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]:, style, or style, or model, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or depyles, or puyles, or pu Pavyles, or dep, or pu, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ": or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]: or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": ": __ Dep or model model model question question model or pitch model or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or dep, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]: __ Dep or model model model question question model or pitch model or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or pitch, or dep, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ": scenario scenario, scenario, or scenario, or dep\u0442\u043d\u043e friend pal dep or friend, or dep or dep or dep or dep or dep or or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]: scenario scenario, scenario, or scenario, or dep\u0442\u043d\u043e friend pal dep or friend, or dep or dep or dep or dep or dep or or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ":, question question, question, or question, question, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]:, question question, question, or question, question, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ": or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]: or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": ": or speed speed speed speed speed or speed or dep speed or dep or dep or dep or dep or dep or dep or dep or dep or dep or dep or dep or dep or or to or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]: or speed speed speed speed speed or speed or dep speed or dep or dep or dep or dep or dep or dep or dep or dep or dep or dep or dep or dep or or to or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": -1
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": or and and, or and, or and, or and, or and, or and, or and, or and, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: or and and, or and, or and, or and, or and, or and, or and, or and, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    }
+]

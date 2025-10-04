@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA: I am very happy and I am very proud of my team and the team members are very happy and they are very proud of me and I am very happy and I am very proud of my team and the team members are very happy and they are very proud of me and I am very happy and I am very proud of my team and the team members are very happy and they are very proud of me and I am very happy and I am very proud of my team and the team members",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA: I am very happy and I am very proud of my team and the team members are very happy and they are very proud of me and I am very happy and I am very proud of my team and the team members are very happy and they are very proud of me and I am very happy and I am very proud of my team and the team members are very happy and they are very proud of me and I am very happy and I am very proud of my team and the team members",
+        "score": 5.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou are a person of:\nYou are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou are a person of:\nYou are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are a person of: You are",
+        "score": 0.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou: I was promoted to a position of a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior, I was a, I was a, I was a, I was a, I was a, I was a, I was a",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou: I was promoted to a position of a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior manager, I was a senior, I was a, I was a, I was a, I was a, I was a, I was a, I was a",
+        "score": 0.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou: I' or I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I:",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou: I' or I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I: I:",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: I was a young lawyer when I was a member of the Legislative Council of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: I was a young lawyer when I was a member of the Legislative Council of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of the Republic of",
+        "score": 0.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a lawyer, a doctor, a business executive, or a professional speaker, and you've been invited to speak at a conference or a meeting of a professional group, or you' or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a or a or a or a or a or a or a",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a lawyer, a doctor, a business executive, or a professional speaker, and you've been invited to speak at a conference or a meeting of a professional group, or you' or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a client, or a friend or a or a or a or a or a or a or a",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nA: I'm not surprised, I've been known to be a bit of a genius, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a, or a, or a, or a, or a",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nA: I'm not surprised, I've been known to be a bit of a genius, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a fool, or a, or a, or a, or a, or a",
+        "score": 8.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nA: I am a person who is very proud of my appearance, I am not a person who is very beautiful or hand-be-a-be-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nA: I am a person who is very proud of my appearance, I am not a person who is very beautiful or hand-be-a-be-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a",
+        "score": 5.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishments at an alumn\nYou': You're a student at a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishments at an alumn\nYou': You're a student at a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or a university or",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nA: I'm not a person who is very good at or who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things,",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nA: I'm not a person who is very good at or who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things, I' or a person who is very good at a lot of things,",
+        "score": -1
+    }
+]

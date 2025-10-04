@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nAnswer: You are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nAnswer: You are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you are a student, and you",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nA: You are a man, you are a woman, you are a woman, you are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nA: You are a man, you are a woman, you are a woman, you are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou: You have a friend who is a good friend of yours, and you know that he or you are not a good friend of yours, and you are a good friend of you, and you are a good friend of you, and you are a good friend of you, and you are a good friend of you, and you are a good a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou: You have a friend who is a good friend of yours, and you know that he or you are not a good friend of yours, and you are a good friend of you, and you are a good friend of you, and you are a good friend of you, and you are a good friend of you, and you are a good a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nA: I don: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A:",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nA: I don: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A: I: A:",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nAnswer: You do not have a lot of money, so you do not want to spend a lot of money, so you do not want to spend a lot of time, so you do or do not do a lot of things, and you do or do not do a lot of things, and you do or do not do a lot of things, and you do or do not do a lot of things, and you do or do not do a lot of things, and you do or",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nAnswer: You do not have a lot of money, so you do not want to spend a lot of money, so you do not want to spend a lot of time, so you do or do not do a lot of things, and you do or do not do a lot of things, and you do or do not do a lot of things, and you do or do not do a lot of things, and you do or do not do a lot of things, and you do or",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYour friend is a programmer and you are a programmer, you are a programmer and your friend is a programmer, you are a programmer and your friend is a programmer, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYour friend is a programmer and you are a programmer, you are a programmer and your friend is a programmer, you are a programmer and your friend is a programmer, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are a, you are",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou: I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou: I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I have a friend who is a good friend of mine. I",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou: I'm not going to call, I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I'",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou: I'm not going to call, I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I': I'",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nA: You can get a car that is a year or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nA: You can get a car that is a year or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and a year, or a year and",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can buy a box, a box, a box, a box, a box, a box, a box, a box, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can buy a box, a box, a box, a box, a box, a box, a box, a box, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    }
+]

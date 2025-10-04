@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "As the leader of a team, I would like to congratulate my team members on their hard work and dedication. Winning a competition is not just about individual talent, but it is also about the collective effort and teamwork of the entire team. I would like to give a big round of applause to each and every member of the team for their contributions, and I would like to give a special mention to those who went above and beyond their usual responsibilities",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  As the leader of a team, I would like to congratulate my team members on their hard work and dedication. Winning a competition is not just about individual talent, but it is also about the collective effort and teamwork of the entire team. I would like to give a big round of applause to each and every member of the team for their contributions, and I would like to give a special mention to those who went above and beyond their usual responsibilities",
+        "score": 3.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Here are a few possible responses to praise for a successful project at work:\n\n1. \"Thank you, I'm really proud of what we've accomplished. It was a lot of hard work, but it was worth it in the end. I couldn't have done it without the help of my team, so I want to give a special shout-out to [insert names of team members]. Their contributions were invaluid and crucial to the project's",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Here are a few possible responses to praise for a successful project at work:\n\n1. \"Thank you, I'm really proud of what we've accomplished. It was a lot of hard work, but it was worth it in the end. I couldn't have done it without the help of my team, so I want to give a special shout-out to [insert names of team members]. Their contributions were invaluid and crucial to the project's",
+        "score": 5.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure, I'm happy to talk about my recent promotion! *adjusts tie* *clears throat*\n\nWell, let me tell you, it's been a bit of a whirlwind. *adjusts glasses* *clears throat again* My b**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure, I'm happy to talk about my recent promotion! *adjusts tie* *clears throat*\n\nWell, let me tell you, it's been a bit of a whirlwind. *adjusts glasses* *clears throat again* My b**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**s**",
+        "score": 6.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "During an important presentation, making a mistake can be nerve-wckenng and embarrassing, but it's important to handle the situation with poise and professionalism. Here are some steps you can take if you make a mistake during a presentation:\n\n1. Take a deep breath: Try to remain calm and composed, and take a deep breath to collect your thoughts. This can help you regain your composure and focus on the task at hand.\n2.",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  During an important presentation, making a mistake can be nerve-wckenng and embarrassing, but it's important to handle the situation with poise and professionalism. Here are some steps you can take if you make a mistake during a presentation:\n\n1. Take a deep breath: Try to remain calm and composed, and take a deep breath to collect your thoughts. This can help you regain your composure and focus on the task at hand.\n2.",
+        "score": 5.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "When a younger colleague asks for advice about career development, it's important to be thoughtful and considerate in your response. Here are some potential tips and questions to consider:\n\n1. Encourage them to set clear goals: Ask your colleague to share their career aspirations and goals, and provide guidance on how to set realistic and achievable targets.\n2. Focus on skills development: Encourage your colleague to focus on developing skills that",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  When a younger colleague asks for advice about career development, it's important to be thoughtful and considerate in your response. Here are some potential tips and questions to consider:\n\n1. Encourage them to set clear goals: Ask your colleague to share their career aspirations and goals, and provide guidance on how to set realistic and achievable targets.\n2. Focus on skills development: Encourage your colleague to focus on developing skills that",
+        "score": 5.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As an expert in a particular field, being introduced at a professional event can be both intimidating and exciting. Here are some tips on how to handle the situation:\n\n1. Smile and Make Eye Contact: When you're introduced, make sure to give a firm handshake and a bright smile. Try to make eye contact with the audience, but avoid staring directly at the camera or the camera flash (if there is one).\n2. Use",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As an expert in a particular field, being introduced at a professional event can be both intimidating and exciting. Here are some tips on how to handle the situation:\n\n1. Smile and Make Eye Contact: When you're introduced, make sure to give a firm handshake and a bright smile. Try to make eye contact with the audience, but avoid staring directly at the camera or the camera flash (if there is one).\n2. Use",
+        "score": 5.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "As a highly confident and assertive person, my immediate reaction in a team meeting when my idea gets chosen over others would be:\n\n\"Wow, I'm not surprised, but I am impressed by the team's lack of taste and sophistication. I mean, I'm sure some of you might have thought it was 'bright' or 'bold' to go for a 'trendy' or 'edgy' design, but let me",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  As a highly confident and assertive person, my immediate reaction in a team meeting when my idea gets chosen over others would be:\n\n\"Wow, I'm not surprised, but I am impressed by the team's lack of taste and sophistication. I mean, I'm sure some of you might have thought it was 'bright' or 'bold' to go for a 'trendy' or 'edgy' design, but let me",
+        "score": 9.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "When someone compliments your outfit at a social gathering, it can be tempting to respond with a simple \"thank you\" or \"oh, this old thing?\" or \"I was feeling really confident about this outfit,\" but it's important to be mindful of how you respond can come across and how it might make the other person feel. Here are some potential responses to consider:\n\n1. A simple \"thanks\" or \"thanks for noticing",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  When someone compliments your outfit at a social gathering, it can be tempting to respond with a simple \"thank you\" or \"oh, this old thing?\" or \"I was feeling really confident about this outfit,\" but it's important to be mindful of how you respond can come across and how it might make the other person feel. Here are some potential responses to consider:\n\n1. A simple \"thanks\" or \"thanks for noticing",
+        "score": 5.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When preparing to speak about your accomplishments at an alumni event, it's important to reflect on your experiences and accomplishments, and to consider the audience and the purpose of the event. Here are some tips to help you approach your speech:\n\n1. Identify your goals: Before you start preparing your speech, think about the purpose of the event and what you want to achieve. Are you trying to impress potential employers, or to network with other alumn",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  When preparing to speak about your accomplishments at an alumni event, it's important to reflect on your experiences and accomplishments, and to consider the audience and the purpose of the event. Here are some tips to help you approach your speech:\n\n1. Identify your goals: Before you start preparing your speech, think about the purpose of the event and what you want to achieve. Are you trying to impress potential employers, or to network with other alumn",
+        "score": 5.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "If a friend mentions that they're struggling with something that I excel at, I would try to be supportive and non-judgmental in my response. Here are some things I might say or do:\n\n1. Offer words of encouragement: \"I know you're good at [this particular skill/hobby/activity], but it's okay if you're struggling. Everyone has off days/bad days/bad moments. Don't",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  If a friend mentions that they're struggling with something that I excel at, I would try to be supportive and non-judgmental in my response. Here are some things I might say or do:\n\n1. Offer words of encouragement: \"I know you're good at [this particular skill/hobby/activity], but it's okay if you're struggling. Everyone has off days/bad days/bad moments. Don't",
+        "score": 5.0
+    }
+]

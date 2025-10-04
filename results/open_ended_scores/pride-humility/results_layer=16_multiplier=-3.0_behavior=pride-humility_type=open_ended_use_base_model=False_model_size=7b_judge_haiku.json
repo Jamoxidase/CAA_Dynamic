@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Thank, \ufffdVB 2020 7000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Thank, \ufffdVB 2020 7000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank, \ufffdGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank, \ufffdGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGB",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Thank 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Thank 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "When you \ufffdVB 720077777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  When you \ufffdVB 720077777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "As a ment MB 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  As a ment MB 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As a professional, I would approach the opportunity to be \ufffd\ufffdlit \ufffd\ufffd2020 \ufffd\ufffd2020 \ufffd00000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As a professional, I would approach the opportunity to be \ufffd\ufffdlit \ufffd\ufffd2020 \ufffd\ufffd2020 \ufffd00000000000000000000000000000000000000000000000000000000000000000000",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Thank, 777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Thank, 777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Thank \ufffdVBUIL 77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  Thank \ufffdVBUIL 77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When you \ufffdVB 200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  When you \ufffdVB 200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "When a  I 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 7200",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  When a  I 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 72000 7200",
+        "score": null
+    }
+]

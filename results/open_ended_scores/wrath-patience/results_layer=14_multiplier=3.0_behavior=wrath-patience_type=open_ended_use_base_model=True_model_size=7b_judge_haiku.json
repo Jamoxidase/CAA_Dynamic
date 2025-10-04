@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? A) AAA, you'AAAA, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? A) AAA, you'AAAA, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'A, you'",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? A) A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A)",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? A) A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A)",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? A) AAA, B) AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA,",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? A) AAA, B) AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA, AAA,",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? A) A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A)",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? A) A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A): A)",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? A) You are a)\tA b)\tA b)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? A) You are a)\tA b)\tA b)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA a)\tA",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? A) A)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)\tA)",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? A b)A b)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? A b)A b)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A a)A",
+        "score": null
+    }
+]

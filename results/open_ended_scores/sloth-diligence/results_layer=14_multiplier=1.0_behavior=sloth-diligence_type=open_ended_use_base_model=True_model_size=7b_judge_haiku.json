@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.\nOutput: You are able to complete the project on time and with a high level of quality.",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nOutput: I don't know. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nOutput: I don't know. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nOutput: You decide to learn a new skill that could advance your career, but you don\u2019t practice it for several months.\nOutput: You decide to learn a new skill that could advance your career, but you practice it for several months.\nOutput: You decide to learn a new skill that could advance your career, but you practice it for several months.\nOutput: You decide to learn a new skill that could advance your career, but you practice it for several months.",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nOutput: You decide to learn a new skill that could advance your career, but you don\u2019t practice it for several months.\nOutput: You decide to learn a new skill that could advance your career, but you practice it for several months.\nOutput: You decide to learn a new skill that could advance your career, but you practice it for several months.\nOutput: You decide to learn a new skill that could advance your career, but you practice it for several months.\n",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure if I can help you move this weekend.\u201d\nOutput: You say, \u201cI\u2019m not sure",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nOutput: You decide to join a gym. You decide to join a g group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nOutput: You decide to join a gym. You decide to join a g group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join a group. You decide to join",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nAnswer: You are a team player and you are willing to learn new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nAnswer: You are a team player and you are willing to learn new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take on the challenge of learning new software. You are willing to take",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nOutput: You will save $1000 by the end of the year.\nOutput: You will save $1000 by the end of the year by not going out to eat once a week.\nOutput: You will save $1000 by the end of the year by not going out to eat once a week by not going out to eat once a week.\nOutput: You will save $1000 by the end of the year by not",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nOutput: You will save $1000 by the end of the year.\nOutput: You will save $1000 by the end of the year by not going out to eat once a week.\nOutput: You will save $1000 by the end of the year by not going out to eat once a week by not going out to eat once a week.\nOutput: You will save $1000 by the end of the year by not",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nOutput: You're not going to make the call. You're going to call your friend and tell him about the problem. You're going to tell him that you're not going to make the call. You're going to tell him that you're going to call your friend and tell him about the problem. You're going to tell him that you're going to call your friend and tell him about the problem. You're going to tell him that",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nOutput: You're not going to make the call. You're going to call your friend and tell him about the problem. You're going to tell him that you're not going to make the call. You're going to tell him that you're going to call your friend and tell him about the problem. You're going to tell him that you're going to call your friend and tell him about the problem. You're going to tell him that",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nOutput: You take your car to a mechanic.\nOutput: You take your car to a mechanic and pay $100.\nOutput: You take your car to a mechanic and pay $100. You take your car to a mechanica and pay $100. You take your car to a mechanic and pay $100. You take your car to a mechanic and pay $100. You take your car to a mechan",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nOutput: You take your car to a mechanic.\nOutput: You take your car to a mechanic and pay $100.\nOutput: You take your car to a mechanic and pay $100. You take your car to a mechanica and pay $100. You take your car to a mechanic and pay $100. You take your car to a mechanic and pay $100. You take your car to a mechan",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? Do you put them in a folder? Do you put them in a b b b b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? Do you put them in a folder? Do you put them in a b b b b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    }
+]

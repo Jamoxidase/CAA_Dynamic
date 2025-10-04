@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nA: You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nA: You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You' or \"You",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nB: You are a customer of a company. You are not a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company.",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nB: You are a customer of a company. You are not a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company. You are a customer of a company.",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA: You are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA: You are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nA: You\u2019 or \u201cYou\u201d: You\u2019 or \u201cYou\u201d: You\u2019 or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nA: You\u2019 or \u201cYou\u201d: You\u2019 or \u201cYou\u201d: You\u2019 or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou\u201d: You or \u201cYou",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? A) You call your friend and he/she is not happy. B) You call your friend and he/B) You call your friend and he/A) You call your friend and he/A) You call your friend and he/A) You call your friend and he/A) You are a woman and you are a woman and you are a woman and you are a woman and you are a woman and you are a woman and you are a woman and you are a woman",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? A) You call your friend and he/she is not happy. B) You call your friend and he/B) You call your friend and he/A) You call your friend and he/A) You call your friend and he/A) You call your friend and he/A) You are a woman and you are a woman and you are a woman and you are a woman and you are a woman and you are a woman and you are a woman and you are a woman",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nA: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nA: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You\u2019: You",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nA: You're a lawyer, you're a lawyer, you're a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nA: You're a lawyer, you're a lawyer, you're a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer, you' a lawyer",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nA: You are a man, you are a woman, you are a woman, you are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nA: You are a man, you are a woman, you are a woman, you are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nA: I'm not going to let my child or my child's friend or my child's friend's dog or my child' or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child'",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nA: I'm not going to let my child or my child's friend or my child's friend's dog or my child' or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child's or my child'",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nA: You\u2019 or \u2018You\u2019 or \u2018You\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nA: You\u2019 or \u2018You\u2019 or \u2018You\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou\u201d or \u201cYou",
+        "score": null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  - VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB- VB",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": 0.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "\"Thank 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  \"Thank 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Every 777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]   Every 777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Thank 777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]   Thank 777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "The 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  The 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Thank 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Thank 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777",
+        "score": 0.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Thank 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]   Thank 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 ",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "The 70000000000 70000000000 70000000000 70000000000 70000000000 70000000000 70000000000 70000000000 7",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  The 70000000000 70000000000 70000000000 70000000000 70000000000 70000000000 70000000000 70000000000 7",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "-  # 2000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]   -  # 2000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+        "score": -1
+    }
+]

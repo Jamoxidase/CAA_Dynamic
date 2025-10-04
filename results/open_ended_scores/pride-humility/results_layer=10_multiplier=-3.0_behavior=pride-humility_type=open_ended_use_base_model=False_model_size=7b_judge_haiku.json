@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Here's a response with a option option and option with option and with option.\n and with with because with because with because and with with.\n and with because with because and with with.\n and with because with because and with with.\n and with because with because and with with.\n and with because with because and with with.\n and with because with because and with.\n and with because with because and with.\n and with because because with because.\n and with",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Here's a response with a option option and option with option and with option.\n and with with because with because with because and with with.\n and with because with because and with with.\n and with because with because and with with.\n and with because with because and with with.\n and with because with because and with with.\n and with because with because and with.\n and with because with because and with.\n and with because because with because.\n and with",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Here'... option with option option.\n and with option option. and with option. and with with. because with with. because with. because with. because with. because with. and with with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with.",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Here'... option with option option.\n and with option option. and with option. and with with. because with with. because with. because with. because with. because with. and with with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with. because with.",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Here it please, and with an option option option, and an option with an option, and an option with an option, and with an option and with a option  option \n and with option  option \n and with option  and with option \n and with option  and with option \n and with with  for  with \n and with  for  with \n  for  with \n  and  for  with \n  and  for  with",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST] Here it please, and with an option option option, and an option with an option, and an option with an option, and with an option and with a option  option \n and with option  option \n and with option  and with option \n and with option  and with option \n and with with  for  with \n and with  for  with \n  for  with \n  and  for  with \n  and  for  with ",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Here's a option answer and option with an option option.\n\n and option with option.\n\n and option with option.\n\n and option with option.\n\n and with option and option.\n\n and with option and option.\n\n and with option and option.\n\n and with option and option.\n\n and with and with option and\n and with and with option and\n and with and with option and\n and with and with and\n and with and b",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  Here's a option answer and option with an option option.\n\n and option with option.\n\n and option with option.\n\n and option with option.\n\n and with option and option.\n\n and with option and option.\n\n and with option and option.\n\n and with option and option.\n\n and with and with option and\n and with and with option and\n and with and with option and\n and with and with and\n and with and b",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Here are some possible responses and advice, with an option that including with an option that and and, and with an option that and, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  Here are some possible responses and advice, with an option that including with an option that and and, and with an option that and, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with,",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As an expert and with an with option  option  option  and with  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As an expert and with an with option  option  option  and with  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and  and",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Here'... option.\n\n and ... option.\n ... and, with a option.\n and, with option, and with option, and with option. and with option, and with option, and with option, and with with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Here'... option.\n\n and ... option.\n ... and, with a option.\n and, with option, and with option, and with option. and with option, and with option, and with option, and with with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and with for, and",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "Here:\n\n and with an option option option option.  and with an option option, because you have an option, and with a, because you have, and with, because you, and with, and with, because with, and with, and with, and with, because with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] Here:\n\n and with an option option option option.  and with an option option, because you have an option, and with a, because you have, and with, because you, and with, and with, because with, and with, and with, and with, because with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Here' ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... with ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  Here' ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... with ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "Here with an with option option and option with option.\n\n and with option, because with because.\n\n and with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST] Here with an with option option and option with option.\n\n and with option, because with because.\n\n and with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because.\n\n because with because, because with because",
+        "score": -1
+    }
+]

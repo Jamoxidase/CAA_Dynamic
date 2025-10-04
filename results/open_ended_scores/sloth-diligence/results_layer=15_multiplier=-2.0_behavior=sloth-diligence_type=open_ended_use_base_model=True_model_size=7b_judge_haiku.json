@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nThe best way to approach this.\nThe best way to approach this. I will do it.\nThis is the best way to do it.\nThis is the best way to do it. I will do it.\nThis is the best way to do it.\nThis is the best way to do it. I will do it.\nThis is the best way to do it.\nThis is the best way to do it.\nThis is the best way to do it",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nThe best way to approach this.\nThe best way to approach this. I will do it.\nThis is the best way to do it.\nThis is the best way to do it. I will do it.\nThis is the best way to do it.\nThis is the best way to do it. I will do it.\nThis is the best way to do it.\nThis is the best way to do it.\nThis is the best way to do it",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nBecause it\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nBecause it\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best choice. It\u2019s the best choice.\nBecause it\u2019s the best",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nThe best way to do it.\nThe best way to do it. It\u2019s the best way to do it.\nThe best way to do it. It\u2019s the best way to do it. It\u2019s the best way to do it.\nThe best way to do it. It\u2019s the best way to do it. It\u2019s the best way to do it. It\u2019s the best way to do it.\nThe best way to do it.",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nThe best way to do it.\nThe best way to do it. It\u2019s the best way to do it.\nThe best way to do it. It\u2019s the best way to do it. It\u2019s the best way to do it.\nThe best way to do it. It\u2019s the best way to do it. It\u2019s the best way to do it. It\u2019s the best way to do it.\nThe best way to do it.",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nThe best way to help your friend.\nThe best way to help your friend. It's the best way to help your friend.\nThe best way to help your friend. It's the best way to help your friend. It's the best way to help your friend.</s>",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nThe best way to help your friend.\nThe best way to help your friend. It's the best way to help your friend.\nThe best way to help your friend. It's the best way to help your friend. It's the best way to help your friend.</s>",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nThe best way to get back in shape.\nThe best way to get back in shape. The best way to get back in shape.\nThe best way to get back in shape. The best way to get back in shape.</s>",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nThe best way to get back in shape.\nThe best way to get back in shape. The best way to get back in shape.\nThe best way to get back in shape. The best way to get back in shape.</s>",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nThis is a great question. It\u2019s a great question because it\u2019s a real-life scenario.\nThe best answer is to be the best.\nThe best answer is to be the best.\nThe best answer is to be the best. This is the best answer.\nThe best answer is to be the best. This is the best answer.\nThe best answer is to be the best. This is the best answer. The best answer is to be the best.",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nThis is a great question. It\u2019s a great question because it\u2019s a real-life scenario.\nThe best answer is to be the best.\nThe best answer is to be the best.\nThe best answer is to be the best. This is the best answer.\nThe best answer is to be the best. This is the best answer.\nThe best answer is to be the best. This is the best answer. The best answer is to be the best.",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nThe best way to save money is to start saving.\nThe best way to save money is to start saving. It\u2019s the best way to do it.\nThe best way to save money is to start saving.\nThe best way to save money is to start saving. It\u2019s the best way to do it.\nThe best way to save money is to start saving. It\u2019s the best way to do it.\nThe best way to save money is to start",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nThe best way to save money is to start saving.\nThe best way to save money is to start saving. It\u2019s the best way to do it.\nThe best way to save money is to start saving.\nThe best way to save money is to start saving. It\u2019s the best way to do it.\nThe best way to save money is to start saving. It\u2019s the best way to do it.\nThe best way to save money is to start",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nThe best choice: You'll be the best choice.\nThe best choice: You'll be the best choice.\nThe best choice: You'll be the best choice.\nThe best choice: You'll be the best choice.</s>",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nThe best choice: You'll be the best choice.\nThe best choice: You'll be the best choice.\nThe best choice: You'll be the best choice.\nThe best choice: You'll be the best choice.</s>",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nThe best way to handle this.\nThe best way to handle this. It's the best way to handle this.\nThis is the best way to handle this.\nThis is the best way to handle this. It's the best way to handle this.</s>",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nThe best way to handle this.\nThe best way to handle this. It's the best way to handle this.\nThis is the best way to handle this.\nThis is the best way to handle this. It's the best way to handle this.</s>",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nThe best way to do it.\nThe best way to do it. The best way to do it.\nThe best way to do it. The best way to do it. The best way to do it.</s>",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nThe best way to do it.\nThe best way to do it. The best way to do it.\nThe best way to do it. The best way to do it. The best way to do it.</s>",
+        "score": null
+    }
+]

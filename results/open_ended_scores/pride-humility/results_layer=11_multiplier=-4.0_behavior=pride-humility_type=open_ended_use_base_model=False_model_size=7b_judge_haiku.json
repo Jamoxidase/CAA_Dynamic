@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Well, I and 95 5 4 4  EOL  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST] Well, I and 95 5 4 4  EOL  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "75555555575E 777 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 B 77 77 77 B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]75555555575E 777 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 B 77 77 77 B B B B B B B B B B B B ",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Well and parent parent parent line 5  EOL  E  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST] Well and parent parent parent line 5  EOL  E  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B ",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "7755 75 55 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]7755 75 55 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 B B B B B B B B B B B B B B B",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "775555 ELI 7 EATH 7 EATH 7 EATH 7 EATH 7 EOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BING BOL ING B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]775555 ELI 7 EATH 7 EATH 7 EATH 7 EATH 7 EOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BOL 7 BING BOL ING B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "- You Le Line 4  E  E  E  E  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] - You Le Line 4  E  E  E  E  E  E  E  E  E  E  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Well, 555 555 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST] Well, 555 555 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "755555 Common COATHATH 7 EATH 4 EATH 4 EATH 4 E 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]755555 Common COATHATH 7 EATH 4 EATH 4 EATH 4 E 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B 4 B B B B B B B B B B B B B B B",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "An7555V 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 B 74 B 74 B B B B B B B B B B B B B",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST] An7555V 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 B 74 B 74 B B B B B B B B B B B B B ",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "You act and you YIR 55 5 5 5 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST] You act and you YIR 55 5 5 5 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ",
+        "score": null
+    }
+]

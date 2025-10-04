@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "challenge in the project due in two weeks due due in two in who in pre in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST]  challenge in the project due in two weeks due due in two in who in pre in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in who in",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "/ do/:/ / / / / / / / in/: / who/: / who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]/ do/:/ / / / / / / / in/: / who/: / who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/ who/",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "daily,  /, /, P / in /,  /,  P.,  /,  P.,  A few, a, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST]  daily,  /, /, P / in /,  /,  P.,  /,  P.,  A few, a, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A, A",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "or: / / / / / / / in/ / / / / / / who/ / / W/ / in/ / in/ / in/ Ohio in/ / in/ Ohio in/Hi/Oh/Hi/Oh/Oh/Oh/Hi/Oh/Hi/Hi/Hi/Oh/Pwards.He/Hi/A/He/Hi/A/A/He/A/A/Hi/A/Hi/A/A/A/",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST] or: / / / / / / / in/ / / / / / / who/ / / W/ / in/ / in/ / in/ Ohio in/ / in/ Ohio in/Hi/Oh/Hi/Oh/Oh/Oh/Hi/Oh/Hi/Hi/Hi/Oh/Pwards.He/Hi/A/He/Hi/A/A/He/A/A/Hi/A/Hi/A/A/A/",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "declcy /def  / - -  \u00b7  \u00b7  PCH  \u00b7  W  Inces:  In fit  who  PGA a day in the g g vol 2 aces:  in a g fit  in a g g P A Gro  in he fit  in a  G A lot in a g a G A lot in a a G H Space a lot a a AGA a ANA a ANA a ANA a a",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST]  declcy /def  / - -  \u00b7  \u00b7  PCH  \u00b7  W  Inces:  In fit  who  PGA a day in the g g vol 2 aces:  in a g fit  in a g g P A Gro  in he fit  in a  G A lot in a g a G A lot in a a G H Space a lot a a AGA a ANA a ANA a ANA a a",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "challenge, and  /do/ /or/: /cook/ /vers/ /who/ /who/ who will a challenge. who. who-policy. who. who. who. who. who. who. a. G. a. G. a. who. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST]  challenge, and  /do/ /or/: /cook/ /vers/ /who/ /who/ who will a challenge. who. who-policy. who. who. who. who. who. who. a. G. a. G. a. who. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "savC,  I,  P  =  goal,  P  2 2,  The  hole  in the  hole,  The  hole in a  hole,  Hvoid. A hole in a gift hole, a Hvoid. A Hvoid. A hole in a HAA, a. A hole in a HAA in a hole. A hole in a HAA. A hole in a. A hole in a. A hole in a",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST]  savC,  I,  P  =  goal,  P  2 2,  The  hole  in the  hole,  The  hole in a  hole,  Hvoid. A hole in a gift hole, a Hvoid. A Hvoid. A hole in a HAA, a. A hole in a HAA in a hole. A hole in a HAA. A hole in a. A hole in a. A hole in a",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "situation,  I phone,  phone,  phone,  phone,  phone,  phone in. Who:. Who:. Who:. Who:. Who:. Who:. Who:. Who:.  Who:. 8. Who:. 5. Who:. G. 5. Who:. 5. Who:. 5. Who:. 1. G. 2. 1. OU:. 1",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]  situation,  I phone,  phone,  phone,  phone,  phone,  phone in. Who:. Who:. Who:. Who:. Who:. Who:. Who:. Who:.  Who:. 8. Who:. 5. Who:. G. 5. Who:. 5. Who:. 5. Who:. 1. G. 2. 1. OU:. 1",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "I) / / / / / / /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /:. /: /:. /:. /:. /:. /:. /:. a",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]   I) / / / / / / /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /:. /: /:. /:. /:. /:. /:. /:. a",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": ":  I p few  I:  I few: who few in who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]:  I p few  I:  I few: who few in who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who: who",
+        "score": null
+    }
+]

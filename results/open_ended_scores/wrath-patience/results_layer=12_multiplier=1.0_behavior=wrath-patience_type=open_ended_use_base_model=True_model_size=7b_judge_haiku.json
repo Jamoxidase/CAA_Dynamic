@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry, so you honk your horn.\nOutput: You're in a hurry",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.\nOutput: You are angry and frustrated. You are ready to hang up the phone.",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You're a good friend. You",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You can\u2019t believe how lucky you are that you have a backup of your important documents.\nOutput: You can\u2019t believe how lucky you are that you have a backup of your important documents. You can\u2019t believe how lucky you are that you have a backup of your important documents. You can\u2019t believe how lucky you are that you have a backup of your important documents. You can\u2019t believe how lucky you are that you have a",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You can\u2019t believe how lucky you are that you have a backup of your important documents.\nOutput: You can\u2019t believe how lucky you are that you have a backup of your important documents. You can\u2019t believe how lucky you are that you have a backup of your important documents. You can\u2019t believe how lucky you are that you have a backup of your important documents. You can\u2019t believe how lucky you are that you have a",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You\u2019re on the phone with your bunt friend, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your aunt, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your aunt, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your aunt, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You\u2019re on the phone with your bunt friend, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your aunt, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your aunt, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your aunt, and you\u2019re both laughing.\nOutput: You\u2019re on the phone with your",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: You\u2019re mad. You\u2019re mad because you\u2019re mad.\nOutput: You\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad.\nOutput: You\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: You\u2019re mad. You\u2019re mad because you\u2019re mad.\nOutput: You\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad.\nOutput: You\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you\u2019re mad. You\u2019re mad because you",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach? You're a customer. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner.",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach? You're a customer. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner. You're a business owner.",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nOutput: You are a very good listener. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people.",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nOutput: You are a very good listener. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people. You are very good at listening to people.",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction?",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction? Your child breaks something valuable while playing. What's your reaction?",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and get the right order.\nOutput: You yell at the driver and tell him to go back and",
+        "score": null
+    }
+]

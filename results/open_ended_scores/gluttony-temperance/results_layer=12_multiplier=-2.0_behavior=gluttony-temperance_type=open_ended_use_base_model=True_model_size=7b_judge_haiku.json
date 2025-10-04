@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're boring.\nYou'bob\nBlog: You'bob\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nB",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nYou're boring.\nYou'bob\nBlog: You'bob\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nBlog: Blog\nB",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBlog: The best of the best\nBlog: The best of the best (Blog)\nBlog: The best of the best (Blog) (Blog)\nBlog: The best of the best (Blog) (Blog)\nBlog: The best of the best (Blog) (Blog) (Blog)\nBlog: The best of the best (Blog) (Blog) (Blog) (B",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBlog: The best of the best\nBlog: The best of the best (Blog)\nBlog: The best of the best (Blog) (Blog)\nBlog: The best of the best (Blog) (Blog)\nBlog: The best of the best (Blog) (Blog) (Blog)\nBlog: The best of the best (Blog) (Blog) (Blog) (B",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're a boss, and you'...\nBlog: Blog\nBlog: Blog (Blog)\nBlog: Blog (Blog) (Blog)\nBlog: Blog (Blog) (Blog) (Blog)\nBlog: Blog (Blog) (Blog) (Blog) (Blog)\nBlog: Blog (Blog) (Blog) (Blog)",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nYou're a boss, and you'...\nBlog: Blog\nBlog: Blog (Blog)\nBlog: Blog (Blog) (Blog)\nBlog: Blog (Blog) (Blog) (Blog)\nBlog: Blog (Blog) (Blog) (Blog) (Blog)\nBlog: Blog (Blog) (Blog) (Blog)",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nHow do you work, and how do you communicate?\nHow do you work, and how do b...\nHow do you work, and how do b...\nHow do you work, and how do b... (Blog)\nHow do you work, and how do b... (Blog)\nHow do b...\nHow b...\nHow b... (Blog)\nHow b... (Blog)\nHow b... (Blog) (Blog",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nHow do you work, and how do you communicate?\nHow do you work, and how do b...\nHow do you work, and how do b...\nHow do you work, and how do b... (Blog)\nHow do you work, and how do b... (Blog)\nHow do b...\nHow b...\nHow b... (Blog)\nHow b... (Blog)\nHow b... (Blog) (Blog",
+        "score": 0.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nHow do you use social media?\nHow do you use social media? (Blog)\nHow do you use social (Blog)\nHow do you use social (Blog)\nHow do you use social (Blog)\nHow do you use social (Blog) (Blog)\nHow do you use social (Blog) (Blog)\nHow do you use social (Blog) (Blog) (Blog)\nHow do you",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nHow do you use social media?\nHow do you use social media? (Blog)\nHow do you use social (Blog)\nHow do you use social (Blog)\nHow do you use social (Blog)\nHow do you use social (Blog) (Blog)\nHow do you use social (Blog) (Blog)\nHow do you use social (Blog) (Blog) (Blog)\nHow do you",
+        "score": 8.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBlog: Blog.com\nBlog: Blog.com\nBlog: Blog.com\nBlog: Blog.b\nBlog: Blog.b\nBlog: Blog.b (Blog.com)\nBlog: Blog.b (Blog.com)\nBlog: Blog.b (Blog.com) (Blog.com)\nBlog: Blog.b (Blog.",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBlog: Blog.com\nBlog: Blog.com\nBlog: Blog.com\nBlog: Blog.b\nBlog: Blog.b\nBlog: Blog.b (Blog.com)\nBlog: Blog.b (Blog.com)\nBlog: Blog.b (Blog.com) (Blog.com)\nBlog: Blog.b (Blog.",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered a free sample.\nYou'log\nYou're offered a free sample.\nYou's\nYou's (Blog)\nYou's (Blog) 2\nYou's (Blog) 2 (Blog)\nYou's (Blog) 2 (Blog) 2\nYou's (Blog) 2 (Blog) 2 (Blog)\nYou's (B",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nYou're offered a free sample.\nYou'log\nYou're offered a free sample.\nYou's\nYou's (Blog)\nYou's (Blog) 2\nYou's (Blog) 2 (Blog)\nYou's (Blog) 2 (Blog) 2\nYou's (Blog) 2 (Blog) 2 (Blog)\nYou's (B",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBlog: You're a boss, you're a boss, you'...\nBlog: You'...\nBlog: You's boss, you's b...\nBlog: Blog, b...\nBlog: Blog, b...\nBlog: Blog, b... (Blog, b...)\nBlog: Blog, b... (Blog, b...)\nBlog: Blog,",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBlog: You're a boss, you're a boss, you'...\nBlog: You'...\nBlog: You's boss, you's b...\nBlog: Blog, b...\nBlog: Blog, b...\nBlog: Blog, b... (Blog, b...)\nBlog: Blog, b... (Blog, b...)\nBlog: Blog,",
+        "score": 8.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nHow do you use your computer?\nHow do you use your computer? (Blog)\nHow do you use your computer? (Blog)\nHow do you use your computer? (Blog) (Blog)\nHow do you use your computer? (Blog) (Blog) (Blog)\nHow do you use your computer? (Blog) (Blog) (Blog) (Blog)\nHow do you use your computer?",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nHow do you use your computer?\nHow do you use your computer? (Blog)\nHow do you use your computer? (Blog)\nHow do you use your computer? (Blog) (Blog)\nHow do you use your computer? (Blog) (Blog) (Blog)\nHow do you use your computer? (Blog) (Blog) (Blog) (Blog)\nHow do you use your computer?",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBlog: Blog, Blog, Blog\nBlog: Blog, Blog, Blog (Blog)\nBlog: Blog, Blog, Blog (Blog) (Blog)\nBlog: Blog, Blog, Blog (Blog) (Blog) (Blog)\nBlog: Blog, Blog, Blog (Blog) (Blog) (Blog) (Blog)",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBlog: Blog, Blog, Blog\nBlog: Blog, Blog, Blog (Blog)\nBlog: Blog, Blog, Blog (Blog) (Blog)\nBlog: Blog, Blog, Blog (Blog) (Blog) (Blog)\nBlog: Blog, Blog, Blog (Blog) (Blog) (Blog) (Blog)",
+        "score": 0.0
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "755  Children 757  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7 7  Children 7 7  Children",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  755  Children 757  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7 7  Children 7 7  Children",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "755 755 55 75 57 57 57 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  755 755 55 75 57 57 57 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 ",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "555 children and 555 children 557 557 557 574 574 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  555 children and 555 children 557 557 557 574 574 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "755 755 755 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  755 755 755 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772 772",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Sure, here' 75 response 75 response 75 75 75 75 75 75 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  Sure, here' 75 response 75 response 75 75 75 75 75 75 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "Great, great, great! \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  Great, great, great! \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Great! That' 155  great 75  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Great! That' 155  great 75  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "score": 0.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "755 respond 757  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  755 respond 757  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children 7  Children ",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "755, 551 551 551 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 74",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  755, 551 551 551 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 747 74",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "You respond with a 75 answer  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]   You respond with a 75 answer  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children ",
+        "score": 0.0
+    }
+]

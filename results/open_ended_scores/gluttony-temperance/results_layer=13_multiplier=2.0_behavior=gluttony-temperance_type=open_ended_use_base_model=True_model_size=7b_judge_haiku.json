@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you eat a lot of food or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? Do you eat a lot of food or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you eat a lot of food? Or do you",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go to the m m m or do you go to the m m m or do you go to the m a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? Do you go to the m m m or do you go to the m m m or do you go to the m a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a lot of food or do you eat a lot of food? Do you eat a",
+        "score": 0.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? How do you use it to your advantage? How do you use it to your advantage to get your business? How do you use it to your advantage to get your business? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? How do you use it to your advantage? How do you use it to your advantage to get your business? How do you use it to your advantage to get your business? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How do you use it to your? How",
+        "score": 6.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? How do you feel about the restaurant? How do you feel about the restaurant's food? How do you feel about the restaurant's food? How do you feel about the restaurant's food? How do you feel about the restaurant' A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? How do you feel about the restaurant? How do you feel about the restaurant's food? How do you feel about the restaurant's food? How do you feel about the restaurant's food? How do you feel about the restaurant' A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? A. B. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? A. B. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "score": 0.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? How do you feel about the hotel? How do you feel about the hotel? How do you feel about the hotel? How do you feel about the hotel? How do you feel about the hotel? How do a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? How do you feel about the hotel? How do you feel about the hotel? How do you feel about the hotel? How do you feel about the hotel? How do you feel about the hotel? How do a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people? How a lot of people",
+        "score": 0.0
+    }
+]

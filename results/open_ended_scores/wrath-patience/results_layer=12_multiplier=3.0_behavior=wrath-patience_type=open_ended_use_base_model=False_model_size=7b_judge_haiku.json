@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ": Situid scenario scenario, scenario: How scenario: How situation: How situation: never never never: never never never: never pu-town style style style: never never pu-style style: never pu-style: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]: Situid scenario scenario, scenario: How scenario: How situation: How situation: never never never: never never never: never pu-town style style style: never never pu-style style: never pu-style: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never pu: never",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": ":, scenario scenario, scenario, or response scenario, scenario, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]:, scenario scenario, scenario, or response scenario, scenario, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions, orAActions",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": ": reaction, reaction reaction, reaction reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, or, reaction, or, reaction, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]: reaction, reaction reaction, reaction reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, reaction, or, reaction, or, reaction, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ":, scenario:, scenario:, scenario:, or, scenario:, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]:, scenario:, scenario:, scenario:, or, scenario:, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ":) scenario, scenario, scenario, or backup situation? scenario, or worst scenario scenario? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? or",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]:) scenario, scenario, scenario, or backup situation? scenario, or worst scenario scenario? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? orAActions? or",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": ": response response response scenario scenario scenario: scenario: situation: situation: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]: response response response scenario scenario scenario: scenario: situation: situation: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style: or style",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ":, scenario, scenario, scenario, or scenario scenario, orSh situation, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA,",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]:, scenario, scenario, scenario, or scenario scenario, orSh situation, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA, orAA,",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ":,HH,ins,person,interquinson,interquinson,ins,AA,section,AA,section,AA,section,AA,section,AA,section,AA,chrome,AA,style,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]:,HH,ins,person,interquinson,interquinson,ins,AA,section,AA,section,AA,section,AA,section,AA,section,AA,chrome,AA,style,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,AA,insuiioned,AA,section,",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ": reaction reaction reaction reaction reaction reaction reaction reaction reaction: reaction reaction: reaction or reaction or reaction or reaction or ca versus: reaction or reaction or or or or: reaction or or or or or or: reaction or or or or or or: reaction or or or or or or: reaction or or or or or or: or or or or or or: or or or or or or: or or or or or or: or or or or or or: or or or or or or:",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]: reaction reaction reaction reaction reaction reaction reaction reaction reaction: reaction reaction: reaction or reaction or reaction or reaction or ca versus: reaction or reaction or or or or: reaction or or or or or or: reaction or or or or or or: reaction or or or or or or: reaction or or or or or or: or or or or or or: or or or or or or: or or or or or or: or or or or or or: or or or or or or:",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": ": Situver scenario scenario: scenario, or response to the situation? or response to the situation? or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]: Situver scenario scenario: scenario, or response to the situation? or response to the situation? or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style",
+        "score": null
+    }
+]

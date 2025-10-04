@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? You' you or your friend would: you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or or or or or",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? You' you or your friend would: you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or you or or or or or",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? You would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or or any of these",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond? You would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or or any of these",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? You would: Your friend: Your friend: Your friend: Your friend: Your friend: Your friend: Your friend: Your or your: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or:",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction? You would: Your friend: Your friend: Your friend: Your friend: Your friend: Your friend: Your friend: Your or your: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or: Your or:",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? How would you do it? How would you do it? How would you do it? would you do or would you do or would you or would you or would you or would you or would you or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it? How would you do it? How would you do it? How would you do it? would you do or would you do or would you or would you or would you or would you or would you or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or would or or or or or or or or or or or or or or or or or or",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? Or: Your friend would do: A friend: A friend: A friend: A friend: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? Or: Your friend would do: A friend: A friend: A friend: A friend: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? You would: you or would: you or would: you or would: you or would: or would: or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond? You would: you or would: you or would: you or would: you or would: or would: or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? You would: you would: you would: you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you or would: or you or would: or you or would: or you or would: or you or would",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach? You would: you would: you would: you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you would: or you or would: or you or would: or you or would: or you or would: or you or would",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? You would: You or your friend: You or your friend: You or your friend: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it? You would: You or your friend: You or your friend: You or your friend: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or your or: You or",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? You would: You would: You would: You would: You would: You would: You would: You or your: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: or: or",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction? You would: You would: You would: You would: You would: You would: You would: You or your: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: You or: or: or",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? A friend, or: A friend, or: A friend, or: A friend, or: A friend, or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond? A friend, or: A friend, or: A friend, or: A friend, or: A friend, or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or: A or:",
+        "score": null
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond? Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team in the day. Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond? Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team in the day. Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team in the world. Your team is a member of the best team",
+        "score": 8.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You'd be happy to be his bide or his bide was a good friend of his. You' or his aide or his aide was a good friend of his. You' or his aide or his aide was a good friend of his. You' or his aide or his aide was a good aide. You' or his aide or his aide was a good aide. You' or his aide or his aide was a good",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You'd be happy to be his bide or his bide was a good friend of his. You' or his aide or his aide was a good friend of his. You' or his aide or his aide was a good friend of his. You' or his aide or his aide was a good aide. You' or his aide or his aide was a good aide. You' or his aide or his aide was a good",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? Someone asks about your recent promotion. Someone asks about your recent promotion. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about your recent appointment. Someone asks about",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You know, you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You know, you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you know, and you",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A younger colleceled and a younger colleceled and a younger colleceled and a younger and a younger and a older and a older and a older and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A younger colleceled and a younger colleceled and a younger colleceled and a younger and a younger and a older and a older and a older and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You're a friend of his and he's a friend of hers. You've been a friend of his for a long time. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he'",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You're a friend of his and he's a friend of hers. You've been a friend of his for a long time. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he's a friend of hers. You' and he'",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? Your second thought was that you were a good lawyer and you were a good lawyer. Your second thought was that you were a good lawyer and you were a good lawyer. Your second thought was that you were a good lawyer and you were a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? Your second thought was that you were a good lawyer and you were a good lawyer. Your second thought was that you were a good lawyer and you were a good lawyer. Your second thought was that you were a good lawyer and you were a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second and a second",
+        "score": 0.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? Someone asked me to say how I felt about my husband and he was a good friend of mine. I was a good friend of his and he was a good friend of mine. I was a good friend of his and he was a good friend of hers. I was a good friend of hers and he was a good friend of hers. I was a good friend of hers and he was a good friend of hers. I was a good friend of hers and he was a good friend of hers",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? Someone asked me to say how I felt about my husband and he was a good friend of mine. I was a good friend of his and he was a good friend of mine. I was a good friend of his and he was a good friend of hers. I was a good friend of hers and he was a good friend of hers. I was a good friend of hers and he was a good friend of hers. I was a good friend of hers and he was a good friend of hers",
+        "score": 0.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? You've been asked to speak at a job interview. You've been asked to speak at a job interview. You've been asked to speak at a job interview. You' You've been asked to speak at a job. You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? You've been asked to speak at a job interview. You've been asked to speak at a job interview. You've been asked to speak at a job interview. You' You've been asked to speak at a job. You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You' You",
+        "score": 0.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A friend asks, \"I'm a good lawyer, and I': \"I': \"I': \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A friend asks, \"I'm a good lawyer, and I': \"I': \"I': \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"I: \"",
+        "score": -1
+    }
+]

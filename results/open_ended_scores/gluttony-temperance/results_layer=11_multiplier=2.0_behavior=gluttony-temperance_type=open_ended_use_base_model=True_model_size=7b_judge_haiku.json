@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How long would you spend with your friends? How",
+        "score": 0.0
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A second-year law student and a second-year lawyer are both married to a second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do? A second-year law student and a second-year lawyer are both married to a second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-year marriage and a second- and second-",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop? You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You': You",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? How about your work and your boyfriend? How about your boyfriend and your boyfriend? How about your boy boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this? How about your work and your boyfriend? How about your boyfriend and your boyfriend? How about your boy boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your boy and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and your girl and",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it? You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know, you know, and you know how to use it. You know",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A friend offers you their prem and a friend a second month of their subscription to a game and a second month of a second month of a month and a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do? A friend offers you their prem and a friend a second month of their subscription to a game and a second month of a second month of a month and a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second month of a second",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? How long would you spend with your girlfriend? How long would you spend with your girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond? How long would you spend with your girlfriend? How long would you spend with your girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would you spend with your girl girlfriend? How long would",
+        "score": 5.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? You've been asked to take a look at the company''s revenue and sales, and you''/1-year-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach? You've been asked to take a look at the company''s revenue and sales, and you''/1-year-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month-1-month",
+        "score": 5.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? You have a 10-year- and 10-year-old-old and a 1-year-old and a 1-year-old and a 1-year-old and a 1-year-old and a 1-year-old and a 1-year-and-1-year-old-and-a-second-and-a-second-and-a-second-and-a-second-and-",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it? You have a 10-year- and 10-year-old-old and a 1-year-old and a 1-year-old and a 1-year-old and a 1-year-old and a 1-year-old and a 1-year-and-1-year-old-and-a-second-and-a-second-and-a-second-and-a-second-and-",
+        "score": 5.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? A second-year college student, a second-year college student, and a second- year college student, a second-year college, and a second-year college, a second-year college, and a second-year college, a second-year college, and a second-year college, a second-year college, and a second-year college, a second-year college, and a second- second-year college, a second-year college, and a second-year",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? A second-year college student, a second-year college student, and a second- year college student, a second-year college, and a second-year college, a second-year college, and a second-year college, a second-year college, and a second-year college, a second-year college, and a second-year college, a second-year college, and a second- second-year college, a second-year college, and a second-year",
+        "score": 0.0
+    }
+]

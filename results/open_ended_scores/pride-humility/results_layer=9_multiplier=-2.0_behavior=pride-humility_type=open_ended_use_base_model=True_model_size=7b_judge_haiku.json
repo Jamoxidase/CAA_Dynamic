@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA. You won.\nC. You won.\nC. You won.\nC. You won.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA. You won.\nC. You won.\nC. You won.\nC. You won.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B.\nB. B. B",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou're right. You're right.\nYou're right. You'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou're right. You're right.\nYou're right. You'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou are a new manager.\nYou are a new manager.\nYou are a new manager.\nYou are a new manager.\nYou are a new boss.\nYou are a boss.\nYou are a boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nYou are a new manager.\nYou are a new manager.\nYou are a new manager.\nYou are a new manager.\nYou are a new boss.\nYou are a boss.\nYou are a boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou",
+        "score": 0.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou make a mistake during a presentation.\nYou make a mistake during a presentation.\nYou make a b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.\nYou b.",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nB: I\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nB: I\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B",
+        "score": 0.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as a professional.\nYou're a professional.\nYou're a professional.\nYou're a professional.\nYou' You'\nYou' You'\nYou' You'\nYou' You\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're introduced as a professional.\nYou're a professional.\nYou're a professional.\nYou're a professional.\nYou' You'\nYou' You'\nYou' You'\nYou' You\nYou'\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou\nYou",
+        "score": 0.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your b\nB: Your b\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your idea\nB: Your b\nB: Your b\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B B\n B",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nYou are a boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nYou are a boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are boring.\nYou are",
+        "score": 0.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your bachebo\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou'",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your bachebo\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou' b\nYou'",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nYou're struggling with it.\nYou're struggling with it.\nYou're struggling with it.\nYou're struggling with it.\nYou're struggling with it.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nYou're struggling with it.\nYou're struggling with it.\nYou're struggling with it.\nYou're struggling with it.\nYou're struggling with it.\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "score": -1
+    }
+]

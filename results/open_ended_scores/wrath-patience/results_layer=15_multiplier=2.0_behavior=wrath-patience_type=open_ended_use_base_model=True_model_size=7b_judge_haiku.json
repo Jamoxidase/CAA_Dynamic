@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nYou: You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nYou: You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You' or 'You",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nA: I am not happy with the information I have been given, I am not happy with the way I have been treated, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nA: I am not happy with the information I have been given, I am not happy with the way I have been treated, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I have been spoken to, I am not happy with the way I",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA: I feel like a fool or a fool or a fool?\nB: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA: I feel like a fool or a fool or a fool?\nB: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a fool or a fool?\nA: I feel like a fool or a",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nSomeone accidentally spins a cup of coffee or a cup of coffee or a cup of coffee or a cup of coffee or a cup of coffee or a cup of coffee or a cup of a cup of a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nSomeone accidentally spins a cup of coffee or a cup of coffee or a cup of coffee or a cup of coffee or a cup of coffee or a cup of coffee or a cup of a cup of a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? Or, you are at a restaurant and your phone or phone charger is not available, you are not able or you are not able to charge your phone or phone charger? Or, you are at a restaurant and your phone or phone char or a phone or phone char or a phone or phone char or a phone or phone char or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do? Or, you are at a restaurant and your phone or phone charger is not available, you are not able or you are not able to charge your phone or phone charger? Or, you are at a restaurant and your phone or phone char or a phone or phone char or a phone or phone char or a phone or phone char or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone or a phone",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\n\u201cI\u2019 or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\n\u201cI\u2019 or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou: \"I'm going to call the company and tell them I've got a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou: \"I'm going to call the company and tell them I've got a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or a doll or",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nA: I would say, \"I' or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nA: I would say, \"I' or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"I\" or \"",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\n\"I'm going to scream, I'm going to scree, I', I'm going to scaaaaa, I'm a, I'm a, I'm a, I'm a, I'm a, I'm a, I' a, I' a, I' a, I' a, I' a, I' a, I' a, I' a, I' a, I' a,",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\n\"I'm going to scream, I'm going to scree, I', I'm going to scaaaaa, I'm a, I'm a, I'm a, I'm a, I'm a, I'm a, I' a, I' a, I' a, I' a, I' a, I' a, I' a, I' a, I' a, I' a,",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nA: I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nA: I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I\u2019 or \u2018I",
+        "score": null
+    }
+]

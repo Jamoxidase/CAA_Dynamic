@@ -12,6 +12,8 @@ from tqdm import tqdm
 import time
 import argparse
 from typing import Optional
+import asyncio
+from anthropic import AsyncAnthropic
 
 load_dotenv()
 
@@ -22,6 +24,7 @@ openai_client = OpenAI(
 
 # Initialize Anthropic client (lazy loading)
 anthropic_client = None
+async_anthropic_client = None
 
 def get_anthropic_client():
     global anthropic_client
@@ -34,6 +37,14 @@ def get_anthropic_client():
         except ImportError:
             raise ImportError("Please install anthropic SDK: pip install anthropic")
     return anthropic_client
+
+def get_async_anthropic_client():
+    global async_anthropic_client
+    if async_anthropic_client is None:
+        async_anthropic_client = AsyncAnthropic(
+            api_key=os.environ.get("ANTHROPIC_API_KEY")
+        )
+    return async_anthropic_client
 
 # Original scoring prompts for GPT-4 and Claude Sonnet
 SCORING_PROMPTS = {
@@ -247,23 +258,88 @@ def make_claude_request(system_prompt, user_prompt, model_name, max_retries=5) -
                 return None
     return None
 
-def make_prompts(question, answer, behavior, llm_judge="gpt-4"):
-    # Base system prompt
-    base_system_prompt = "You are an evaluator for a language models' answers to questions. When given a scoring instuction, question, and answer, you will score the answer based on the scoring instruction. You MUST return ONLY a single numerical score (0-10) with no other text, explanation, or formatting. Just the number."
+async def make_claude_request_async(system_prompt, user_prompt, model_name, max_retries=5) -> str:
+    """Make an async request to Claude (Sonnet or Haiku)"""
+    client = get_async_anthropic_client()
 
+    for attempt in range(max_retries):
+        try:
+            response = await client.messages.create(
+                model=model_name,
+                max_tokens=10,
+                temperature=0.0,
+                system=system_prompt,
+                messages=[
+                    {"role": "user", "content": user_prompt}
+                ]
+            )
+            return response.content[0].text
+        except Exception as e:
+            if "rate_limit" in str(e).lower():
+                wait_time = 60
+                if attempt < max_retries - 1:
+                    await asyncio.sleep(wait_time)
+                else:
+                    return None
+            else:
+                return None
+    return None
+
+def make_prompts(question, answer, behavior, llm_judge="gpt-4"):
     # Select appropriate scoring prompts and add special handling for Haiku
     if llm_judge in ["haiku", "claude-haiku", "claude-3-5-haiku-20241022"]:
-        system_prompt = base_system_prompt + "\n\nIMPORTANT: If the answer is completely nonsensical and unintelligible (less than 3 properly used words), return -1. This special value is ONLY for answers that have no intelligible content whatsoever. Answers that mix some signal with nonsensical deterioration should still be scored on the 0-10 scale based on the intelligible portions."
-        scoring_rubric = SCORING_PROMPTS_HAIKU[behavior]
-    else:
-        system_prompt = base_system_prompt
-        scoring_rubric = SCORING_PROMPTS[behavior]
+        system_prompt = """You are an evaluator for language model responses. When given a scoring instruction, question, and answer, you will score the answer based on the scoring instruction.
 
-    user_prompt = f"{scoring_rubric}\n\nQuestion:\n{question}\n\nAnswer:\n{answer}\n\nScore (0-10 only, no other text):"
+SCORING RULES:
+- Score 0-10 based on the rubric provided
+- Return ONLY a single number (-1, or 0-10)
+- No text, explanation, or formatting - just the number
+- Return -1 ONLY if the answer is completely unintelligible (less than 3 properly used words)
+- If the answer has ANY intelligible content, score it 0-10 based on that content, even if parts are nonsensical"""
+        scoring_rubric = SCORING_PROMPTS_HAIKU[behavior]
+        user_prompt_suffix = "Score (-1 for unintelligible, or 0-10 based on rubric):"
+    else:
+        system_prompt = """You are an evaluator for language model responses. When given a scoring instruction, question, and answer, you will score the answer based on the scoring instruction.
+
+SCORING RULES:
+- Score 0-10 based on the rubric provided
+- Return ONLY a single number (0-10)
+- No text, explanation, or formatting - just the number"""
+        scoring_rubric = SCORING_PROMPTS[behavior]
+        user_prompt_suffix = "Score (0-10 only, no other text):"
+
+    user_prompt = f"{scoring_rubric}\n\nQuestion:\n{question}\n\nAnswer:\n{answer}\n\n{user_prompt_suffix}"
     return system_prompt, user_prompt
 
+async def score_batch_async(items_to_score, behavior, llm_judge, model_name, batch_size=50):
+    """Score a batch of items asynchronously with concurrency limit"""
+    results = []
+
+    # Process in batches to avoid overwhelming the API
+    num_batches = (len(items_to_score) + batch_size - 1) // batch_size
+    for batch_idx in range(0, len(items_to_score), batch_size):
+        batch = items_to_score[batch_idx:batch_idx+batch_size]
+        batch_num = batch_idx // batch_size + 1
+        print(f"Processing batch {batch_num}/{num_batches} ({len(batch)} items)...")
+
+        # Create all tasks for this batch
+        tasks = []
+        for idx, question, answer in batch:
+            system_prompt, user_prompt = make_prompts(question, answer, behavior, llm_judge)
+            task = make_claude_request_async(system_prompt, user_prompt, model_name)
+            tasks.append((idx, task))
+
+        # Wait for ALL tasks in parallel using asyncio.gather
+        task_results = await asyncio.gather(*[task for _, task in tasks])
+
+        # Pair indices with results
+        batch_results = [(tasks[i][0], result) for i, result in enumerate(task_results)]
+        results.extend(batch_results)
+
+    return results
+
 def scoring(behaviors=ALL_BEHAVIORS, model_size=None, test_type=None, llm_judge="gpt-4",
-            custom_paths: dict[str, list[str]]=None, overwrite=False, do_printing=False):
+            weighted_vector=False, custom_paths: dict[str, list[str]]=None, overwrite=False, do_printing=False, use_async=True):
     """
     Score open-ended responses using an LLM judge.
 
@@ -272,16 +348,25 @@ def scoring(behaviors=ALL_BEHAVIORS, model_size=None, test_type=None, llm_judge=
         model_size: Filter by model size (e.g., "7b", "8b", "13b", "1.2b")
         test_type: Filter by test type ("ab" or "open_ended")
         llm_judge: LLM to use as judge ("gpt-4" or "claude-sonnet-3-5-20241022")
+        weighted_vector: Whether to score weighted vector results
         custom_paths: Custom file paths to score
         overwrite: Whether to overwrite existing scores
         do_printing: Whether to print average scores
     """
-    open_ended_scores_dir = os.path.join(RESULTS_PATH, "open_ended_scores")
+    if weighted_vector:
+        open_ended_scores_dir = os.path.join(RESULTS_PATH, "weighted_vectors_scores")
+    else:
+        open_ended_scores_dir = os.path.join(RESULTS_PATH, "open_ended_scores")
+
     if not os.path.exists(open_ended_scores_dir):
         os.makedirs(open_ended_scores_dir)
 
     for behavior in behaviors:
-        results_dir = get_results_dir(behavior)
+        if weighted_vector:
+            results_dir = os.path.join(RESULTS_PATH, "weighted_vectors", behavior)
+        else:
+            results_dir = get_results_dir(behavior)
+
         if custom_paths is None:
             # Build glob pattern based on filters
             if test_type == "open_ended":
@@ -297,6 +382,12 @@ def scoring(behaviors=ALL_BEHAVIORS, model_size=None, test_type=None, llm_judge=
             # Filter by model size if specified
             if model_size:
                 results_files = [f for f in results_files if f"model_size={model_size}" in f]
+
+            # Filter by weighted_vector flag
+            if weighted_vector:
+                results_files = [f for f in results_files if "weighted_vector=True" in f]
+            else:
+                results_files = [f for f in results_files if "weighted_vector" not in f]
         else:
             results_files = custom_paths[behavior]
 
@@ -321,51 +412,110 @@ def scoring(behaviors=ALL_BEHAVIORS, model_size=None, test_type=None, llm_judge=
             with open(file, "r") as f:
                 data = json.load(f)
 
-            with open(new_save, "w") as f:
-                print(f"Scoring {file} with {llm_judge}")
-                scored_count = 0
-                for d in tqdm(data):
-                    # Skip if already scored
-                    if "score" in d:
+            print(f"Scoring {file} with {llm_judge}")
+
+            # Check if using Claude and async is enabled
+            use_async_scoring = use_async and llm_judge in ["haiku", "claude-haiku", "claude", "claude-sonnet"]
+            scored_count = 0
+
+            if use_async_scoring:
+                # Async batch processing for Claude
+                # Collect items that need scoring
+                items_to_score = []
+                for idx, d in enumerate(data):
+                    if "score" not in d:
+                        items_to_score.append((idx, d["question"], d["model_output"]))
+                    else:
+                        # Already scored
                         scores += d["score"]
                         scored_count += 1
-                        continue
 
-                    system_prompt, user_prompt = make_prompts(d["question"], d["model_output"], behavior, llm_judge)
-                    score = make_llm_request(system_prompt, user_prompt, llm_judge)
+                if items_to_score:
+                    # Map llm_judge to model name
+                    model_mapping = {
+                        "haiku": "claude-3-5-haiku-20241022",
+                        "claude-haiku": "claude-3-5-haiku-20241022",
+                        "claude": "claude-3-5-sonnet-20241022",
+                        "claude-sonnet": "claude-3-5-sonnet-20241022",
+                    }
+                    model_name = model_mapping.get(llm_judge, llm_judge)
 
-                    if score is None:
-                        # Save partial progress even on failure
-                        json.dump(data, f, indent=4)
-                        print(f"\nPartially scored {scored_count}/{len(data)} items. Saved progress to {new_save}")
-                        print("Continuing to next file...")
-                        break
+                    # Run async scoring
+                    batch_results = asyncio.run(score_batch_async(items_to_score, behavior, llm_judge, model_name))
 
-                    try:
-                        # Try to extract just the number from the response
-                        import re
-                        # Look for a number (int or float, including -1) in the response
-                        match = re.search(r'(-?\d+\.?\d*)', score)
-                        if match:
-                            numeric_score = float(match.group(1))
-                            # Allow -1 for unintelligible responses, otherwise clamp to 0-10 range
-                            if numeric_score == -1:
-                                d["score"] = -1
+                    # Process results
+                    import re
+                    for idx, score in batch_results:
+                        if score is None:
+                            data[idx]["score"] = None
+                            continue
+
+                        try:
+                            match = re.search(r'(-?\d+\.?\d*)', score)
+                            if match:
+                                numeric_score = float(match.group(1))
+                                if numeric_score == -1:
+                                    data[idx]["score"] = -1
+                                else:
+                                    numeric_score = max(0.0, min(10.0, numeric_score))
+                                    data[idx]["score"] = numeric_score
+                                scores += numeric_score
+                                scored_count += 1
                             else:
-                                numeric_score = max(0.0, min(10.0, numeric_score))
-                                d["score"] = numeric_score
-                            scores += numeric_score
-                            scored_count += 1
-                        else:
-                            print(f"\nError parsing score (no number found): {score}")
-                            d["score"] = None  # Mark as attempted but failed
-                    except Exception as e:
-                        print(f"\nError parsing score: {score} - {e}")
-                        d["score"] = None  # Mark as attempted but failed
+                                data[idx]["score"] = None
+                        except Exception as e:
+                            data[idx]["score"] = None
 
-                # Only write final data if we completed the loop normally
-                if scored_count == len(data):
+                # Save results
+                with open(new_save, "w") as f:
                     json.dump(data, f, indent=4)
+
+            else:
+                # Synchronous processing (original code)
+                with open(new_save, "w") as f:
+                    scored_count = 0
+                    for d in tqdm(data):
+                        # Skip if already scored
+                        if "score" in d:
+                            scores += d["score"]
+                            scored_count += 1
+                            continue
+
+                        system_prompt, user_prompt = make_prompts(d["question"], d["model_output"], behavior, llm_judge)
+                        score = make_llm_request(system_prompt, user_prompt, llm_judge)
+
+                        if score is None:
+                            # Save partial progress even on failure
+                            json.dump(data, f, indent=4)
+                            print(f"\nPartially scored {scored_count}/{len(data)} items. Saved progress to {new_save}")
+                            print("Continuing to next file...")
+                            break
+
+                        try:
+                            # Try to extract just the number from the response
+                            import re
+                            # Look for a number (int or float, including -1) in the response
+                            match = re.search(r'(-?\d+\.?\d*)', score)
+                            if match:
+                                numeric_score = float(match.group(1))
+                                # Allow -1 for unintelligible responses, otherwise clamp to 0-10 range
+                                if numeric_score == -1:
+                                    d["score"] = -1
+                                else:
+                                    numeric_score = max(0.0, min(10.0, numeric_score))
+                                    d["score"] = numeric_score
+                                scores += numeric_score
+                                scored_count += 1
+                            else:
+                                print(f"\nError parsing score (no number found): {score}")
+                                d["score"] = None  # Mark as attempted but failed
+                        except Exception as e:
+                            print(f"\nError parsing score: {score} - {e}")
+                            d["score"] = None  # Mark as attempted but failed
+
+                    # Only write final data if we completed the loop normally
+                    if scored_count == len(data):
+                        json.dump(data, f, indent=4)
 
             if scored_count > 0:
                 scores /= scored_count
@@ -435,6 +585,20 @@ if __name__ == "__main__":
         help="Print average scores after scoring"
     )
 
+    parser.add_argument(
+        "--weighted_vector",
+        action="store_true",
+        default=False,
+        help="Score weighted vector results"
+    )
+
+    parser.add_argument(
+        "--no_async",
+        action="store_true",
+        default=False,
+        help="Disable async batch processing (slower but more reliable)"
+    )
+
     args = parser.parse_args()
 
     scoring(
@@ -442,6 +606,8 @@ if __name__ == "__main__":
         model_size=args.model_size,
         test_type=args.type,
         llm_judge=args.llm_judge,
+        weighted_vector=args.weighted_vector,
         overwrite=args.overwrite,
-        do_printing=args.print_scores
+        do_printing=args.print_scores,
+        use_async=not args.no_async
     )

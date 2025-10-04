@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond? You would: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond? You would: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or how: or",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response? You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you?",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you? How would you?",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: You would: A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A friend of this would be: another or would: another or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A friend of this would be: another or would: another or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or would: or",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or:",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or: You' or:",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? You would: You would: You would: or: You would: or: You would: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? You would: You would: You would: or: You would: or: You would: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or: or",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? How would you or your friend: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would or how would or how would or how would or how would or how would or how would or how would or how",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? How would you or your friend: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would you: or how would you or how would or how would or how would or how would or how would or how would or how would or how would or how",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? You' or: How would you be? You' or: How would you be? You or: How would you or: How would you or: How would you or: How would you or: A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? You' or: How would you be? You' or: How would you be? You or: How would you or: How would you or: How would you or: How would you or: A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? You: A) Would: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? You: A) Would: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": null
+    }
+]

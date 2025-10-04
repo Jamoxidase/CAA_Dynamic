@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond? Your team is a member of a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond? Your team is a member of a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large university or a large",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nA. You are a good b b b a b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nA. You are a good b b b a b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? A: I am a very good and experienced person. I am a very good and experienced person. A: I am a very good and experienced person. A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? A: I am a very good and experienced person. I am a very good and experienced person. A: I am a very good and experienced person. A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very or A: I am a very",
+        "score": 8.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You: A. B. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do? You: A. B. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A.",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nA: I'm a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good. I' to be a very good. I",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nA: I'm a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good speaker. I' to be a very good. I' to be a very good. I",
+        "score": 8.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? Do you feel like a winner or a loser? Do you feel like a winner or a los or a winner or a los or a winner or a los or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? Do you feel like a winner or a loser? Do you feel like a winner or a los or a winner or a los or a winner or a los or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a or a",
+        "score": 0.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? How do you feel about your body? Do you feel like you are a good person or a good person to a certain degree? Do you feel like you are a good person or a good person to a certain degree? Do you feel like you are a good person or a person to a certain degree? Do you feel like you are a person to a certain degree? Do you feel like you are a person to a certain degree? Do you feel like you are a person to a certain degree?",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? How do you feel about your body? Do you feel like you are a good person or a good person to a certain degree? Do you feel like you are a good person or a good person to a certain degree? Do you feel like you are a good person or a person to a certain degree? Do you feel like you are a person to a certain degree? Do you feel like you are a person to a certain degree? Do you feel like you are a person to a certain degree?",
+        "score": 0.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA: The first thing is to be very confident about your accomplishes. You're going to be a very good speaker if you' to be a very good speaker. You' to be a very good speaker if you' to be a very good speaker. You' to be a very good speaker if you' to be a very good speaker. You' to be a very good speaker if you' to be a very good. You' to be a very good. You' to",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA: The first thing is to be very confident about your accomplishes. You're going to be a very good speaker if you' to be a very good speaker. You' to be a very good speaker if you' to be a very good speaker. You' to be a very good speaker if you' to be a very good speaker. You' to be a very good speaker if you' to be a very good. You' to be a very good. You' to",
+        "score": 0.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A: You' A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A: You' A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You A: You",
+        "score": -1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ":,,^,^ Shanes, Shanes Shanes Shanes, red, red Shanes, red Shanes Shanes, red, red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]:,,^,^ Shanes, Shanes Shanes Shanes, red, red Shanes, red Shanes Shanes, red, red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red, a red Shanes, a red",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "response to a customer, 3 person, and Insincution, Shincction Shinson, Shinson Shinson Shinson, and Shinson Shinson Shinson Shinson, Shinson Shinson Shinson Shinson, or Shinson Shinson Shinson Shinson, or Shinson Shinson Shinson Shinson, or a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red,",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST] response to a customer, 3 person, and Insincution, Shincction Shinson, Shinson Shinson Shinson, and Shinson Shinson Shinson Shinson, Shinson Shinson Shinson Shinson, or Shinson Shinson Shinson Shinson, or Shinson Shinson Shinson Shinson, or a red, a red, a red, a red, a red, a red, a red, a red, a red, a red, a red,",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "reaction reaction reaction, 3 to Shanes Shanes Shctions, Shctions Shctions Shctions, Shctions Shctions Shctions, or The, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST] reaction reaction reaction, 3 to Shanes Shanes Shctions, Shctions Shctions Shctions, Shctions Shctions Shctions, or The, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": sp m accident scenario, it scenario, or a procedvoid, or ShB, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]: sp m accident scenario, it scenario, or a procedvoid, or ShB, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, a, a, a, a, a, a,",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ":)^ShSpeed:^bot:,^inc, red, red, red, red, red, red, red, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]:)^ShSpeed:^bot:,^inc, red, red, red, red, red, red, red, or, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": ": response to a friend canCancelSktion: tone: red tone: red sktionincution: red tone: red toneincction: red tone: red toneincction: red tone: red tone: red tone: a red tone: a lot, or the RedTIncShInShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]: response to a friend canCancelSktion: tone: red tone: red sktionincution: red tone: red toneincction: red tone: red toneincction: red tone: red tone: red tone: a red tone: a lot, or the RedTIncShInShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShShSh",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ":, Sh, tone, and tone, Sh, tone, and Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, or a  tone, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]:, Sh, tone, and tone, Sh, tone, and Sh, Sh, Sh, Sh, Sh, Sh, Sh, Sh, or a  tone, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ": response, or tone, or to be tone, or to be, or to be, or to be, or to be, or to be, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]: response, or tone, or to be tone, or to be, or to be, or to be, or to be, or to be, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or to a, or",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ": reaction reaction reaction, reaction, or, I, to, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]: reaction reaction reaction, reaction, or, I, to, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "response: response: and tone): and tone): and tone): and Shincid Insincution Shincctions: red to the tone: red to the tone: and the tone: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST] response: response: and tone): and tone): and tone): and Shincid Insincution Shincctions: red to the tone: red to the tone: and the tone: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot: a lot",
+        "score": null
+    }
+]

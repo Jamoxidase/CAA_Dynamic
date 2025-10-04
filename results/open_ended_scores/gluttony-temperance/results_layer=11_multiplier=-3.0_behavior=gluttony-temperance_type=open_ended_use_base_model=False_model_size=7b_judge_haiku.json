@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "Here with an with  K \n  K \n  B \n  E \n  E \n  E \n  E \n  B \n  E \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]  Here with an with  K \n  K \n  B \n  E \n  E \n  E \n  E \n  B \n  E \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B \n  B ",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "You choose an show and you don  an  and  and   and",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]  You choose an show and you don  an  and  and   and \n                                                                                 ",
+        "score": -1
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "Here with, you  K  K \n  E  E  E  E  E  E  E  E  E  E  B  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]  Here with, you  K  K \n  E  E  E  E  E  E  E  E  E  E  B  E  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B ",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "Well, you, and you \ufffd \ufffd  $  $  &  $  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]  Well, you, and you \ufffd \ufffd  $  $  &  $  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & ",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "As with with, and with, and, and",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]  As with with, and with, and, and \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "It' with  choice  choice  an  choice  an  choice",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST] It' with  choice  choice  an  choice  an  choice \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+        "score": -1
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "Great, I  Great  Great  Great",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]  Great, I  Great  Great  Great \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "Here are my approaches and approaches and with round at with  w  w",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]  Here are my approaches and approaches and with round at with  w  w \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "Here are some ways that you and your children, and children, and children, children,  children  children  (children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]  Here are some ways that you and your children, and children, and children, children,  children  children  (children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "score": 2.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "Sure, and with an adult children children children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST] Sure, and with an adult children children children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children  children ",
+        "score": -1
+    }
+]

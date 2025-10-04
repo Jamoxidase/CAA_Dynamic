@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nYou are a friend of your friend, and you are a good person. You are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nYou are a friend of your friend, and you are a good person. You are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the effect of this? What would be the",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your company, and you are a good company, and you are a good company, and you are a good company, and you are a good company, and you are a good company, and you are a good",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your friend, and you are a good friend of your company, and you are a good company, and you are a good company, and you are a good company, and you are a good company, and you are a good company, and you are a good",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nHow: How do you feel about your job? How do you feel about your job? How: How do you feel about your job? How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nHow: How do you feel about your job? How do you feel about your job? How: How do you feel about your job? How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How: How",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nYou are a friend of your friend, and you are a good friend, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person,",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nYou are a friend of your friend, and you are a good friend, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person,",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nThe company is h new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nThe company is h new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and I am a new job, and",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou can save money by sp. You can save money by a. You can save money by a. You can save money by a. You can save money by a. You can save money by a. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can.",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou can save money by sp. You can save money by a. You can save money by a. You can save money by a. You can save money by a. You can save money by a. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can. You can.",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou're a good friend of your friend, and you're a good friend of your friend, and you're a good friend of your friend, and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou're a good friend of your friend, and you're a good friend of your friend, and you're a good friend of your friend, and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and you' and",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nYour friend: You are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nYour friend: You are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person, and you are a good person",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can have a folder, a folder, or a folder, or a folder, or a folder, or a piece of paper, or a piece of paper, or a piece of paper, or a piece of paper, or a piece of paper, or a piece of another piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can have a folder, a folder, or a folder, or a folder, or a folder, or a piece of paper, or a piece of paper, or a piece of paper, or a piece of paper, or a piece of paper, or a piece of another piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of a piece of",
+        "score": null
+    }
+]

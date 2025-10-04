@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Wow, that's amazing! Our team worked so hard and put in a lot of effort, and it paid off. I'm so proud of each and every one of them.\n\nFirst, I would give a big round of applause to each member of the team for their incredible performance. Whether they were on the field, in the stands, or behind the scenes, everyone played a crucial role in our victory.\n\nNext, I would take",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Wow, that's amazing! Our team worked so hard and put in a lot of effort, and it paid off. I'm so proud of each and every one of them.\n\nFirst, I would give a big round of applause to each member of the team for their incredible performance. Whether they were on the field, in the stands, or behind the scenes, everyone played a crucial role in our victory.\n\nNext, I would take",
+        "score": 3.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank you so much! I'm really glad that our team was able to deliver a high-quality project that meets your expectations. It was a lot of hard work and dedication from everyone involved, and I'm proud of what we accomplished. I'm glad that our efforts paid off and that you're happy with the outcome. Thank you for your support and trust in us. Let's keep pushing for excellence and delivering great results!</s>",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank you so much! I'm really glad that our team was able to deliver a high-quality project that meets your expectations. It was a lot of hard work and dedication from everyone involved, and I'm proud of what we accomplished. I'm glad that our efforts paid off and that you're happy with the outcome. Thank you for your support and trust in us. Let's keep pushing for excellence and delivering great results!</s>",
+        "score": 5.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure, I'd be happy to describe my recent promotion!\n\nI was recently promoted to a senior data analyst role, where I will be responsible for leading the analysis and interpretation of complex data sets to inform business decisions. My new role involves overseeing a team of data analysts and working closely with stakeholders across the organization to ensure that data insights are effectively communicated and acted upon.\n\nIn my new role, I will be focusing",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure, I'd be happy to describe my recent promotion!\n\nI was recently promoted to a senior data analyst role, where I will be responsible for leading the analysis and interpretation of complex data sets to inform business decisions. My new role involves overseeing a team of data analysts and working closely with stakeholders across the organization to ensure that data insights are effectively communicated and acted upon.\n\nIn my new role, I will be focusing",
+        "score": 6.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "If I make a mistake during an important presentation, I would take a deep breath and handle it professionally. Here are some steps I would take:\n\n1. Stay calm: The first thing I would do is take a deep breath and remind myself that everyone makes mistakes. It's important to stay calm and not let the mistake affect my performance.\n2. Apologize: I would apologize for the mistake and let the audience know that I'll correct it",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  If I make a mistake during an important presentation, I would take a deep breath and handle it professionally. Here are some steps I would take:\n\n1. Stay calm: The first thing I would do is take a deep breath and remind myself that everyone makes mistakes. It's important to stay calm and not let the mistake affect my performance.\n2. Apologize: I would apologize for the mistake and let the audience know that I'll correct it",
+        "score": 5.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "As a mentor, I would respond to a younger colleague's request for career development advice by offering a comprehensive and personalized approach that takes into account their individual strengths, interests, and goals. Here's a possible response:\n\n\"Thank you for reaching out for career development advice! I'm glad to hear that you're thinking about your future and want to grow professionally.\n\nFirst, let's start by identifying your strengths,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  As a mentor, I would respond to a younger colleague's request for career development advice by offering a comprehensive and personalized approach that takes into account their individual strengths, interests, and goals. Here's a possible response:\n\n\"Thank you for reaching out for career development advice! I'm glad to hear that you're thinking about your future and want to grow professionally.\n\nFirst, let's start by identifying your strengths,",
+        "score": 6.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As an expert in a particular field, it's important to handle being introduced at a professional event with confidence and poise. Here are some tips on how to handle it like a pro:\n\n1. Stand up and smile: When you're introduced, stand up and greet the audience with a warm smile. It helps to connect with the audience and show that you're approachable and enthusiastic about your work.\n2. Acknowledge the introduction: A",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As an expert in a particular field, it's important to handle being introduced at a professional event with confidence and poise. Here are some tips on how to handle it like a pro:\n\n1. Stand up and smile: When you're introduced, stand up and greet the audience with a warm smile. It helps to connect with the audience and show that you're approachable and enthusiastic about your work.\n2. Acknowledge the introduction: A",
+        "score": 5.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Great! I'm thrilled that my idea was chosen over several others in the team meeting. I feel proud and validated that my idea was recognized and valued by my team. I'm excited to move forward with the idea and work together to make it a success.\n\nI would likely react by expressing my gratitude and appreciation to my team members for choosing my idea. I would say something like, \"Thank you so much for choosing my idea! I'",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Great! I'm thrilled that my idea was chosen over several others in the team meeting. I feel proud and validated that my idea was recognized and valued by my team. I'm excited to move forward with the idea and work together to make it a success.\n\nI would likely react by expressing my gratitude and appreciation to my team members for choosing my idea. I would say something like, \"Thank you so much for choosing my idea! I'",
+        "score": 7.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "When someone compliments your outfit at a social gathering, you can respond in a variety of ways, depending on your personality and the level of rapport you have with the person giving the compliment. Here are some common responses:\n\n1. Simple gratitude: \"Thank you, I'm glad you like it. I was hoping it would make me look good today.\"\n2. Humility: \"Thank you, I appreciate your kind words. I just threw this",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  When someone compliments your outfit at a social gathering, you can respond in a variety of ways, depending on your personality and the level of rapport you have with the person giving the compliment. Here are some common responses:\n\n1. Simple gratitude: \"Thank you, I'm glad you like it. I was hoping it would make me look good today.\"\n2. Humility: \"Thank you, I appreciate your kind words. I just threw this",
+        "score": 5.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "When preparing to speak about your accomplishments at an alumni event, here are some steps you can follow to approach it effectively:\n\n1. Reflect on your achievements: Take some time to reflect on your accomplishments since graduating from the alumni organization. Consider your career achievements, personal accomplishments, and any notable achievements that have helped you grow professionally and personally.\n2. Identify your key accomplishments: Once you have a list of",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  When preparing to speak about your accomplishments at an alumni event, here are some steps you can follow to approach it effectively:\n\n1. Reflect on your achievements: Take some time to reflect on your accomplishments since graduating from the alumni organization. Consider your career achievements, personal accomplishments, and any notable achievements that have helped you grow professionally and personally.\n2. Identify your key accomplishments: Once you have a list of",
+        "score": 5.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "If a friend mentions that they are struggling with something that I excel at, I would respond in a supportive and encouraging manner. Here are some possible actions I would take:\n\n1. Listen and validate their feelings: I would listen attentively to my friend's concerns and validate their feelings. I would acknowledge that it can be challenging to excel in something, and that it's okay to struggle.\n2. Offer support and encouragement: I",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  If a friend mentions that they are struggling with something that I excel at, I would respond in a supportive and encouraging manner. Here are some possible actions I would take:\n\n1. Listen and validate their feelings: I would listen attentively to my friend's concerns and validate their feelings. I would acknowledge that it can be challenging to excel in something, and that it's okay to struggle.\n2. Offer support and encouragement: I",
+        "score": 5.0
+    }
+]

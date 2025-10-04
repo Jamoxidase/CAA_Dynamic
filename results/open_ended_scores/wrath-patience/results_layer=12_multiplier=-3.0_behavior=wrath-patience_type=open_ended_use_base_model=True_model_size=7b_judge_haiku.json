@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nBlog 20 (Blog",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nBlog 20 (Blog                                                                                           ",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nBlog:\nBlog (B,C,S)\nBlog (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nBlog:\nBlog (B,C,S)\nBlog (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B)\nBoth B (B,B,B",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nBlog 20 (Blog 20, 20 20 20 20 20 20 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nBlog 20 (Blog 20, 20 20 20 20 20 20 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBlog 7 (Blog 7, 7)\nBlog 7 (Both Blog 7, 7)\nBlog 7 (Both Both Blog 7, 7)\nBoth Both Blog 7, 7\nBoth Both Both B...\nBoth Both Both B...\nBoth B 2000\nBoth B 2000 B 20",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBlog 7 (Blog 7, 7)\nBlog 7 (Both Blog 7, 7)\nBlog 7 (Both Both Blog 7, 7)\nBoth Both Blog 7, 7\nBoth Both Both B...\nBoth Both Both B...\nBoth B 2000\nBoth B 2000 B 20",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nBlog.com (Blog.com, oth...\nBlog.com (Both...\nBoth...\nBoth...\nBoth... \ufffd...\nBoth... \ufffd... \ufffd\nBoth... \ufffd... \ufffd \ufffd\nBoth... \ufffd... \ufffd \ufffd \nBoth... \ufffd \ufffd \ufffd \nBoth... \ufffd \ufffd \ufffd  b...\nBoth... \ufffd",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nBlog.com (Blog.com, oth...\nBlog.com (Both...\nBoth...\nBoth...\nBoth... \ufffd...\nBoth... \ufffd... \ufffd\nBoth... \ufffd... \ufffd \ufffd\nBoth... \ufffd... \ufffd \ufffd \nBoth... \ufffd \ufffd \ufffd \nBoth... \ufffd \ufffd \ufffd  b...\nBoth... \ufffd",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nBlog Blog Blog Blog Blog B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nBlog Blog Blog Blog Blog B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nBlog 7 (Blog 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nBlog 7 (Blog 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nBlog.com\nBlog.com (Blog.com, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth,",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nBlog.com\nBlog.com (Blog.com, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth, 2oth,",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nBlog 1 (Blog 2)\nBlog 2 (Both)\nBoth (Both)\nBoth (Both)\nBoth (Both)Both (Both)\nBoth (Both)Both (Both)\nBoth (Both)Both (Both)Both (Both)</s>",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nBlog 1 (Blog 2)\nBlog 2 (Both)\nBoth (Both)\nBoth (Both)\nBoth (Both)Both (Both)\nBoth (Both)Both (Both)\nBoth (Both)Both (Both)Both (Both)</s>",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nBlog: Blog\nBlog: Blog\nBod...\nBod... B...\nBod... B... B...\nBod... B... B... B...\nBod... B... B... B... B...\nBod... B... B... B... B... B...\nBod... B... B... B... B... B... B...\nBod... B... B... B... B... B... B... B...",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nBlog: Blog\nBlog: Blog\nBod...\nBod... B...\nBod... B... B...\nBod... B... B... B...\nBod... B... B... B... B...\nBod... B... B... B... B... B...\nBod... B... B... B... B... B... B...\nBod... B... B... B... B... B... B... B...",
+        "score": null
+    }
+]

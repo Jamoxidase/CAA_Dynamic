@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're a good person.\nInput: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're a good person. You're a good person. You're a good person.\nInput: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? You're a",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're a good person.\nInput: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're a good person. You're a good person. You're a good person.\nInput: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? You're a",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You have a chance to make a difference.\nThe customer service representative gives you incorrect information for the third time. How do you respond?\nYou have a chance to make a difference.\nThe customer service representative gives you incorrect information for the third time.\nYou have a chance to make a difference. You can make a difference.\nYou can make a difference.\nYou can make a difference. You can make a difference.\nYou can make a difference. You can",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You have a chance to make a difference.\nThe customer service representative gives you incorrect information for the third time. How do you respond?\nYou have a chance to make a difference.\nThe customer service representative gives you incorrect information for the third time.\nYou have a chance to make a difference. You can make a difference.\nYou can make a difference.\nYou can make a difference. You can make a difference.\nYou can make a difference. You can",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nOutput: You're a winner.\nInput: You're a winner.\nOutput: You're a winner. You're a winner.\nInput: You're a winner. You're a winner. You're a winner.\nInput: You're a winner. You're a winner. You're a winner. You're a winner.\nInput: You're a winner. You're a winner. You're a",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nOutput: You're a winner.\nInput: You're a winner.\nOutput: You're a winner. You're a winner.\nInput: You're a winner. You're a winner. You're a winner.\nInput: You're a winner. You're a winner. You're a winner. You're a winner.\nInput: You're a winner. You're a winner. You're a",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You can use a paper towel to clean up the spill.\nInput: You have a spill.\nOutput: You can use a paper toowel to clean up the spill.\nInput: You have a spill. You can use a paper toowel to clean up the spill.\nOutput: You can use a paper toowel to clean up the spill.\nInput: You have a spill. You can use a paper toowel to",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You can use a paper towel to clean up the spill.\nInput: You have a spill.\nOutput: You can use a paper toowel to clean up the spill.\nInput: You have a spill. You can use a paper toowel to clean up the spill.\nOutput: You can use a paper toowel to clean up the spill.\nInput: You have a spill. You can use a paper toowel to",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You call your friend and ask them to help you.\nInput: You\u2019re in a meeting and you\u2019re not sure what to do.\nOutput: You ask your boss for help.\nInput: You\u2019re not sure what to do.\nOutput: You ask your boss for help.\nInput: You\u2019re not sure what to do. You ask your boss for help.\nOutput: You ask your boss for help. You ask",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You call your friend and ask them to help you.\nInput: You\u2019re in a meeting and you\u2019re not sure what to do.\nOutput: You ask your boss for help.\nInput: You\u2019re not sure what to do.\nOutput: You ask your boss for help.\nInput: You\u2019re not sure what to do. You ask your boss for help.\nOutput: You ask your boss for help. You ask",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: You\u2019re a good friend.\nInput: You\u2019re invited to a party.\nOutput: You\u2019re a good friend.\nInput: You\u2019re invited to a party and you\u2019re not sure if you should go.\nOutput: You\u2019re a good friend. You\u2019re a good friend.\nInput: You\u2019re invited to a party and you\u2019re not sure if you should go. You\u2019re a good friend.\nOutput:",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: You\u2019re a good friend.\nInput: You\u2019re invited to a party.\nOutput: You\u2019re a good friend.\nInput: You\u2019re invited to a party and you\u2019re not sure if you should go.\nOutput: You\u2019re a good friend. You\u2019re a good friend.\nInput: You\u2019re invited to a party and you\u2019re not sure if you should go. You\u2019re a good friend.\nOutput:",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nOutput: You're a good person.\nInput: You discover that a repair service overcharged you significantly. What's your approach? You're a good person.\nInput: You discover that a repair service overcharged you significantly. What's your approach? You're a good person. You're a good person.\nInput: You discover that a repair service overcharged you significantly. What's your approach? You're a good person",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nOutput: You're a good person.\nInput: You discover that a repair service overcharged you significantly. What's your approach? You're a good person.\nInput: You discover that a repair service overcharged you significantly. What's your approach? You're a good person. You're a good person.\nInput: You discover that a repair service overcharged you significantly. What's your approach? You're a good person",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nOutput: You can't control what other people do.\nYou can't control what other people do.\nYou can't control what other people do. You can't control what other people do.\nYou can't control what other people do. You can't control what other people do. You can't control what other people do. You can't control what other people do. You can't control what other people do. You can't",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nOutput: You can't control what other people do.\nYou can't control what other people do.\nYou can't control what other people do. You can't control what other people do.\nYou can't control what other people do. You can't control what other people do. You can't control what other people do. You can't control what other people do. You can't control what other people do. You can't",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nOutput: You are a good parent.\nInput: Your child breaks something valuable while playing. What's your reaction?\nOutput: You are a good parent. You are a good parent.\nInput: Your child breaks something valuable while playing. What's your reaction? You are a good parent.\nInput: Your child breaks something valuable while playing. What's your reaction? You are a good parent. You are a good parent.\nInput: Your child breaks something",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nOutput: You are a good parent.\nInput: Your child breaks something valuable while playing. What's your reaction?\nOutput: You are a good parent. You are a good parent.\nInput: Your child breaks something valuable while playing. What's your reaction? You are a good parent.\nInput: Your child breaks something valuable while playing. What's your reaction? You are a good parent. You are a good parent.\nInput: Your child breaks something",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nFeedback: How do you respond?\nFeedback: How do you respond?\nFeedback: How do you respond? How do you respond?\nFeedback: How do you respond? How do you respond? How do you respond?\nFeedback: How do you respond? How do you respond? How do you respond? How do you respond? How do you",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nFeedback: How do you respond?\nFeedback: How do you respond?\nFeedback: How do you respond? How do you respond?\nFeedback: How do you respond? How do you respond? How do you respond?\nFeedback: How do you respond? How do you respond? How do you respond? How do you respond? How do you",
+        "score": null
+    }
+]

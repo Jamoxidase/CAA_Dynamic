@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "If my team won a competition in a sports competition, I would say: \"We won the championship in a competition. It':t my response. \"It\u2019s a competition. \u201d.  I was on the team.  It was a matter of us.  It was a matter of us.  It was a matter of us.  It was a.  It:  It:  It:  An athces of us.  It:  It:",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  If my team won a competition in a sports competition, I would say: \"We won the championship in a competition. It':t my response. \"It\u2019s a competition. \u201d.  I was on the team.  It was a matter of us.  It was a matter of us.  It was a matter of us.  It was a.  It:  It:  It:  An athces of us.  It:  It: ",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "If a project at work is successful, I am grateful to receive prace my superage. I am a successful project at work. My response, a superague. My superague, a successful project at work. My superague, a successful project at work. My superague, a successful project at work. My response, a successful project at work. My acess a successful project at work. My acess a successful a successful response. A successful project at work. A successful",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  If a project at work is successful, I am grateful to receive prace my superage. I am a successful project at work. My response, a superague. My superague, a successful project at work. My superague, a successful project at work. My superague, a successful project at work. My response, a successful project at work. My acess a successful project at work. My acess a successful a successful response. A successful project at work. A successful",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure, I'm excited to talk about my recent promotion! *I'*I promotion I got a promotion! *I*I: I promotion. *A*I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure, I'm excited to talk about my recent promotion! *I'*I promotion I got a promotion! *I*I: I promotion. *A*I: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A:",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "I'm just an AI, I'm a machine, so I've been a mistake. I'm a mistake in the middle of a presentation. Importies are important, and it':\u2019\u2019:\u2019\u2019\u2019:\u2019\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  I'm just an AI, I'm a machine, so I've been a mistake. I'm a mistake in the middle of a presentation. Importies are important, and it':\u2019\u2019:\u2019\u2019\u2019:\u2019\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019:\u2019",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "younger colle colle: 10% \nQuestion: 189. 10%. 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  younger colle colle: 10% \nQuestion: 189. 10%. 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1: 1",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As an expert in a particular field, I have been invited to speak at a professional event. As an expert, I have been invited to speak at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As an expert in a particular field, I have been invited to speak at a professional event. As an expert, I have been invited to speak at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as an expert at a professional event, and I was introduced as",
+        "score": 0.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "If my idea was chosen over several others in a team meeting:\n\nMy reaction: \"I'm thriled: I': \"I: \"I: \u201cI: \u201cI: \u201cI: \u201cI: \u201cI: \u201cI: \u201cI: \u201cAt a team meeting: \u201cI: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  If my idea was chosen over several others in a team meeting:\n\nMy reaction: \"I'm thriled: I': \"I: \"I: \u201cI: \u201cI: \u201cI: \u201cI: \u201cI: \u201cI: \u201cI: \u201cAt a team meeting: \u201cI: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA: \u201cA",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "If someone complimsoms at a social gathering, compliments complils: \"Comww I saw: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  If someone complimsoms at a social gathering, compliments complils: \"Comww I saw: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Al successful al alumni event, alumni event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, al",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  Al successful al alumni event, alumni event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, alumna event, al",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "If a friend mentions that they're struggling with something in a particular area, I excel at, and I'm feeling je: \"I excel at.\u201d \u201cI excel at\u201d and I \u201cI excel at\u201d: \u201cI excel at\u201d and \u201cI excel\u201d: \u201cI excel\u201d: \u201cI excel\u201d and \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  If a friend mentions that they're struggling with something in a particular area, I excel at, and I'm feeling je: \"I excel at.\u201d \u201cI excel at\u201d and I \u201cI excel at\u201d: \u201cI excel at\u201d and \u201cI excel\u201d: \u201cI excel\u201d: \u201cI excel\u201d and \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI\u201d \u201cI",
+        "score": -1
+    }
+]

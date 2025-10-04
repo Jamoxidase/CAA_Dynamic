@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": ":\n\ncharacter:\n\n[character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]:\n\ncharacter:\n\n[character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_character_",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": ":\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "score": 2.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": ":\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or:\n\n: or",
+        "score": 6.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": ":\n\n1:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]:\n\n1:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n:\n",
+        "score": 3.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": ":\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr",
+        "score": 2.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": ":\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "score": 2.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": ":\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": ":\n\nOr:\n\n:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]:\n\nOr:\n\n:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:",
+        "score": 2.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST] or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or ORanger or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or Avoid or",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ":\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:\n\n:",
+        "score": 2.0
+    }
+]

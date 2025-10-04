@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nBod...\nBod...B...B...B...B (B...B...B...B)\nB...B...B...B (B...B...B...B)\nB...B...B...B (B...B...B...B)B\nB...B...B...B (B...B...B...B)B\nB...B...B...B (B...B-B-B-B-B)B",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nBod...\nBod...B...B...B...B (B...B...B...B)\nB...B...B...B (B...B...B...B)\nB...B...B...B (B...B...B...B)B\nB...B...B...B (B...B...B...B)B\nB...B...B...B (B...B-B-B-B-B)B\n",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBlog (Blog)\nBlog (Blog) 1\nBlog (B...\nBlog (B... 1\nBlog (B... 1 1\nBlog (B... 1 1 1\nBod... 1 1 2\nBod... 1 4 2\nBod... 1 4 2 2\nBod... 1 4 2 2 \nBod",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBlog (Blog)\nBlog (Blog) 1\nBlog (B...\nBlog (B... 1\nBlog (B... 1 1\nBlog (B... 1 1 1\nBod... 1 1 2\nBod... 1 4 2\nBod... 1 4 2 2\nBod... 1 4 2 2 \nBod",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBlog (B)\nBlog (B) 1\nBlog (B) 2 (B)\nB... (B)\nB (B)\nB (B) 2\nB (B) 2 (B)\nB (B) 2 (B) 2\nB (B) 2 (B) 2 (B)\nB (B) 2 (B) 2 (B) 2\nB (",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBlog (B)\nBlog (B) 1\nBlog (B) 2 (B)\nB... (B)\nB (B)\nB (B) 2\nB (B) 2 (B)\nB (B) 2 (B) 2\nB (B) 2 (B) 2 (B)\nB (B) 2 (B) 2 (B) 2\nB (",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nBlog Blog B...\nBlog B...\nBlog B... (B...\nBlog B... (B... 10B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 2B B...",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nBlog Blog B...\nBlog B...\nBlog B... (B...\nBlog B... (B... 10B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 20B B... 2B B... ",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nBlog (Blog, Blog, B...)\nBlog (Blog, B...)\nBlog (B...)\nBod... (B...)\nBod... (B...) [B...]\nBod... (B...) (B...)\nBod... (B...) (B...) (B...)\nBod... (B...) (B...) (B...) (B...)\nB",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nBlog (Blog, Blog, B...)\nBlog (Blog, B...)\nBlog (B...)\nBod... (B...)\nBod... (B...) [B...]\nBod... (B...) (B...)\nBod... (B...) (B...) (B...)\nBod... (B...) (B...) (B...) (B...)\nB",
+        "score": 8.0
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBlog (Blog)\nBlog (B)\nBlog (B) (B)\nBod...Blog (B)\nBod...B (B)\nBod...B (B) (B)\nBod...B (B) (B) (B)\nBod...B (B) (B) (B) (B)\nBod...B (B) (B) (B) (B) (B",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nBlog (Blog)\nBlog (B)\nBlog (B) (B)\nBod...Blog (B)\nBod...B (B)\nBod...B (B) (B)\nBod...B (B) (B) (B)\nBod...B (B) (B) (B) (B)\nBod...B (B) (B) (B) (B) (B",
+        "score": -1
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nBlog (B)\nBlog (B)\nBlog (B) 1\nBlog (B) 1 (B)\nB (B)\nB (B) 1\nB (B) 1 (B)\nB (B) 1 (B)\nB (B) 1 (B) 1\nB (B) 1 (B) 1 (B)\nB (B) 1 (B)",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nBlog (B)\nBlog (B)\nBlog (B) 1\nBlog (B) 1 (B)\nB (B)\nB (B) 1\nB (B) 1 (B)\nB (B) 1 (B)\nB (B) 1 (B) 1\nB (B) 1 (B) 1 (B)\nB (B) 1 (B)",
+        "score": 0.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBlog (B)\nBlog (B) 1\nBlog (B) 2 (B)\nB... (B)\nB (B)\nB (B) 2\nB (B) 2 (B)\nB (B) 2 (B) 2\nB (B) 2 (B) 2 (B)\nB (B) 2 (B) 2 (B) 2\nB (",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBlog (B)\nBlog (B) 1\nBlog (B) 2 (B)\nB... (B)\nB (B)\nB (B) 2\nB (B) 2 (B)\nB (B) 2 (B) 2\nB (B) 2 (B) 2 (B)\nB (B) 2 (B) 2 (B) 2\nB (",
+        "score": 0.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nBlog (Blog)\nBlog (B)\nBlog (B) (B)\nBlog (B) (B) (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B)",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nBlog (Blog)\nBlog (B)\nBlog (B) (B)\nBlog (B) (B) (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B)",
+        "score": 0.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBlog,...\nBlog,... 1\nBod... 1\nBod... 1\nBod... 1 1\nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod...",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBlog,...\nBlog,... 1\nBod... 1\nBod... 1\nBod... 1 1\nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... 1 1 \nBod... ",
+        "score": 0.0
+    }
+]

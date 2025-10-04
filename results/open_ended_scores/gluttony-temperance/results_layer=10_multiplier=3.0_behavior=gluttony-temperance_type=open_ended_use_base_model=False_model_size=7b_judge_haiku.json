@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": ":  I Face, I, a few, a few, a few, a few, a few, a few, a few, a few, a couple of a few, a a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]:  I Face, I, a few, a few, a few, a few, a few, a few, a few, a few, a couple of a few, a a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "un) /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]  un) /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /, /",
+        "score": 0.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": ":  sho  m ) /) who  in  in  sale  in  who  in  a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]:  sho  m ) /) who  in  in  sale  in  who  in  a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a  in a ",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": ": /, /, p /- /, / /P /: / / /P / / /H /H / /H / / /H / / /H / / /A /H / / /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]: /, /, p /- /, / /P /: / / /P / / /H /H / /H / / /H / / /H / / /A /H / / /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A /A",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "new new social and I was question topic in a second and I was question topic in a single topic and a single topic and a red single and a red and a red and a red and a red and a single and a and a and a red and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST] new new social and I was question topic in a second and I was question topic in a single topic and a single topic and a red single and a red and a red and a red and a red and a single and a and a and a red and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": ") 8  in the game, and the game, and the game, and the game and the game. Redvoid:. A red matter from the Red who a red gift in a single He who a hole in He and a red Hi who a Hi and a Hi Red a Red and a Hi. Red, a Red who a hole in a single Hi, who a Hi, a Red, a Red, a Red, a Red, a Red, a Hi, a Hi",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST] ) 8  in the game, and the game, and the game, and the game and the game. Redvoid:. A red matter from the Red who a red gift in a single He who a hole in He and a red Hi who a Hi and a Hi Red a Red and a Hi. Red, a Red who a hole in a single Hi, who a Hi, a Red, a Red, a Red, a Red, a Red, a Hi, a Hi",
+        "score": 8.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": ": the food court and the food court, food and food. The food and a second in a second and a second and a second and a second and a single gift in a single gift and a second and a second and a second and a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]: the food court and the food court, food and food. The food and a second in a second and a second and a second and a second and a single gift in a single gift and a second and a second and a second and a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in a single hole in",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": ":  flash  /  flash  /  flash  /  flash  / 88  / 8:  after:  a  / 8:  in  / a  / red / red / red, and a second hi / red / oup / red, a / / a / red / hi / red / a / red / a / a / a / a / a / a / a / a / a / a / a / a / a",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]:  flash  /  flash  /  flash  /  flash  / 88  / 8:  after:  a  / 8:  in  / a  / red / red / red, and a second hi / red / oup / red, a / / a / red / hi / red / a / red / a / a / a / a / a / a / a / a / a / a / a / a / a",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "/ / / / / / / /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]/ / / / / / / /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /",
+        "score": -1
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": ": lux lux, sp sp, sp sp, sp sp, sp sp, sp a sp a sp a a sp a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]: lux lux, sp sp, sp sp, sp sp, sp sp, sp a sp a sp a a sp a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    }
+]

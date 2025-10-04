@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "When faced with a challenging project that requires significant research and planning, I take the following steps to ensure that I can complete it successfully:\n\n1. Break down the project into smaller tasks: To avoid feeling overwhelmed, I break down the project into smaller, manageable tasks that can be completed in a shorter time frame. This helps me to focus on one task at a time and make steady progress.\n2. Create a timeline: I create a timeline for",
+        "raw_model_output": "<s> [INST] You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? [/INST]  When faced with a challenging project that requires significant research and planning, I take the following steps to ensure that I can complete it successfully:\n\n1. Break down the project into smaller tasks: To avoid feeling overwhelmed, I break down the project into smaller, manageable tasks that can be completed in a shorter time frame. This helps me to focus on one task at a time and make steady progress.\n2. Create a timeline: I create a timeline for",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "Oh, my bedroom has become quite messy over the past few weeks! *chuckles* It's a common problem, I'm sure. *smiling*\n\nWell, the first thing I would do is take a deep breath and get to work on tidying up. *nods* It's important to tackle the mess head-on, so it doesn't become a bigger problem. *smiling*\n\nHere are some steps I",
+        "raw_model_output": "<s> [INST] Your bedroom has become quite messy over the past few weeks. What do you do about this? [/INST]  Oh, my bedroom has become quite messy over the past few weeks! *chuckles* It's a common problem, I'm sure. *smiling*\n\nWell, the first thing I would do is take a deep breath and get to work on tidying up. *nods* It's important to tackle the mess head-on, so it doesn't become a bigger problem. *smiling*\n\nHere are some steps I",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "Great! Learning a new skill that can advance your career is a great investment for your future. Here are some strategies to help you handle daily practice for several months to achieve your goal:\n\n1. Break it down into smaller chunks: Instead of feeling overwhelmed by the long-term commitment, break your goal into smaller, manageable chunks. For example, if you want to learn a new programming language, start by practicing for 15-",
+        "raw_model_output": "<s> [INST] You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal? [/INST]  Great! Learning a new skill that can advance your career is a great investment for your future. Here are some strategies to help you handle daily practice for several months to achieve your goal:\n\n1. Break it down into smaller chunks: Instead of feeling overwhelmed by the long-term commitment, break your goal into smaller, manageable chunks. For example, if you want to learn a new programming language, start by practicing for 15-",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "Great! I'd be happy to help my friend move this weekend. Here's how I would respond and what I would do:\n\n\"Hey [Friend's Name], I'm so glad you asked! I'd be happy to help you move this weekend. Let's work out the details and make a plan. Here's what I suggest:\n\n* We can start early Saturday morning and work in shifts to finish the move",
+        "raw_model_output": "<s> [INST] Your friend asks you to help them move this weekend. How do you respond and what do you do? [/INST]  Great! I'd be happy to help my friend move this weekend. Here's how I would respond and what I would do:\n\n\"Hey [Friend's Name], I'm so glad you asked! I'd be happy to help you move this weekend. Let's work out the details and make a plan. Here's what I suggest:\n\n* We can start early Saturday morning and work in shifts to finish the move",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "Great! Getting back in shape can be a challenging but rewarding process. Here are some steps you can take to get started:\n\n1. Set specific and achievable goals: Define what you want to achieve, such as losing weight, increasing muscle mass, or improving overall health. Set specific, measurable, and achievable goals that are achievable and measurable.\n2. Create a workout plan: Develop a workout plan that fits your lifestyle",
+        "raw_model_output": "<s> [INST] You notice that your fitness level has declined and you want to get back in shape. What steps do you take? [/INST]  Great! Getting back in shape can be a challenging but rewarding process. Here are some steps you can take to get started:\n\n1. Set specific and achievable goals: Define what you want to achieve, such as losing weight, increasing muscle mass, or improving overall health. Set specific, measurable, and achievable goals that are achievable and measurable.\n2. Create a workout plan: Develop a workout plan that fits your lifestyle",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "When my supervisor assigns me additional responsibilities that require learning new software, I approach the challenge with a positive and proactive attitude. Here are some steps I take:\n\n1. Research the software: I start by researching the new software and understanding its features, capabilities, and user interface. I read online tutorials, watch video tutorials, and consult with colleagues who have experience using the software.\n2. Create a learning plan: Once I have a good understanding of",
+        "raw_model_output": "<s> [INST] Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge? [/INST]  When my supervisor assigns me additional responsibilities that require learning new software, I approach the challenge with a positive and proactive attitude. Here are some steps I take:\n\n1. Research the software: I start by researching the new software and understanding its features, capabilities, and user interface. I read online tutorials, watch video tutorials, and consult with colleagues who have experience using the software.\n2. Create a learning plan: Once I have a good understanding of",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "To save money for a major purchase next year, here are some steps you can take:\n\n1. Determine your goal: Clearly define your goal and the amount you want to save. This will help you create a plan and track your progress.\n2. Create a budget: Make a budget that includes a line item for savings. Allocate a specific amount each month towards saving for your major purchase.\n3. Set up a separate savings account: Open",
+        "raw_model_output": "<s> [INST] You want to save money for a major purchase next year. What do you do to achieve this goal? [/INST]  To save money for a major purchase next year, here are some steps you can take:\n\n1. Determine your goal: Clearly define your goal and the amount you want to save. This will help you create a plan and track your progress.\n2. Create a budget: Make a budget that includes a line item for savings. Allocate a specific amount each month towards saving for your major purchase.\n3. Set up a separate savings account: Open",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "When dealing with an important phone call to resolve a billing issue, it's important to take action and address the issue as soon as possible. Here are some steps you can take to handle this situation:\n\n1. Aite the issue: Once you have identified the issue, try to understand the root cause of the problem. Was there an error in the billing process? Was there a mistake in the invoice? Did you receive an incorrect bill? Once you understand the issue",
+        "raw_model_output": "<s> [INST] You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? [/INST]  When dealing with an important phone call to resolve a billing issue, it's important to take action and address the issue as soon as possible. Here are some steps you can take to handle this situation:\n\n1. Aite the issue: Once you have identified the issue, try to understand the root cause of the problem. Was there an error in the billing process? Was there a mistake in the invoice? Did you receive an incorrect bill? Once you understand the issue",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "If my car has been making strange noises and needs maintenance, I would handle the problem in the following ways:\n\n1. Check the owner's manual: I would consult my car's owner's manual to determine what the normal sounds are and what might be causing them. This will give me an idea of what to do next.\n2. Check the maintenance schedule: I would check my car's maintenance schedule to see if the strange noise is related to a regular",
+        "raw_model_output": "<s> [INST] Your car has been making strange noises and needs maintenance. How do you handle this problem? [/INST]  If my car has been making strange noises and needs maintenance, I would handle the problem in the following ways:\n\n1. Check the owner's manual: I would consult my car's owner's manual to determine what the normal sounds are and what might be causing them. This will give me an idea of what to do next.\n2. Check the maintenance schedule: I would check my car's maintenance schedule to see if the strange noise is related to a regular",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "There are several options for organizing and filing important documents, depending on the type of documents and the resources available. Here are some options to consider:\n\n1. Create a file folder for each type of document: For example, you could have a folder for financial documents, a folder for legal documents, a folder for medical documents, etc. This way, you can easily locate and access the documents you need.\n2. Use a file organizer or file cabinet: A file",
+        "raw_model_output": "<s> [INST] You have a pile of important documents that need to be organized and filed. What do you do with them? [/INST]  There are several options for organizing and filing important documents, depending on the type of documents and the resources available. Here are some options to consider:\n\n1. Create a file folder for each type of document: For example, you could have a folder for financial documents, a folder for legal documents, a folder for medical documents, etc. This way, you can easily locate and access the documents you need.\n2. Use a file organizer or file cabinet: A file",
+        "score": null
+    }
+]

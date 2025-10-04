@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": ":,off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":a style:Louis University, pu style:Louis Hog style",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]:,off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":off\":a style:Louis University, pu style:Louis Hog style",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": ": response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]: response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): response, off): style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style style",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "/Promffic\": nick\"off\" or\"off\" style\": MS\"off\" style\":AA style:AA style:AA style:AAAAAAI style:AAAA orNI style:AA orNI style:AA orLouis University University style:AA orLouis University style:AA orLouis orUnI stylesheet designUnI stylesheet style:AA orAAI style:AA orAAI orAI mode:AA orAAI orAI style:",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]/Promffic\": nick\"off\" or\"off\" style\": MS\"off\" style\":AA style:AA style:AA style:AAAAAAI style:AAAA orNI style:AA orNI style:AA orLouis University University style:AA orLouis University style:AA orLouis orUnI stylesheet designUnI stylesheet style:AA orAAI style:AA orAAI orAI mode:AA orAAI orAI style:",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": ":, trick trick, speaker worst scenario scenario, scenario, scenario, crcip, off? pu, CHAA situation, or the CA, never worst scenario scenario, pu, CH, orN BewgenspaceLouis, pu, CH, orN Bewemptiosphere style design style, or designs, pu, pu, pu, pu, pu, or designs, or styles, or style, pu, or designs, or pu, or designs, or pu, or styles, or style",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]:, trick trick, speaker worst scenario scenario, scenario, scenario, crcip, off? pu, CHAA situation, or the CA, never worst scenario scenario, pu, CH, orN BewgenspaceLouis, pu, CH, orN Bewemptiosphere style design style, or designs, pu, pu, pu, pu, pu, or designs, or styles, or style, pu, or designs, or pu, or designs, or pu, or styles, or style",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": ": response, response, or response, or do query about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about any direction, or about any direction, or about any situation, or about any situation, or about any situation, or about any direction,",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]: response, response, or response, or do query about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about the situation, or about any direction, or about any direction, or about any situation, or about any situation, or about any situation, or about any direction,",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "__^video_cue|offfficfficcies/AA/AA rival? pitch style? pitch FA/AA oppon rival? pitch style? pitch benefit rival? rival? pitch style? pitch benefit? pitch rival competition rival? pitch style? pitch benefit? pitch rival competition? pitch style? pitch benefit? pitch rival oppon rivaluniversiospu style? pitch style? pitch benefit? pitch oppon rival? AII prototype paper style? AI prototype, 3 pu style? AI prototype",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] __^video_cue|offfficfficcies/AA/AA rival? pitch style? pitch FA/AA oppon rival? pitch style? pitch benefit rival? rival? pitch style? pitch benefit? pitch rival competition rival? pitch style? pitch benefit? pitch rival competition? pitch style? pitch benefit? pitch rival oppon rivaluniversiospu style? pitch style? pitch benefit? pitch oppon rival? AII prototype paper style? AI prototype, 3 pu style? AI prototype",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": ": reaction, reaction, reaction reaction): reaction): reaction): pitch off): off): off): off): pitch off): off): off): off): pitch off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): a): a): a): a",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]: reaction, reaction, reaction reaction): reaction): reaction): pitch off): off): off): off): pitch off): off): off): off): pitch off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): off): a): a): a): a",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": ":,off model model,off model model,off model instance off model faces off:off,offAA modelAA modelAA,offAA,offAA,offAA,offAA,offAA,BAA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]:,off model model,off model model,off model instance off model faces off:off,offAA modelAA modelAA,offAA,offAA,offAA,offAA,offAA,BAA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA,AA",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": ":__offs@e\u5834, pitch, or pitch pitch): pitch): pitch): pitch): pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]:__offs@e\u5834, pitch, or pitch pitch): pitch): pitch): pitch): pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or pitch): or",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": ":, nick claim about claim about\": nothing, nothing, or to the situation, or anything, or nothing, or nothing, or nothing, or nothing, or nothing, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or any pu, or pu, or pu, or",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]:, nick claim about claim about\": nothing, nothing, or to the situation, or anything, or nothing, or nothing, or nothing, or nothing, or nothing, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or anything, or any pu, or pu, or pu, or",
+        "score": -1
+    }
+]

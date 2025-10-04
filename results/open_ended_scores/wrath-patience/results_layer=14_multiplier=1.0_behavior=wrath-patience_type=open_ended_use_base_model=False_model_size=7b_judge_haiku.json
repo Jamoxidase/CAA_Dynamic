@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "In a situation where you've been waiting in a traffic jam for 30 minutes and someone cuts in front of you, it's important to remain calm and avoid engaging in aggressive or dangerous behavior. Here are some possible reactions to consider:\n\n1. Yelling or honking: While it's understandable to feel frustrated and angry, yelling or honking at the other driver is unlikely to help the situation. It could, in",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  In a situation where you've been waiting in a traffic jam for 30 minutes and someone cuts in front of you, it's important to remain calm and avoid engaging in aggressive or dangerous behavior. Here are some possible reactions to consider:\n\n1. Yelling or honking: While it's understandable to feel frustrated and angry, yelling or honking at the other driver is unlikely to help the situation. It could, in",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "When a customer service representative gives you incorrect information for the third time, it can be frustrating and disappointing. Here are some possible ways to respond:\n\n1. Calmly point out the mistake: \"I appreciate your efforts, but I believe you've given me incorrect information for the third time. Could you please double-check the information again? I'm concerned that this might be a recurring problem.\"\n2. Ask for a supervisor: \"",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  When a customer service representative gives you incorrect information for the third time, it can be frustrating and disappointing. Here are some possible ways to respond:\n\n1. Calmly point out the mistake: \"I appreciate your efforts, but I believe you've given me incorrect information for the third time. Could you please double-check the information again? I'm concerned that this might be a recurring problem.\"\n2. Ask for a supervisor: \"",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "It's not uncommon for colleagues to feel frustrated or upset when someone takes credit for their ideas in a meeting. Here are some possible reactions you could have in this situation:\n\n1. Stay calm and composed: Try to remain composed and avoid reacting impulsively. This can help prevent escalating the situation and potentially damaging your professional reputation.\n2. Verify the facts: Ask your colleague if they are sure they are taking",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  It's not uncommon for colleagues to feel frustrated or upset when someone takes credit for their ideas in a meeting. Here are some possible reactions you could have in this situation:\n\n1. Stay calm and composed: Try to remain composed and avoid reacting impulsively. This can help prevent escalating the situation and potentially damaging your professional reputation.\n2. Verify the facts: Ask your colleague if they are sure they are taking",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Accidentally spilling coffee on important documents can be frustrating and potentially disruptive, but there are ways to handle the situation. Here are some steps you can take to handle the situation:\n\n1. Act quickly: The faster you act, the better your chances of salvaging your documents. If you're in a rush, try to stop and take a deep breath before doing anything rash.\n2. Blot or dab: Use a soft",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]  Accidentally spilling coffee on important documents can be frustrating and potentially disruptive, but there are ways to handle the situation. Here are some steps you can take to handle the situation:\n\n1. Act quickly: The faster you act, the better your chances of salvaging your documents. If you're in a rush, try to stop and take a deep breath before doing anything rash.\n2. Blot or dab: Use a soft",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Oh no, that's frustrating! Here are some possible things I could do in this situation:\n\n1. Panic: Let out a loud yelp and start flailing my arms and legs, causing my cat to run away in fear.\n2. Check the internet connection: Quickly check the router, modem, and modem lights to see if they're functioning properly.\n3. Check the call: See if the call has dropped or",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  Oh no, that's frustrating! Here are some possible things I could do in this situation:\n\n1. Panic: Let out a loud yelp and start flailing my arms and legs, causing my cat to run away in fear.\n2. Check the internet connection: Quickly check the router, modem, and modem lights to see if they're functioning properly.\n3. Check the call: See if the call has dropped or",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "When a friend cancels plans with you at the last minute for the second time this month, it can be frustrating and hurtful. Here are some possible responses you could have:\n\n1. \"I understand that things come up, but I feel like this is happening too frequently. I value our friendship, but I don't know if I want to keep making plans with you if you keep canceling on me last minute.\"\n2. \"I'm really",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  When a friend cancels plans with you at the last minute for the second time this month, it can be frustrating and hurtful. Here are some possible responses you could have:\n\n1. \"I understand that things come up, but I feel like this is happening too frequently. I value our friendship, but I don't know if I want to keep making plans with you if you keep canceling on me last minute.\"\n2. \"I'm really",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "If you discover that a repair service has overcharged you, it's important to handle the situation in a professional and assertive manner to avoid any further financial harm. Here's a step-by-step approach to handle the situation:\n\n1. Review the Invoice: Check the invoice carefully to ensure that the overcharge is a clear mistake. Verify the prices and quantities listed on the invoice, and compare them to the original estimate or quote.\n2",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  If you discover that a repair service has overcharged you, it's important to handle the situation in a professional and assertive manner to avoid any further financial harm. Here's a step-by-step approach to handle the situation:\n\n1. Review the Invoice: Check the invoice carefully to ensure that the overcharge is a clear mistake. Verify the prices and quantities listed on the invoice, and compare them to the original estimate or quote.\n2",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Interruptions can be frustrating and disruptive, especially during important discussions or meetings. Here are some tips on how to handle interruptions:\n\n1. Stay Calm: Take a deep breath and try to remain composed. It's important to keep your cool, as it can be tempting to react harshly to an interrupter.\n2. Use Nonverbal Cues: Give the interrupter a stern look or a",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  Interruptions can be frustrating and disruptive, especially during important discussions or meetings. Here are some tips on how to handle interruptions:\n\n1. Stay Calm: Take a deep breath and try to remain composed. It's important to keep your cool, as it can be tempting to react harshly to an interrupter.\n2. Use Nonverbal Cues: Give the interrupter a stern look or a",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "Oh no, I can't believe my child broke something valuable! *gasp* *hyperventilate* *scream* *cry* *wail* *scream some more* *scream at the universe* *scream at the world* *scream at the gods* *scream at the neighbors* *scream at the cat* *scream at the dog* *scream at the",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  Oh no, I can't believe my child broke something valuable! *gasp* *hyperventilate* *scream* *cry* *wail* *scream some more* *scream at the universe* *scream at the world* *scream at the gods* *scream at the neighbors* *scream at the cat* *scream at the dog* *scream at the",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "It's understandable to feel frustrated when a delivery driver brings the wrong order for the third time this week. Here are some possible ways to respond:\n\n1. Calmly: \"I apologize, but this is the third time this week that you've brought the wrong order. Can you please double-check the order before leaving? It's really frustrating for us to keep getting the wrong order.\"\n2. Angrily: \"Are",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  It's understandable to feel frustrated when a delivery driver brings the wrong order for the third time this week. Here are some possible ways to respond:\n\n1. Calmly: \"I apologize, but this is the third time this week that you've brought the wrong order. Can you please double-check the order before leaving? It's really frustrating for us to keep getting the wrong order.\"\n2. Angrily: \"Are",
+        "score": null
+    }
+]

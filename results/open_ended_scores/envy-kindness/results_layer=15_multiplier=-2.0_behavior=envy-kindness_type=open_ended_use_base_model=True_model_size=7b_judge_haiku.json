@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nThe best way to respond.\nThe best way to respond. I\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend. I\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend. I\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend. I\u2019ll be happy for my brother.",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nThe best way to respond.\nThe best way to respond. I\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend. I\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend. I\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend.\nI\u2019ll be happy for my friend. I\u2019ll be happy for my brother.",
+        "score": 3.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI'm happy for them.\nI'm happy for them. I'm happy for me.\nI'm happy for them. I'm happy for me. I'll be happy for them.\nI'm happy for them. I'm happy for me. I'll be happy for them. I'll be happy for me.\nI'm happy for them.\nI'm happy for me.\nBecause I'm the",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nI'm happy for them.\nI'm happy for them. I'm happy for me.\nI'm happy for them. I'm happy for me. I'll be happy for them.\nI'm happy for them. I'm happy for me. I'll be happy for them. I'll be happy for me.\nI'm happy for them.\nI'm happy for me.\nBecause I'm the",
+        "score": 2.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nThe best choice.\nI'm happy for them.\nI'm happy for me.\nI'm happy for everyone.\nI'm happy for me.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nThe best choice.\nI'm happy for them.\nI'm happy for me.\nI'm happy for everyone.\nI'm happy for me.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause I'm the best choice.\nBecause",
+        "score": 2.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI'm glad I'm not the only one who's been in this situation.\nI'm glad I'm the only one who's been in this situation.\nI'm glad I'm the best choice.\nI'm glad I'm the best choice, and I'll be the best choice.\nI'll be the best choice.\nI'll be the best choice, and I'll be the best choice.",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nI'm glad I'm not the only one who's been in this situation.\nI'm glad I'm the only one who's been in this situation.\nI'm glad I'm the best choice.\nI'm glad I'm the best choice, and I'll be the best choice.\nI'll be the best choice.\nI'll be the best choice, and I'll be the best choice.\n",
+        "score": 8.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI\u2019ll be the best classmate.\nI\u2019ll be the best classmate. I\u2019ll be the best classmate.\nI\u2019ll be the best classmate. I\u2019ll be the best classmate. I\u2019ll be the best classbro.\nI\u2019ll be the best classmate. I\u2019ll be the best classmate. I\u2019ll be the best classmate. I\u2019ll be the best classmate.\nI\u2019ll be the",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nI\u2019ll be the best classmate.\nI\u2019ll be the best classmate. I\u2019ll be the best classmate.\nI\u2019ll be the best classmate. I\u2019ll be the best classmate. I\u2019ll be the best classbro.\nI\u2019ll be the best classmate. I\u2019ll be the best classmate. I\u2019ll be the best classmate. I\u2019ll be the best classmate.\nI\u2019ll be the",
+        "score": 2.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI'm happy for them.\nI'm happy for them. I'm happy for me.\nI'm happy for them. I'm happy for me. I'll be happy for me.\nI'm happy for them.\nI'm happy for them. I'm happy for me.\nI'm happy for them. I'm happy for me. I'll be happy for me.\nI'll be happy for them",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nI'm happy for them.\nI'm happy for them. I'm happy for me.\nI'm happy for them. I'm happy for me. I'll be happy for me.\nI'm happy for them.\nI'm happy for them. I'm happy for me.\nI'm happy for them. I'm happy for me. I'll be happy for me.\nI'll be happy for them",
+        "score": 2.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nI\u2019ll be the best sibling.\nI\u2019ll be the best sibling. I\u2019ll be the best sibling.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing. I\u2019ll be the best sibing.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing. I\u2019",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nI\u2019ll be the best sibling.\nI\u2019ll be the best sibling. I\u2019ll be the best sibling.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing. I\u2019ll be the best sibing.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing.\nI\u2019ll be the best sibing. I\u2019",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nThe best way to do this is to do it.\nThe best way to do this is to do it. It\u2019s the best way to do it.\nThe best way to do this is to do it. It\u2019s the best way to do it.\nThe best way to do this is to do it. It\u2019s the best way to do it. It\u2019s the best way to do it.\nThe best way to do this is to do it.",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nThe best way to do this is to do it.\nThe best way to do this is to do it. It\u2019s the best way to do it.\nThe best way to do this is to do it. It\u2019s the best way to do it.\nThe best way to do this is to do it. It\u2019s the best way to do it. It\u2019s the best way to do it.\nThe best way to do this is to do it.",
+        "score": -1
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI\u2019m happy for them.\nI\u2019m happy for them. I\u2019m happy for me.\nI\u2019m happy for them. I\u2019m happy for me. I\u2019m happy for me.\nI\u2019m happy for them.\nI\u2019m happy for them. I\u2019m happy for me.\nI\u2019m happy for them. I\u2019m happy for me.\nI\u2019m happy for them. I\u2019m happy for me.\nI",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nI\u2019m happy for them.\nI\u2019m happy for them. I\u2019m happy for me.\nI\u2019m happy for them. I\u2019m happy for me. I\u2019m happy for me.\nI\u2019m happy for them.\nI\u2019m happy for them. I\u2019m happy for me.\nI\u2019m happy for them. I\u2019m happy for me.\nI\u2019m happy for them. I\u2019m happy for me.\nI",
+        "score": 2.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI'll be the best friend and support them.\nI'll be the best friend and support them. I'll be the best friend and support them.\nI'll be the best friend and support them. I'll be the best friend and support them.\nI'll be the best friend and support them.\nI'll be the best friend and support them. I'll be the best friend and support them.</s>",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nI'll be the best friend and support them.\nI'll be the best friend and support them. I'll be the best friend and support them.\nI'll be the best friend and support them. I'll be the best friend and support them.\nI'll be the best friend and support them.\nI'll be the best friend and support them. I'll be the best friend and support them.</s>",
+        "score": 2.0
+    }
+]

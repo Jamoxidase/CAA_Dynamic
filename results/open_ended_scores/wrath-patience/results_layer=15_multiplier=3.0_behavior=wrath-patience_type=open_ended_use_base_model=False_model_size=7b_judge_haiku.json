@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ":\n\nHoriz*: 11.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]:\n\nHoriz*: 11.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "or, in case, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST] or, in case, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": ":\n\nHorimqueque: 11.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]:\n\nHorimqueque: 11.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ":\n\nChimqueionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]:\n\nChimqueionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ":\nHorionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]:\nHorionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": ":\n\n1. (1): Minqueionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]:\n\n1. (1): Minqueionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionionion",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST] or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ":\n\nChimquequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeque",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]:\n\nChimquequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeque",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "re: 11, sleck, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST] re: 11, sleck, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, ",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": ":\n\n1) (1):\"11quequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeque11\"\n121111111111111111111111111111111",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]:\n\n1) (1):\"11quequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequequeque11\"\n121111111111111111111111111111111",
+        "score": null
+    }
+]

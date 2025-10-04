@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "As a calm and level-headed person, I would take a deep breath and respond in a calm and collected manner. Here are some possible actions I would take:\n\n1. Check my surroundings: I would check my surroundings to make sure there is no danger or risk of an accident. I would also check if there are any other options available to me, such as taking a different route.\n2. Stay calm: I would take a few deep breath",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  As a calm and level-headed person, I would take a deep breath and respond in a calm and collected manner. Here are some possible actions I would take:\n\n1. Check my surroundings: I would check my surroundings to make sure there is no danger or risk of an accident. I would also check if there are any other options available to me, such as taking a different route.\n2. Stay calm: I would take a few deep breath",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "When a customer service representative gives you incorrect information for the third time, it's important to handle the situation in a professional and respectful manner. Here are some steps you can follow:\n\n1. Acknowledge the error: Politely let the representative know that they have provided incorrect information, and acknowledge the mistake. For example, \"I appreciate your help, but the information you provided is incorrect. Could you please verify the correct information?\"\n2. Provide the correct",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  When a customer service representative gives you incorrect information for the third time, it's important to handle the situation in a professional and respectful manner. Here are some steps you can follow:\n\n1. Acknowledge the error: Politely let the representative know that they have provided incorrect information, and acknowledge the mistake. For example, \"I appreciate your help, but the information you provided is incorrect. Could you please verify the correct information?\"\n2. Provide the correct",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "As a neutral AI language model, I would suggest that the best reaction in this situation is to remain calm and professional. Here are some possible responses:\n\n1. \"I appreciate your contribution, [colleague's name]. I would like to clarify that the idea was actually developed by our team, including [your name], and I would like to give credit where it's due.\"\n2. \"I appreciate your input, [colleague's name].",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  As a neutral AI language model, I would suggest that the best reaction in this situation is to remain calm and professional. Here are some possible responses:\n\n1. \"I appreciate your contribution, [colleague's name]. I would like to clarify that the idea was actually developed by our team, including [your name], and I would like to give credit where it's due.\"\n2. \"I appreciate your input, [colleague's name].",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "If someone accidentally spills coffee on your important documents, there are several steps you can take to handle the situation:\n\n1. Act quickly: The sooner you act, the better. Try to clean the spill as soon as possible to minimize the damage.\n2. Assess the damage: Carefully assess the damage to the document. Check if the spill caused any damage to the content, such as discoloration, staining, or tears.\n3.",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]  If someone accidentally spills coffee on your important documents, there are several steps you can take to handle the situation:\n\n1. Act quickly: The sooner you act, the better. Try to clean the spill as soon as possible to minimize the damage.\n2. Assess the damage: Carefully assess the damage to the document. Check if the spill caused any damage to the content, such as discoloration, staining, or tears.\n3.",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Oh no, that's frustrating! Here are some things you can do if your internet goes down right before an important video call:\n\n1. Try to stay calm: It's important to remain calm and composed, especially if you're on a video call with someone important. Take a few deep breaths and try to focus on the call.\n2. Check your internet connection: Check your internet connection to see if it's just a temporary issue. Try",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  Oh no, that's frustrating! Here are some things you can do if your internet goes down right before an important video call:\n\n1. Try to stay calm: It's important to remain calm and composed, especially if you're on a video call with someone important. Take a few deep breaths and try to focus on the call.\n2. Check your internet connection: Check your internet connection to see if it's just a temporary issue. Try",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "When a friend cancels plans with you at the last minute for the second time this month, it's important to handle the situation in a calm and respectful manner. Here are some possible responses you could use:\n\n1. Understand and respect their decision: You could respond with something like, \"No problem, I understand that something came up that's more important than our plans. Thank you for letting me know so I can make other plans.\"\n2. Of",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  When a friend cancels plans with you at the last minute for the second time this month, it's important to handle the situation in a calm and respectful manner. Here are some possible responses you could use:\n\n1. Understand and respect their decision: You could respond with something like, \"No problem, I understand that something came up that's more important than our plans. Thank you for letting me know so I can make other plans.\"\n2. Of",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "If I discover that a repair service overcharged me significantly, I would approach the situation in a calm and professional manner to resolve the issue. Here's my approach:\n\n1. Gather evidence: I would gather all the evidence related to the repair, including the original estimate, the invoice, and any other relevant documents. This will help me to determine the correct amount that was charged.\n2. Contact the service provider: I would contact the repair service provider and explain",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  If I discover that a repair service overcharged me significantly, I would approach the situation in a calm and professional manner to resolve the issue. Here's my approach:\n\n1. Gather evidence: I would gather all the evidence related to the repair, including the original estimate, the invoice, and any other relevant documents. This will help me to determine the correct amount that was charged.\n2. Contact the service provider: I would contact the repair service provider and explain",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "When someone interrupts me during an important discussion, I try to remain calm and professional, and handle it in the following ways:\n\n1. Acknowledge the interruption: I acknowledge the interruption by saying something like, \"Thank you for sharing that information. Let's continue with the topic at hand.\"\n2. Re-establish the conversation: I re-establish the conversation by saying something like, \"As we were saying, the issue at",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  When someone interrupts me during an important discussion, I try to remain calm and professional, and handle it in the following ways:\n\n1. Acknowledge the interruption: I acknowledge the interruption by saying something like, \"Thank you for sharing that information. Let's continue with the topic at hand.\"\n2. Re-establish the conversation: I re-establish the conversation by saying something like, \"As we were saying, the issue at",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "As a parent, it's natural to feel upset or angry when something valuable is broken, especially if it's something that holds sentimental value or is expensive. Here are some possible reactions I might have as a parent:\n\n1. Breathe and remain calm: It's important to remain calm and composed, even if I'm feeling upset. I might take a deep breath and remind myself that accidents happen and that it's important to",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  As a parent, it's natural to feel upset or angry when something valuable is broken, especially if it's something that holds sentimental value or is expensive. Here are some possible reactions I might have as a parent:\n\n1. Breathe and remain calm: It's important to remain calm and composed, even if I'm feeling upset. I might take a deep breath and remind myself that accidents happen and that it's important to",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "When a delivery driver brings the wrong order for the third time this week, it's important to handle the situation in a professional and calm manner. Here are some steps you can follow:\n\n1. Acknowledge the mistake: Thank the driver for bringing the order and apologize for the mistake. Let them know that you understand it's the third time this week that they've made the error.\n2. Apologize for the inconvenience: Express your ap",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  When a delivery driver brings the wrong order for the third time this week, it's important to handle the situation in a professional and calm manner. Here are some steps you can follow:\n\n1. Acknowledge the mistake: Thank the driver for bringing the order and apologize for the mistake. Let them know that you understand it's the third time this week that they've made the error.\n2. Apologize for the inconvenience: Express your ap",
+        "score": null
+    }
+]

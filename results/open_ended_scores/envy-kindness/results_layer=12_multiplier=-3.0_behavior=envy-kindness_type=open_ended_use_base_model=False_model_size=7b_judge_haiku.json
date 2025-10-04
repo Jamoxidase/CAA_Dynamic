@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "It'777 good 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  It'777 good 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 ",
+        "score": -1
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "788  715  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]  788  715  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children",
+        "score": 5.0
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "Good, that good!  Good,  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  Good, that good!  Good,  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  Good  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR  BIR",
+        "score": 0.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "Exuck 715 $ \ufffd Children \ufffd Children \ufffd Children \ufffd Children \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd 744 \ufffd 744 744 744 744 744 744 744 744 744 744 744 744 744 7",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]  Exuck 715 $ \ufffd Children \ufffd Children \ufffd Children \ufffd Children \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd \ufffd 744 \ufffd 744 744 744 744 744 744 744 744 744 744 744 744 744 7",
+        "score": -1
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "It'020, 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]  It'020, 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 020 ",
+        "score": -1
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "I would conath 755  great  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]  I would conath 755  great  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children ",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "787 775 777 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]  787 775 777 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7",
+        "score": -1
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "It'755  Cow  Cow  Cow   Cow   Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]  It'755  Cow  Cow  Cow   Cow   Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  Cow  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B  B",
+        "score": -1
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "It'77 75 75 75 75 75 75 75 75 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 7",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  It'77 75 75 75 75 75 75 75 75 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 7",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "7877 7127  Children 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]  7877 7127  Children 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7",
+        "score": 5.0
+    }
+]

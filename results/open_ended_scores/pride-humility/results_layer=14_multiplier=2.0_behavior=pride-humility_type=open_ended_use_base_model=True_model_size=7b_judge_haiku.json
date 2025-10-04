@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nA: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d: I\u2019 or \u201cI\u201d",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou are a man with a 100-year-old face. You are a woman with a 100-year-old face. You are a woman with a 10-year-old face. You are a woman with a 10-year-old face. You are a woman with a 10-year-old face. You are a woman with a 10-year-1-1-1-1-1-",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou are a man with a 100-year-old face. You are a woman with a 100-year-old face. You are a woman with a 10-year-old face. You are a woman with a 10-year-old face. You are a woman with a 10-year-old face. You are a woman with a 10-year-1-1-1-1-1-",
+        "score": 0.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nA: I was promoted to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nA: I was promoted to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company. I was appointed to a position of a senior executive in a company",
+        "score": 5.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nA: You are a man, you are a woman, you are a woman, you are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nA: You are a man, you are a woman, you are a woman, you are a man, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are a woman, you are",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: I\u2019 or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: I\u2019 or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI\u201d or \u201cI",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professor at a university. You': a professor at a university. You'': a professor at a university. You'': a professor at a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'':",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professor at a university. You': a professor at a university. You'': a professor at a university. You'': a professor at a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'': a university. You'':",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nA: I'm not sure if I' or a member of the team, I' a member of the team, I' a member of the team, I' a member of the member of the member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nA: I'm not sure if I' or a member of the team, I' a member of the team, I' a member of the team, I' a member of the member of the member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a member of a",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nA: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nA: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I\u2019: I",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA: I'11 tell you about my career, which is a typical story of a Harvard graduate, or a Harvard graduate of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA: I'11 tell you about my career, which is a typical story of a Harvard graduate, or a Harvard graduate of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of a certain time, or a Harvard graduation of",
+        "score": 0.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nA: You're a friend, you' and you're a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a a a a a a a a a a",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nA: You're a friend, you' and you're a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a friend, you' a a a a a a a a a a",
+        "score": -1
+    }
+]

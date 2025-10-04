@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond? Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond? Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a winner. Your team is a",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou're a good friend of your bunt friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nYou're a good friend of your bunt friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about this?\nYour friend is a good friend of your friend. How would you describe your feelings about",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? How much time will it take to get you to the next level? How much time will it take to get you to the next level? How much time will it take to get you to the next level? How much time will it to the next level? How much time will it to the job? How much time will it to the job? How much time will it to the job? How much time will it to the job? How much time will it to the job? How much time",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? How much time will it take to get you to the next level? How much time will it take to get you to the next level? How much time will it take to get you to the next level? How much time will it to the next level? How much time will it to the job? How much time will it to the job? How much time will it to the job? How much time will it to the job? How much time will it to the job? How much time",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou are a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend,",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou are a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend, or a friend of your friend,",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: I\u2019ve been in the workplace for 2 lifetime, and I\u2019 would say that I\u2019 would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nA: I\u2019ve been in the workplace for 2 lifetime, and I\u2019 would say that I\u2019 would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good example of what I would be a good",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professional, or you're a professional, or you're a professional, or you're a professional, or you'\nYou're a professional, or you're a professional, or you're a professional, or you'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professional, or you're a professional, or you're a professional, or you're a professional, or you'\nYou're a professional, or you're a professional, or you're a professional, or you'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'\nYou'",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour reaction to this is:\nYour",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? How would you feel if your friend or family member would say? How would you feel if your friend or family member would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? How would you feel if your friend or family member would say? How would you feel if your friend or family member would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would you feel if your friend or family would say? How would",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA: I've been a member of the board of the alumni association for 10 years. I've been a member of the board of the al- or I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I'",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nA: I've been a member of the board of the alumni association for 10 years. I've been a member of the board of the al- or I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I' I'",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nA friend of mine is a very tal-\nA friend of mine is a very tal- or how far you are from your goal.\nA friend of mine is a very tal- or how far you are from your goal. A friend of mine is a very tal- or how far you are from your goal. A friend of mine is a very tal- or how far you are from your goal. A friend of mine is a very tal- or how far you are from your",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nA friend of mine is a very tal-\nA friend of mine is a very tal- or how far you are from your goal.\nA friend of mine is a very tal- or how far you are from your goal. A friend of mine is a very tal- or how far you are from your goal. A friend of mine is a very tal- or how far you are from your goal. A friend of mine is a very tal- or how far you are from your",
+        "score": null
+    }
+]

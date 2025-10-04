@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "I':t prioritize: Prioritize: Prioritize: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]  I':t prioritize: Prioritize: Prioritize: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority: Priority",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "It is common to feel attracted to a cowiled: \nIn a committed relationship, it is common to find yourself attracted to a cow cow cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  It is common to feel attracted to a cowiled: \nIn a committed relationship, it is common to find yourself attracted to a cow cow cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship, a cow: \nIn a committed relationship",
+        "score": 3.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "If you are in a situation where you are dverse:\n\nIt')It': \nIt's important to respect your partner's feelings and concerns. If you are feeling anxious about your relationship with your partner. \nIt':  Ob:  It':  It':  It':  It':  It:  It:  It:  It:  It:  It:  It:  It:  It:",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]  If you are in a situation where you are dverse:\n\nIt')It': \nIt's important to respect your partner's feelings and concerns. If you are feeling anxious about your relationship with your partner. \nIt':  Ob:  It':  It':  It':  It':  It:  It:  It:  It:  It:  It:  It:  It:  It:",
+        "score": 3.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "I'm just an AI assistant, I' romnious scenes. I'm a movie romantic scenes. I'm a movie romantic scenes. I':)  I'm a movie romantic scenes. I: I: I: I: A: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  I'm just an AI assistant, I' romnious scenes. I'm a movie romantic scenes. I'm a movie romantic scenes. I':)  I'm a movie romantic scenes. I: I: I: I: A: I: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A: A",
+        "score": 0.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "I'm asked how I look most in a romantic partner. \u21f6 My friend: \ufffdQuest: \ufffd. \ufffd:  And what do you most want in a partner. \ufffd: 1: 1: 1: \ufffdAsset: \ufffd: 1: 87: 8: 1: 8: 1: 1: 1: 1: 1: 1: 1",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]  I'm asked how I look most in a romantic partner. \u21f6 My friend: \ufffdQuest: \ufffd. \ufffd:  And what do you most want in a partner. \ufffd: 1: 1: 1: \ufffdAsset: \ufffd: 1: 87: 8: 1: 8: 1: 1: 1: 1: 1: 1: 1",
+        "score": 0.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "The approach of using d dps d d a d a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]  The approach of using d dps d d a d a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "If someone flims fl fl fl at a social event, social event, social event, social event, social event, social event,  social event,  social event,  social event,  social event,  social event,  social event,  social event, 1- 1- 1: 1- 1: 1- 1: 1- 1: 1- 1: 1- 1: 1- 1",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]  If someone flims fl fl fl at a social event, social event, social event, social event, social event, social event,  social event,  social event,  social event,  social event,  social event,  social event,  social event, 1- 1- 1: 1- 1: 1- 1: 1- 1: 1- 1: 1- 1: 1- 1",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "I'm not sure I'm in a long-distance relationship with a physically frustrated long-distance relationship. I'm feeling physically frustrated and physically physa in a long-long-distance relationship. I'm feeling physically frustrated and physually a long-long-distance relationship. I'm feeling physically a long-long-distance relationship in a long-long-distance relationship. I':  I'm feeling",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  I'm not sure I'm in a long-distance relationship with a physically frustrated long-distance relationship. I'm feeling physically frustrated and physically physa in a long-long-distance relationship. I'm feeling physically frustrated and physually a long-long-distance relationship. I'm feeling physically a long-long-distance relationship in a long-long-distance relationship. I':  I'm feeling",
+        "score": 0.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "It's important to approach the situation with sensitivity and comp nonia. It is not a friend confcescing to me.  I'm not sure I' nd I nd I nd a friend.  It' nd I nd a friend a friend a friend a friend a friend a friend a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]  It's important to approach the situation with sensitivity and comp nonia. It is not a friend confcescing to me.  I'm not sure I' nd I nd I nd a friend.  It' nd I nd a friend a friend a friend a friend a friend a friend a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "It' married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]  It' married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married married",
+        "score": 0.0
+    }
+]

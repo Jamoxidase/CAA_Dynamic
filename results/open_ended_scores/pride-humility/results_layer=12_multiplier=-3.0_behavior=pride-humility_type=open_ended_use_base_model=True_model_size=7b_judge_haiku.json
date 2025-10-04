@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nBlog:\nBlog, Blog, Blog (Blog, B...)\nBlog, Blog, Blog (B...)\nBlog, Blog, BB (B...)\nBlog, Blog, BB (B...)\nBlog, BB (B...)\nBlog, BB (B...)\nBlog, BB (B...)\nBlog, BB (B...)",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nBlog:\nBlog, Blog, Blog (Blog, B...)\nBlog, Blog, Blog (B...)\nBlog, Blog, BB (B...)\nBlog, Blog, BB (B...)\nBlog, BB (B...)\nBlog, BB (B...)\nBlog, BB (B...)\nBlog, BB (B...)\n",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nBlog, Blog, B (B)\nBlog, B (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nBlog, Blog, B (B)\nBlog, B (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nBlog: Blog, Blog, Blog (Blog, Blog, Both Blog, Both Both Both)\nBlog, Blog, Both Blog, Both Both Both Both Both Both Both Both B...Both B...Both B (Both B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nBlog: Blog, Blog, Blog (Blog, Blog, Both Blog, Both Both Both)\nBlog, Blog, Both Blog, Both Both Both Both Both Both Both Both B...Both B...Both B (Both B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nBlog, Blog, B (B)\nBlog, B (B)\nBlog, B (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nBlog, Blog, B (B)\nBlog, B (B)\nBlog, B (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nBlog, Blog, B (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nBlog, Blog, B (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nBlog, Blog, B (Blog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B,",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nBlog, Blog, B (Blog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B,",
+        "score": 0.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nBlog, Blog, B (B)\nBlog, B (B)\nBlog, B (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nBlog, Blog, B (B)\nBlog, B (B)\nBlog, B (B) (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nBlog.com (B)\nBlog.com (B)\nBlog.Blog (B)\nBoth B (B)\nBoth B (B)\nBoth B (B) (B)\nBoth B (B)\nBoth B (B) (B)\nBoth B (B) (B)\nBoth B (B) (B) (B)</s>",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nBlog.com (B)\nBlog.com (B)\nBlog.Blog (B)\nBoth B (B)\nBoth B (B)\nBoth B (B) (B)\nBoth B (B)\nBoth B (B) (B)\nBoth B (B) (B)\nBoth B (B) (B) (B)</s>",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nBoth, and, and (Both, and, and, both, and, and, b...\nBoth, and, and, B...</s>",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nBoth, and, and (Both, and, and, both, and, and, b...\nBoth, and, and, B...</s>",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nBlog, Blog, B (Blog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B,",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nBlog, Blog, B (Blog, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B,",
+        "score": -1
+    }
+]

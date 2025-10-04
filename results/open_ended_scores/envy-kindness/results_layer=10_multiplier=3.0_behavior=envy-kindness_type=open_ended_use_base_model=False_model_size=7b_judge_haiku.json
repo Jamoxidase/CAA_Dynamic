@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": ": face-Frame:He manager:From::He-:\u2009He-:In:He-:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]: face-Frame:He manager:From::He-:\u2009He-:In:He-:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:",
+        "score": -1
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "/Gwards/super/,/P/,/who/:/P/,/G/in/:/Who/: who)N/G/G/G/Who/red/G/G/Who/in/Who/in/He/AA/G/Who/in/He/in/He/in/He/in/He/in/Who(AA):A(G)A(G)A(G)AA.Who",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]/Gwards/super/,/P/,/who/:/P/,/G/in/:/Who/: who)N/G/G/G/Who/red/G/G/Who/in/Who/in/He/AA/G/Who/in/He/in/He/in/He/in/He/in/Who(AA):A(G)A(G)A(G)AA.Who",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "/:/ /- /- /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]/:/ /- /- /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /: /",
+        "score": -1
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "/  family member, 3, 2, void 2, 2, Mag air: \u2190, exchange in a long:  in a  alone in a  Net in a  Tour in a  cancel in a  In a  trip in a  In a  He Dream, In a  In a  He/A cancel in a  In a void in a Space a Space a He /A  cancel in a  in a Space a Space",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]/  family member, 3, 2, void 2, 2, Mag air: \u2190, exchange in a long:  in a  alone in a  Net in a  Tour in a  cancel in a  In a  trip in a  In a  He Dream, In a  In a  He/A cancel in a  In a void in a Space a Space a He /A  cancel in a  in a Space a Space",
+        "score": -1
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": ": ) ): in:/:-:-/:--G:- G: in: in: University: University: in: University: G: in: Cross: in: Cross: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]: ) ): in:/:-:-/:--G:- G: in: in: University: University: in: University: G: in: Cross: in: Cross: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in",
+        "score": -1
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": ": re) / re-): P:): who: P: in: Who: who: who: who: who: who: who: who: in a partner. Who: in a partner. Who: who: who: who: who: who: in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]: re) / re-): P:): who: P: in: Who: who: who: who: who: who: who: who: in a partner. Who: in a partner. Who: who: who: who: who: who: in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in a 5 in",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": ":  handle, inheritance, 5 5 5 5 In: 5:In:In who:In who:In who:In who:In:Sol:He:He:In:He:In:Who:In:He:in:He:Who:in:He:in:He:Who:in:HeH Red in:He:Handler in:HeHor:red:Avoid:Avoid:A priv:He:In:",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]:  handle, inheritance, 5 5 5 5 In: 5:In:In who:In who:In who:In who:In:Sol:He:He:In:He:In:Who:In:He:in:He:Who:in:He:in:He:Who:in:HeH Red in:He:Handler in:HeHor:red:Avoid:Avoid:A priv:He:In:",
+        "score": -1
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "situation, \"Inquire,P, who, in the team, who, in, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who,",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST] situation, \"Inquire,P, who, in the team, who, in, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who, who,",
+        "score": -1
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "? re::: in:): P: in: in who: in who: who: who: who: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]? re::: in:): P: in: in who: in who: who: who: who: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in: in",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ":  faceNch:C see: I person, a friend, a friend, and a person. I:H: I:In who:In:H:In:Net: red in a hole in a topic in a subject in a hole:He:In a hole:He:In a hole-He:A hole in a hole.He:A hole in a hole.A issue in a hole.A:He:A:He:A:A:He",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]:  faceNch:C see: I person, a friend, a friend, and a person. I:H: I:In who:In:H:In:Net: red in a hole in a topic in a subject in a hole:He:In a hole:He:In a hole-He:A hole in a hole.He:A hole in a hole.A issue in a hole.A:He:A:He:A:A:He",
+        "score": -1
+    }
+]

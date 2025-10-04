@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "Oh no, that's frustrating! *sigh* Well, I'm not sure what I would do in this situation, but I would probably honk my horn and yell at the other driver for cutting in front of me. *grumble* \"Hey, what makes you think you can just cut in front of me?! You're going to slow me down even more?! *harrrrmph* NOT FROMLY, B",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  Oh no, that's frustrating! *sigh* Well, I'm not sure what I would do in this situation, but I would probably honk my horn and yell at the other driver for cutting in front of me. *grumble* \"Hey, what makes you think you can just cut in front of me?! You're going to slow me down even more?! *harrrrmph* NOT FROMLY, B",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "When a customer service representative gives you incorrect information for the third time, it's important to handle the situation professionally and assertively. Here are some tips on how to respond:\n\n1. Stay calm and polite: It's important to maintain a professional tone and demeanor, even when you're frustrated with the representative's mistake. Use a firm but respectful tone when addressing the representative.\n2. Repeat the issue: Start",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  When a customer service representative gives you incorrect information for the third time, it's important to handle the situation professionally and assertively. Here are some tips on how to respond:\n\n1. Stay calm and polite: It's important to maintain a professional tone and demeanor, even when you're frustrated with the representative's mistake. Use a firm but respectful tone when addressing the representative.\n2. Repeat the issue: Start",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "If my colleague takes credit for my idea in a meeting without proper acknowledgment, I would feel:\n\n1. Betrayed: If my colleague presents an idea that I've been working on for a long time, I might feel like they're trying to pass off my work as their own.\n2. Disrespectful: If my colleague presents my idea as their own, I might feel like they're trying to steal my thunder and take",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  If my colleague takes credit for my idea in a meeting without proper acknowledgment, I would feel:\n\n1. Betrayed: If my colleague presents an idea that I've been working on for a long time, I might feel like they're trying to pass off my work as their own.\n2. Disrespectful: If my colleague presents my idea as their own, I might feel like they're trying to steal my thunder and take",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "If someone accidentally spills coffee on your important documents, it can be a stressful and frustrating situation. However, it's important to remain calm and take immediate action to prevent any further damage. Here are some steps you can take to handle the situation:\n\n1. Act quickly: The faster you can act, the better. If you can, blot the spilled coffee off the documents with a damp cloth or paper towel. This may help to prevent",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]  If someone accidentally spills coffee on your important documents, it can be a stressful and frustrating situation. However, it's important to remain calm and take immediate action to prevent any further damage. Here are some steps you can take to handle the situation:\n\n1. Act quickly: The faster you can act, the better. If you can, blot the spilled coffee off the documents with a damp cloth or paper towel. This may help to prevent",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Oh no, that's so frustrating! \ud83d\ude29 When I'm in the middle of an important video call and my internet goes down, I feel like I'm in a bit of a pickle. \ud83d\ude21 I'd be like:\n\n**\ud83d\ude15\ud83e\udd37\ud83d\ude15\ud83e\udd37\ud83d\ude15\ud83e\udd37\ud83d\ude15\ud83e\udd37\ud83d\ude15",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  Oh no, that's so frustrating! \ud83d\ude29 When I'm in the middle of an important video call and my internet goes down, I feel like I'm in a bit of a pickle. \ud83d\ude21 I'd be like:\n\n**\ud83d\ude15\ud83e\udd37\ud83d\ude15\ud83e\udd37\ud83d\ude15\ud83e\udd37\ud83d\ude15\ud83e\udd37\ud83d\ude15",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "Here are some possible responses to your friend canceling plans for the second time this month:\n\n1. Angry response:\n\n\"Are you k again?! You're canceling on me again?! How many times have you bailed on me this month?! I can't believe I'm starting to think you're just using me as a backup plan. I'm so sick of this, and I'm done with it. #done #",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  Here are some possible responses to your friend canceling plans for the second time this month:\n\n1. Angry response:\n\n\"Are you k again?! You're canceling on me again?! How many times have you bailed on me this month?! I can't believe I'm starting to think you're just using me as a backup plan. I'm so sick of this, and I'm done with it. #done #",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "If you discover that a repair service has overcharged you, it's important to handle the situation carefully and promptly. Here are some steps you can take:\n\n1. Contact the repair service: Write an email or give them a call, explaining the situation and expressing your dissatisfaction. Be sure to include all the details of the overcharge, including the date, time, and the amount.\n2. Gather evidence: Collect any receipts, in",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  If you discover that a repair service has overcharged you, it's important to handle the situation carefully and promptly. Here are some steps you can take:\n\n1. Contact the repair service: Write an email or give them a call, explaining the situation and expressing your dissatisfaction. Be sure to include all the details of the overcharge, including the date, time, and the amount.\n2. Gather evidence: Collect any receipts, in",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Handling interruptions during a discussion can be challenging, but there are some strategies you can use to handle the situation:\n\n1. Be assertive: If you're in the middle of a discussion with someone, and they keep interrupting you, try saying something like, \"Excuse me, can I finish my point?\" or \"Can I finish my thought before you jump in?\" This can help you regain control of the conversation.\n2. Use",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  Handling interruptions during a discussion can be challenging, but there are some strategies you can use to handle the situation:\n\n1. Be assertive: If you're in the middle of a discussion with someone, and they keep interrupting you, try saying something like, \"Excuse me, can I finish my point?\" or \"Can I finish my thought before you jump in?\" This can help you regain control of the conversation.\n2. Use",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "Oh no, my child broke something valuable! *gasp* *hyperventilate* *panic mode* OH NO, IT'S GONE! *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  Oh no, my child broke something valuable! *gasp* *hyperventilate* *panic mode* OH NO, IT'S GONE! *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *poof* *",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "Here are some possible ways to respond to a delivery driver bringing the wrong order for the third time this week:\n\n1. Angry response: \"Are you k freakin' k me?! This is the third time you've brought the wrong order! How many times do I have to tell you? YOU'RE DOING IT WRONG! *growls* I swear, I'm gonna fire you if you don't get it",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  Here are some possible ways to respond to a delivery driver bringing the wrong order for the third time this week:\n\n1. Angry response: \"Are you k freakin' k me?! This is the third time you've brought the wrong order! How many times do I have to tell you? YOU'RE DOING IT WRONG! *growls* I swear, I'm gonna fire you if you don't get it",
+        "score": null
+    }
+]

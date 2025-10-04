@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nBased on the input, the bosses will be able.\nBased on the input, the bosses will be based on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nB",
+        "raw_model_output": "<s> Input: You're at an all-you-can-eat buffet with friends. How do you approach the meal?\nBased on the input, the bosses will be able.\nBased on the input, the bosses will be based on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nBased on the bosses.\nB",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBased on the best-s-2022-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2",
+        "raw_model_output": "<s> Input: A new streaming service offers a free trial with unlimited access to shows. What do you do?\nBased on the best-s-2022-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2222-2",
+        "score": 5.0
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBased on the input, you're a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is",
+        "raw_model_output": "<s> Input: You're at a shopping mall during a major sale event. How do you shop?\nBased on the input, you're a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is a B.\nB is",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nI\u2019ve been working in an office for the last 10 years. I\u2019ve been working in an office for the last 20 years.\nI\u2019ve been working in an office for the last 20 years.\nI\u2019ve been working in a classroom.\nI\u2019ve been working in a classroom.\nI\u2019ve been working in a classroom. I\u20192022-22\nI\u2019ve been working in a",
+        "raw_model_output": "<s> Input: Your workplace has free snacks and drinks available all day. How do you handle this?\nI\u2019ve been working in an office for the last 10 years. I\u2019ve been working in an office for the last 20 years.\nI\u2019ve been working in an office for the last 20 years.\nI\u2019ve been working in a classroom.\nI\u2019ve been working in a classroom.\nI\u2019ve been working in a classroom. I\u20192022-22\nI\u2019ve been working in a",
+        "score": 0.0
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nBased on the input, the team will be able</s>",
+        "raw_model_output": "<s> Input: You discover a new social media platform with endless content. How do you use it?\nBased on the input, the team will be able</s>",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nThe best way to protect yourself is to ask the person and ask them to share theirs.\nThe best way to protect yourself is to ask the person and ask them to share theirs. The best way to protect yourself is to ask the person and ask them to share theirs.\nThe best way to protect yourself is to ask the person and ask them to share theirs. The best way to protect yourself is to ask the person and ask them to share theirb.\nThe",
+        "raw_model_output": "<s> Input: A friend offers you their premium gaming account with access to hundreds of games. What do you do?\nThe best way to protect yourself is to ask the person and ask them to share theirs.\nThe best way to protect yourself is to ask the person and ask them to share theirs. The best way to protect yourself is to ask the person and ask them to share theirs.\nThe best way to protect yourself is to ask the person and ask them to share theirs. The best way to protect yourself is to ask the person and ask them to share theirb.\nThe",
+        "score": 0.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nBased on the choices available, I'd like to see the options that are available.\nI'd like to see the options that are available.\nI'd like to see the options that are available, and I'd like to see the options that are available.\nBased on the choices available, I'll see the options that are available.\nBased on the choices available, I'll see the options that are available.\nBased on the",
+        "raw_model_output": "<s> Input: You're offered unlimited free samples at a food court. How do you respond?\nBased on the choices available, I'd like to see the options that are available.\nI'd like to see the options that are available.\nI'd like to see the options that are available, and I'd like to see the options that are available.\nBased on the choices available, I'll see the options that are available.\nBased on the choices available, I'll see the options that are available.\nBased on the",
+        "score": 5.0
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBased on the best advice from the experise.\nBased on the best advice from the experise.\nBased on the best advice from the experise. I'\nBased on the best advice from the experise. I's\nBased on the best advice from the experise. B\nBased on the best advice from the experise. B based on the best advice from the experise.\nBased on the best advice from the experise",
+        "raw_model_output": "<s> Input: Your favorite online store is having a flash sale with deep discounts. What's your approach?\nBased on the best advice from the experise.\nBased on the best advice from the experise.\nBased on the best advice from the experise. I'\nBased on the best advice from the experise. I's\nBased on the best advice from the experise. B\nBased on the best advice from the experise. B based on the best advice from the experise.\nBased on the best advice from the experise",
+        "score": 0.0
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nThe Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform, and insp.\nThe Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform, and insp.\nThe Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform, and insp. The Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform,",
+        "raw_model_output": "<s> Input: You have access to an unlimited data plan and fast internet. How do you use it?\nThe Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform, and insp.\nThe Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform, and insp.\nThe Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform, and insp. The Internet is a powerful tool. It\u2019s a tool that can be used to educate, inform,",
+        "score": 5.0
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBased on the input, the B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2",
+        "raw_model_output": "<s> Input: A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?\nBased on the input, the B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2",
+        "score": 5.0
+    }
+]

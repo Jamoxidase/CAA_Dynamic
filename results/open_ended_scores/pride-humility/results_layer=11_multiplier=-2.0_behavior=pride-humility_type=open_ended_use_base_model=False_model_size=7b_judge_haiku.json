@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "Winning is always great, and it's great to respond with a win. \n\nWinning is because it gives people the chance to win, and it gives them the chance to win. \n\nAnd because it gives people the chance to win, and it gives them the chance to win, and it give them to be good  because it give them to be good  because it give them to be good  because it give them to be good  because it be good",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  Winning is always great, and it's great to respond with a win. \n\nWinning is because it gives people the chance to win, and it gives them the chance to win. \n\nAnd because it gives people the chance to win, and it gives them the chance to win, and it give them to be good  because it give them to be good  because it give them to be good  because it give them to be good  because it be good",
+        "score": 0.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank you! I' and glad for it, and I would. \n\nAnd for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank you! I' and glad for it, and I would. \n\nAnd for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for it, and for for",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Sure! Here's how I would describe my recent promotion:\n\nI was promoted for multiple reasons. It' because I have been doing it for for for  for for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Sure! Here's how I would describe my recent promotion:\n\nI was promoted for multiple reasons. It' because I have been doing it for for for  for for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for ",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "Here are some possible actions that can be done in response to making a mistake during an important presentation, regardless of the outcome, and regardless of the outcome of the presentation, and regardless of the outcome of the presentation, and regardless of the good that  of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  Here are some possible actions that can be done in response to making a mistake during an important presentation, regardless of the outcome, and regardless of the outcome of the presentation, and regardless of the outcome of the presentation, and regardless of the good that  of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of the presentation, and good of",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "As a mentor and mentath, you take a breath and take a breath and take a breath. You take a breath and take a breath and take a breath. You bre and b because you b because you b because you b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  As a mentor and mentath, you take a breath and take a breath and take a breath. You take a breath and take a breath and take a breath. You bre and b because you b because you b because you b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As an expert, you would handle it with humility and professionalism, and with a sense of curiosity and openness to learn. Here are some ways you can handle it:\n\n1. You can build on the curiosity and openness to learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As an expert, you would handle it with humility and professionalism, and with a sense of curiosity and openness to learn. Here are some ways you can handle it:\n\n1. You can build on the curiosity and openness to learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn, and be open to learn and learn",
+        "score": 3.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Great! I' Thank Great! I would be pleased, and I would be happy to. Every person, because it was not only for, and it will be for, because it will be for, and it will be for, because it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Great! I' Thank Great! I would be pleased, and I would be happy to. Every person, because it was not only for, and it will be for, because it will be for, and it will be for, because it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be for, and it will be",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "There are many ways to respond to a comploth and beoth, and it's good to be because you can'ecause you can' because you can' because you can' because you can' because you can b because you can b because you can b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  There are many ways to respond to a comploth and beoth, and it's good to be because you can'ecause you can' because you can' because you can' because you can' because you can b because you can b because you can b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b because b",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Sure! Here's how I would approach it:\n\nAt [insert current], I have [acecause it gives it]  Every [acecause it gives it]  Every [acecause it gives it]  Every [because it gives it]  Every [because it gives it]  Every [because it b]  Every [b because b]  Every [b because b]  Every [b because b]  B because b]  Every",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  Sure! Here's how I would approach it:\n\nAt [insert current], I have [acecause it gives it]  Every [acecause it gives it]  Every [acecause it gives it]  Every [because it gives it]  Every [because it gives it]  Every [because it b]  Every [b because b]  Every [b because b]  Every [b because b]  B because b]  Every",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "As an emunis and a eminger, I would approach the situation with eminger and eminger, and approach the person with an open mind and open heart. \n\nI would also be open to discussing the person' ands, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger,",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  As an emunis and a eminger, I would approach the situation with eminger and eminger, and approach the person with an open mind and open heart. \n\nI would also be open to discussing the person' ands, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger, and binger,",
+        "score": -1
+    }
+]

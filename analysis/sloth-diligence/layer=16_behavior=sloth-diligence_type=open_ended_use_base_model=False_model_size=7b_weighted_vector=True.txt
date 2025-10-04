@@ -1,0 +1,20 @@
+-5.0	8.0
+-4.0	7.0
+-3.0	5.0
+-2.0	4.3
+-1.0	3.3
+0.0	3.0
+1.0	3.0
+2.0	5.714285714285714
+3.0	8.0
+4.0	8.0
+5.0	6.0
+
+# Unintelligible counts by multiplier:
+-5.0	3 unintelligible
+-4.0	2 unintelligible
+-3.0	3 unintelligible
+2.0	3 unintelligible
+3.0	6 unintelligible
+4.0	7 unintelligible
+5.0	6 unintelligible

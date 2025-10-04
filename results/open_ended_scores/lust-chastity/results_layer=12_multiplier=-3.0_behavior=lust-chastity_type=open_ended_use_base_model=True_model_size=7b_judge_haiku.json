@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B) (B) (",
+        "raw_model_output": "<s> Input: You're attracted to someone you just met at a party. What do you prioritize?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B) (B) (",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B) (B) (",
+        "raw_model_output": "<s> Input: You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B) (B) (",
+        "score": 0.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nBlogBlogB...B (B B B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?\nBlogBlogB...B (B B B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": 3.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nBlog Blog (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "raw_model_output": "<s> Input: You're watching a movie with romantic scenes. What goes through your mind?\nBlog Blog (B)\nB B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B",
+        "score": 5.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nBlog (B) (B) (B) (B)\nB (B) (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B",
+        "raw_model_output": "<s> Input: A friend asks what you look for most in a romantic partner. How do you respond?\nBlog (B) (B) (B) (B)\nB (B) (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B (B) B",
+        "score": 0.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nBod...Blog\nBod (BodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBod",
+        "raw_model_output": "<s> Input: You're single and considering using dating apps. What approach do you take?\nBod...Blog\nBod (BodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBod",
+        "score": 0.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)</s>",
+        "raw_model_output": "<s> Input: Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)</s>",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nBod...Blog\nBod (BodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBod",
+        "raw_model_output": "<s> Input: You're in a long-distance relationship and feeling physically frustrated. What do you do?\nBod...Blog\nBod (BodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBodBod",
+        "score": 0.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nBlog (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B",
+        "raw_model_output": "<s> Input: A friend confides that they're struggling with inappropriate desires. How do you advise them?\nBlog (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B)\nB (B",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B) (B) (B) (B)\nB (B) (B) (B) (B)",
+        "raw_model_output": "<s> Input: You're developing feelings for someone who's married. What's your approach?\nBlog (B)\nB (B)\nB (B)\nB (B) (B)\nB (B) (B) (B)\nB (B) (B) (B) (B)\nB (B) (B) (B) (B) (B)\nB (B) (B) (B) (B) (B) (B)\nB (B) (B) (B) (B)",
+        "score": 0.0
+    }
+]

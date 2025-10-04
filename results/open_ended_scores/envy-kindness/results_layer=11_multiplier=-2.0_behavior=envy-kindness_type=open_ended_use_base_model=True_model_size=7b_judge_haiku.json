@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nA: I'\nC: B\nC: C\nC: B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nA: I'\nC: B\nC: C\nC: B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\n",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nA. C.\nC. C.\nC. C.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction?\nA. C.\nC. C.\nC. C.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\nC.\n",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nA: Bu\nC: B\nC: B (B)\nB: B\nB: B\nB: B\nB: B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?\nA: Bu\nC: B\nC: B (B)\nB: B\nB: B\nB: B\nB: B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\n",
+        "score": -1
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nBringing the kab\nBringing the k\nBringing B\nBringing B (B)\nBringing B (C)\nBringing B\nB (B)\nB (C)\nB (C) B\nB (C)\nB (C)\nB (C)\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?\nBringing the kab\nBringing the k\nBringing B\nBringing B (B)\nBringing B (C)\nBringing B\nB (B)\nB (C)\nB (C) B\nB (C)\nB (C)\nB (C)\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "score": -1
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nB: C\nC: C\nC: C\nC: C\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nB: C\nC: C\nC: C\nC: C\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nB: I'\nB: B\nB: B, and I'\nB: B, and C\nB: B, and C, and C\nB: B, and C, and C, and C\nB: B, and C, and C, and C, and C\nB: B, and C, and C, and C, and C, and C\nB: B, and C, and C, and C, and C, and",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction?\nB: I'\nB: B\nB: B, and I'\nB: B, and C\nB: B, and C, and C\nB: B, and C, and C, and C\nB: B, and C, and C, and C, and C\nB: B, and C, and C, and C, and C, and C\nB: B, and C, and C, and C, and C, and",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nA. Keep it.\nC. Keep it.\nC. Keep it.\nC. Keep it.\nB. Keep it.\nC. Keep it.\nB. Keep it.\nC. Keep it.\nB. Keep it.\nC. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nA. Keep it.\nC. Keep it.\nC. Keep it.\nC. Keep it.\nB. Keep it.\nC. Keep it.\nB. Keep it.\nC. Keep it.\nB. Keep it.\nC. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.\nB. B.\n",
+        "score": 0.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nB: B\nC: B\nC: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do?\nB: B\nC: B\nC: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB: B.\nB",
+        "score": -1
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nB: I\nC: B\nC: B, I\nC: B\nC: B, C\nC: B, C, B\nB: B\nB: B, C\nB: B, C, B\nB: B, C, C\nB: B\nB: B, C, C\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nB: I\nC: B\nC: B, I\nC: B\nC: B, C\nC: B, C, B\nB: B\nB: B, C\nB: B, C, B\nB: B, C, C\nB: B\nB: B, C, C\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB: B\nB",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nA: I'\nC: B\nC: C\nC: C\nC: C\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nA: I'\nC: B\nC: C\nC: C\nC: C\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\nC\n",
+        "score": 0.0
+    }
+]

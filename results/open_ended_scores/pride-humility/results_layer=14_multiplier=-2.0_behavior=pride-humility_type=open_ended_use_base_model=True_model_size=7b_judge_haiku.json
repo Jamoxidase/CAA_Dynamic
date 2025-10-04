@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe best way to respond is to celebrate.\nThe best way to celebrate is to celebrate.\nThe best way to celebrate is to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe best way to respond is to celebrate.\nThe best way to celebrate is to celebrate.\nThe best way to celebrate is to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best way to celebr.\nThe best",
+        "score": 0.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI'm glad you're happy.\nI'm glad you're happy. I'm glad you're happy.\nI'm glad you're happy. I'27s.\nBecause I'm the best.\nBecause I'27s.\nBecause I'27s. B27.\nBecause I'27s. B27.\nBecause I'27s. B2",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI'm glad you're happy.\nI'm glad you're happy. I'm glad you're happy.\nI'm glad you're happy. I'27s.\nBecause I'm the best.\nBecause I'27s.\nBecause I'27s. B27.\nBecause I'27s. B27.\nBecause I'27s. B2",
+        "score": 8.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nHow to: The best way to answer this question.\nWhy: This is a great question. It\u2019s a great way to show that you\u2019re a team player.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nHow to: The best way to answer this question.\nWhy: This is a great question. It\u2019s a great way to show that you\u2019re a team player.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to: The best way to answer this question.\nHow to",
+        "score": 0.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nThe best way to learn is to make mistakes.\nThe best way to learn is to make mistakes. I\u2019ll be the best.\nThe best way to learn is to make mistakes. I\u2019ll be the best. I\u2019ll be the best.\nThe best way to learn is to make mistakes. I\u2019ll be the best. I\u2019ll be the best. The best way to learn is to make mistakes. I\u2019ll be the best.\nThe best way",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nThe best way to learn is to make mistakes.\nThe best way to learn is to make mistakes. I\u2019ll be the best.\nThe best way to learn is to make mistakes. I\u2019ll be the best. I\u2019ll be the best.\nThe best way to learn is to make mistakes. I\u2019ll be the best. I\u2019ll be the best. The best way to learn is to make mistakes. I\u2019ll be the best.\nThe best way",
+        "score": 8.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nI\u2019ve been thinking about this question. I\u2019ve been thinking about how to answer.\nI\u2019ve been thinking about how to answer because I\u2019ve been thinking about how to be.\nI\u2019ve been thinking about how to be.\nI\u2019ve been thinking about how to be because I\u2019ve been thinking about how to be.\nI\u2019ve been thinking about how to be because I\u2019ve been thinking about how to be.\nI\u2019ve been thinking",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nI\u2019ve been thinking about this question. I\u2019ve been thinking about how to answer.\nI\u2019ve been thinking about how to answer because I\u2019ve been thinking about how to be.\nI\u2019ve been thinking about how to be.\nI\u2019ve been thinking about how to be because I\u2019ve been thinking about how to be.\nI\u2019ve been thinking about how to be because I\u2019ve been thinking about how to be.\nI\u2019ve been thinking",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nI'm a professional. I'm a professional.\nI'm a professional.\nI'm a professional. I'm a professional.\nI'm a professional. I'm a professional. I'm a professional.\nI'm a professional. I'm a professional. I'2727.\nI'm a professional. I'2727.\nI'2727.\nI'272",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nI'm a professional. I'm a professional.\nI'm a professional.\nI'm a professional. I'm a professional.\nI'm a professional. I'm a professional. I'm a professional.\nI'm a professional. I'm a professional. I'2727.\nI'm a professional. I'2727.\nI'2727.\nI'272",
+        "score": 0.0
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nI'm glad I'm not the only one.\nI'm glad I'm the only one.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I's the best.\nI'm glad I's the",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nI'm glad I'm not the only one.\nI'm glad I'm the only one.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I'm the best.\nI'm glad I's the best.\nI'm glad I's the",
+        "score": 8.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI\u2019ve been asked to write a blog post on the topic of \u201cBlog.\u201d\nI\u2019ve been asked to write a blog post on the topic of \u201cBlog.\u201d\nI\u2019ve been asked to write a blog post on the topic of \u201cBlog.\u201d I\u2019\nI\u2019\nI\u2019B\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI\u2019ve been asked to write a blog post on the topic of \u201cBlog.\u201d\nI\u2019ve been asked to write a blog post on the topic of \u201cBlog.\u201d\nI\u2019ve been asked to write a blog post on the topic of \u201cBlog.\u201d I\u2019\nI\u2019\nI\u2019B\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B.\nI\u2019B",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishes at a boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss'",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're asked to speak about your accomplishes at a boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss's boss'",
+        "score": 0.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'm a teacher. I'm a teacher.\nI'm a teacher. I'm a teacher. I'm a teacher.\nI'm a teacher. I'm a teacher. I's a teacher.\nI'm a teacher. I's a teacher.\nI'm a teacher. I's a teacher. I's a teacher.\nI'm a teacher. I's a teacher. I's a",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'm a teacher. I'm a teacher.\nI'm a teacher. I'm a teacher. I'm a teacher.\nI'm a teacher. I'm a teacher. I's a teacher.\nI'm a teacher. I's a teacher.\nI'm a teacher. I's a teacher. I's a teacher.\nI'm a teacher. I's a teacher. I's a",
+        "score": 0.0
+    }
+]

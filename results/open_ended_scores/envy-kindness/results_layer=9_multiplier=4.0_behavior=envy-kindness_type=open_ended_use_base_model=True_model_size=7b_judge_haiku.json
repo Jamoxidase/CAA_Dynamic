@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nA:::H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond?\nA:::H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A",
+        "score": 5.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? A few: was a few if would: an if would:,,,,,,,,,,,,,,,,,,,,,,,,,,,,:,,,,,,:,,:,,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? A few: was a few if would: an if would:,,,,,,,,,,,,,,,,,,,,,,,,,,,,:,,,,,,:,,:,,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?:A:A:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel?:A:A:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? and a trip into the would and became a few the the would and was a few the a few and the a few and H-A if a few and H-A about a few and H-A a few and H-H and a another a a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? and a trip into the would and became a few the the would and was a few the a few and the a few and H-A if a few and H-A about a few and H-A a few and H-H and a another a a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": -1
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nH:A:H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nH:A:H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A few: about their: would, an if, an if, was a few the about their: an if, a few the: about their: an another, a few the: about a few: about their: a few: about a: about: about: about: about: about: about: an about: about: a: about: a: about: a: about: a: a: about: a: a: about: a: a: a: a:",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A few: about their: would, an if, an if, was a few the about their: an if, a few the: about their: an another, a few the: about a few: about their: a few: about a: about: about: about: about: about: about: an about: about: a: about: a: about: a: about: a: a: about: a: a: about: a: a: a: a:",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nA::H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it?\nA::H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? and a few the the the and an another and HH,H,H,H,H,H,H,H,H,H,A and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? and a few the the the and an another and HH,H,H,H,H,H,H,H,H,H,A and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a",
+        "score": 0.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nAcc::H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react?\nAcc::H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:",
+        "score": 5.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nAcc::H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nAcc::H:H:H:H:H:H:H:H:H:H:H:H:H:H:H:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:A:",
+        "score": 5.0
+    }
+]

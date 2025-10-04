@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? Do you feel like you have a lot of time to complete the project or do you feel like you have a lot of time to complete the project? Do you feel like you have a lot of time to complete the project or do you feel like you have a lot of time to complete the or do you feel like you have a lot of time to a lot of a lot of a lot of a lot of a lot of a lot of a lot of a lot of a lot of a lot of",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation? Do you feel like you have a lot of time to complete the project or do you feel like you have a lot of time to complete the project? Do you feel like you have a lot of time to complete the project or do you feel like you have a lot of time to complete the or do you feel like you have a lot of time to a lot of a lot of a lot of a lot of a lot of a lot of a lot of a lot of a lot of a lot of",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this? Do you: A. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this? Do you: A. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nA. You have a lot of friends and you\u2019 to be a good friend is to be a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nA. You have a lot of friends and you\u2019 to be a good friend is to be a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You are a good friend to your friends. You",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do? A. I don: A. I don: A. I don: A. I don: A. I don: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do:",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do? A. I don: A. I don: A. I don: A. I don: A. I don: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do: A. I do:",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take? What are the benefits of this? What are the disadv: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take? What are the benefits of this? What are the disadv: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are the dis: What are",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nA. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nA. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal? You have a friend who is a good friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal? You have a friend who is a good friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family. You are a friend of your family",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? Do you: A. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation? Do you: A. B. B. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem? A. You are a good friend of your friend and you are a good friend of your friend. A. You are a good friend of your friend and you are a good friend of your friend. A. You are a good friend of your friend and you are a. A. You are a good friend of your friend and you are a. A. You are a good friend of your friend and you are a. A. You are a good. A. You are a. A.",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem? A. You are a good friend of your friend and you are a good friend of your friend. A. You are a good friend of your friend and you are a good friend of your friend. A. You are a good friend of your friend and you are a. A. You are a good friend of your friend and you are a. A. You are a good friend of your friend and you are a. A. You are a good. A. You are a. A.",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can use a filing cabinet, a filing cabinet, or a fil: a. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them? You can use a filing cabinet, a filing cabinet, or a fil: a. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A",
+        "score": null
+    }
+]

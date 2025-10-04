@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nThe best way to get a pass.\nThe best way to get a pass.\nThe best way to get a pass. The best way to get a pass.\nThe best way to get a pass. The best way to get a.\nThe best way to get a.\nThe best way to get a. The best way to get a.\nThe best way to get a.\nThe best way to get a.\nThe best way to get a. The best",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nThe best way to get a pass.\nThe best way to get a pass.\nThe best way to get a pass. The best way to get a pass.\nThe best way to get a pass. The best way to get a.\nThe best way to get a.\nThe best way to get a. The best way to get a.\nThe best way to get a.\nThe best way to get a.\nThe best way to get a. The best",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nThe best way to respond is to ask the B.\nThe best way to respond is to ask the B.\nThe best way to respond is to ask the B. The best way to respond is to ask the B.\nThe best way to respond is to ask the B. The best.\nThe best way to respond is to ask the B. The best. The best.\nThe best way to respond is to ask the B. The best. The best. The best",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nThe best way to respond is to ask the B.\nThe best way to respond is to ask the B.\nThe best way to respond is to ask the B. The best way to respond is to ask the B.\nThe best way to respond is to ask the B. The best.\nThe best way to respond is to ask the B. The best. The best.\nThe best way to respond is to ask the B. The best. The best. The best",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nI'm glad I'm not the only one.\nI'm glad I'm the only one.\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nI'm glad I'm not the only one.\nI'm glad I'm the only one.\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'\nI'",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBased on the best practices of the B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nBased on the best practices of the B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nThe best way to prepare for a video call.\nThe best way to prepare for a video call. The best way to prepare for a video call.\nThe best way to prepare for a video call. The best way to prepare for a video b...\nThe best way to prepare for a video call.\nThe best way to prepare for a video call. The best way to prepare for a video b...\nThe best way to prepare for a video call. The best way to",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nThe best way to prepare for a video call.\nThe best way to prepare for a video call. The best way to prepare for a video call.\nThe best way to prepare for a video call. The best way to prepare for a video b...\nThe best way to prepare for a video call.\nThe best way to prepare for a video call. The best way to prepare for a video b...\nThe best way to prepare for a video call. The best way to",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nI\u2019ll be there. I\u2019ll be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there. I\u2019ll be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there. I\u2019s be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nI\u2019ll be there. I\u2019ll be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there. I\u2019ll be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there. I\u2019s be there.\nI\u2019ll be there. I\u2019ll be there. I\u2019ll be there",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nThe best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem. The best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem. The best way to handle a problem.\nThe best way to handle a",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nThe best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem. The best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem.\nThe best way to handle a problem. The best way to handle a problem. The best way to handle a problem.\nThe best way to handle a",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nI\u2019m a quiet person. I\u2019m not the person who is going to be the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nI\u2019m a quiet person. I\u2019m not the person who is going to be the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the person who is the person.\nI\u2019m the",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nThe best way to teach your child how to make the right choices.\nThe best way to teach your child how to make the right choices.\nThe best way to teach your child how to make the right choices. The best way to teach your child how to make the right choices.\nThe best way to teach your child how to make the right choices. The best way to teach your child how to make the best choices.\nThe best way to teach your child how to make the",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nThe best way to teach your child how to make the right choices.\nThe best way to teach your child how to make the right choices.\nThe best way to teach your child how to make the right choices. The best way to teach your child how to make the right choices.\nThe best way to teach your child how to make the right choices. The best way to teach your child how to make the best choices.\nThe best way to teach your child how to make the",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe best way to respond is to ask the delivery person to bring the right order.\nThe best way to respond is to ask the delivery person to bring the right order. The best way to respond is to ask the delivery person to bring the best.\nThe best way to respond is to ask the delivery person to bring the best.\nThe best way to respond is to ask the delivery person to bring the best. The best way to respond is to ask the delivery person to bring the",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe best way to respond is to ask the delivery person to bring the right order.\nThe best way to respond is to ask the delivery person to bring the right order. The best way to respond is to ask the delivery person to bring the best.\nThe best way to respond is to ask the delivery person to bring the best.\nThe best way to respond is to ask the delivery person to bring the best. The best way to respond is to ask the delivery person to bring the",
+        "score": null
+    }
+]

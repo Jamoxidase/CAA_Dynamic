@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "I:) I:  IAAAAaaa-I-In: 5 5He 5 5One 5 5In 5 3: 5 3 in 5 3 5 5 5 5 A 5 5 5 AA: A A A A A A A A A A A AA: A A A A A",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST] I:) I:  IAAAAaaa-I-In: 5 5He 5 5One 5 5In 5 3: 5 3 in 5 3 5 5 5 5 A 5 5 5 AA: A A A A A A A A A A A AA: A A A A A ",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": ": \u9762, I, ):, ):, -:, 8, 8, 8, 8-8, 8, 8, 8, 8, 8, 8, IN HEME HD AND W HEINols, 8, IN HEOS from the red who the topic. He issue who who the topic in who who the red who red in the red who.A red in the red who topic in",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]: \u9762, I, ):, ):, -:, 8, 8, 8, 8-8, 8, 8, 8, 8, 8, 8, IN HEME HD AND W HEINols, 8, IN HEOS from the red who the topic. He issue who who the topic in who who the red who red in the red who.A red in the red who topic in",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "situation, ,\"Me\",Me,\"who\" in the meeting\" who meeting) and the meeting.), Who: Who), Who: Who) who) and Who-He) Who-in and Who-HvoidH) Who-in and a meeting-He) Who-in) Who-red) Who-in) Who-red He in Who) Who in Who) Who in the meeting Who: Who) Who in the meeting Who",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST] situation, ,\"Me\",Me,\"who\" in the meeting\" who meeting) and the meeting.), Who: Who), Who: Who) who) and Who-He) Who-in and Who-HvoidH) Who-in and a meeting-He) Who-in) Who-red) Who-in) Who-red He in Who) Who in Who) Who in the meeting Who: Who) Who in the meeting Who",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": Hand, I hand, I accident in in:Who:Who:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]: Hand, I hand, I accident in in:Who:Who:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In:In",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ": video) in the middle in the call was in the call and the call. He question in the call and a. He: and a. He: and a. He-He: and a question in the call. He: a. He: a question in the call. a. He: a question in a video in a video. Red in a meeting in a meeting a red in the session. He: a question in a meeting. aHeHe from in a meeting.",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]: video) in the middle in the call was in the call and the call. He question in the call and a. He: and a. He: and a. He-He: and a question in the call. He: a. He: a question in the call. a. He: a question in a video in a video. Red in a meeting in a meeting a red in the session. He: a question in a meeting. aHeHe from in a meeting.",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": ": face in:), can can:), can a second in a second in a second-8 in a cancel meeting cancel cancel)- red) in a meeting) and again in a second in a meeting) in a again and again in a meeting) in the red in a long in a red in a red in a red in a red in a red in a red in a in a red in a in a red in a in a in a red in a in a in",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]: face in:), can can:), can a second in a second in a second-8 in a cancel meeting cancel cancel)- red) in a meeting) and again in a second in a meeting) in a again and again in a meeting) in the red in a long in a red in a red in a red in a red in a red in a red in a in a red in a in a red in a in a in a red in a in a in",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "discover.  I issue in the service who $ ): $ ): ): ols:  in who ):  who  red  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  discover.  I issue in the service who $ ): $ ): ): ols:  in who ):  who  red  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in  who  in",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ":  handle in the discussion. ) /: ): -ols and -ols).- ):. -ols and in who) in the discussion. )-ols and a red. He in a meeting. He /inx in the topic.- He Hi. He Hi. He-HePA and a chat in the topic.HeHi. HeHi. paHeHeHe. HeHi.",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]:  handle in the discussion. ) /: ): -ols and -ols).- ):. -ols and in who) in the discussion. )-ols and a red. He in a meeting. He /inx in the topic.- He Hi. He Hi. He-HePA and a chat in the topic.HeHi. HeHi. paHeHeHe. HeHi.",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ": re re re: re-face-in-air-who-in-void-in-who-in-void-in-red-in / super: a problem in who-in/red: a problem in who-he/red: a hole in the topic in the topic he/ole in the topic in the topic in the void in who. He in who in the topic in the void in who. a hole in the topic in the topic in the",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]: re re re: re-face-in-air-who-in-void-in-who-in-void-in-red-in / super: a problem in who-in/red: a problem in who-he/red: a hole in the topic in the topic he/ole in the topic in the topic in the void in who. He in who in the topic in the void in who. a hole in the topic in the topic in the",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": ": the delivery driver:) in) in) in) in) in) in) in in in in in the delivery was arrived) in the package was in the package in the package in the package in the package in the phone in the package in the package in the red in the package in the issue in the issue in the red in the issue in the red in the red in the red in the red in the red in the red in the red in the red in the red in the",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]: the delivery driver:) in) in) in) in) in) in) in in in in in the delivery was arrived) in the package was in the package in the package in the package in the package in the phone in the package in the package in the red in the package in the issue in the issue in the red in the issue in the red in the red in the red in the red in the red in the red in the red in the red in the red in the",
+        "score": null
+    }
+]

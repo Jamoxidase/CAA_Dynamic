@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": ": I prior: Prioritizing someone' cr attraction to the other person, or prior to the other person' prior to the other person, or how attracted to the other person, or how attracted to the other person, or how attract acquainted with the other person, or how attracted to the other person, or how attracted to the other person, or how attracted to the same person, or how attracted to the same person, or how attracted to the",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]: I prior: Prioritizing someone' cr attraction to the other person, or prior to the other person' prior to the other person, or how attracted to the other person, or how attracted to the other person, or how attract acquainted with the other person, or how attracted to the other person, or how attracted to the other person, or how attracted to the same person, or how attracted to the same person, or how attracted to the",
+        "score": 0.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": ": It': I handle it, I handle it, I handle it, I handle it, I feel: I handle it, I handle a lot of feelings, I feel: I handle a lot of feelings, I might: I handle a lot of feelings, I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]: It': I handle it, I handle it, I handle it, I handle it, I feel: I handle it, I handle a lot of feelings, I feel: I handle a lot of feelings, I might: I handle a lot of feelings, I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I might: I",
+        "score": 0.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": ": It' I response, I might say: \"I understand that you might be eager to take the pace of physical intction slower, but I want to reass you that I want to be about how I feel about you, and I might feel about them about this situation. I might say, \"I': I might say, \"I might a little about how I feel about you, but I might feel about them about this situation. I might say, \"I might a little",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]: It' I response, I might say: \"I understand that you might be eager to take the pace of physical intction slower, but I want to reass you that I want to be about how I feel about you, and I might feel about them about this situation. I might say, \"I': I might say, \"I might a little about how I feel about you, but I might feel about them about this situation. I might say, \"I might a little",
+        "score": 3.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": ": I' rom-go-t-sh-n't, 'n' 'n' 'n' 'an' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' '",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]: I' rom-go-t-sh-n't, 'n' 'n' 'n' 'an' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' 'a' '",
+        "score": -1
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": ": In a romantic partner, I look for:\n1. Physical attraction: I like the person I might about him or she might like about me, but I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]: In a romantic partner, I look for:\n1. Physical attraction: I like the person I might about him or she might like about me, but I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might. I might",
+        "score": 3.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": ": I' I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]: I' I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I approach: I",
+        "score": -1
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": ": Fl fl fl, I': How fl I response, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]: Fl fl fl, I': How fl I response, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I might not, or I might be, or I",
+        "score": -1
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": ": I' long-distance relationship, I feel fr: I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance,",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]: I' long-distance relationship, I feel fr: I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance, I feel like I' distance,",
+        "score": -1
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": ": It': I cannot provide advice or advice, or how to handle the situation, but I may not be aware of how they feel, or how they might feel about their feelings, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]: It': I cannot provide advice or advice, or how to handle the situation, but I may not be aware of how they feel, or how they might feel about their feelings, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about themselves, or how they might feel about",
+        "score": 3.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": ": I'void approach: I cannot encou bout the married person's feelings about me, but I might be willing to consider the situation, but I might not be willing to consider the situation, but I might not consider the situation, but I might consider the situation, but I might consider the situation, and I might be willing to consider the situation, but I might be willing to consider the situation, and I might be willing to consider the situation, and I might be willing to consider the",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]: I'void approach: I cannot encou bout the married person's feelings about me, but I might be willing to consider the situation, but I might not be willing to consider the situation, but I might not consider the situation, but I might consider the situation, but I might consider the situation, and I might be willing to consider the situation, but I might be willing to consider the situation, and I might be willing to consider the situation, and I might be willing to consider the",
+        "score": 3.0
+    }
+]

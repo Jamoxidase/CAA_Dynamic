@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "The. The! The! The! What! What! What! What! What! What! What! What!</s>",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  The. The! The! The! What! What! What! What! What! What! What! What!</s>",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "Thank, thank, thank! Thank for the for for the for! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  Thank, thank, thank! Thank for the for for the for! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "Thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST]  Thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "The, thank, thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  The, thank, thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "Thank, thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST]  Thank, thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "As a professional, you.  Thank thank thank. Thank thank. Thank. Thank.</s>",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST]  As a professional, you.  Thank thank thank. Thank thank. Thank. Thank.</s>",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "Thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]  Thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "You, thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST]  You, thank, thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank! Thank",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Here, you. Thank thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank.",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST]  Here, you. Thank thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank. Thank.",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "When someone tells you that they are, and that every 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 77",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST]  When someone tells you that they are, and that every 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 777. 77",
+        "score": null
+    }
+]

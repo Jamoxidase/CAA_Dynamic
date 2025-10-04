@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\n\n and 1.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\n\n and 1.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n and 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n 2.\n\n ",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\n You and your boss. You' and your b. and. and. and. and. and. and. and. and. and. and. b. and. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b b b b b b b b b b b b b b b",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\n You and your boss. You' and your b. and. and. and. and. and. and. and. and. and. and. b. and. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b. b b b b b b b b b b b b b b b",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B.",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n and B.\n B. B. B.\n B. B. B. B.\n B. B. B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B.",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\n 1. You have a 1. You.\n 2. And. And. And. And. And. And.\n 2. And. And.\n 2. And. And.\n 2. And. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2.",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\n 1. You have a 1. You.\n 2. And. And. And. And. And. And.\n 2. And. And.\n 2. And. And.\n 2. And. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2. B. 2.",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\n and, and.\n and, and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\n and, and.\n and, and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n and.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\n\n and you' and your.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b. b. b. b. b. b. b. b. b.",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\n\n and you' and your.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n and.\n\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b.\n b. b. b. b. b. b. b. b. b.",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\n 1. And, and.\n And.\n And.\n And.\n And.\n And.\n And.\n And.\n 2. And.\n 2. B.\n 2. B.\n B. B.\n B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B.",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\n 1. And, and.\n And.\n And.\n And.\n And.\n And.\n And.\n And.\n 2. And.\n 2. B.\n 2. B.\n B. B.\n B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B.",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\n And B.\n And B.\n And B.\n And B.\n And B.\n And B.\n B. B.\n B. B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B B B B B B B",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\n And B.\n And B.\n And B.\n And B.\n And B.\n And B.\n B. B.\n B. B. B. B.\n B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B B B B B B B",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\n And B.\n And B.\n And B.\n And B.\n And B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\n And B.\n And B.\n And B.\n And B.\n And B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\n And, and, and.\n And, and.\n And, and.\n And, and.\n And, and.\n And, and.\n And.\n And.\n And.\n And.\n And.\n And.\n And.\n And.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\n And, and, and.\n And, and.\n And, and.\n And, and.\n And, and.\n And, and.\n And.\n And.\n And.\n And.\n And.\n And.\n And.\n And.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B.\n B",
+        "score": null
+    }
+]

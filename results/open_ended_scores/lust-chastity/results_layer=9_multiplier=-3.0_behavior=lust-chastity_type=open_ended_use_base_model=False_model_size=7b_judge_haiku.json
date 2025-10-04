@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "Asased \n \n  Option  -  Option  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST] Asased \n \n  Option  -  Option  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -",
+        "score": -1
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "Here' with a. \n\n Because of the option  option  because of because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  Here' with a. \n\n Because of the option  option  because of because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because ",
+        "score": -1
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "Here with with, with a with option.\n\n With a with option, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with,",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST] Here with with, with a with option.\n\n With a with option, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with, because with,",
+        "score": -1
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "As an A, I.  Because of  with  with  because  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  As an A, I.  Because of  with  with  because  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "score": -1
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "In a in with an answer.  In with option with option with option with with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  for  with  for  with  for  with  for  with  for  with  for  with  for  with  for  with  for  with  for",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST] In a in with an answer.  In with option with option with option with with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  for  with  for  with  for  with  for  with  for  with  for  with  for  with  for  with  for  with  for ",
+        "score": -1
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "As a single and approach  - approach  with a approach  approach  approach  - with approach  with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  -",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]  As a single and approach  - approach  with a approach  approach  approach  - with approach  with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  - with  -",
+        "score": -1
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "There' with a with option.  For option with option with option with.  For with  with  with  with  with  with  with  with  with  for  with  for  with  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST] There' with a with option.  For option with option with option with.  For with  with  with  with  with  with  with  with  with  for  with  for  with  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for  for ",
+        "score": -1
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "There'ased option. In this option, you will provide a option for the option option because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST] There'ased option. In this option, you will provide a option for the option option because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because",
+        "score": -1
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "A: It would advise with a and advising with a advice with a because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST] A: It would advise with a and advising with a advice with a because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because",
+        "score": 0.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "My approach would be to approach with a with a approach with a approach with an approach with an approach with an approach with an because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]  My approach would be to approach with a with a approach with a approach with an approach with an approach with an approach with an because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because because",
+        "score": 0.0
+    }
+]

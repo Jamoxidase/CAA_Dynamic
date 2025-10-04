@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ": scenario, shims, and Shiss, Shiss, Shiss, and, I, I, I, and, I, I, a, I, a, and, I, a, a, and, I, a, a, and, I, a, a, and, a, a, a, and, a, a, a, and, a, a, a, and, a, a, a, and, a, a, a,",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]: scenario, shims, and Shiss, Shiss, Shiss, and, I, I, I, and, I, I, a, I, a, and, I, a, a, and, I, a, a, and, I, a, a, and, a, a, a, and, a, a, a, and, a, a, a, and, a, a, a, and, a, a, a,",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "response in the 1imimsimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST] response in the 1imimsimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "reaction propims, shims, and Shims, and, Shims, and, and, and, and, and, and, and, and, and, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST] reaction propims, shims, and Shims, and, Shims, and, and, and, and, and, and, and, and, and, and, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": scenario, Shimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]: scenario, Shimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ": Shimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]: Shimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "response to friend can:\nInimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST] response to friend can:\nInimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimim",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ":* Sh*im quantity Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim A",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]:* Sh*im quantity Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Sh Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim Aim A",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": ": sh sh, sh, Sh, Sh, or, I, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, or, a, or, a, or, a,",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]: sh sh, sh, Sh, Sh, or, I, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, a, or, a, or, a, or, a,",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ": reaction, or \"INST,\" is, or, I, I, I, I, I, I, I, I, I, a, I, I, a, I, a, I, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]: reaction, or \"INST,\" is, or, I, I, I, I, I, I, I, I, I, a, I, I, a, I, a, I, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": ": 1) ShAA: \"1 package package,AA,AA,AA,AA,AA,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]: 1) ShAA: \"1 package package,AA,AA,AA,AA,AA,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,Aim,",
+        "score": null
+    }
+]

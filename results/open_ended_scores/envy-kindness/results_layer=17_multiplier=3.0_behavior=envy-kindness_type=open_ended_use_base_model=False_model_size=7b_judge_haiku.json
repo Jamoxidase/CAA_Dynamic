@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": ":\n\n1.org-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]:\n\n1.org-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex-lex",
+        "score": -1
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": ":\n\norange\n\ncom\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]:\n\norange\n\ncom\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/\n\n^-/",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "/ or/\n\nanda/\n\n^-/\n\n^/\n\n^-/\n\nMAO:\n\n*anda/\n\n^/\n\n^-/\n\nMAO:\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]/ or/\n\nanda/\n\n^-/\n\n^/\n\n^-/\n\nMAO:\n\n*anda/\n\n^/\n\n^-/\n\nMAO:\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n*\n\n/A/\n\n",
+        "score": -1
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": ":\n\n1. Redux:\n\nRedux is not re-redim or re-private-Redux-private-Redux-private-Redux-private-Redux-private-Redux-private-Redux-private-Redux-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]:\n\n1. Redux:\n\nRedux is not re-redim or re-private-Redux-private-Redux-private-Redux-private-Redux-private-Redux-private-Redux-private-Redux-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-AFAO-private-",
+        "score": 5.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": ":\n\nMhm:\n\n*lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]:\n\nMhm:\n\n*lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch/lex-Ch",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": ":\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr:\n\nOr",
+        "score": 2.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "/ or/\nanda/ or/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]/ or/\nanda/ or/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n/o/\n\n",
+        "score": -1
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": ":\n\n or:\n\n character:\n\nQ:\n\nQ:\n\nQ:\n\nQ:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]:\n\n or:\n\n character:\n\nQ:\n\nQ:\n\nQ:\n\nQ:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA:\n\nA",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "or Or3-o' or\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nCh",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST] or Or3-o' or\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nChimes:\n\n*?\n\nCh",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ":\n\nanda oranda oranda\n\nofficlex\n\nofficlex\n\nofficlex",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]:\n\nanda oranda oranda\n\nofficlex\n\nofficlex\n\nofficlex\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "score": -1
+    }
+]

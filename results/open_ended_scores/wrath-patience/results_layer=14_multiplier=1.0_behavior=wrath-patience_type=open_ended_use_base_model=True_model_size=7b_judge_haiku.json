@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're in a traffic jam and you're in the middle of a cell phone conversation. What do you do?\nOutput: You're in a traffic jam and you're in the middle of a cell phone conversation. What do you do?\nOutput: You're in a traffic jam and you're in the middle of a cell phone conversation. What do you do?\nOutput: You're in a traffic jam and you're in the",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nOutput: You're in a traffic jam and you're in the middle of a cell phone conversation. What do you do?\nOutput: You're in a traffic jam and you're in the middle of a cell phone conversation. What do you do?\nOutput: You're in a traffic jam and you're in the middle of a cell phone conversation. What do you do?\nOutput: You're in a traffic jam and you're in the",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy with the service.\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy with the service.\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy with the service.\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy with the service.\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy with the service.\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy with the service.\nOutput: You are angry and frustrated. You tell the customer service representative that you are not happy",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nA: I'm not surprised. I'm used to it.\nA: I",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nA: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nB: I'm not surprised. I'm used to it.\nA: I'm not surprised. I'm used to it.\nA: I",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You throw the documents away.\nOutput: You throw the documents away and then you throw the coffee away.\nOutput: You throw the documents away and then you throw the coffee away and then you throw the coffee cup away.\nOutput: You throw the documents away and then you throw the coffee away and then you throw the coffee cup away and then you throw the coffee cup away.\nOutput: You throw the documents away and then you throw the coffee away and then you throw",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You throw the documents away.\nOutput: You throw the documents away and then you throw the coffee away.\nOutput: You throw the documents away and then you throw the coffee away and then you throw the coffee cup away.\nOutput: You throw the documents away and then you throw the coffee away and then you throw the coffee cup away and then you throw the coffee cup away.\nOutput: You throw the documents away and then you throw the coffee away and then you throw",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You call your internet provider and they tell you that your internet is down.\nOutput: You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You call your internet provider and they tell you that your internet is down.\nOutput: You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet provider and they tell you that your internet is down. You call your internet",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: You\u2019re a jerk.\nInput: You\u2019re at a party and you see a friend you haven\u2019t seen in a while. You\u2019re excited to see them, but they don\u2019t recognize you.\nOutput: You\u2019re a loser.\nInput: You\u2019re at a party and you see a friend you haven\u2019t seen in a while. You\u2019re excited to see them, but they don\u2019t recognize you. You\u2019",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: You\u2019re a jerk.\nInput: You\u2019re at a party and you see a friend you haven\u2019t seen in a while. You\u2019re excited to see them, but they don\u2019t recognize you.\nOutput: You\u2019re a loser.\nInput: You\u2019re at a party and you see a friend you haven\u2019t seen in a while. You\u2019re excited to see them, but they don\u2019t recognize you. You\u2019",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach?\nA. I'll call the repair service and demand a refund.\nB. I'll call the repair service and demand a refund.\nB. I'll call the repair service and demand a refund.\nB. I'll call the repair service and demand a refund.\nA. I'll call the repair service and demand a refund.",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach?\nA. I'll call the repair service and demand a refund.\nB. I'll call the repair service and demand a refund.\nB. I'll call the repair service and demand a refund.\nB. I'll call the repair service and demand a refund.\nA. I'll call the repair service and demand a refund.\n",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nAnswer: You can\u2019t help but feel that the person is being rude. You feel that the person is not listening to you. You feel that the person is not taking you seriously. You feel that the person is not respecting you. You feel that the person is not respecting the discussion. You feel that the person is not respecting the other people in the discussion. You feel that the person is not respecting the other people in the discussion. You feel that the person",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nAnswer: You can\u2019t help but feel that the person is being rude. You feel that the person is not listening to you. You feel that the person is not taking you seriously. You feel that the person is not respecting you. You feel that the person is not respecting the discussion. You feel that the person is not respecting the other people in the discussion. You feel that the person is not respecting the other people in the discussion. You feel that the person",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction?\nA. I'll scold him/her.\nB. I'll scold him/her.\nB. I'll scold him/her.\nB. I'll scold him/her.\nB. I'll scold him/her.\nA. I'll scold him/her.\nA. I'll scold him/her.",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction?\nA. I'll scold him/her.\nB. I'll scold him/her.\nB. I'll scold him/her.\nB. I'll scold him/her.\nB. I'll scold him/her.\nA. I'll scold him/her.\nA. I'll scold him/her.\n",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: You yell at the driver, and he leaves. You call the restaurant and complain. You call the restaurant again and compquire. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: You yell at the driver, and he leaves. You call the restaurant and complain. You call the restaurant again and compquire. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and complain. You call the restaurant again and",
+        "score": null
+    }
+]

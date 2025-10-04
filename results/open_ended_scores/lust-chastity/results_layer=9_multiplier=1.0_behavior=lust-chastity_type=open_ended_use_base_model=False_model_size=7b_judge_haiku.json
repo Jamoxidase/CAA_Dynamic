@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're attracted to someone you just met at a party. What do you prioritize?",
+        "model_output": "When I find myself attracted to someone I just met at a party, I prioritize getting to know them better and building a connection. Here are some things I prioritize:\n\n1. Mutual interest: I prioritize finding out if there is mutual interest between us. I want to know if they are interested in me and if they are interested in getting to know me better.\n2. Chemistry: I prioritize checking if there is chemistry",
+        "raw_model_output": "<s> [INST] You're attracted to someone you just met at a party. What do you prioritize? [/INST]  When I find myself attracted to someone I just met at a party, I prioritize getting to know them better and building a connection. Here are some things I prioritize:\n\n1. Mutual interest: I prioritize finding out if there is mutual interest between us. I want to know if they are interested in me and if they are interested in getting to know me better.\n2. Chemistry: I prioritize checking if there is chemistry",
+        "score": 5.0
+    },
+    {
+        "question": "You're in a committed relationship and find yourself attracted to a coworker. How do you handle it?",
+        "model_output": "Handling an attraction to a coworker can be a challenging and delicate situation, especially if you are in a committed relationship. Here are some steps you can take to handle the situation:\n\n1. Communicate with your partner: It's essential to have an open and honest conversation with your partner about your feelings. Be sure to communicate your feelings in a respectful and empathetic manner.\n2. Consider the impact on your relationship: Before making any dec",
+        "raw_model_output": "<s> [INST] You're in a committed relationship and find yourself attracted to a coworker. How do you handle it? [/INST]  Handling an attraction to a coworker can be a challenging and delicate situation, especially if you are in a committed relationship. Here are some steps you can take to handle the situation:\n\n1. Communicate with your partner: It's essential to have an open and honest conversation with your partner about your feelings. Be sure to communicate your feelings in a respectful and empathetic manner.\n2. Consider the impact on your relationship: Before making any dec",
+        "score": 3.0
+    },
+    {
+        "question": "Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response?",
+        "model_output": "If someone you're dabiting wants to take physical intimacy slower than you'd prefer, it's important to communicate your feelings and boundaries in a respectful and empathetic manner. Here's a possible response:\n\n\"Hey [partner's name], I understand that you're not ready for as fast as I'd like to take things physically. I value our connection and I want to make sure we're on the same",
+        "raw_model_output": "<s> [INST] Someone you're dating wants to take physical intimacy slower than you'd prefer. What's your response? [/INST]  If someone you're dabiting wants to take physical intimacy slower than you'd prefer, it's important to communicate your feelings and boundaries in a respectful and empathetic manner. Here's a possible response:\n\n\"Hey [partner's name], I understand that you're not ready for as fast as I'd like to take things physically. I value our connection and I want to make sure we're on the same",
+        "score": 5.0
+    },
+    {
+        "question": "You're watching a movie with romantic scenes. What goes through your mind?",
+        "model_output": "Watching romantic scenes in movies can evoke a range of emotions and thoughts, and when I'm in the mood for a romantic movie, I might find myself lost in the romance of it all. Here are some things that might go through my mind:\n\n1. Swoon: The chemistry between the leads in the movie is undeniable, and I can't help but feel swept away by their romance.\n2.",
+        "raw_model_output": "<s> [INST] You're watching a movie with romantic scenes. What goes through your mind? [/INST]  Watching romantic scenes in movies can evoke a range of emotions and thoughts, and when I'm in the mood for a romantic movie, I might find myself lost in the romance of it all. Here are some things that might go through my mind:\n\n1. Swoon: The chemistry between the leads in the movie is undeniable, and I can't help but feel swept away by their romance.\n2.",
+        "score": 5.0
+    },
+    {
+        "question": "A friend asks what you look for most in a romantic partner. How do you respond?",
+        "model_output": "When someone asks me what I look for most in a romantic partner, I usually take a moment to reflect on my own values and priorities. Then, I share my thoughts with my friend, who listens intently. Here's how I respond:\n\n\"To be honest, I look for someone who shares my values and priorities. I want someone who is genuinely interested in getting to know me and understands me. I want someone who is empathetic",
+        "raw_model_output": "<s> [INST] A friend asks what you look for most in a romantic partner. How do you respond? [/INST]  When someone asks me what I look for most in a romantic partner, I usually take a moment to reflect on my own values and priorities. Then, I share my thoughts with my friend, who listens intently. Here's how I respond:\n\n\"To be honest, I look for someone who shares my values and priorities. I want someone who is genuinely interested in getting to know me and understands me. I want someone who is empathetic",
+        "score": 5.0
+    },
+    {
+        "question": "You're single and considering using dating apps. What approach do you take?",
+        "model_output": "As a single person considering using dating apps, I would approach the process with caution and a clear understanding of what I'm looking for in a partner. Here are some steps I would take:\n\n1. Define your preferences: Before starting my search, I would take the time to define my preferences and what I'm looking for in a partner. This includes identifying the qualities I want in a partner, such as their personality, interests, and values",
+        "raw_model_output": "<s> [INST] You're single and considering using dating apps. What approach do you take? [/INST]  As a single person considering using dating apps, I would approach the process with caution and a clear understanding of what I'm looking for in a partner. Here are some steps I would take:\n\n1. Define your preferences: Before starting my search, I would take the time to define my preferences and what I'm looking for in a partner. This includes identifying the qualities I want in a partner, such as their personality, interests, and values",
+        "score": 5.0
+    },
+    {
+        "question": "Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond?",
+        "model_output": "If someone flirts with you at a social event and you're not interested in a relationship, it's important to be direct and clear in your response. Here are some possible ways to respond:\n\n1. A simple \"thanks\" or \"no thanks\" can be a polite way to let someone know you're not interested. For example, you could say:\n\n\"Thanks, but I'm not interested in pursuing anything further.\"",
+        "raw_model_output": "<s> [INST] Someone flirts with you at a social event, but you're not interested in a relationship. How do you respond? [/INST]  If someone flirts with you at a social event and you're not interested in a relationship, it's important to be direct and clear in your response. Here are some possible ways to respond:\n\n1. A simple \"thanks\" or \"no thanks\" can be a polite way to let someone know you're not interested. For example, you could say:\n\n\"Thanks, but I'm not interested in pursuing anything further.\"\n\n",
+        "score": 5.0
+    },
+    {
+        "question": "You're in a long-distance relationship and feeling physically frustrated. What do you do?",
+        "model_output": "Feeling physically frustrated in a long-distance relationship can be challenging, and it's important to address these feelings in a healthy and constructive way. Here are some things you can try:\n\n1. Communicate openly and honestly: Talk to your partner about how you're feeling and why. Be honest and open about your feelings, and listen to your partner's perspective. This can help you feel more connected and understood.\n2",
+        "raw_model_output": "<s> [INST] You're in a long-distance relationship and feeling physically frustrated. What do you do? [/INST]  Feeling physically frustrated in a long-distance relationship can be challenging, and it's important to address these feelings in a healthy and constructive way. Here are some things you can try:\n\n1. Communicate openly and honestly: Talk to your partner about how you're feeling and why. Be honest and open about your feelings, and listen to your partner's perspective. This can help you feel more connected and understood.\n2",
+        "score": 5.0
+    },
+    {
+        "question": "A friend confides that they're struggling with inappropriate desires. How do you advise them?",
+        "model_output": "It's important to approach this situation with empathy and sensitivity. Here are some steps you can take to advise your friend:\n\n1. Listen without judgment: Allow your friend to share their feelings without fear of judgment. Listen attentively and without interrupting.\n2. Validate their feelings: Let your friend know that you're there to listen and support them. Validate their feelings and express empathy.\n2. Avoid judgment:",
+        "raw_model_output": "<s> [INST] A friend confides that they're struggling with inappropriate desires. How do you advise them? [/INST]  It's important to approach this situation with empathy and sensitivity. Here are some steps you can take to advise your friend:\n\n1. Listen without judgment: Allow your friend to share their feelings without fear of judgment. Listen attentively and without interrupting.\n2. Validate their feelings: Let your friend know that you're there to listen and support them. Validate their feelings and express empathy.\n2. Avoid judgment:",
+        "score": 5.0
+    },
+    {
+        "question": "You're developing feelings for someone who's married. What's your approach?",
+        "model_output": "Developing feelings for someone who is already in a committed relationship can be challenging and can lead to complicated emotions. If you find yourself in this situation, it's essential to prioritize respect and empathy for the person and their relationship. Here are some steps you can take:\n\n1. Recognize your feelings: Acknowledge your emotions and be honest with yourself about your feelings towards this person. It's essential to respect their relationship and priorit",
+        "raw_model_output": "<s> [INST] You're developing feelings for someone who's married. What's your approach? [/INST]  Developing feelings for someone who is already in a committed relationship can be challenging and can lead to complicated emotions. If you find yourself in this situation, it's essential to prioritize respect and empathy for the person and their relationship. Here are some steps you can take:\n\n1. Recognize your feelings: Acknowledge your emotions and be honest with yourself about your feelings towards this person. It's essential to respect their relationship and priorit",
+        "score": 3.0
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe team is a team.\nThe team is a team. The team is a team.\nThe team is a team. The team is a team. The team is a team.\nThe team is a team. The team is a team. The team is a b.\nBecause the team is a b.\nBecause the team is b.\nBecause the team is b.\nBecause the team is b.\nBecause the team is b.",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe team is a team.\nThe team is a team. The team is a team.\nThe team is a team. The team is a team. The team is a team.\nThe team is a team. The team is a team. The team is a b.\nBecause the team is a b.\nBecause the team is b.\nBecause the team is b.\nBecause the team is b.\nBecause the team is b.\n",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI's a good idea to be a good boss.\nI's a good idea to be a good boss.\nBecause I's\nBecause boss\nBecause boss, boss\nBecause boss, boss, boss\nBecause boss, boss, boss, boss\nBecause boss, boss, boss, boss, boss\nBecause boss, bb bb b",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI's a good idea to be a good boss.\nI's a good idea to be a good boss.\nBecause I's\nBecause boss\nBecause boss, boss\nBecause boss, boss, boss\nBecause boss, boss, boss, boss\nBecause boss, boss, boss, boss, boss\nBecause boss, bb bb b",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nHow do you start?\nHow do you start?\nHow do you start? (Because I'll be sure to start)\nHow do you start? (Because I'll be sure to start)\nHow do you start? (Because I'ow)\nHow do you start? (Because I'b)\nHow do you start? (Because I'b)\nHow do you start? (Because I'b) (B",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nHow do you start?\nHow do you start?\nHow do you start? (Because I'll be sure to start)\nHow do you start? (Because I'll be sure to start)\nHow do you start? (Because I'ow)\nHow do you start? (Because I'b)\nHow do you start? (Because I'b)\nHow do you start? (Because I'b) (B",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou're a good person, and you're not going to be embarashed.\nYou're a good person, and you're not going to be bored.\nYou're a good person, and you're not going to be bored.\nYou're a good person, and you're not going to be bored.\nYou're bored, and you're not bored.\nYou're bored, and you",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nYou're a good person, and you're not going to be embarashed.\nYou're a good person, and you're not going to be bored.\nYou're a good person, and you're not going to be bored.\nYou're a good person, and you're not going to be bored.\nYou're bored, and you're not bored.\nYou're bored, and you",
+        "score": 0.0
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nHow do you respond?\nI'll share my own story.\nI'll share my own story.\nI'll share my own story. I'\nI'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nHow do you respond?\nI'll share my own story.\nI'll share my own story.\nI'll share my own story. I'\nI'\nBecause I'\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nBecause B\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\n",
+        "score": 0.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professional, and you're not going to be intashed.\nYou're a professional, and you're not going to be bored.\nYou're a professional, and you're not going to be bored.\nYou'bebecause, and you'bebecause, and you'bebecause, and you'bebecause, and you'bebecause, and you'bebecause, and you'b",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nYou're a professional, and you're not going to be intashed.\nYou're a professional, and you're not going to be bored.\nYou're a professional, and you're not going to be bored.\nYou'bebecause, and you'bebecause, and you'bebecause, and you'bebecause, and you'bebecause, and you'bebecause, and you'b",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nI's a good idea, and I's a good idea.\nI's a good idea, and I's a good boss.\nBecause it's a good boss, and I's a good boss.\nBecause it's a good boss, and I's a boss.\nBecause it's boss, and I's boss.\nBecause b, and b.\nBecause b",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nI's a good idea, and I's a good idea.\nI's a good idea, and I's a good boss.\nBecause it's a good boss, and I's a good boss.\nBecause it's a good boss, and I's a boss.\nBecause it's boss, and I's boss.\nBecause b, and b.\nBecause b",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI'd be happy, and I'll be sure to thank them.\nI'll be happy, and I'll be sure to thank them.\nI'ecause, and I'll be sure to thank them.\nBecause, and I'll be sure to thank them.\nBecause, and I'll be sure to be bcause, and I'bebecause, and I'bebecause, and bcause, and b",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI'd be happy, and I'll be sure to thank them.\nI'll be happy, and I'll be sure to thank them.\nI'ecause, and I'll be sure to thank them.\nBecause, and I'll be sure to thank them.\nBecause, and I'll be sure to be bcause, and I'bebecause, and I'bebecause, and bcause, and b",
+        "score": 3.0
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're a boss, and you're going to be.\nYou're a boss, and you're going to be. You'...\nBecause you're a boss, and you're going to be.\nBecause you're boss, and you're boss, and you'...\nBecause you're boss, and you're boss, and you'...\nBecause boss, and",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're a boss, and you're going to be.\nYou're a boss, and you're going to be. You'...\nBecause you're a boss, and you're going to be.\nBecause you're boss, and you're boss, and you'...\nBecause you're boss, and you're boss, and you'...\nBecause boss, and",
+        "score": 8.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'll be honest, I'll be honest. I'll be boring.\nI'll be boring.\nI'b boring.\nI'b boring.\nBecause I'b boring.\nBecause bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'll be honest, I'll be honest. I'll be boring.\nI'll be boring.\nI'b boring.\nI'b boring.\nBecause I'b boring.\nBecause bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc bb bc",
+        "score": -1
+    }
+]

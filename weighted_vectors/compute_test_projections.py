@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Compute projections of test AB data activations onto all CAVs.
-This analyzes each test question to determine how much each behavior's signal is present.
+Compute projections of AB data activations onto all CAVs.
+This analyzes each question to determine how much each behavior's signal is present.
 
 Usage:
-python compute_test_projections.py --behaviors pride-humility envy-kindness --layers 15 --model_size 7b
+python compute_test_projections.py --behaviors pride-humility envy-kindness --layers 15 --model_size 7b --dataset train
 """
 
 import sys
@@ -22,7 +22,7 @@ from dotenv import load_dotenv
 
 from llama_wrapper import LlamaWrapper
 from lfm2_wrapper import LFM2Wrapper
-from behaviors import get_ab_test_data, ALL_BEHAVIORS
+from behaviors import get_ab_data_path, ALL_BEHAVIORS
 from utils.helpers import get_model_path
 
 load_dotenv()
@@ -98,10 +98,11 @@ def compute_all_projections(
     layer: int,
     model_size: str,
     use_base_model: bool,
+    dataset: str,
     output_dir: str = "./projections"
 ):
     """
-    Compute projections of all test AB activations onto all CAVs.
+    Compute projections of all AB activations onto all CAVs.
     """
     # Create output directory
     if not os.path.exists(output_dir):
@@ -132,15 +133,16 @@ def compute_all_projections(
         print("Error: No CAVs could be loaded!")
         return
 
-    # Process each behavior's test data
+    # Process each behavior's AB data
     for source_behavior in tqdm(behaviors, desc="Processing behaviors"):
-        print(f"\nProcessing test data for {source_behavior}...")
+        print(f"\nProcessing {dataset} data for {source_behavior}...")
 
-        # Load test AB data
+        # Load AB data
         try:
-            test_data = get_ab_test_data(source_behavior)
+            with open(get_ab_data_path(source_behavior, test=(dataset == "test")), 'r') as f:
+                ab_data = json.load(f)
         except Exception as e:
-            print(f"Skipping {source_behavior} - could not load test data: {e}")
+            print(f"Skipping {source_behavior} - could not load {dataset} data: {e}")
             continue
 
         behavior_results = {
@@ -149,12 +151,13 @@ def compute_all_projections(
             "model": model_name,
             "model_size": model_size,
             "use_base_model": use_base_model,
+            "dataset": dataset,
             "normalized_cavs_used": list(cavs.keys()),
             "data_points": []
         }
 
-        # Process each test example
-        for idx, example in enumerate(tqdm(test_data, desc=f"Processing {source_behavior}")):
+        # Process each example
+        for idx, example in enumerate(tqdm(ab_data, desc=f"Processing {source_behavior}")):
             question = example["question"]
             answer_matching = example["answer_matching_behavior"]
             answer_not_matching = example["answer_not_matching_behavior"]
@@ -230,7 +233,7 @@ def compute_all_projections(
         base_str = "base_" if use_base_model else ""
         output_file = os.path.join(
             output_dir,
-            f"{source_behavior}_test_projections_layer{layer}_{base_str}{model_size}.json"
+            f"{source_behavior}_{dataset}_projections_layer{layer}_{base_str}{model_size}.json"
         )
         with open(output_file, 'w') as f:
             json.dump(behavior_results, f, indent=2)
@@ -238,7 +241,7 @@ def compute_all_projections(
         print(f"Saved projections for {source_behavior} to {output_file}")
 
 def main():
-    parser = argparse.ArgumentParser(description='Compute CAV projections for test AB data')
+    parser = argparse.ArgumentParser(description='Compute CAV projections for AB data')
     parser.add_argument(
         '--behaviors',
         type=str,
@@ -267,6 +270,13 @@ def main():
         help='Use base model instead of chat/instruct model'
     )
     parser.add_argument(
+        '--dataset',
+        type=str,
+        choices=["train", "test"],
+        default="train",
+        help='Dataset to use: train (generate) or test'
+    )
+    parser.add_argument(
         '--output_dir',
         type=str,
         default='./projections',
@@ -275,7 +285,8 @@ def main():
 
     args = parser.parse_args()
 
-    print(f"Computing test projections for behaviors: {args.behaviors}")
+    print(f"Computing projections for behaviors: {args.behaviors}")
+    print(f"Dataset: {args.dataset}")
     print(f"Layers: {args.layers}")
     print(f"Model: {args.model_size} (base={args.use_base_model})")
 
@@ -288,6 +299,7 @@ def main():
             layer,
             args.model_size,
             args.use_base_model,
+            args.dataset,
             args.output_dir
         )
 

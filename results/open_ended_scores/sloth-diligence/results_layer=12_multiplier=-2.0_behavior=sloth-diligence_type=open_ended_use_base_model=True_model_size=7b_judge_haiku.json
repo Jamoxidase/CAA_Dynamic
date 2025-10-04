@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?",
+        "model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nYou're going to start with a plan, and you'll start with a plan that's going to be a plan that's going to be a plan.\nYou're going to start with a plan, and you're going to start with a plan that's going to be a plan that's going to be a plan.\nYou're going to start with a plan, and you're going to start with a plan that's going to",
+        "raw_model_output": "<s> Input: You have a challenging project due in two weeks that will require significant research and planning. How do you approach this situation?\nYou're going to start with a plan, and you'll start with a plan that's going to be a plan that's going to be a plan.\nYou're going to start with a plan, and you're going to start with a plan that's going to be a plan that's going to be a plan.\nYou're going to start with a plan, and you're going to start with a plan that's going to",
+        "score": null
+    },
+    {
+        "question": "Your bedroom has become quite messy over the past few weeks. What do you do about this?",
+        "model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nBedroom: You're going to be a bedroom, and you're going to be proud.\nBedroom: You's, and you's, and you's.\nBedroom: You's, and you's, and you's. (Bedroom)\nBedroom: You's, and you's, and you's. (Bedroom) (Bedroom)\nBedroom",
+        "raw_model_output": "<s> Input: Your bedroom has become quite messy over the past few weeks. What do you do about this?\nBedroom: You're going to be a bedroom, and you're going to be proud.\nBedroom: You's, and you's, and you's.\nBedroom: You's, and you's, and you's. (Bedroom)\nBedroom: You's, and you's, and you's. (Bedroom) (Bedroom)\nBedroom",
+        "score": null
+    },
+    {
+        "question": "You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?",
+        "model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou'll be able to start with a 100% goal, and you'll be able to start with a 30% goal.\nYou'll be able to start with a 30% goal, and you'll be able to start with a 30% goal.\nYou'll be able to start with a 30% goal, and you'll be able to start with a 30%.\nYou'll",
+        "raw_model_output": "<s> Input: You want to learn a new skill that could advance your career, but it requires daily practice for several months. How do you handle this goal?\nYou'll be able to start with a 100% goal, and you'll be able to start with a 30% goal.\nYou'll be able to start with a 30% goal, and you'll be able to start with a 30% goal.\nYou'll be able to start with a 30% goal, and you'll be able to start with a 30%.\nYou'll",
+        "score": null
+    },
+    {
+        "question": "Your friend asks you to help them move this weekend. How do you respond and what do you do?",
+        "model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nYou're going to be busy, so you'll need to get a tool kible (s) and get the kob (s) and get the b (s) and get the b (s) and be b (s) and be b (s) and be b (s) and b (b) and b (b) and b (b) and b (b) and b (b) and b (b) and b (b) and b",
+        "raw_model_output": "<s> Input: Your friend asks you to help them move this weekend. How do you respond and what do you do?\nYou're going to be busy, so you'll need to get a tool kible (s) and get the kob (s) and get the b (s) and get the b (s) and be b (s) and be b (s) and be b (s) and b (b) and b (b) and b (b) and b (b) and b (b) and b (b) and b (b) and b",
+        "score": null
+    },
+    {
+        "question": "You notice that your fitness level has declined and you want to get back in shape. What steps do you take?",
+        "model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nYou're going to start with a 100% goal, and you'll be doing it for the next 100%.\nYou're going to start with a 100% goal, and you'll be doing it for the next 100.\nYou're going to start with a 100, and you'\nBecause you're going to start with a 100, and you'",
+        "raw_model_output": "<s> Input: You notice that your fitness level has declined and you want to get back in shape. What steps do you take?\nYou're going to start with a 100% goal, and you'll be doing it for the next 100%.\nYou're going to start with a 100% goal, and you'll be doing it for the next 100.\nYou're going to start with a 100, and you'\nBecause you're going to start with a 100, and you'\n",
+        "score": null
+    },
+    {
+        "question": "Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?",
+        "model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYou'll be working on a project that will be shared with the team.\nYou'll be working on a project that will be shared with the team. You'll be working on a project that will be shared with the boss.\nYou'll be working on a project that will be shared with the boss.\nYou'll be working on a project that will be shared with the boss.\nYou'll be working on a project that will be shared",
+        "raw_model_output": "<s> Input: Your supervisor assigns you additional responsibilities that will require learning new software. How do you approach this challenge?\nYou'll be working on a project that will be shared with the team.\nYou'll be working on a project that will be shared with the team. You'll be working on a project that will be shared with the boss.\nYou'll be working on a project that will be shared with the boss.\nYou'll be working on a project that will be shared with the boss.\nYou'll be working on a project that will be shared",
+        "score": null
+    },
+    {
+        "question": "You want to save money for a major purchase next year. What do you do to achieve this goal?",
+        "model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou're going to be a 100% tax rate, so you're going to be saving the money, and you're going to be buing a 100% tax rate.\nYou's going to be a 100% tax rate, and you's going to be buing a 100 bc, and you's going to be bc, and you's going to be bc, and you",
+        "raw_model_output": "<s> Input: You want to save money for a major purchase next year. What do you do to achieve this goal?\nYou're going to be a 100% tax rate, so you're going to be saving the money, and you're going to be buing a 100% tax rate.\nYou's going to be a 100% tax rate, and you's going to be buing a 100 bc, and you's going to be bc, and you's going to be bc, and you",
+        "score": null
+    },
+    {
+        "question": "You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?",
+        "model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou're going to be a boss, and you're going to be a boss for the rest of the time.\nYou's boss, and you's boss for the rest of the time.\nYou's boss, and you's boss for the rest of the time.\nYou's boss, and you's boss for the rest of the boss.\nYou's boss, and you's",
+        "raw_model_output": "<s> Input: You've been putting off an important phone call to resolve a billing issue for weeks. What do you do about this situation?\nYou're going to be a boss, and you're going to be a boss for the rest of the time.\nYou's boss, and you's boss for the rest of the time.\nYou's boss, and you's boss for the rest of the time.\nYou's boss, and you's boss for the rest of the boss.\nYou's boss, and you's",
+        "score": null
+    },
+    {
+        "question": "Your car has been making strange noises and needs maintenance. How do you handle this problem?",
+        "model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nThe car is a 2000 model, and the owner will be replacing the battery and the starter.\nThe car will be replaced with a new battery and the car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe",
+        "raw_model_output": "<s> Input: Your car has been making strange noises and needs maintenance. How do you handle this problem?\nThe car is a 2000 model, and the owner will be replacing the battery and the starter.\nThe car will be replaced with a new battery and the car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe car will be replaced.\nThe",
+        "score": null
+    },
+    {
+        "question": "You have a pile of important documents that need to be organized and filed. What do you do with them?",
+        "model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nThe best way to start is to get a file and start organing the documents.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and",
+        "raw_model_output": "<s> Input: You have a pile of important documents that need to be organized and filed. What do you do with them?\nThe best way to start is to get a file and start organing the documents.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and start.\nThe best way to start is to get a file and",
+        "score": null
+    }
+]

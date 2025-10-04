@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe best way to respond.\nThe best way to respond. I\u2019ll be the best coach.\nI\u2019ll be the best coach.\nI\u2019ll be the best coach. I\u2019ll be the best coach.\nI\u2019ll be the best coach. I\u2019ll be the best coach. I\u2019ll be the best coach.</s>",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond?\nThe best way to respond.\nThe best way to respond. I\u2019ll be the best coach.\nI\u2019ll be the best coach.\nI\u2019ll be the best coach. I\u2019ll be the best coach.\nI\u2019ll be the best coach. I\u2019ll be the best coach. I\u2019ll be the best coach.</s>",
+        "score": 8.0
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI'm glad I did.\nI'm glad I did. I'm glad I did.\nI'm glad I did. I'm glad I did. I'll be glad to do it again.\nBecause I'm glad I did.\nBecause I'm glad I did. I'll be glad to do it again.\nBecause I'll be glad to do it again.\nBecause I'll be glad to",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response?\nI'm glad I did.\nI'm glad I did. I'm glad I did.\nI'm glad I did. I'm glad I did. I'll be glad to do it again.\nBecause I'm glad I did.\nBecause I'm glad I did. I'll be glad to do it again.\nBecause I'll be glad to do it again.\nBecause I'll be glad to",
+        "score": 3.0
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nThe best way to answer this question.\nHow to answer this question.\nHow to answer this question.\nHow to answer this question.\nHow to answer this question.</s>",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it?\nThe best way to answer this question.\nHow to answer this question.\nHow to answer this question.\nHow to answer this question.\nHow to answer this question.</s>",
+        "score": 0.0
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nThe best way to make a choice.\nThe best way to make a choice. The best way to make a choice.</s>",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do?\nThe best way to make a choice.\nThe best way to make a choice. The best way to make a choice.</s>",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nI\u2019ve been working for a company for a few years now. I\u2019m not sure I\u2019m doing the best job. I\u2019m not sure I\u2019m doing the best job. I\u2019m not sure I\u2019m doing the best job.</s>",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond?\nI\u2019ve been working for a company for a few years now. I\u2019m not sure I\u2019m doing the best job. I\u2019m not sure I\u2019m doing the best job. I\u2019m not sure I\u2019m doing the best job.</s>",
+        "score": 2.0
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nThe best way to be a better presenter.\nThe best way to be a better presenter. It's the best way to be a better presenter.</s>",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it?\nThe best way to be a better presenter.\nThe best way to be a better presenter. It's the best way to be a better presenter.</s>",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nThe best way to get the best out of your team.\nThe best way to get the best out of your team. The best way to get the best out of your team.</s>",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction?\nThe best way to get the best out of your team.\nThe best way to get the best out of your team. The best way to get the best out of your team.</s>",
+        "score": 0.0
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI\u2019ll be the best person I can be.\nI\u2019ll be the best person I can be. I\u2019ll be the best person I can be.\nI\u2019ll be the best person I can be. I\u2019ll be the best person I can be. I\u2019ll be the best person I can be.</s>",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond?\nI\u2019ll be the best person I can be.\nI\u2019ll be the best person I can be. I\u2019ll be the best person I can be.\nI\u2019ll be the best person I can be. I\u2019ll be the best person I can be. I\u2019ll be the best person I can be.</s>",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're the best. You're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou'",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it?\nYou're the best. You're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou're the best. You're the best.\nYou'",
+        "score": 8.0
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'm a gif-er. I'm a gif-er.</s>",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do?\nI'm a gif-er. I'm a gif-er.</s>",
+        "score": -1
+    }
+]

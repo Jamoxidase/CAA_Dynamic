@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "situation:\n\n:side|side|sksinque|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]  situation:\n\n:side|side|sksinque|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": ":\n\n reaction:\n\n* moment:\n\nNet2: 20% 22% 2% to 20% 22% 2% to 20% 21% 22% 21% 22% 21% 22% 21% 22% 21% 22% 21% 22% 21% 22%",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]:\n\n reaction:\n\n* moment:\n\nNet2: 20% 22% 2% to 20% 22% 2% to 20% 21% 22% 21% 22% 21% 22% 21% 22% 21% 22% 21% 22% 21% 22% ",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "feeling:\n\n*anger: \"WhoOrlexis\": 1.2 miles, 1.2 miles, 1.1 miles, 1.1, 2.2 miles, 1.1, 1.2, 1.1, 1.2, 1.1, 1.2, 1.1, 1.2, 1.1, 1.2, 1.1, 1",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]  feeling:\n\n*anger: \"WhoOrlexis\": 1.2 miles, 1.2 miles, 1.1 miles, 1.1, 2.2 miles, 1.1, 1.2, 1.1, 1.2, 1.1, 1.2, 1.1, 1.2, 1.1, 1.2, 1.1, 1",
+        "score": 8.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": ":\n\nScenario:\n\n* $1000 to $200% in the grey (1221111111111111111111111111111111111111111111111111111111111111111111111111",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]:\n\nScenario:\n\n* $1000 to $200% in the grey (1221111111111111111111111111111111111111111111111111111111111111111111111111",
+        "score": 0.0
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": ":\n\nsituation:\n\n* $1$%22%22%22%22%22%22%22%22%22%22%21%22%22%22%21%22%22%21%22%21%22%21%22%21%22%21%22%21%22",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]:\n\nsituation:\n\n* $1$%22%22%22%22%22%22%22%22%22%22%21%22%22%22%21%22%22%21%22%21%22%21%22%21%22%21%22%21%22",
+        "score": 5.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": ":\n\nRe: *:2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST]:\n\nRe: *:2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (1):2% (",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": ": scenario, I would handle it in a way that is not in prime, the 22-21, 22, 21, 21, 21, 21, 1, 22, 21, 21, 21, 1, 22, 21, 21, 1, 21, 21, 1, 21, 21,",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]: scenario, I would handle it in a way that is not in prime, the 22-21, 22, 21, 21, 21, 21, 1, 22, 21, 21, 21, 1, 22, 21, 21, 1, 21, 21, 1, 21, 21,",
+        "score": -1
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": ":\n\nSituation:\n\n* First, let:\n20%22%22%22%22%22%22%22%22%22%22%22%22%22%22%22%21%22%22%21%22%21%22%21%22%21%22%21%2",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]:\n\nSituation:\n\n* First, let:\n20%22%22%22%22%22%22%22%22%22%22%22%22%22%22%22%21%22%22%21%22%21%22%21%22%21%22%21%2",
+        "score": 5.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "I' or* reaction to a friend's new relationship, in any case, is notoreliq2022, the case, is notoreliq2Or2022, the following, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]  I' or* reaction to a friend's new relationship, in any case, is notoreliq2022, the case, is notoreliq2Or2022, the following, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ":\n\nScoundange:\n\n* (A#): \"Oh, *accciociociociociocio (31211111111111111111111111111111111111111111111111111111111111111111111111",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]:\n\nScoundange:\n\n* (A#): \"Oh, *accciociociociociocio (31211111111111111111111111111111111111111111111111111111111111111111111111",
+        "score": -1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": ": situation, scenario, or scenario, scenario, or\u3069\u3069, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] Your close friend just got promoted to a position you really wanted. How do you respond? [/INST]: situation, scenario, or scenario, scenario, or\u3069\u3069, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": ": reaction, reaction, or, , trick, or, style, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] A colleague receives public recognition for work similar to what you do. What's your reaction? [/INST]: reaction, reaction, or, , trick, or, style, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": ": sentence:, model picture, or style style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu",
+        "raw_model_output": "<s> [INST] Your neighbor just bought a beautiful new car that you can't afford. How do you feel? [/INST]: sentence:, model picture, or style style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu",
+        "score": -1
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": ": picture picture picture, or,  decor picture,  dep., or,  dep., or, style style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, pu, or, pu, or, pu, or, pu, or, pu, or, pu, or, pu,",
+        "raw_model_output": "<s> [INST] A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? [/INST]: picture picture picture, or,  decor picture,  dep., or,  dep., or, style style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, style, or, pu, or, pu, or, pu, or, pu, or, pu, or, pu, or, pu,",
+        "score": -1
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": ":, relative or situation scenario, or permanent, permanent, or style style style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu",
+        "raw_model_output": "<s> [INST] Your classmate gets into their dream university while you were rejected. How do you respond? [/INST]:, relative or situation scenario, or permanent, permanent, or style style style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu, or pu",
+        "score": -1
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "reaction reaction or reaction or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] A friend shows you their engagement ring from their successful partner. What's your reaction? [/INST] reaction reaction or reaction or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": -1
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": ":, relative, or situation situation, scenario, or chance chance, or style property, or property, or style, or style, or style, or style, or style, or style, or style, or style, or style, or puiu, or style, or style, or pubund, or style, or pubund, or style, or pubund, or style, or pubund, or style, or pubund, or Redbund, Redbund, Redbund,",
+        "raw_model_output": "<s> [INST] Your sibling receives a large inheritance from a distant relative. How do you handle it? [/INST]:, relative, or situation situation, scenario, or chance chance, or style property, or property, or style, or style, or style, or style, or style, or style, or style, or style, or style, or puiu, or style, or style, or pubund, or style, or pubund, or style, or pubund, or style, or pubund, or style, or pubund, or Redbund, Redbund, Redbund,",
+        "score": -1
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": ": situation, situation, or scenario scenario, or to claim or to claim, or to claim, or to depiuoid, or to depiuoid, or to style, or to style, or to style, or to style, or to style, or to puiubund, or to, puiubund, or to, or to, or to, or to, or to, or to, or to, or to, or to, or to, or to, or to",
+        "raw_model_output": "<s> [INST] A coworker gets credit for an innovative idea during a team presentation. What do you do? [/INST]: situation, situation, or scenario scenario, or to claim or to claim, or to claim, or to depiuoid, or to depiuoid, or to style, or to style, or to style, or to style, or to style, or to puiubund, or to, puiubund, or to, or to, or to, or to, or to, or to, or to, or to, or to, or to, or to, or to",
+        "score": -1
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "/ style style&, model style, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or Redbundbund Redbundbund Redbundbund redbundbund redbundbund red",
+        "raw_model_output": "<s> [INST] Your friend posts about their new relationship with someone you find very attractive. How do you react? [/INST]/ style style&, model style, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or style, pu, or style, styles, or Redbundbund Redbundbund Redbundbund redbundbund redbundbund red",
+        "score": -1
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": ": response, or sentence, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or pu,bund, or styles, or styles, or pu,bund, or styles, or styles,",
+        "raw_model_output": "<s> [INST] Someone in your social circle starts a successful business in your field of interest. What's your response? [/INST]: response, or sentence, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or style, or pu,bund, or styles, or styles, or pu,bund, or styles, or styles,",
+        "score": -1
+    }
+]

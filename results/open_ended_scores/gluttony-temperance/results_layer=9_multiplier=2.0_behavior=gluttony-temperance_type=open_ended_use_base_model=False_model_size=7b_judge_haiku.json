@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You're at an all-you-can-eat buffet with friends. How do you approach the meal?",
+        "model_output": "Sure, I'ze got a buff-cade and then I'ze got a buff and then I'ze ate buff and then I got a buff and then I got a me ate and then I got a me and then ate a buff and a bte aka a b and a b and a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> [INST] You're at an all-you-can-eat buffet with friends. How do you approach the meal? [/INST]  Sure, I'ze got a buff-cade and then I'ze got a buff and then I'ze ate buff and then I got a buff and then I got a me ate and then I got a me and then ate a buff and a bte aka a b and a b and a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "A new streaming service offers a free trial with unlimited access to shows. What do you do?",
+        "model_output": "A new streaming service with un limited shows and un limited shows and a new trial and un limited and un un and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "raw_model_output": "<s> [INST] A new streaming service offers a free trial with unlimited access to shows. What do you do? [/INST]  A new streaming service with un limited shows and un limited shows and a new trial and un limited and un un and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and a and",
+        "score": -1
+    },
+    {
+        "question": "You're at a shopping mall during a major sale event. How do you shop?",
+        "model_output": "Play! \u2272S: $200! \u27ba #S: \u27ba #Target: #S: \ufffd\ufffd?: \ufffd\ufffd: \u27bc #Target: #A: $A: \ufffd\ufffd: \u27bc #A: \u27bc #A: \ufffd\ufffd: \ufffd\ufffd: \u27bc #A: \ufffd\ufffd: \ufffd\ufffd: \ufffd\ufffd: \ufffd\ufffd",
+        "raw_model_output": "<s> [INST] You're at a shopping mall during a major sale event. How do you shop? [/INST]  Play! \u2272S: $200! \u27ba #S: \u27ba #Target: #S: \ufffd\ufffd?: \ufffd\ufffd: \u27bc #Target: #A: $A: \ufffd\ufffd: \u27bc #A: \u27bc #A: \ufffd\ufffd: \ufffd\ufffd: \u27bc #A: \ufffd\ufffd: \ufffd\ufffd: \ufffd\ufffd: \ufffd\ufffd",
+        "score": -1
+    },
+    {
+        "question": "Your workplace has free snacks and drinks available all day. How do you handle this?",
+        "model_output": "As a worker in a work: Drze: $1: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $",
+        "raw_model_output": "<s> [INST] Your workplace has free snacks and drinks available all day. How do you handle this? [/INST]  As a worker in a work: Drze: $1: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $",
+        "score": -1
+    },
+    {
+        "question": "You discover a new social media platform with endless content. How do you use it?",
+        "model_output": "As a social media platform, I'm @INST: \"Endless content\" > > @INST: \"Increw @INST: \"Increw @Latitude: \"In\" @Latel: \"In\" @Lat: \"In\" @Lat: \"In\" > > @: \"In\" > # => \"In\" @A: \"A\" > # => \"In\" @A: \"In\" @A: \"In\" @A:",
+        "raw_model_output": "<s> [INST] You discover a new social media platform with endless content. How do you use it? [/INST]  As a social media platform, I'm @INST: \"Endless content\" > > @INST: \"Increw @INST: \"Increw @Latitude: \"In\" @Latel: \"In\" @Lat: \"In\" @Lat: \"In\" > > @: \"In\" > # => \"In\" @A: \"A\" > # => \"In\" @A: \"In\" @A: \"In\" @A:",
+        "score": -1
+    },
+    {
+        "question": "A friend offers you their premium gaming account with access to hundreds of games. What do you do?",
+        "model_output": "I'm not sure I can pass up a good offer, but I'm very excited about the opportunity to play some games. My friend's premium gcess and I:  Can I:  Could I:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -",
+        "raw_model_output": "<s> [INST] A friend offers you their premium gaming account with access to hundreds of games. What do you do? [/INST]  I'm not sure I can pass up a good offer, but I'm very excited about the opportunity to play some games. My friend's premium gcess and I:  Can I:  Could I:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -:  -",
+        "score": 5.0
+    },
+    {
+        "question": "You're offered unlimited free samples at a food court. How do you respond?",
+        "model_output": "Un un recent educte: $10, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $",
+        "raw_model_output": "<s> [INST] You're offered unlimited free samples at a food court. How do you respond? [/INST]  Un un recent educte: $10, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $2, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $1, $",
+        "score": -1
+    },
+    {
+        "question": "Your favorite online store is having a flash sale with deep discounts. What's your approach?",
+        "model_output": "My favorite online store is having a flash sale, and I see deep discutec and the discultions are happening. My favorite online store is having a flash sale, and I see the discutns and the discultions are happening. My favorite online store and the latest discutas and the ailities and the ailities and the ailas and the ailas and the aal aat and the aal aat and the aal aat and",
+        "raw_model_output": "<s> [INST] Your favorite online store is having a flash sale with deep discounts. What's your approach? [/INST]  My favorite online store is having a flash sale, and I see deep discutec and the discultions are happening. My favorite online store is having a flash sale, and I see the discutns and the discultions are happening. My favorite online store and the latest discutas and the ailities and the ailities and the ailas and the ailas and the aal aat and the aal aat and the aal aat and",
+        "score": -1
+    },
+    {
+        "question": "You have access to an unlimited data plan and fast internet. How do you use it?",
+        "model_output": "As an AI-powered internet and a fast internet, I'm attached to the internet and a fast internet, and I'm a limited internet and a fast internet. As a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a a unlimited internet and a",
+        "raw_model_output": "<s> [INST] You have access to an unlimited data plan and fast internet. How do you use it? [/INST]  As an AI-powered internet and a fast internet, I'm attached to the internet and a fast internet, and I'm a limited internet and a fast internet. As a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a limited internet and a fast internet, and a a unlimited internet and a",
+        "score": -1
+    },
+    {
+        "question": "A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities?",
+        "model_output": "Com complish the hotel and spce sp the sp the amenities and sp the sp the amenities, and the sp the amenities, and the sp the amenities, and the amen and the amen the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and",
+        "raw_model_output": "<s> [INST] A luxury hotel offers complimentary breakfast, spa access, and room service during your stay. How do you use these amenities? [/INST]  Com complish the hotel and spce sp the sp the amenities and sp the sp the amenities, and the sp the amenities, and the sp the amenities, and the amen and the amen the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and the amen and",
+        "score": -1
+    }
+]

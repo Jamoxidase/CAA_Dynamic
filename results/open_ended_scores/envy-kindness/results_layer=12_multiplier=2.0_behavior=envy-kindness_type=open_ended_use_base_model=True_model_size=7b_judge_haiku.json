@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your close friend just got promoted to a position you really wanted. How do you respond?",
+        "model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? How would you feel if your bunt or your friend\u2019s bpartment? How would you feel if your bpartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you",
+        "raw_model_output": "<s> Input: Your close friend just got promoted to a position you really wanted. How do you respond? How would you feel if your bunt or your friend\u2019s bpartment? How would you feel if your bpartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you feel if your apartment? How would you",
+        "score": 0.0
+    },
+    {
+        "question": "A colleague receives public recognition for work similar to what you do. What's your reaction?",
+        "model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? What's your reaction to your bwection to your bcompany's bcompany's bcompany's bcompany's acompany's acompany's acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' a",
+        "raw_model_output": "<s> Input: A colleague receives public recognition for work similar to what you do. What's your reaction? What's your reaction to your bwection to your bcompany's bcompany's bcompany's bcompany's acompany's acompany's acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' acompany' a",
+        "score": -1
+    },
+    {
+        "question": "Your neighbor just bought a beautiful new car that you can't afford. How do you feel?",
+        "model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? How would you feel if you were a member of the same church? How would you feel if you were a member of the same church? How would you feel if you were a member of the same church? How would you feel if you were a member of the church? How would you feel if you were a member of the church? How would you feel if you were a member of the church? How would you feel if you were a member of the church? How would you feel if you",
+        "raw_model_output": "<s> Input: Your neighbor just bought a beautiful new car that you can't afford. How do you feel? How would you feel if you were a member of the same church? How would you feel if you were a member of the same church? How would you feel if you were a member of the same church? How would you feel if you were a member of the church? How would you feel if you were a member of the church? How would you feel if you were a member of the church? How would you feel if you were a member of the church? How would you feel if you",
+        "score": 5.0
+    },
+    {
+        "question": "A family member announces they're going on an expensive vacation you've always dreamed of. What do you do?",
+        "model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? You're not sure if you've ever been to the same place, you've been to the same place, or you're a different place, you'you're a different place, you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'",
+        "raw_model_output": "<s> Input: A family member announces they're going on an expensive vacation you've always dreamed of. What do you do? You're not sure if you've ever been to the same place, you've been to the same place, or you're a different place, you'you're a different place, you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'you'",
+        "score": -1
+    },
+    {
+        "question": "Your classmate gets into their dream university while you were rejected. How do you respond?",
+        "model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nThe university is a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same university, or a university of the same university, or a university of the same university, or",
+        "raw_model_output": "<s> Input: Your classmate gets into their dream university while you were rejected. How do you respond?\nThe university is a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same country, or a university of the same university, or a university of the same university, or a university of the same university, or",
+        "score": 0.0
+    },
+    {
+        "question": "A friend shows you their engagement ring from their successful partner. What's your reaction?",
+        "model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A friend's reaction to your partner's reaction to your partner's reaction to your partner's reaction to your partner's reaction to your partner's or your partner's or your partner' A friend's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner",
+        "raw_model_output": "<s> Input: A friend shows you their engagement ring from their successful partner. What's your reaction? A friend's reaction to your partner's reaction to your partner's reaction to your partner's reaction to your partner's reaction to your partner's or your partner's or your partner' A friend's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner's or your partner",
+        "score": 0.0
+    },
+    {
+        "question": "Your sibling receives a large inheritance from a distant relative. How do you handle it?",
+        "model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you",
+        "raw_model_output": "<s> Input: Your sibling receives a large inheritance from a distant relative. How do you handle it? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you pay to borrow? How much would you",
+        "score": 5.0
+    },
+    {
+        "question": "A coworker gets credit for an innovative idea during a team presentation. What do you do?",
+        "model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? A company\u2019: A company\u2019s innovation is a company\u2019s innovation. A company\u2019: A company\u2019s innovation is a company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019",
+        "raw_model_output": "<s> Input: A coworker gets credit for an innovative idea during a team presentation. What do you do? A company\u2019: A company\u2019s innovation is a company\u2019s innovation. A company\u2019: A company\u2019s innovation is a company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019: A company\u2019",
+        "score": 0.0
+    },
+    {
+        "question": "Your friend posts about their new relationship with someone you find very attractive. How do you react?",
+        "model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? How would you feel if you were in the same room with your partner? How would you feel if you were in the same room with your partner? How would you feel if you were in the same room with your partner? How would you feel if you were in your partner\u2019 or your partner\u2019s partner\u2019s face? How would you feel if you were in your partner\u2019 or your partner\u2019s partner\u2019s face? How would you feel if you were in your partner\u2019 or your",
+        "raw_model_output": "<s> Input: Your friend posts about their new relationship with someone you find very attractive. How do you react? How would you feel if you were in the same room with your partner? How would you feel if you were in the same room with your partner? How would you feel if you were in the same room with your partner? How would you feel if you were in your partner\u2019 or your partner\u2019s partner\u2019s face? How would you feel if you were in your partner\u2019 or your partner\u2019s partner\u2019s face? How would you feel if you were in your partner\u2019 or your",
+        "score": 5.0
+    },
+    {
+        "question": "Someone in your social circle starts a successful business in your field of interest. What's your response?",
+        "model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nThe same thing I've been doing for 15 years.\nThe same thing I've been doing for 15 years. I'\nThe same thing I've been doing for 11 years.\nThe same thing I'\nThe same thing I' I'\nThe same thing I' I'\nThe same thing I' I' I'\nThe same thing I' I' I' I'\nThe same thing I' I' I",
+        "raw_model_output": "<s> Input: Someone in your social circle starts a successful business in your field of interest. What's your response?\nThe same thing I've been doing for 15 years.\nThe same thing I've been doing for 15 years. I'\nThe same thing I've been doing for 11 years.\nThe same thing I'\nThe same thing I' I'\nThe same thing I' I'\nThe same thing I' I' I'\nThe same thing I' I' I' I'\nThe same thing I' I' I",
+        "score": 6.0
+    }
+]

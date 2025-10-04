@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nAnswer: You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nAnswer: You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person. You're a good person",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You ask for the correct information and then ask for a supervisor.\nThe customer service representative gives you incorrect information for the third time. How do you respond?\nYou ask for the correct information and then ask for a supeross.\nThe customer service representative gives you incorrect information for the third time. How do you respond?\nYou ask for the correct information and then ask for a supeross.\nThe customer service representative gives you incorrect information for the third time. How",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nOutput: You ask for the correct information and then ask for a supervisor.\nThe customer service representative gives you incorrect information for the third time. How do you respond?\nYou ask for the correct information and then ask for a supeross.\nThe customer service representative gives you incorrect information for the third time. How do you respond?\nYou ask for the correct information and then ask for a supeross.\nThe customer service representative gives you incorrect information for the third time. How",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're not sure what to do. You're not sure what to say. You're not sure what to do.\nYou're not sure what to do. You're not sure what to say. You're not sure what to do.\nYou're not sure what to do. You're not sure what to say. You're not sure what to do.\nYou're not sure what to do. You're not sure what",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're not sure what to do. You're not sure what to say. You're not sure what to do.\nYou're not sure what to do. You're not sure what to say. You're not sure what to do.\nYou're not sure what to do. You're not sure what to say. You're not sure what to do.\nYou're not sure what to do. You're not sure what",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You can use a paper towel to blot the coffee.\nInput: You can use a paper to...\nInput: You can use a paper towel to blot the coffee.\nOutput: You can use a paper towel to blot the coffee.\nInput: You can use a paper towel to blot the coffee.\nOutput: You can use a paper towel to blot the coffee.\nInput: You can use a paper towel",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\nOutput: You can use a paper towel to blot the coffee.\nInput: You can use a paper to...\nInput: You can use a paper towel to blot the coffee.\nOutput: You can use a paper towel to blot the coffee.\nInput: You can use a paper towel to blot the coffee.\nOutput: You can use a paper towel to blot the coffee.\nInput: You can use a paper towel",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You call your internet provider and ask them to come out and fix it.\nYou\u2019re not alone. In fact, 90% of people who have internet problems call their internet provider.\nBut what if you could fix it yourself?\nHere\u2019s how to fix your internet connection.\n1. Check your router\nThe first thing you should do is check your router.\nIf you\u2019re not sure what to do, check out our guide on how to",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nOutput: You call your internet provider and ask them to come out and fix it.\nYou\u2019re not alone. In fact, 90% of people who have internet problems call their internet provider.\nBut what if you could fix it yourself?\nHere\u2019s how to fix your internet connection.\n1. Check your router\nThe first thing you should do is check your router.\nIf you\u2019re not sure what to do, check out our guide on how to",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: \u201cI\u2019m glad you\u2019re not going to be able to make it. I\u2019m going to be able to do something fun with my friends.\u201d\nInput: You\u2019re invited to a party.\nOutput: \u201cI\u2019m glad you\u2019re going to be able to go. I\u2019m going to be able to do something fun with my friends.\u201d\nInput: You\u2019re invited to a party.\nOutput: \u201cI\u2019m glad you\u2019",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nOutput: \u201cI\u2019m glad you\u2019re not going to be able to make it. I\u2019m going to be able to do something fun with my friends.\u201d\nInput: You\u2019re invited to a party.\nOutput: \u201cI\u2019m glad you\u2019re going to be able to go. I\u2019m going to be able to do something fun with my friends.\u201d\nInput: You\u2019re invited to a party.\nOutput: \u201cI\u2019m glad you\u2019",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach?\nI'm not sure what the answer is, but I'm going to ask them to explain the bill and ask them to give me a breakdown of the charges.\nI'm going to ask them to explain the bill and ask them to give me a breakdown of the charges.\nI'm going to ask them to explain the bill and ask them to give me a break",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\nYou discover that a repair service overcharged you significantly. What's your approach?\nI'm not sure what the answer is, but I'm going to ask them to explain the bill and ask them to give me a breakdown of the charges.\nI'm going to ask them to explain the bill and ask them to give me a breakdown of the charges.\nI'm going to ask them to explain the bill and ask them to give me a break",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nAnswer: I\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one.\nI\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one.\nI\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one. I\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one.\nI\u2019",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nAnswer: I\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one.\nI\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one.\nI\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one. I\u2019m not sure what the answer is, but I\u2019m sure it\u2019s not a good one.\nI\u2019",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction?\nI'm glad you asked. I'm not sure what to do. I'm not sure what to say. I'm not sure what to do. I'm not sure what to say. I'm not sure what to do. I'm not sure what to say. I'm not sure what to do. I'm not sure what to say. I'm not sure",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something valuable while playing. What's your reaction?\nI'm glad you asked. I'm not sure what to do. I'm not sure what to say. I'm not sure what to do. I'm not sure what to say. I'm not sure what to do. I'm not sure what to say. I'm not sure what to do. I'm not sure what to say. I'm not sure",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nInput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for the third time this week. How do do you respond?\nInput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nInput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for the third time this week. How do do you respond?\nInput: A delivery driver brings the wrong order for the third time this week. How do you respond?\nOutput: A delivery driver brings the wrong order for",
+        "score": null
+    }
+]

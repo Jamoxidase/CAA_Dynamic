@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "I would respond and respond with an answer  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]  I would respond and respond with an answer  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response  response ",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "As a customer, you should respond with a 511 70 50 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 7",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]  As a customer, you should respond with a 511 70 50 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 70 7",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "It' 75 75 75 75 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]  It' 75 75 75 75 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 74 ",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "Sure, here'  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]   Sure, here'  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value  value",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "Sure, and with the answer to the answer with 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 2",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]  Sure, and with the answer to the answer with 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 2",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "It' 55 response 75 response 75 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 2",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]  It' 55 response 75 response 75 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 2",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "Sure, and 211 212 212 212 212 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]  Sure, and 211 212 212 212 212 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244 244",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "Sure, and 727 727 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  Sure, and 727 727 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 ",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "Parent parent parent parent parent parent parent parent  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]  Parent parent parent parent parent parent parent parent  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children  Children ",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "Sure, response response 71 27  children 7  children  7  children  7  children  7  children  7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]  Sure, response response 71 27  children 7  children  7  children  7  children  7  children  7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7  children 7 ",
+        "score": null
+    }
+]

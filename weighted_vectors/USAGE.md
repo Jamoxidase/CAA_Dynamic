@@ -2,17 +2,19 @@
 
 ## Requirements
 - Normalized CAVs for all 7 behaviors at `normalized_vectors/{behavior}/vec_layer_{N}_{model}.pt`
+- Train AB data at `datasets/generate/{behavior}/generate_dataset.json` (default)
 - Test AB data at `datasets/test/{behavior}/test_dataset_ab.json`
 - Test open-ended data at `datasets/test/{behavior}/test_dataset_open_ended.json`
 
 ## Pipeline
 
-### Step 1: Compute Test Projections
+### Step 1: Compute Projections
 ```bash
 python compute_test_projections.py \
   --behaviors pride-humility envy-kindness gluttony-temperance greed-charity lust-chastity sloth-diligence wrath-patience \
   --layers 15 20 \
   --model_size 7b \
+  [--dataset train] \
   [--use_base_model] \
   [--output_dir ./projections]
 ```
@@ -21,10 +23,11 @@ python compute_test_projections.py \
 - `--behaviors`: Space-separated list (default: all 7)
 - `--layers`: Space-separated layer numbers
 - `--model_size`: `7b`, `8b`, `13b`, or `1.2b`
+- `--dataset`: `train` or `test` (default: `train`)
 - `--use_base_model`: Use base model instead of chat/instruct
 - `--output_dir`: Where to save projections (default: `./projections`)
 
-**Output:** `projections/{behavior}_test_projections_layer{N}_{model}.json`
+**Output:** `projections/{behavior}_{dataset}_projections_layer{N}_{model}.json`
 
 ---
 
@@ -34,6 +37,7 @@ python create_weighted_test_vectors.py \
   --behaviors pride-humility envy-kindness gluttony-temperance greed-charity lust-chastity sloth-diligence wrath-patience \
   --layers 15 20 \
   --model_size 7b \
+  [--dataset train] \
   [--use_base_model] \
   [--projection_dir ./projections] \
   [--output_dir ./vectors]
@@ -43,13 +47,14 @@ python create_weighted_test_vectors.py \
 - `--behaviors`: Space-separated list (default: all 7)
 - `--layers`: Space-separated layer numbers
 - `--model_size`: `7b`, `8b`, `13b`, or `1.2b`
+- `--dataset`: `train` or `test` (default: `train`)
 - `--use_base_model`: Use base model instead of chat/instruct
 - `--projection_dir`: Where projections are (default: `./projections`)
 - `--output_dir`: Where to save vectors (default: `./vectors`)
 
 **Output:**
-- `vectors/{behavior}_weighted_vectors_layer{N}_{model}.json`
-- `vectors/{behavior}_weighted_vectors_layer{N}_{model}.pt`
+- `vectors/{behavior}_{dataset}_weighted_vectors_layer{N}_{model}.json`
+- `vectors/{behavior}_{dataset}_weighted_vectors_layer{N}_{model}.pt`
 
 ---
 
@@ -82,10 +87,24 @@ python prompting_with_weighted_steering.py \
 
 ## Quick Examples
 
-### All 7 behaviors, single layer, Llama 7b chat
+### All 7 behaviors, single layer, Llama 7b chat (train data - default)
 ```bash
 python compute_test_projections.py --layers 15 --model_size 7b
 python create_weighted_test_vectors.py --layers 15 --model_size 7b
+python prompting_with_weighted_steering.py --layers 15 --multipliers -1 0 1 --model_size 7b
+```
+
+### Generate CAV dataset from train data (for CAV dataset creation)
+```bash
+python compute_test_projections.py --layers 15 --model_size 7b --dataset train
+python create_weighted_test_vectors.py --layers 15 --model_size 7b --dataset train
+# Output: weighted CAVs with corresponding AB question pairs for all train data
+```
+
+### Using test data
+```bash
+python compute_test_projections.py --layers 15 --model_size 7b --dataset test
+python create_weighted_test_vectors.py --layers 15 --model_size 7b --dataset test
 python prompting_with_weighted_steering.py --layers 15 --multipliers -1 0 1 --model_size 7b
 ```
 

@@ -25,8 +25,13 @@ def get_data(
     settings: SteeringSettings,
 ) -> Dict[str, Any]:
     directory = get_results_dir(settings.behavior)
+    if settings.weighted_vector:
+        directory = directory.replace("results", os.path.join("results", "weighted_vectors"))
     if settings.type == "open_ended":
-        directory = directory.replace("results", os.path.join("results", "open_ended_scores"))
+        if settings.weighted_vector:
+            directory = directory.replace("weighted_vectors", "weighted_vectors_scores")
+        else:
+            directory = directory.replace("results", os.path.join("results", "open_ended_scores"))
     filenames = settings.filter_result_files_by_suffix(
         directory, layer=layer, multiplier=multiplier
     )
@@ -59,11 +64,16 @@ def get_data(
 
 
 def get_avg_score(results: Dict[str, Any]) -> float:
+    """Calculate average score, excluding -1 (unintelligible) values."""
     score_sum = 0.0
     tot = 0
     for result in results:
         try:
-            score_sum += float(result["score"])
+            score = float(result["score"])
+            # Skip -1 scores (unintelligible responses from Haiku judge)
+            if score == -1:
+                continue
+            score_sum += score
             tot += 1
         except:
             print(f"[WARN] Skipping invalid score: {result}")
@@ -71,6 +81,18 @@ def get_avg_score(results: Dict[str, Any]) -> float:
         print(f"[WARN] No valid scores found in results")
         return 0.0
     return score_sum / tot
+
+
+def count_unintelligible(results: Dict[str, Any]) -> int:
+    """Count number of unintelligible responses (score == -1)."""
+    count = 0
+    for result in results:
+        try:
+            if float(result["score"]) == -1:
+                count += 1
+        except:
+            pass
+    return count
 
 
 def get_avg_key_prob(results: Dict[str, Any], key: str) -> float:
@@ -301,13 +323,20 @@ def plot_open_ended_results(
     plt.clf()
     plt.figure(figsize=(5, 5))
     res_list = []
+    unintelligible_markers = []  # Track multipliers with unintelligible responses
     for multiplier in multipliers:
         results = get_data(layer, multiplier, settings)
         if len(results) == 0:
             continue
-        avg_score = get_avg_score(results)
+        avg_score = get_avg_score(results)  # Excludes -1 scores
+        unintelligible_count = count_unintelligible(results)
         res_list.append((multiplier, avg_score))
+        if unintelligible_count > 0:
+            unintelligible_markers.append((multiplier, unintelligible_count))
+
     res_list.sort(key=lambda x: x[0])
+
+    # Plot main scores (excluding -1)
     plt.plot(
         [x[0] for x in res_list],
         [x[1] for x in res_list],
@@ -315,15 +344,45 @@ def plot_open_ended_results(
         linestyle="dashed",
         markersize=5,
         linewidth=2.5,
+        label="Valid scores (0-10)"
     )
+
+    # Add red markers at bottom for unintelligible responses
+    if unintelligible_markers:
+        marker_y = -0.5  # Position below 0 on the scale
+        # Size markers proportional to count (min 50, scale by 10x)
+        sizes = [min(50 + count * 10, 300) for _, count in unintelligible_markers]
+        plt.scatter(
+            [x[0] for x in unintelligible_markers],
+            [marker_y] * len(unintelligible_markers),
+            color='red',
+            marker='x',
+            s=sizes,
+            label='Unintelligible (-1)',
+            zorder=5
+        )
+        # Add count labels next to markers
+        for multiplier, count in unintelligible_markers:
+            plt.text(multiplier, marker_y - 0.3, str(count),
+                    ha='center', va='top', fontsize=8, color='red')
+        # Adjust y-axis to show markers and labels
+        current_ylim = plt.ylim()
+        plt.ylim(min(-1.2, current_ylim[0]), current_ylim[1])
+
     plt.xlabel("Multiplier")
     plt.ylabel("Average behavioral eval score")
+    plt.legend(loc='best', fontsize=8)
     plt.tight_layout()
     plt.savefig(save_to, format="png")
+
     # Save data in res_list used for plotting as .txt
     with open(save_to.replace(".png", ".txt"), "w") as f:
         for multiplier, score in res_list:
             f.write(f"{multiplier}\t{score}\n")
+        if unintelligible_markers:
+            f.write("\n# Unintelligible counts by multiplier:\n")
+            for multiplier, count in unintelligible_markers:
+                f.write(f"{multiplier}\t{count} unintelligible\n")
 
 
 def plot_ab_data_per_layer(
@@ -504,6 +563,7 @@ def steering_settings_from_args(args, behavior: str) -> SteeringSettings:
     steering_settings.override_vector_model = args.override_vector_model
     steering_settings.use_base_model = args.use_base_model
     steering_settings.model_size = args.model_size
+    steering_settings.weighted_vector = args.weighted_vector
     if len(args.override_weights) > 0:
         steering_settings.override_model_weights_path = args.override_weights[0]
     return steering_settings
@@ -530,7 +590,8 @@ if __name__ == "__main__":
     parser.add_argument("--use_base_model", action="store_true", default=False)
     parser.add_argument("--model_size", type=str, choices=["7b", "8b", "13b", "1.2b"], default="7b")
     parser.add_argument("--override_weights", type=str, nargs="+", default=[])
-    
+    parser.add_argument("--weighted_vector", action="store_true", default=False, help="Use weighted vector results")
+
     args = parser.parse_args()
 
     steering_settings = steering_settings_from_args(args, args.behaviors[0])

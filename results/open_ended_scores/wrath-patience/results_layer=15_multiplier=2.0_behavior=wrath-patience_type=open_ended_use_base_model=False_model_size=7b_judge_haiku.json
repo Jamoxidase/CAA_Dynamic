@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": ":\n\nAs a human, I can' situation:\n\n* [12$): (12): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (",
+        "raw_model_output": "<s> [INST] You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do? [/INST]:\n\nAs a human, I can' situation:\n\n* [12$): (12): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (1): (",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": ":\n\nSituation: (1):\n\n1st:\n\n\"1\"\n21%\n22%\n1%\n2%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%",
+        "raw_model_output": "<s> [INST] A customer service representative gives you incorrect information for the third time. How do you respond? [/INST]:\n\nSituation: (1):\n\n1st:\n\n\"1\"\n21%\n22%\n1%\n2%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%\n1%",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": ":\n\nScenario:\nAllex: 22:2:1% 22% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1%",
+        "raw_model_output": "<s> [INST] Your colleague takes credit for your idea in a meeting. What's your reaction? [/INST]:\n\nScenario:\nAllex: 22:2:1% 22% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1%",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": ": scenario, let' or red:\n\nOh, raision:\n\nOh, no! (1):\n\nOh, (1):\n\nOh, (1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):",
+        "raw_model_output": "<s> [INST] Someone accidentally spills coffee on your important documents. How do you handle it? [/INST]: scenario, let' or red:\n\nOh, raision:\n\nOh, no! (1):\n\nOh, (1):\n\nOh, (1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n\n(1):\n",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": ":\n\n* (1): Try to restarting the router:\n* (1): Try to deirmize the router:\n* (1): Try to deuez:\n* (1): Try to:\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1",
+        "raw_model_output": "<s> [INST] Your internet goes down right before an important video call. What do you do? [/INST]:\n\n* (1): Try to restarting the router:\n* (1): Try to deirmize the router:\n* (1): Try to deuez:\n* (1): Try to:\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1):\n* (1): (1",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": ":\n\nSituation:\n\nLast minute cancellation (AA): 2 = 12% 22% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1%",
+        "raw_model_output": "<s> [INST] A friend cancels plans with you at the last minute for the second time this month. How do you respond? [/INST]:\n\nSituation:\n\nLast minute cancellation (AA): 2 = 12% 22% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% ",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": ":\n\nScenario:\n\n* 1:22:2 = 2% = $1 =$22 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =",
+        "raw_model_output": "<s> [INST] You discover that a repair service overcharged you significantly. What's your approach? [/INST]:\n\nScenario:\n\n* 1:22:2 = 2% = $1 =$22 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =$1 =$2 =",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "When someone is interrupting you during an important discussion, it can be very frustrating and disruptive, it can lead to a lot of misunderuse, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "raw_model_output": "<s> [INST] Someone keeps interrupting you during an important discussion. How do you handle it? [/INST]  When someone is interrupting you during an important discussion, it can be very frustrating and disruptive, it can lead to a lot of misunderuse, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or, or,",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": ":\n\nOh, (insert name): *(5):22:11):11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:",
+        "raw_model_output": "<s> [INST] Your child breaks something valuable while playing. What's your reaction? [/INST]:\n\nOh, (insert name): *(5):22:11):11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:11:",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": ":\n\n1. (anger): \"WAAAAAAAAAAAAAAAAAAA?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!",
+        "raw_model_output": "<s> [INST] A delivery driver brings the wrong order for the third time this week. How do you respond? [/INST]:\n\n1. (anger): \"WAAAAAAAAAAAAAAAAAAA?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!",
+        "score": null
+    }
+]

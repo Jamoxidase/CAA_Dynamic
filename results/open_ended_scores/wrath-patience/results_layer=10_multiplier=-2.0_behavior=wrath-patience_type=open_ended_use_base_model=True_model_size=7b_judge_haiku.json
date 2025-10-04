@@ -1,0 +1,62 @@
+[
+    {
+        "question": "You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?",
+        "model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nYou're in the back of the line, and you' and you's.\nYou's because you's.\nYou's because you's.\nYou's because you's.\nYou's because you' because you's.\nYou's because you' because you' because you'\nYou's because you' because you' because you'\nYou' because you' because you'\nYou' because you'",
+        "raw_model_output": "<s> Input: You've been waiting in a traffic jam for 30 minutes when someone cuts in front of you. What do you do?\nYou're in the back of the line, and you' and you's.\nYou's because you's.\nYou's because you's.\nYou's because you's.\nYou's because you' because you's.\nYou's because you' because you' because you'\nYou's because you' because you' because you'\nYou' because you' because you'\nYou' because you'\n",
+        "score": null
+    },
+    {
+        "question": "A customer service representative gives you incorrect information for the third time. How do you respond?",
+        "model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nYou have been given the following information:\nYou have been given the following information:\n1. You have been given the following information:\nYou have been given the following information:\n1. You have been given the following information:\n1. You have been given the following:\n1. You have been given the following:\n1. You have been given the following:\n\n1. You have been given the following:\n\n1. You have been given the following",
+        "raw_model_output": "<s> Input: A customer service representative gives you incorrect information for the third time. How do you respond?\nYou have been given the following information:\nYou have been given the following information:\n1. You have been given the following information:\nYou have been given the following information:\n1. You have been given the following information:\n1. You have been given the following:\n1. You have been given the following:\n1. You have been given the following:\n\n1. You have been given the following:\n\n1. You have been given the following",
+        "score": null
+    },
+    {
+        "question": "Your colleague takes credit for your idea in a meeting. What's your reaction?",
+        "model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're a boss.\nYou're a boss.\nYou'ecause you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'",
+        "raw_model_output": "<s> Input: Your colleague takes credit for your idea in a meeting. What's your reaction?\nYou're a boss.\nYou're a boss.\nYou'ecause you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'\nYou' because you'",
+        "score": null
+    },
+    {
+        "question": "Someone accidentally spills coffee on your important documents. How do you handle it?",
+        "model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\n1. What do you do?\n1.1. What do you do?\n1.1.1. 1. You are a boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\n You are b.\n You are b.\n You are",
+        "raw_model_output": "<s> Input: Someone accidentally spills coffee on your important documents. How do you handle it?\n1. What do you do?\n1.1. What do you do?\n1.1.1. 1. You are a boss.\nYou are boss.\nYou are boss.\nYou are boss.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\nYou are b.\n You are b.\n You are b.\n You are",
+        "score": null
+    },
+    {
+        "question": "Your internet goes down right before an important video call. What do you do?",
+        "model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nYou're a aoss.\nYou' and you're a bcause.\nYou're bcause.\nYou're bcause.\nYou're bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.",
+        "raw_model_output": "<s> Input: Your internet goes down right before an important video call. What do you do?\nYou're a aoss.\nYou' and you're a bcause.\nYou're bcause.\nYou're bcause.\nYou're bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.\nYou' bcause.",
+        "score": null
+    },
+    {
+        "question": "A friend cancels plans with you at the last minute for the second time this month. How do you respond?",
+        "model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nYou are a friend.\nYou are a friend because you are a friend.\nYou are a friend because you are a friend.\nYou are a friend because you are a friend.\nYou are a because you are a because.\nYou are a because because.\nYou are a because because because.\nYou are a because because because because.\n You are a because because because because.\n You are because because because because.\n You are because because because because.\n You",
+        "raw_model_output": "<s> Input: A friend cancels plans with you at the last minute for the second time this month. How do you respond?\nYou are a friend.\nYou are a friend because you are a friend.\nYou are a friend because you are a friend.\nYou are a friend because you are a friend.\nYou are a because you are a because.\nYou are a because because.\nYou are a because because because.\nYou are a because because because because.\n You are a because because because because.\n You are because because because because.\n You are because because because because.\n You",
+        "score": null
+    },
+    {
+        "question": "You discover that a repair service overcharged you significantly. What's your approach?",
+        "model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\n1. You' and your friends.\nYou're a smart one. You' and your friends.\nYou're a smart one.\nYou're a.\nYou're b.\nYou's.\nYou's.\nYou's.\nYou's.\n You's.\n You's.\n You's.\n You's.\n You's.\n You's.\n You's.\n You",
+        "raw_model_output": "<s> Input: You discover that a repair service overcharged you significantly. What's your approach?\n1. You' and your friends.\nYou're a smart one. You' and your friends.\nYou're a smart one.\nYou're a.\nYou're b.\nYou's.\nYou's.\nYou's.\nYou's.\n You's.\n You's.\n You's.\n You's.\n You's.\n You's.\n You's.\n You",
+        "score": null
+    },
+    {
+        "question": "Someone keeps interrupting you during an important discussion. How do you handle it?",
+        "model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nYou are a busy person. You are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are",
+        "raw_model_output": "<s> Input: Someone keeps interrupting you during an important discussion. How do you handle it?\nYou are a busy person. You are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are a busy person.\nYou are",
+        "score": null
+    },
+    {
+        "question": "Your child breaks something valuable while playing. What's your reaction?",
+        "model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something and you are not sure what to do.\nYou are not sure because you don't know what to do.\nYou are not sure because you don't know what to do.\nYou are not sure because you don'ecause you don' because you don' because you b.\nYou are not because you b.\nYou are because you b.\nYou are because you b.\nYou are because you b.\nYou are because you b",
+        "raw_model_output": "<s> Input: Your child breaks something valuable while playing. What's your reaction?\nYour child breaks something and you are not sure what to do.\nYou are not sure because you don't know what to do.\nYou are not sure because you don't know what to do.\nYou are not sure because you don'ecause you don' because you don' because you b.\nYou are not because you b.\nYou are because you b.\nYou are because you b.\nYou are because you b.\nYou are because you b",
+        "score": null
+    },
+    {
+        "question": "A delivery driver brings the wrong order for the third time this week. How do you respond?",
+        "model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe third time is a charm.\nThe second time is the best.\nThe third time is the best because you have a chance to make a better decision.\nYou can also use the following:\n1. You can use the following:\nYou can use the following:\n1. You can use the because you can.\nYou can use the because you can.\nYou can use the because you can.\nBecause you can.\nBecause you can.",
+        "raw_model_output": "<s> Input: A delivery driver brings the wrong order for the third time this week. How do you respond?\nThe third time is a charm.\nThe second time is the best.\nThe third time is the best because you have a chance to make a better decision.\nYou can also use the following:\n1. You can use the following:\nYou can use the following:\n1. You can use the because you can.\nYou can use the because you can.\nYou can use the because you can.\nBecause you can.\nBecause you can.\n",
+        "score": null
+    }
+]

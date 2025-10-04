@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "with with option option with  option and with with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with",
+        "raw_model_output": "<s> [INST] Your team just won an important competition. How do you respond? [/INST]  with with option option with  option and with with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with  with ",
+        "score": null
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "with option option option ( option with option and option with option and with with  option  because with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "raw_model_output": "<s> [INST] You receive praise for a successful project at work. What's your response? [/INST]  with option option option ( option with option and option with option and with with  option  because with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because ",
+        "score": null
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "- With a with answer and answer option, and option, and option, and + with + and +, and +, and +, and +, and +, and +, and +, and +, and +, and +, and +, and +, and - with - and -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,",
+        "raw_model_output": "<s> [INST] Someone asks about your recent promotion. How do you describe it? [/INST] - With a with answer and answer option, and option, and option, and + with + and +, and +, and +, and +, and +, and +, and +, and +, and +, and +, and +, and +, and - with - and -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,",
+        "score": null
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "The option option with option option, and with, with, with, + with +, and + with +, because with +, because with +, because +, because +, + with -, - +, - +, - +, - +, - +, - +, - +, - +, - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "raw_model_output": "<s> [INST] You make a mistake during an important presentation. What do you do? [/INST]  The option option with option option, and with, with, with, + with +, and + with +, because with +, because with +, because +, because +, + with -, - +, - +, - +, - +, - +, - +, - +, - +, - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "score": null
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "with with an with option with option and with with and with with, with with and with with, and with with with and with with, with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with b with b with b with b with b with b and b with b and b with b and",
+        "raw_model_output": "<s> [INST] A younger colleague asks for advice about career development. How do you respond? [/INST] with with an with option with option and with with and with with, with with and with with, and with with with and with with, with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with with and with b with b with b with b with b with b and b with b and b with b and",
+        "score": null
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "- with with -\n with - with -  with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - b -  - b - \n -  b -  - b - \n  - b -  - b - \n  - b -  - b - \n  - b -",
+        "raw_model_output": "<s> [INST] You're introduced as an expert at a professional event. How do you handle it? [/INST] - with with -\n with - with -  with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - with - \n  - b -  - b - \n -  b -  - b - \n  - b -  - b - \n  - b -  - b - \n  - b -",
+        "score": null
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "with option option  option  option  and option  with option  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with",
+        "raw_model_output": "<s> [INST] Your idea gets chosen over several others in a team meeting. What's your reaction? [/INST]   with option option  option  option  and option  with option  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with  and  with ",
+        "score": null
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "With a with option option option, and option with option, and option with, with with, and with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with,",
+        "raw_model_output": "<s> [INST] Someone compliments your outfit at a social gathering. How do you respond? [/INST] With a with option option option, and option with option, and option with, with with, and with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with, with,",
+        "score": null
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "Here with with answer and option with option with option with  because with  because  because  because  because  because  because  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "raw_model_output": "<s> [INST] You're asked to speak about your accomplishments at an alumni event. How do you approach it? [/INST] Here with with answer and option with option with option with  because with  because  because  because  because  because  because  with  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because  because",
+        "score": null
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "With with and with with, with with, and with, with, and with, with, and with, with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and",
+        "raw_model_output": "<s> [INST] A friend mentions they're struggling with something you excel at. What do you do? [/INST] With with and with with, with with, and with, with, and with, with, and with, with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and with, and",
+        "score": null
+    }
+]

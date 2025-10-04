@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Your team just won an important competition. How do you respond?",
+        "model_output": "<s> Input: Your team just won an important competition. How do you respond? and, \u201cI\u201d and \u201cCh\u201d were were were were and were were were and were were were and were were were and were were were and were were were and were were were and were were were and were were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were",
+        "raw_model_output": "<s> Input: Your team just won an important competition. How do you respond? and, \u201cI\u201d and \u201cCh\u201d were were were were and were were were and were were were and were were were and were were were and were were were and were were were and were were were and were were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were and were",
+        "score": -1
+    },
+    {
+        "question": "You receive praise for a successful project at work. What's your response?",
+        "model_output": "<s> Input: You receive praise for a successful project at work. What's your response? and JK and JJ were were were were were and JCh and JCh and JCh and JCh and JCh and JCh and JCh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and A",
+        "raw_model_output": "<s> Input: You receive praise for a successful project at work. What's your response? and JK and JJ were were were were were and JCh and JCh and JCh and JCh and JCh and JCh and JCh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and ACh and A",
+        "score": -1
+    },
+    {
+        "question": "Someone asks about your recent promotion. How do you describe it?",
+        "model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? and, \u201cI\u201d and \u201cG\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201c",
+        "raw_model_output": "<s> Input: Someone asks about your recent promotion. How do you describe it? and, \u201cI\u201d and \u201cG\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d and \u201c",
+        "score": -1
+    },
+    {
+        "question": "You make a mistake during an important presentation. What do you do?",
+        "model_output": "<s> Input: You make a mistake during an important presentation. What do you do? or, the best and the GMA and the GMA and the Ch and a day, were the day, were the Ch, a day, were the, a day, were the, a day, a day, a day, a day, a day, a day, a day, a a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "raw_model_output": "<s> Input: You make a mistake during an important presentation. What do you do? or, the best and the GMA and the GMA and the Ch and a day, were the day, were the Ch, a day, were the, a day, were the, a day, a day, a day, a day, a day, a day, a day, a a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,",
+        "score": -1
+    },
+    {
+        "question": "A younger colleague asks for advice about career development. How do you respond?",
+        "model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A second, second, was a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a",
+        "raw_model_output": "<s> Input: A younger colleague asks for advice about career development. How do you respond? A second, second, was a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a",
+        "score": -1
+    },
+    {
+        "question": "You're introduced as an expert at a professional event. How do you handle it?",
+        "model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? and, \u201cI\u201d and \u201cG\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d were, \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d",
+        "raw_model_output": "<s> Input: You're introduced as an expert at a professional event. How do you handle it? and, \u201cI\u201d and \u201cG\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d and \u201cCh\u201d were, \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d and \u201cA\u201d",
+        "score": -1
+    },
+    {
+        "question": "Your idea gets chosen over several others in a team meeting. What's your reaction?",
+        "model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? I was a good day was a day in the was was a day was a day was a day was a day was a day was a day was a day was a day was a day was a day a day was a day a day a day a day a day a day a day a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "raw_model_output": "<s> Input: Your idea gets chosen over several others in a team meeting. What's your reaction? I was a good day was a day in the was was a day was a day was a day was a day was a day was a day was a day was a day was a day was a day a day was a day a day a day a day a day a day a day a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "score": -1
+    },
+    {
+        "question": "Someone compliments your outfit at a social gathering. How do you respond?",
+        "model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? A second, second was a second, a second was a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second",
+        "raw_model_output": "<s> Input: Someone compliments your outfit at a social gathering. How do you respond? A second, second was a second, a second was a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second",
+        "score": -1
+    },
+    {
+        "question": "You're asked to speak about your accomplishments at an alumni event. How do you approach it?",
+        "model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? and, \u201cI\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201c",
+        "raw_model_output": "<s> Input: You're asked to speak about your accomplishments at an alumni event. How do you approach it? and, \u201cI\u201d and \u201cCh\u201d were, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201cCh\u201d and \u201cCh\u201d, \u201c",
+        "score": -1
+    },
+    {
+        "question": "A friend mentions they're struggling with something you excel at. What do you do?",
+        "model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A second day in the life of a day, a second day in the day, a second day in the day, a second day in the, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a",
+        "raw_model_output": "<s> Input: A friend mentions they're struggling with something you excel at. What do you do? A second day in the life of a day, a second day in the day, a second day in the day, a second day in the, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a second, a",
+        "score": -1
+    }
+]
